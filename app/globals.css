@@ -29,3 +29,19 @@ body {
   color: var(--color-aip-text);
   font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
 }
+
+.aip-show-more {
+  width: 100%;
+  padding: 12px 0;
+  text-align: left;
+  font-size: 12px;
+  color: var(--color-aip-muted);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: color 120ms;
+}
+
+.aip-show-more:hover {
+  color: var(--color-aip-text);
+}
