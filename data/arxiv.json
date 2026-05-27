@@ -1,0 +1,276 @@
+{
+  "source": "arxiv",
+  "fetchedAt": "2026-05-27T03:33:29.995Z",
+  "items": [
+    {
+      "id": "2605.23650",
+      "source": "arxiv",
+      "title": "Learning Kernel-Based MDPs from Episodic Preferential Feedback",
+      "url": "https://arxiv.org/abs/2605.23650",
+      "author": "Nikola Pavlovic, Sattar Vakili, Qing Zhao",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Human feedback often arrives as preferences rather than calibrated numeric rewards, motivating reinforcement learning from preferential feedback, also referred to as reinforcement learning from human…"
+    },
+    {
+      "id": "2605.22894",
+      "source": "arxiv",
+      "title": "SCRIPT: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-based Humanoid Control",
+      "url": "https://arxiv.org/abs/2605.22894",
+      "author": "Jingyan Zhang, Han Liang, Ruichi Zhang +6",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Controlling physics-based humanoids from natural-language instructions is a critical step toward general-purpose embodied agents. However, existing methods remain constrained by a tension between sema…"
+    },
+    {
+      "id": "2605.22892",
+      "source": "arxiv",
+      "title": "Is TabPFN the Silver Bullet for Insurance Pricing?",
+      "url": "https://arxiv.org/abs/2605.22892",
+      "author": "Bruno Deprez, Wouter Verbeke, Tim Verdonck",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Modelling claim frequency and severity for non-life insurance pricing predominantly relies on generalised linear models, with gradient-boosted machines as the leading machine learning alternative. Tab…"
+    },
+    {
+      "id": "2605.20747",
+      "source": "arxiv",
+      "title": "Multi-Modal Machine Learning for Population- and Subject-Specific lncRNA-Type 2 Diabetes Association Analysis",
+      "url": "https://arxiv.org/abs/2605.20747",
+      "author": "Ashwani Siwach, Sanjeev Narayan Sharma, Sunil Datt Sharma",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Long non-coding RNAs (lncRNAs) are emerging regulatory molecules implicated in chronic disease pathogenesis, including Type 2 Diabetes Mellitus (T2D). We investigated ten literature reported lncRNAs a…"
+    },
+    {
+      "id": "2605.19938",
+      "source": "arxiv",
+      "title": "Variance-Reduced Manifold Sampling via Polynomial-Maximization Density Estimation",
+      "url": "https://arxiv.org/abs/2605.19938",
+      "author": "Serhii Zabolotnii",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Uniform sampling on implicitly defined manifolds is a core primitive in motion planning, constrained simulation, and probabilistic machine learning. MASEM addresses this problem by entropy-maximizing…"
+    },
+    {
+      "id": "2605.19170",
+      "source": "arxiv",
+      "title": "Reducing Diffusion Model Memorization with Higher Order Langevin Dynamics",
+      "url": "https://arxiv.org/abs/2605.19170",
+      "author": "Benjamin Sterling, M\\'onica F. Bugallo, Tom Tirer",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Diffusion/score-based models have emerged as powerful generative models, capable of generating high-quality samples that mimic the training data distribution. However, it has been observed that they a…"
+    },
+    {
+      "id": "2605.18745",
+      "source": "arxiv",
+      "title": "SURGE: Approximation and Training Free Particle Filter for Diffusion Surrogate",
+      "url": "https://arxiv.org/abs/2605.18745",
+      "author": "Lifu Wei, Yinuo Ren, Naichen Shi +1",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Data assimilation (DA) addresses the problem of sequentially estimating the state of a dynamical system from noisy and incomplete observations. In this work, we employ a diffusion model as a world mod…"
+    },
+    {
+      "id": "2605.17788",
+      "source": "arxiv",
+      "title": "Uncertainty-Calibrated Recommendations for Low-Active Users",
+      "url": "https://arxiv.org/abs/2605.17788",
+      "author": "Bob Junyi Zou, Sai Li, Tianyun Sun +2",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "A fundamental challenge in recommender systems is balancing reliability for Low-Active Users (LAUs) with diversity for High-Active Users (HAUs). The key to this balance lies in quantifying model uncer…"
+    },
+    {
+      "id": "2605.16815",
+      "source": "arxiv",
+      "title": "Universal Graph Backdoor Defense: A Feature-based Homophily Perspective",
+      "url": "https://arxiv.org/abs/2605.16815",
+      "author": "Mengting Pan, Fan Li, Chen Chen +1",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Graph neural networks (GNNs) have achieved remarkable success in relational learning. However, their vulnerability to graph backdoor attacks (GBAs) poses a significant barrier to broader adoption in h…"
+    },
+    {
+      "id": "2605.16409",
+      "source": "arxiv",
+      "title": "Multilingual OCR-Aware Fine-Tuning and Prompt-Guided Chain-of-Thought Reasoning for Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2605.16409",
+      "author": "Qinwu Xu, Yifan Jiang, Haoyu Ren",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Optical character recognition (OCR) and multilingual text understanding remain major failure modes of multimodal large language models (MLLMs), particularly in real-world images containing cluttered l…"
+    },
+    {
+      "id": "2605.16023",
+      "source": "arxiv",
+      "title": "Judge Circuits",
+      "url": "https://arxiv.org/abs/2605.16023",
+      "author": "Nils Feldhus, Tanja Baeumel, Elena Golimblevskaia +10",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "LLM-as-a-judge has become the dominant paradigm for grading model outputs at scale, yet the same model assigns systematically different scores when its output format changes (e.g., a 1-5 rating vs. a…"
+    },
+    {
+      "id": "2605.12961",
+      "source": "arxiv",
+      "title": "Reducing Bias and Variance: Generative Semantic Guidance and Bi-Layer Ensemble for Image Clustering",
+      "url": "https://arxiv.org/abs/2605.12961",
+      "author": "Feijiang Li, Zhenxiong Li, Jieting Wang +3",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Image clustering aims to partition unlabeled image datasets into distinct groups. A core aspect of this task is constructing and leveraging prior knowledge to guide the clustering process. Recent appr…"
+    },
+    {
+      "id": "2605.12764",
+      "source": "arxiv",
+      "title": "Yield Curves Dynamics Using Variational Autoencoders Under No-arbitrage",
+      "url": "https://arxiv.org/abs/2605.12764",
+      "author": "Fusheng Luo, H'elyette Geman",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "This paper introduces a physics-informed generative framework that resolves the fundamental conflict between the statistical flexibility of deep learning and the rigorous theoretical constraints of fi…"
+    },
+    {
+      "id": "2605.12118",
+      "source": "arxiv",
+      "title": "Keeping Score: Efficiency Improvements in Neural Likelihood Surrogate Training via Score-Augmented Loss Functions",
+      "url": "https://arxiv.org/abs/2605.12118",
+      "author": "Alexander Shen, Mikael Kuusela",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "For stochastic process models, parameter inference is often severely bottlenecked by computationally expensive likelihood functions. Simulation-based inference (SBI) bypasses this restriction by const…"
+    },
+    {
+      "id": "2605.08306",
+      "source": "arxiv",
+      "title": "Non-intrusive Body Composition Assessment from Full-body mmWave Scans",
+      "url": "https://arxiv.org/abs/2605.08306",
+      "author": "Miriam Senne, Benjamin D. Killeen, Tony Danjun Wang +1",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Body composition assessment (BCA) provides detailed information about the distribution of different tissue types in the body, enabling more precise characterization of individuals than BMI or weight a…"
+    },
+    {
+      "id": "2604.18800",
+      "source": "arxiv",
+      "title": "Optimal Exploration of New Products under Assortment Decisions",
+      "url": "https://arxiv.org/abs/2604.18800",
+      "author": "Jackie Baek, Atanas Dinev, Thodoris Lykouris",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "We study online learning for new products on a platform that makes capacity-constrained assortment decisions on which products to offer. For a newly listed product, its quality is initially unknown, a…"
+    },
+    {
+      "id": "2604.16075",
+      "source": "arxiv",
+      "title": "Towards Universal Convergence of Backward Error in Linear System Solvers",
+      "url": "https://arxiv.org/abs/2604.16075",
+      "author": "Micha{\\l} Derezi\\'nski, Yuji Nakatsukasa, Elizaveta Rebrova",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "The quest for an algorithm that solves an $n\\times n$ linear system in $O(n^2)$ time complexity, or $O(n^2 \\text{poly}(1/\\epsilon))$ when solving up to $\\epsilon$ relative error, is a long-standing op…"
+    },
+    {
+      "id": "2604.04453",
+      "source": "arxiv",
+      "title": "Generative modeling of granular flow on inclined planes using conditional flow matching",
+      "url": "https://arxiv.org/abs/2604.04453",
+      "author": "Xuyang Li, Rui Li, Teng Man +1",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Granular flows govern many natural and industrial processes, yet their interior kinematics and mechanics remain largely unobservable, as experiments access only boundaries or free surfaces. Convention…"
+    },
+    {
+      "id": "2604.00963",
+      "source": "arxiv",
+      "title": "Rapid mixing in positively weighted restricted Boltzmann machines",
+      "url": "https://arxiv.org/abs/2604.00963",
+      "author": "Weiming Feng, Heng Guo, Minji Yang",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "We show polylogarithmic mixing time bounds for the alternating-scan sampler for positively weighted restricted Boltzmann machines. This is done via analysing the same chain and the Glauber dynamics fo…"
+    },
+    {
+      "id": "2603.05143",
+      "source": "arxiv",
+      "title": "Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers",
+      "url": "https://arxiv.org/abs/2603.05143",
+      "author": "Ruichen Xu, Wenjing Yan, Ying-Jun Angela Zhang",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Understanding reasoning in large language models is complicated by evaluations that conflate multiple reasoning types. We isolate analogical reasoning, where a model transfers an attribute between ent…"
+    },
+    {
+      "id": "2603.00177",
+      "source": "arxiv",
+      "title": "Detecting Cognitive Signatures in Typing Behavior for Non-Intrusive Authorship Verification",
+      "url": "https://arxiv.org/abs/2603.00177",
+      "author": "David Condrey",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "The proliferation of AI-generated text has intensified the need for reliable authorship verification, yet current output-based methods are increasingly unreliable. We observe that the ordinary typing…"
+    },
+    {
+      "id": "2602.22631",
+      "source": "arxiv",
+      "title": "TorchLean: Formalizing Neural Networks in Lean",
+      "url": "https://arxiv.org/abs/2602.22631",
+      "author": "Robert Joseph George, Jennifer Cruden, Will Adkisson +3",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Neural networks are increasingly deployed in scientific, safety critical, and mission critical pipelines, yet verification and analysis are often performed outside the programming environment that def…"
+    },
+    {
+      "id": "2602.21479",
+      "source": "arxiv",
+      "title": "Global Sequential Testing for Multi-Stream Auditing",
+      "url": "https://arxiv.org/abs/2602.21479",
+      "author": "Beepul Bharti, Ambar Pal, Jeremias Sulam",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Across many risk-sensitive areas, it is critical to continuously audit machine learning systems as we receive more data to quickly determine if they are performing as designed. This auditing task can…"
+    },
+    {
+      "id": "2602.10538",
+      "source": "arxiv",
+      "title": "Why Agentic Theorem Prover Works: A Statistical Provability Theory of Mathematical Reasoning Models",
+      "url": "https://arxiv.org/abs/2602.10538",
+      "author": "Sho Sonoda, Shunta Akiyama, Yuya Uezato",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Agentic theorem provers combine a reasoning model, retrieval, search, and a proof assistant verifier, yet it remains unclear which components actually improve finite-budget proof success and why they…"
+    },
+    {
+      "id": "2602.07518",
+      "source": "arxiv",
+      "title": "Physical Analogue Kolmogorov-Arnold Networks based on Reconfigurable Nonlinear-Processing Units",
+      "url": "https://arxiv.org/abs/2602.07518",
+      "author": "Manuel Escudero, Mohamadreza Zolfagharinejad, Sjoerd van den Belt +2",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Kolmogorov-Arnold Networks (KANs) shift neural computation from linear layers to learnable nonlinear edge functions, but implementing these nonlinearities efficiently in hardware remains an open chall…"
+    },
+    {
+      "id": "2602.04653",
+      "source": "arxiv",
+      "title": "Inference-Time Backdoors via Chat Templates: From LLM Supply Chains to Agentic System Compromise",
+      "url": "https://arxiv.org/abs/2602.04653",
+      "author": "Ariel Fogel, Omer Hofman, Eilon Cohen +1",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Open-weight language models are increasingly used in production settings, raising new security challenges. One prominent threat is backdoor attacks, in which adversaries embed hidden behaviors that ac…"
+    },
+    {
+      "id": "2602.02979",
+      "source": "arxiv",
+      "title": "CPMobius: Iterative Coach-Player Reasoning for Data-Free Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2602.02979",
+      "author": "Ran Li, Zeyuan Liu, Yinghao Chen +8",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Large Language Models (LLMs) have demonstrated strong potential in complex reasoning, yet their progress remains fundamentally constrained by reliance on massive high-quality human-curated tasks and l…"
+    },
+    {
+      "id": "2602.01183",
+      "source": "arxiv",
+      "title": "Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion",
+      "url": "https://arxiv.org/abs/2602.01183",
+      "author": "Chunming He, Rihan Zhang, Fengyang Xiao +3",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Biological learning proceeds from easy to difficult tasks, gradually reinforcing perception and robustness. Inspired by this principle, we address Context-Entangled Content Segmentation (CECS), a chal…"
+    },
+    {
+      "id": "2601.21670",
+      "source": "arxiv",
+      "title": "Diverse via bounded Agreement: Geometric Regularization for Multimodal Fusion",
+      "url": "https://arxiv.org/abs/2601.21670",
+      "author": "Zixuan Xia, Hao Wang, Pengcheng Weng +4",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Multimodal fusion is often treated as an optimization-balancing problem, where training signals are adjusted to prevent one modality from dominating the others. However, balanced optimization does not…"
+    },
+    {
+      "id": "2601.21406",
+      "source": "arxiv",
+      "title": "Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation",
+      "url": "https://arxiv.org/abs/2601.21406",
+      "author": "Zihan Su, Hongyang Wei, Kangrui Cen +4",
+      "publishedAt": "2026-05-26T04:00:00.000Z",
+      "summary": "Unified Multimodal Models (UMMs) integrate both visual understanding and generation within a single framework. Their ultimate aspiration is to create a cycle where understanding and generation mutuall…"
+    }
+  ]
+}
