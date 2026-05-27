@@ -1,13 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-05-27T05:23:00.116Z",
+  "fetchedAt": "2026-05-27T15:22:43.372Z",
   "items": [
+    {
+      "id": "48292224",
+      "source": "hn",
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "score": 1102,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48292224",
+      "author": "theorchid",
+      "publishedAt": "2026-05-27T10:43:25.000Z"
+    },
+    {
+      "id": "48289950",
+      "source": "hn",
+      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "score": 193,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48289950",
+      "author": "arps18",
+      "publishedAt": "2026-05-27T05:13:39.000Z"
+    },
     {
       "id": "48278610",
       "source": "hn",
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
       "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-      "score": 267,
+      "score": 304,
       "commentsUrl": "https://news.ycombinator.com/item?id=48278610",
       "author": "GodelNumbering",
       "publishedAt": "2026-05-26T12:08:33.000Z"
@@ -17,50 +37,30 @@
       "source": "hn",
       "title": "Using AI to write better code more slowly",
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 1158,
+      "score": 1201,
       "commentsUrl": "https://news.ycombinator.com/item?id=48272984",
       "author": "signa11",
       "publishedAt": "2026-05-25T23:16:59.000Z"
-    },
-    {
-      "id": "48289660",
-      "source": "hn",
-      "title": "Did the Pope use AI to write about the dangers of AI?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48289660",
-      "author": "droidjj",
-      "publishedAt": "2026-05-27T04:30:30.000Z"
     },
     {
       "id": "48277485",
       "source": "hn",
       "title": "Uber president says AI spending is getting 'harder to justify'",
       "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-      "score": 270,
+      "score": 297,
       "commentsUrl": "https://news.ycombinator.com/item?id=48277485",
       "author": "berlianta",
       "publishedAt": "2026-05-26T10:01:39.000Z"
     },
     {
-      "id": "48285484",
+      "id": "48228728",
       "source": "hn",
-      "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
-      "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
-      "score": 43,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48285484",
-      "author": "arkadiyt",
-      "publishedAt": "2026-05-26T20:23:40.000Z"
-    },
-    {
-      "id": "48287649",
-      "source": "hn",
-      "title": "AI tools are only as good as your judgment",
-      "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
-      "score": 76,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48287649",
-      "author": "talvardi7",
-      "publishedAt": "2026-05-27T00:00:35.000Z"
+      "title": "The Structural Barriers to AI Lawyers",
+      "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
+      "score": 53,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48228728",
+      "author": "benbreen",
+      "publishedAt": "2026-05-21T20:51:36.000Z"
     }
   ]
 }
