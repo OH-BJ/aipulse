@@ -1,64 +1,71 @@
-import Image from "next/image";
+import fs from 'node:fs';
+import path from 'node:path';
+import { BookOpen, Flame, Newspaper } from 'lucide-react';
+import type { Source, SourceData } from '@/lib/types';
+import { timeAgo } from '@/lib/format';
+import SourceSection from './components/SourceSection';
+import ThemeToggle from './components/ThemeToggle';
+
+function loadSource(source: Source): SourceData {
+  const fallback: SourceData = {
+    source,
+    fetchedAt: new Date(0).toISOString(),
+    items: [],
+  };
+  try {
+    const file = path.join(process.cwd(), 'data', `${source}.json`);
+    const raw = fs.readFileSync(file, 'utf-8');
+    const parsed = JSON.parse(raw) as SourceData;
+    if (!parsed || !Array.isArray(parsed.items)) return fallback;
+    return parsed;
+  } catch {
+    return fallback;
+  }
+}
+
+function latestFetchedAt(...sources: SourceData[]): string | null {
+  let latest = 0;
+  for (const s of sources) {
+    const t = new Date(s.fetchedAt).getTime();
+    if (Number.isFinite(t) && t > latest) latest = t;
+  }
+  return latest > 0 ? new Date(latest).toISOString() : null;
+}
 
 export default function Home() {
+  const hn = loadSource('hn');
+  const arxiv = loadSource('arxiv');
+  const geeknews = loadSource('geeknews');
+  const latest = latestFetchedAt(hn, arxiv, geeknews);
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div className="max-w-7xl mx-auto px-6 py-6 w-full">
+      <header
+        className="flex items-center justify-between"
+        style={{
+          marginBottom: 22,
+          paddingBottom: 16,
+          borderBottom: '0.5px solid var(--color-aip-border)',
+        }}
+      >
+        <div style={{ display: 'flex', alignItems: 'baseline', gap: 12 }}>
+          <h1 style={{ fontSize: 19, fontWeight: 500 }}>AIpulse</h1>
+          {latest ? (
+            <span style={{ fontSize: 12, color: 'var(--color-aip-muted)' }}>
+              Last fetched {timeAgo(latest)} ago
+            </span>
+          ) : (
+            <span style={{ fontSize: 12, color: 'var(--color-aip-muted)' }}>
+              No data yet
+            </span>
+          )}
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
+        <ThemeToggle />
+      </header>
+      <main className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <SourceSection source={hn} icon={<Flame size={16} />} />
+        <SourceSection source={arxiv} icon={<BookOpen size={16} />} />
+        <SourceSection source={geeknews} icon={<Newspaper size={16} />} />
       </main>
     </div>
   );
