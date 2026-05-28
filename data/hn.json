@@ -1,13 +1,13 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-05-28T02:33:44.659Z",
+  "fetchedAt": "2026-05-28T15:35:41.806Z",
   "items": [
     {
       "id": "48299753",
       "source": "hn",
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 558,
+      "score": 1126,
       "commentsUrl": "https://news.ycombinator.com/item?id=48299753",
       "author": "nopg",
       "publishedAt": "2026-05-27T20:00:51.000Z"
@@ -17,160 +17,210 @@
       "source": "hn",
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 669,
+      "score": 1010,
       "commentsUrl": "https://news.ycombinator.com/item?id=48296794",
       "author": "simonw",
       "publishedAt": "2026-05-27T16:39:13.000Z"
+    },
+    {
+      "id": "48305446",
+      "source": "hn",
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "score": 133,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48305446",
+      "author": "kunalsin9h",
+      "publishedAt": "2026-05-28T06:40:31.000Z"
+    },
+    {
+      "id": "48308376",
+      "source": "hn",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48308376",
+      "author": "Wirbelwind",
+      "publishedAt": "2026-05-28T13:02:00.000Z"
     },
     {
       "id": "48296649",
       "source": "hn",
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
       "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 687,
+      "score": 986,
       "commentsUrl": "https://news.ycombinator.com/item?id=48296649",
       "author": "HelloUsername",
       "publishedAt": "2026-05-27T16:28:41.000Z"
+    },
+    {
+      "id": "48276429",
+      "source": "hn",
+      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+      "url": "https://arxiv.org/abs/2510.04950",
+      "score": 113,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48276429",
+      "author": "KnuthIsGod",
+      "publishedAt": "2026-05-26T07:43:22.000Z"
     },
     {
       "id": "48297467",
       "source": "hn",
       "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
       "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-      "score": 95,
+      "score": 133,
       "commentsUrl": "https://news.ycombinator.com/item?id=48297467",
       "author": "ChrisArchitect",
       "publishedAt": "2026-05-27T17:24:25.000Z"
-    },
-    {
-      "id": "48267432",
-      "source": "hn",
-      "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
-      "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48267432",
-      "author": "rajveerb",
-      "publishedAt": "2026-05-25T14:41:09.000Z"
-    },
-    {
-      "id": "48300280",
-      "source": "hn",
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48300280",
-      "author": "danAtElodin",
-      "publishedAt": "2026-05-27T20:37:42.000Z"
     },
     {
       "id": "48295679",
       "source": "hn",
       "title": "Tech CEOs are apparently suffering from AI psychosis",
       "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "score": 587,
+      "score": 679,
       "commentsUrl": "https://news.ycombinator.com/item?id=48295679",
       "author": "IAmGraydon",
       "publishedAt": "2026-05-27T15:20:47.000Z"
     },
     {
-      "id": "48297723",
+      "id": "48307098",
       "source": "hn",
-      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-      "url": "https://arxiv.org/abs/2605.21779",
-      "score": 41,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48297723",
-      "author": "root-parent",
-      "publishedAt": "2026-05-27T17:42:24.000Z"
-    },
-    {
-      "id": "48303273",
-      "source": "hn",
-      "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
-      "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48303273",
-      "author": "doppp",
-      "publishedAt": "2026-05-28T01:40:24.000Z"
-    },
-    {
-      "id": "48300890",
-      "source": "hn",
-      "title": "Getting Claude to extract data from a 1997 football manager game",
-      "url": "https://bennuttall.com/blog/2026/04/fsm97/",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48300890",
-      "author": "benn_88",
-      "publishedAt": "2026-05-27T21:21:15.000Z"
-    },
-    {
-      "id": "48296359",
-      "source": "hn",
-      "title": "Training our own AI models",
-      "url": "https://posthog.com/blog/training-ai-models",
-      "score": 194,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48296359",
-      "author": "tartieret",
-      "publishedAt": "2026-05-27T16:08:42.000Z"
+      "title": "AI sticker shock hits corporate America",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "score": 135,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48307098",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-05-28T10:39:32.000Z"
     },
     {
       "id": "48289950",
       "source": "hn",
       "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
       "url": "https://arps18.github.io/posts/claude-code-mastery/",
-      "score": 377,
+      "score": 415,
       "commentsUrl": "https://news.ycombinator.com/item?id=48289950",
       "author": "arps18",
       "publishedAt": "2026-05-27T05:13:39.000Z"
     },
     {
-      "id": "48292224",
+      "id": "48300280",
       "source": "hn",
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "score": 1849,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48292224",
-      "author": "theorchid",
-      "publishedAt": "2026-05-27T10:43:25.000Z"
+      "title": "Show HN: Open-Source AI Racing Harness",
+      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+      "score": 42,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48300280",
+      "author": "danAtElodin",
+      "publishedAt": "2026-05-27T20:37:42.000Z"
     },
     {
-      "id": "48302940",
+      "id": "48297723",
       "source": "hn",
-      "title": "Illinois Lawmakers Just Passed America's Strongest AI Safety Bill",
-      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48302940",
-      "author": "droidjj",
-      "publishedAt": "2026-05-28T01:05:16.000Z"
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "url": "https://arxiv.org/abs/2605.21779",
+      "score": 53,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48297723",
+      "author": "root-parent",
+      "publishedAt": "2026-05-27T17:42:24.000Z"
     },
     {
       "id": "48292718",
       "source": "hn",
       "title": "Ripgrep AI Policy",
       "url": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md",
-      "score": 41,
+      "score": 86,
       "commentsUrl": "https://news.ycombinator.com/item?id=48292718",
       "author": "singiamtel",
       "publishedAt": "2026-05-27T11:40:49.000Z"
+    },
+    {
+      "id": "48307455",
+      "source": "hn",
+      "title": "I cut my AI API costs 99% by switching from Claude to DeepSeek",
+      "url": "https://twitter.com/kevinsays/status/2059724146221662339",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48307455",
+      "author": "agentbc9000",
+      "publishedAt": "2026-05-28T11:27:36.000Z"
+    },
+    {
+      "id": "48309909",
+      "source": "hn",
+      "title": "Spotify CEO defends AI music, wants you to stop calling it 'slop'",
+      "url": "https://www.neowin.net/news/spotify-ceo-defends-ai-music-wants-you-to-stop-calling-it-slop/",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48309909",
+      "author": "bundie",
+      "publishedAt": "2026-05-28T14:59:32.000Z"
+    },
+    {
+      "id": "48303516",
+      "source": "hn",
+      "title": "Safescript – A Language for AI Era",
+      "url": "https://safescript.cc/",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48303516",
+      "author": "uriva",
+      "publishedAt": "2026-05-28T02:10:59.000Z"
+    },
+    {
+      "id": "48292224",
+      "source": "hn",
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "score": 1942,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48292224",
+      "author": "theorchid",
+      "publishedAt": "2026-05-27T10:43:25.000Z"
     },
     {
       "id": "48272984",
       "source": "hn",
       "title": "Using AI to write better code more slowly",
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 1222,
+      "score": 1232,
       "commentsUrl": "https://news.ycombinator.com/item?id=48272984",
       "author": "signa11",
       "publishedAt": "2026-05-25T23:16:59.000Z"
+    },
+    {
+      "id": "48296359",
+      "source": "hn",
+      "title": "Training our own AI models",
+      "url": "https://posthog.com/blog/training-ai-models",
+      "score": 205,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48296359",
+      "author": "tartieret",
+      "publishedAt": "2026-05-27T16:08:42.000Z"
+    },
+    {
+      "id": "48303273",
+      "source": "hn",
+      "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
+      "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
+      "score": 73,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48303273",
+      "author": "doppp",
+      "publishedAt": "2026-05-28T01:40:24.000Z"
     },
     {
       "id": "48278610",
       "source": "hn",
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
       "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-      "score": 314,
+      "score": 320,
       "commentsUrl": "https://news.ycombinator.com/item?id=48278610",
       "author": "GodelNumbering",
       "publishedAt": "2026-05-26T12:08:33.000Z"
+    },
+    {
+      "id": "48305968",
+      "source": "hn",
+      "title": "Seven Ways to Avoid Losing Your Job to AI",
+      "url": "https://www.thefp.com/p/tyler-cowen-seven-ways-to-avoid-losing",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48305968",
+      "author": "yarapavan",
+      "publishedAt": "2026-05-28T07:53:05.000Z"
     }
   ]
 }
