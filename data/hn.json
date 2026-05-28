@@ -1,66 +1,176 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-05-27T15:22:43.372Z",
+  "fetchedAt": "2026-05-28T02:33:44.659Z",
   "items": [
     {
-      "id": "48292224",
+      "id": "48299753",
       "source": "hn",
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "score": 1102,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48292224",
-      "author": "theorchid",
-      "publishedAt": "2026-05-27T10:43:25.000Z"
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 558,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48299753",
+      "author": "nopg",
+      "publishedAt": "2026-05-27T20:00:51.000Z"
+    },
+    {
+      "id": "48296794",
+      "source": "hn",
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "score": 669,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48296794",
+      "author": "simonw",
+      "publishedAt": "2026-05-27T16:39:13.000Z"
+    },
+    {
+      "id": "48296649",
+      "source": "hn",
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "score": 687,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48296649",
+      "author": "HelloUsername",
+      "publishedAt": "2026-05-27T16:28:41.000Z"
+    },
+    {
+      "id": "48297467",
+      "source": "hn",
+      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+      "score": 95,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48297467",
+      "author": "ChrisArchitect",
+      "publishedAt": "2026-05-27T17:24:25.000Z"
+    },
+    {
+      "id": "48267432",
+      "source": "hn",
+      "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
+      "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48267432",
+      "author": "rajveerb",
+      "publishedAt": "2026-05-25T14:41:09.000Z"
+    },
+    {
+      "id": "48300280",
+      "source": "hn",
+      "title": "Show HN: Open-Source AI Racing Harness",
+      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48300280",
+      "author": "danAtElodin",
+      "publishedAt": "2026-05-27T20:37:42.000Z"
+    },
+    {
+      "id": "48295679",
+      "source": "hn",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "score": 587,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48295679",
+      "author": "IAmGraydon",
+      "publishedAt": "2026-05-27T15:20:47.000Z"
+    },
+    {
+      "id": "48297723",
+      "source": "hn",
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "url": "https://arxiv.org/abs/2605.21779",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48297723",
+      "author": "root-parent",
+      "publishedAt": "2026-05-27T17:42:24.000Z"
+    },
+    {
+      "id": "48303273",
+      "source": "hn",
+      "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
+      "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48303273",
+      "author": "doppp",
+      "publishedAt": "2026-05-28T01:40:24.000Z"
+    },
+    {
+      "id": "48300890",
+      "source": "hn",
+      "title": "Getting Claude to extract data from a 1997 football manager game",
+      "url": "https://bennuttall.com/blog/2026/04/fsm97/",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48300890",
+      "author": "benn_88",
+      "publishedAt": "2026-05-27T21:21:15.000Z"
+    },
+    {
+      "id": "48296359",
+      "source": "hn",
+      "title": "Training our own AI models",
+      "url": "https://posthog.com/blog/training-ai-models",
+      "score": 194,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48296359",
+      "author": "tartieret",
+      "publishedAt": "2026-05-27T16:08:42.000Z"
     },
     {
       "id": "48289950",
       "source": "hn",
       "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
       "url": "https://arps18.github.io/posts/claude-code-mastery/",
-      "score": 193,
+      "score": 377,
       "commentsUrl": "https://news.ycombinator.com/item?id=48289950",
       "author": "arps18",
       "publishedAt": "2026-05-27T05:13:39.000Z"
     },
     {
-      "id": "48278610",
+      "id": "48292224",
       "source": "hn",
-      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-      "score": 304,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48278610",
-      "author": "GodelNumbering",
-      "publishedAt": "2026-05-26T12:08:33.000Z"
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "score": 1849,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48292224",
+      "author": "theorchid",
+      "publishedAt": "2026-05-27T10:43:25.000Z"
+    },
+    {
+      "id": "48302940",
+      "source": "hn",
+      "title": "Illinois Lawmakers Just Passed America's Strongest AI Safety Bill",
+      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48302940",
+      "author": "droidjj",
+      "publishedAt": "2026-05-28T01:05:16.000Z"
+    },
+    {
+      "id": "48292718",
+      "source": "hn",
+      "title": "Ripgrep AI Policy",
+      "url": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48292718",
+      "author": "singiamtel",
+      "publishedAt": "2026-05-27T11:40:49.000Z"
     },
     {
       "id": "48272984",
       "source": "hn",
       "title": "Using AI to write better code more slowly",
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 1201,
+      "score": 1222,
       "commentsUrl": "https://news.ycombinator.com/item?id=48272984",
       "author": "signa11",
       "publishedAt": "2026-05-25T23:16:59.000Z"
     },
     {
-      "id": "48277485",
+      "id": "48278610",
       "source": "hn",
-      "title": "Uber president says AI spending is getting 'harder to justify'",
-      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-      "score": 297,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48277485",
-      "author": "berlianta",
-      "publishedAt": "2026-05-26T10:01:39.000Z"
-    },
-    {
-      "id": "48228728",
-      "source": "hn",
-      "title": "The Structural Barriers to AI Lawyers",
-      "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
-      "score": 53,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48228728",
-      "author": "benbreen",
-      "publishedAt": "2026-05-21T20:51:36.000Z"
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "score": 314,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48278610",
+      "author": "GodelNumbering",
+      "publishedAt": "2026-05-26T12:08:33.000Z"
     }
   ]
 }
