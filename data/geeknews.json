@@ -1,7 +1,88 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-05-29T02:37:38.030Z",
+  "fetchedAt": "2026-05-29T14:48:15.766Z",
   "items": [
+    {
+      "id": "29990",
+      "source": "geeknews",
+      "title": "제로데이 Windows 익스플로잇을 공개한 보안 연구자를 GitHub가 차단",
+      "url": "https://news.hada.io/topic?id=29990",
+      "commentsUrl": "https://news.hada.io/topic?id=29990",
+      "author": "neo",
+      "publishedAt": "2026-05-29T12:35:37.000Z"
+    },
+    {
+      "id": "29989",
+      "source": "geeknews",
+      "title": "SourceHut에서는 무엇이 준비 중인가? 2026년 2분기",
+      "url": "https://news.hada.io/topic?id=29989",
+      "commentsUrl": "https://news.hada.io/topic?id=29989",
+      "author": "neo",
+      "publishedAt": "2026-05-29T12:02:17.000Z"
+    },
+    {
+      "id": "29988",
+      "source": "geeknews",
+      "title": "기숙사 방에서 백만 달러짜리 제품을 만들었다 (2025)",
+      "url": "https://news.hada.io/topic?id=29988",
+      "commentsUrl": "https://news.hada.io/topic?id=29988",
+      "author": "neo",
+      "publishedAt": "2026-05-29T11:35:15.000Z"
+    },
+    {
+      "id": "29987",
+      "source": "geeknews",
+      "title": "Show HN: Hallucinate - 대규모 멀티플레이어 온라인 레이브",
+      "url": "https://news.hada.io/topic?id=29987",
+      "commentsUrl": "https://news.hada.io/topic?id=29987",
+      "author": "neo",
+      "publishedAt": "2026-05-29T09:33:33.000Z"
+    },
+    {
+      "id": "29985",
+      "source": "geeknews",
+      "title": "유저 의견을 모아 매일 자동 개발과 배포되는 웹게임 제작기",
+      "url": "https://news.hada.io/topic?id=29985",
+      "commentsUrl": "https://news.hada.io/topic?id=29985",
+      "author": "frogred8",
+      "publishedAt": "2026-05-29T07:31:34.000Z"
+    },
+    {
+      "id": "29983",
+      "source": "geeknews",
+      "title": "네이버, AI 브리핑 인용수를 창작자 보상 기준으로 공식화 — 네이버 메이트 발표",
+      "url": "https://news.hada.io/topic?id=29983",
+      "commentsUrl": "https://news.hada.io/topic?id=29983",
+      "author": "sheint17",
+      "publishedAt": "2026-05-29T04:50:32.000Z"
+    },
+    {
+      "id": "29982",
+      "source": "geeknews",
+      "title": "Show GN: 쿠팡 가계부",
+      "url": "https://news.hada.io/topic?id=29982",
+      "commentsUrl": "https://news.hada.io/topic?id=29982",
+      "author": "crom1024",
+      "publishedAt": "2026-05-29T03:53:14.000Z"
+    },
+    {
+      "id": "29981",
+      "source": "geeknews",
+      "title": "Claude Code, 다이나믹 워크플로우 기능 공개",
+      "url": "https://news.hada.io/topic?id=29981",
+      "commentsUrl": "https://news.hada.io/topic?id=29981",
+      "author": "neo",
+      "publishedAt": "2026-05-29T03:21:02.000Z"
+    },
+    {
+      "id": "29980",
+      "source": "geeknews",
+      "title": "코딩 에이전트를 위한 Protestware",
+      "url": "https://news.hada.io/topic?id=29980",
+      "commentsUrl": "https://news.hada.io/topic?id=29980",
+      "author": "neo",
+      "publishedAt": "2026-05-29T03:02:36.000Z"
+    },
     {
       "id": "29979",
       "source": "geeknews",
@@ -190,87 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=29958",
       "author": "neo",
       "publishedAt": "2026-05-28T14:05:22.000Z"
-    },
-    {
-      "id": "29957",
-      "source": "geeknews",
-      "title": "Claude Code를 일상 도구로 쓰기: Claude.md, Skills, Subagents, Plugins, MCP",
-      "url": "https://news.hada.io/topic?id=29957",
-      "commentsUrl": "https://news.hada.io/topic?id=29957",
-      "author": "neo",
-      "publishedAt": "2026-05-28T14:04:41.000Z"
-    },
-    {
-      "id": "29956",
-      "source": "geeknews",
-      "title": "인류의 모든 요리를 2메가바이트로 압축하기",
-      "url": "https://news.hada.io/topic?id=29956",
-      "commentsUrl": "https://news.hada.io/topic?id=29956",
-      "author": "neo",
-      "publishedAt": "2026-05-28T14:01:41.000Z"
-    },
-    {
-      "id": "29955",
-      "source": "geeknews",
-      "title": "Show GN: Devflow Native - AI 코딩 에이전트 작업 흐름을 repo 안에 남기는 CLI",
-      "url": "https://news.hada.io/topic?id=29955",
-      "commentsUrl": "https://news.hada.io/topic?id=29955",
-      "author": "sungblab",
-      "publishedAt": "2026-05-28T13:36:00.000Z"
-    },
-    {
-      "id": "29954",
-      "source": "geeknews",
-      "title": "Ask GN: 일전에 한국어 다중화자 관련 질문을 올렸는데요! 그 후속 진행사항 업데이트!",
-      "url": "https://news.hada.io/topic?id=29954",
-      "commentsUrl": "https://news.hada.io/topic?id=29954",
-      "author": "somang04",
-      "publishedAt": "2026-05-28T11:39:34.000Z"
-    },
-    {
-      "id": "29950",
-      "source": "geeknews",
-      "title": "Show GN: 매일 쏟아지는 새 IT 서비스, 넷플릭스처럼 둘러보기 - newflix",
-      "url": "https://news.hada.io/topic?id=29950",
-      "commentsUrl": "https://news.hada.io/topic?id=29950",
-      "author": "oakhex",
-      "publishedAt": "2026-05-28T06:47:38.000Z"
-    },
-    {
-      "id": "29949",
-      "source": "geeknews",
-      "title": "Zig 창시자 Andrew Kelley와의 인터뷰",
-      "url": "https://news.hada.io/topic?id=29949",
-      "commentsUrl": "https://news.hada.io/topic?id=29949",
-      "author": "neo",
-      "publishedAt": "2026-05-28T06:09:40.000Z"
-    },
-    {
-      "id": "29948",
-      "source": "geeknews",
-      "title": "Atom 고갈은 실수가 아니다. 우리 CVE의 3분의 1이다",
-      "url": "https://news.hada.io/topic?id=29948",
-      "commentsUrl": "https://news.hada.io/topic?id=29948",
-      "author": "neo",
-      "publishedAt": "2026-05-28T03:02:27.000Z"
-    },
-    {
-      "id": "29947",
-      "source": "geeknews",
-      "title": "캐나다, 미국 공급업체에서 벗어나 스웨덴에 군용기 함대 주문 예정",
-      "url": "https://news.hada.io/topic?id=29947",
-      "commentsUrl": "https://news.hada.io/topic?id=29947",
-      "author": "neo",
-      "publishedAt": "2026-05-28T01:34:15.000Z"
-    },
-    {
-      "id": "29946",
-      "source": "geeknews",
-      "title": "사모펀드가 미국의 필수 서비스를 사들였다",
-      "url": "https://news.hada.io/topic?id=29946",
-      "commentsUrl": "https://news.hada.io/topic?id=29946",
-      "author": "neo",
-      "publishedAt": "2026-05-28T01:14:50.000Z"
     }
   ]
 }

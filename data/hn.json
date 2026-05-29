@@ -1,33 +1,123 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-05-29T02:37:37.631Z",
+  "fetchedAt": "2026-05-29T14:48:15.330Z",
   "items": [
+    {
+      "id": "48323101",
+      "source": "hn",
+      "title": "Please Use AI",
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "score": 226,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48323101",
+      "author": "garycomtois",
+      "publishedAt": "2026-05-29T13:50:25.000Z"
+    },
+    {
+      "id": "48318174",
+      "source": "hn",
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "score": 250,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48318174",
+      "author": "ankitg12",
+      "publishedAt": "2026-05-29T02:13:20.000Z"
+    },
+    {
+      "id": "48322956",
+      "source": "hn",
+      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+      "url": "https://github.com/scanaislop/aislop",
+      "score": 53,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48322956",
+      "author": "Heavykenny",
+      "publishedAt": "2026-05-29T13:37:38.000Z"
+    },
+    {
+      "id": "48276152",
+      "source": "hn",
+      "title": "Orchestrating AI code review at scale",
+      "url": "https://blog.cloudflare.com/ai-code-review/",
+      "score": 72,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48276152",
+      "author": "pramodbiligiri",
+      "publishedAt": "2026-05-26T07:06:28.000Z"
+    },
+    {
+      "id": "48321076",
+      "source": "hn",
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "score": 104,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48321076",
+      "author": "NicoConstant",
+      "publishedAt": "2026-05-29T09:47:23.000Z"
+    },
     {
       "id": "48311647",
       "source": "hn",
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1256,
+      "score": 1655,
       "commentsUrl": "https://news.ycombinator.com/item?id=48311647",
       "author": "craigmart",
       "publishedAt": "2026-05-28T16:49:14.000Z"
+    },
+    {
+      "id": "48322929",
+      "source": "hn",
+      "title": "Expertise in the Age of AI",
+      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48322929",
+      "author": "brilee",
+      "publishedAt": "2026-05-29T13:35:13.000Z"
+    },
+    {
+      "id": "48321631",
+      "source": "hn",
+      "title": "Is AI causing a repeat of Front end's Lost Decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "score": 144,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48321631",
+      "author": "xyzal",
+      "publishedAt": "2026-05-29T11:09:32.000Z"
+    },
+    {
+      "id": "48291016",
+      "source": "hn",
+      "title": "Even (very) noisy LLM evaluators are useful for improving AI agents",
+      "url": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48291016",
+      "author": "GabrielBianconi",
+      "publishedAt": "2026-05-27T07:49:56.000Z"
     },
     {
       "id": "48308376",
       "source": "hn",
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
-      "score": 248,
+      "score": 356,
       "commentsUrl": "https://news.ycombinator.com/item?id=48308376",
       "author": "Wirbelwind",
       "publishedAt": "2026-05-28T13:02:00.000Z"
+    },
+    {
+      "id": "48299753",
+      "source": "hn",
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 1296,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48299753",
+      "author": "nopg",
+      "publishedAt": "2026-05-27T20:00:51.000Z"
     },
     {
       "id": "48313810",
       "source": "hn",
       "title": "Various LLM Smells",
       "url": "https://shvbsle.in/various-llm-smells/",
-      "score": 240,
+      "score": 336,
       "commentsUrl": "https://news.ycombinator.com/item?id=48313810",
       "author": "speckx",
       "publishedAt": "2026-05-28T19:02:18.000Z"
@@ -37,7 +127,7 @@
       "source": "hn",
       "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
       "url": "https://www.anthropic.com/news/series-h",
-      "score": 265,
+      "score": 354,
       "commentsUrl": "https://news.ycombinator.com/item?id=48313048",
       "author": "meetpateltech",
       "publishedAt": "2026-05-28T18:09:44.000Z"
@@ -47,130 +137,60 @@
       "source": "hn",
       "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
       "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "score": 11,
+      "score": 87,
       "commentsUrl": "https://news.ycombinator.com/item?id=48317294",
       "author": "freediver",
       "publishedAt": "2026-05-29T00:09:35.000Z"
-    },
-    {
-      "id": "48299753",
-      "source": "hn",
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 1276,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48299753",
-      "author": "nopg",
-      "publishedAt": "2026-05-27T20:00:51.000Z"
-    },
-    {
-      "id": "48317563",
-      "source": "hn",
-      "title": "Microsoft data suggests using AI is more expensive than hiring people",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
-      "score": 13,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48317563",
-      "author": "voxadam",
-      "publishedAt": "2026-05-29T00:49:05.000Z"
-    },
-    {
-      "id": "48315583",
-      "source": "hn",
-      "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
-      "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
-      "score": 39,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48315583",
-      "author": "mmarian",
-      "publishedAt": "2026-05-28T21:14:22.000Z"
-    },
-    {
-      "id": "48300280",
-      "source": "hn",
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-      "score": 68,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48300280",
-      "author": "danAtElodin",
-      "publishedAt": "2026-05-27T20:37:42.000Z"
-    },
-    {
-      "id": "48314363",
-      "source": "hn",
-      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-      "score": 182,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48314363",
-      "author": "ianrahman",
-      "publishedAt": "2026-05-28T19:43:14.000Z"
-    },
-    {
-      "id": "48311705",
-      "source": "hn",
-      "title": "Dynamic Workflows in Claude Code",
-      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-      "score": 140,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48311705",
-      "author": "mil22",
-      "publishedAt": "2026-05-28T16:52:21.000Z"
     },
     {
       "id": "48276429",
       "source": "hn",
       "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
       "url": "https://arxiv.org/abs/2510.04950",
-      "score": 138,
+      "score": 144,
       "commentsUrl": "https://news.ycombinator.com/item?id=48276429",
       "author": "KnuthIsGod",
       "publishedAt": "2026-05-26T07:43:22.000Z"
+    },
+    {
+      "id": "48321422",
+      "source": "hn",
+      "title": "DeepSeek Slashes AI Costs to Cents",
+      "url": "https://businessanalytics.substack.com/p/deepseek-slashes-ai-costs-to-cents",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48321422",
+      "author": "dstala",
+      "publishedAt": "2026-05-29T10:43:03.000Z"
+    },
+    {
+      "id": "48300280",
+      "source": "hn",
+      "title": "Show HN: Open-Source AI Racing Harness",
+      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+      "score": 72,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48300280",
+      "author": "danAtElodin",
+      "publishedAt": "2026-05-27T20:37:42.000Z"
+    },
+    {
+      "id": "48317563",
+      "source": "hn",
+      "title": "Microsoft data suggests using AI is more expensive than hiring people",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+      "score": 63,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48317563",
+      "author": "voxadam",
+      "publishedAt": "2026-05-29T00:49:05.000Z"
     },
     {
       "id": "48297467",
       "source": "hn",
       "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
       "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-      "score": 142,
+      "score": 143,
       "commentsUrl": "https://news.ycombinator.com/item?id=48297467",
       "author": "ChrisArchitect",
       "publishedAt": "2026-05-27T17:24:25.000Z"
-    },
-    {
-      "id": "48267432",
-      "source": "hn",
-      "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
-      "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
-      "score": 54,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48267432",
-      "author": "rajveerb",
-      "publishedAt": "2026-05-25T14:41:09.000Z"
-    },
-    {
-      "id": "48305446",
-      "source": "hn",
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "score": 144,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48305446",
-      "author": "kunalsin9h",
-      "publishedAt": "2026-05-28T06:40:31.000Z"
-    },
-    {
-      "id": "48317035",
-      "source": "hn",
-      "title": "Ohio suspends data center tax break, tech firms face pressure to pay AI costs",
-      "url": "https://apnews.com/article/artificial-intelligence-data-centers-taxes-tech-ohio-4d56561a14f9b0d00553001e8c2757a3",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48317035",
-      "author": "1vuio0pswjnm7",
-      "publishedAt": "2026-05-28T23:35:24.000Z"
-    },
-    {
-      "id": "48295679",
-      "source": "hn",
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "score": 705,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48295679",
-      "author": "IAmGraydon",
-      "publishedAt": "2026-05-27T15:20:47.000Z"
     }
   ]
 }
