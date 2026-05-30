@@ -1,7 +1,106 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-05-30T02:31:48.533Z",
+  "fetchedAt": "2026-05-30T13:12:59.075Z",
   "items": [
+    {
+      "id": "30024",
+      "source": "geeknews",
+      "title": "EV 어리석음 체크리스트",
+      "url": "https://news.hada.io/topic?id=30024",
+      "commentsUrl": "https://news.hada.io/topic?id=30024",
+      "author": "neo",
+      "publishedAt": "2026-05-30T13:03:15.000Z"
+    },
+    {
+      "id": "30023",
+      "source": "geeknews",
+      "title": "왜 나는 GenAI와 그것이 상징하는 모든 것에 반대하는가",
+      "url": "https://news.hada.io/topic?id=30023",
+      "commentsUrl": "https://news.hada.io/topic?id=30023",
+      "author": "neo",
+      "publishedAt": "2026-05-30T12:04:13.000Z"
+    },
+    {
+      "id": "30022",
+      "source": "geeknews",
+      "title": "Dickover란 무엇인가?",
+      "url": "https://news.hada.io/topic?id=30022",
+      "commentsUrl": "https://news.hada.io/topic?id=30022",
+      "author": "neo",
+      "publishedAt": "2026-05-30T11:37:21.000Z"
+    },
+    {
+      "id": "30021",
+      "source": "geeknews",
+      "title": "Mistral AI Now Summit 메모",
+      "url": "https://news.hada.io/topic?id=30021",
+      "commentsUrl": "https://news.hada.io/topic?id=30021",
+      "author": "neo",
+      "publishedAt": "2026-05-30T10:36:18.000Z"
+    },
+    {
+      "id": "30020",
+      "source": "geeknews",
+      "title": "마이크로소프트, 깃허브 계정 차단 후 윈도우 제로데이 공개 비판",
+      "url": "https://news.hada.io/topic?id=30020",
+      "commentsUrl": "https://news.hada.io/topic?id=30020",
+      "author": "recast7838",
+      "publishedAt": "2026-05-30T10:31:31.000Z"
+    },
+    {
+      "id": "30019",
+      "source": "geeknews",
+      "title": "Flathub, LLM 기반 제출을 허용하지 않음",
+      "url": "https://news.hada.io/topic?id=30019",
+      "commentsUrl": "https://news.hada.io/topic?id=30019",
+      "author": "neo",
+      "publishedAt": "2026-05-30T10:01:49.000Z"
+    },
+    {
+      "id": "30018",
+      "source": "geeknews",
+      "title": "AI는 프런트엔드의 잃어버린 10년을 반복하게 하는가?",
+      "url": "https://news.hada.io/topic?id=30018",
+      "commentsUrl": "https://news.hada.io/topic?id=30018",
+      "author": "xguru",
+      "publishedAt": "2026-05-30T09:58:17.000Z"
+    },
+    {
+      "id": "30016",
+      "source": "geeknews",
+      "title": "“알고리즘이 판단했는데요”: AI 코드 시대, 내가 만든 수익형 앱이 갑자기 정지될 수 있는 이유",
+      "url": "https://news.hada.io/topic?id=30016",
+      "commentsUrl": "https://news.hada.io/topic?id=30016",
+      "author": "flamehaven01",
+      "publishedAt": "2026-05-30T05:43:37.000Z"
+    },
+    {
+      "id": "30015",
+      "source": "geeknews",
+      "title": "“하지만 그렇게 되었다.” - Eric Schmidt의 졸업식 연설에 대한 Casey Muratori의 코멘트",
+      "url": "https://news.hada.io/topic?id=30015",
+      "commentsUrl": "https://news.hada.io/topic?id=30015",
+      "author": "neo",
+      "publishedAt": "2026-05-30T05:01:50.000Z"
+    },
+    {
+      "id": "30014",
+      "source": "geeknews",
+      "title": "SQLite만으로 내구성 있는 워크플로를 구현할 수 있음",
+      "url": "https://news.hada.io/topic?id=30014",
+      "commentsUrl": "https://news.hada.io/topic?id=30014",
+      "author": "neo",
+      "publishedAt": "2026-05-30T02:42:00.000Z"
+    },
+    {
+      "id": "30013",
+      "source": "geeknews",
+      "title": "Volkswagen이 client assertion 요구로 Home Assistant를 차단함",
+      "url": "https://news.hada.io/topic?id=30013",
+      "commentsUrl": "https://news.hada.io/topic?id=30013",
+      "author": "neo",
+      "publishedAt": "2026-05-30T02:39:00.000Z"
+    },
     {
       "id": "30012",
       "source": "geeknews",
@@ -172,105 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=29993",
       "author": "neo",
       "publishedAt": "2026-05-29T18:02:13.000Z"
-    },
-    {
-      "id": "29992",
-      "source": "geeknews",
-      "title": "‘심각한’ 수학 결손을 이유로 UC 교수진이 STEM 입학에 SAT 시험 복귀를 요구",
-      "url": "https://news.hada.io/topic?id=29992",
-      "commentsUrl": "https://news.hada.io/topic?id=29992",
-      "author": "neo",
-      "publishedAt": "2026-05-29T17:35:37.000Z"
-    },
-    {
-      "id": "29990",
-      "source": "geeknews",
-      "title": "제로데이 Windows 익스플로잇을 공개한 보안 연구자를 GitHub가 차단",
-      "url": "https://news.hada.io/topic?id=29990",
-      "commentsUrl": "https://news.hada.io/topic?id=29990",
-      "author": "neo",
-      "publishedAt": "2026-05-29T12:35:37.000Z"
-    },
-    {
-      "id": "29989",
-      "source": "geeknews",
-      "title": "SourceHut에서는 무엇이 준비 중인가? 2026년 2분기",
-      "url": "https://news.hada.io/topic?id=29989",
-      "commentsUrl": "https://news.hada.io/topic?id=29989",
-      "author": "neo",
-      "publishedAt": "2026-05-29T12:02:17.000Z"
-    },
-    {
-      "id": "29988",
-      "source": "geeknews",
-      "title": "기숙사 방에서 백만 달러짜리 제품을 만들었다 (2025)",
-      "url": "https://news.hada.io/topic?id=29988",
-      "commentsUrl": "https://news.hada.io/topic?id=29988",
-      "author": "neo",
-      "publishedAt": "2026-05-29T11:35:15.000Z"
-    },
-    {
-      "id": "29987",
-      "source": "geeknews",
-      "title": "Show HN: Hallucinate - 대규모 멀티플레이어 온라인 레이브",
-      "url": "https://news.hada.io/topic?id=29987",
-      "commentsUrl": "https://news.hada.io/topic?id=29987",
-      "author": "neo",
-      "publishedAt": "2026-05-29T09:33:33.000Z"
-    },
-    {
-      "id": "29985",
-      "source": "geeknews",
-      "title": "유저 의견을 모아 매일 자동 개발과 배포되는 웹게임 제작기",
-      "url": "https://news.hada.io/topic?id=29985",
-      "commentsUrl": "https://news.hada.io/topic?id=29985",
-      "author": "frogred8",
-      "publishedAt": "2026-05-29T07:31:34.000Z"
-    },
-    {
-      "id": "29983",
-      "source": "geeknews",
-      "title": "네이버, AI 브리핑 인용수를 창작자 보상 기준으로 공식화 — 네이버 메이트 발표",
-      "url": "https://news.hada.io/topic?id=29983",
-      "commentsUrl": "https://news.hada.io/topic?id=29983",
-      "author": "sheint17",
-      "publishedAt": "2026-05-29T04:50:32.000Z"
-    },
-    {
-      "id": "29982",
-      "source": "geeknews",
-      "title": "Show GN: 쿠팡 가계부",
-      "url": "https://news.hada.io/topic?id=29982",
-      "commentsUrl": "https://news.hada.io/topic?id=29982",
-      "author": "crom1024",
-      "publishedAt": "2026-05-29T03:53:14.000Z"
-    },
-    {
-      "id": "29981",
-      "source": "geeknews",
-      "title": "Claude Code, 다이나믹 워크플로우 기능 공개",
-      "url": "https://news.hada.io/topic?id=29981",
-      "commentsUrl": "https://news.hada.io/topic?id=29981",
-      "author": "neo",
-      "publishedAt": "2026-05-29T03:21:02.000Z"
-    },
-    {
-      "id": "29980",
-      "source": "geeknews",
-      "title": "코딩 에이전트를 위한 Protestware",
-      "url": "https://news.hada.io/topic?id=29980",
-      "commentsUrl": "https://news.hada.io/topic?id=29980",
-      "author": "neo",
-      "publishedAt": "2026-05-29T03:02:36.000Z"
-    },
-    {
-      "id": "29979",
-      "source": "geeknews",
-      "title": "Bricks and Minifigs가 한 남성의 20만 달러 LEGO 컬렉션을 훔쳤다",
-      "url": "https://news.hada.io/topic?id=29979",
-      "commentsUrl": "https://news.hada.io/topic?id=29979",
-      "author": "neo",
-      "publishedAt": "2026-05-29T00:37:05.000Z"
     }
   ]
 }
