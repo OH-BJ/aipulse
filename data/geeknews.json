@@ -1,11 +1,101 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-01T02:57:10.192Z",
+  "fetchedAt": "2026-06-01T17:24:29.001Z",
   "items": [
+    {
+      "id": "30079",
+      "source": "geeknews",
+      "title": "Show GN: Codexplain: Codex를 Claude Code처럼 말하게 하기 프로젝트",
+      "url": "https://news.hada.io/topic?id=30079",
+      "commentsUrl": "https://news.hada.io/topic?id=30079",
+      "author": "ironman0722",
+      "publishedAt": "2026-06-01T16:32:27.000Z"
+    },
+    {
+      "id": "30078",
+      "source": "geeknews",
+      "title": "Chuwi Minibook X",
+      "url": "https://news.hada.io/topic?id=30078",
+      "commentsUrl": "https://news.hada.io/topic?id=30078",
+      "author": "neo",
+      "publishedAt": "2026-06-01T15:39:13.000Z"
+    },
+    {
+      "id": "30077",
+      "source": "geeknews",
+      "title": "Show GN: MMRequest - 혹시 vision LLM API 부를 때마다 손으로 base64 변환하시나요 - 빡쳐서 만든 Chrome 확장",
+      "url": "https://news.hada.io/topic?id=30077",
+      "commentsUrl": "https://news.hada.io/topic?id=30077",
+      "author": "acerghjk",
+      "publishedAt": "2026-06-01T14:58:11.000Z"
+    },
+    {
+      "id": "30076",
+      "source": "geeknews",
+      "title": "Show GN: Spanlens - LLM 호출과 에이전트 trace를 한 곳에서 보는 오픈소스 관측 플랫폼",
+      "url": "https://news.hada.io/topic?id=30076",
+      "commentsUrl": "https://news.hada.io/topic?id=30076",
+      "author": "jhs6312",
+      "publishedAt": "2026-06-01T13:00:26.000Z"
+    },
+    {
+      "id": "30075",
+      "source": "geeknews",
+      "title": "AI 시대의 소프트웨어 장인정신",
+      "url": "https://news.hada.io/topic?id=30075",
+      "commentsUrl": "https://news.hada.io/topic?id=30075",
+      "author": "ragingwind",
+      "publishedAt": "2026-06-01T11:45:26.000Z"
+    },
+    {
+      "id": "30074",
+      "source": "geeknews",
+      "title": "United Airlines 767, Bluetooth 이름이 경보를 촉발해 Newark로 회항",
+      "url": "https://news.hada.io/topic?id=30074",
+      "commentsUrl": "https://news.hada.io/topic?id=30074",
+      "author": "neo",
+      "publishedAt": "2026-06-01T11:36:59.000Z"
+    },
+    {
+      "id": "30073",
+      "source": "geeknews",
+      "title": "로컬 기기용 1비트 Bonsai Image 4B 이미지 생성",
+      "url": "https://news.hada.io/topic?id=30073",
+      "commentsUrl": "https://news.hada.io/topic?id=30073",
+      "author": "neo",
+      "publishedAt": "2026-06-01T07:34:42.000Z"
+    },
+    {
+      "id": "30072",
+      "source": "geeknews",
+      "title": "ADHD 증폭기로서의 바이브코딩",
+      "url": "https://news.hada.io/topic?id=30072",
+      "commentsUrl": "https://news.hada.io/topic?id=30072",
+      "author": "neo",
+      "publishedAt": "2026-06-01T07:02:44.000Z"
+    },
+    {
+      "id": "30070",
+      "source": "geeknews",
+      "title": "Show GN: 주거나침반 - 공공임대주택 공고를 AI로 구조화해서 보여주는 서비스",
+      "url": "https://news.hada.io/topic?id=30070",
+      "commentsUrl": "https://news.hada.io/topic?id=30070",
+      "author": "scm1400",
+      "publishedAt": "2026-06-01T04:29:57.000Z"
+    },
+    {
+      "id": "30069",
+      "source": "geeknews",
+      "title": "Show GN: $300/월 AI 비용을 절반으로 줄인 OSS — claude-ns-hub",
+      "url": "https://news.hada.io/topic?id=30069",
+      "commentsUrl": "https://news.hada.io/topic?id=30069",
+      "author": "nave94",
+      "publishedAt": "2026-06-01T03:29:52.000Z"
+    },
     {
       "id": "30068",
       "source": "geeknews",
-      "title": "Codex가 내 PC에서 sudo가 없는 “우회 방법”을 찾아냈다",
+      "title": "Codex가 내 PC에 sudo 권한이 없는 상황의 \"우회 방법\"을 찾아냄",
       "url": "https://news.hada.io/topic?id=30068",
       "commentsUrl": "https://news.hada.io/topic?id=30068",
       "author": "neo",
@@ -181,96 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30048",
       "author": "neo",
       "publishedAt": "2026-05-31T16:34:47.000Z"
-    },
-    {
-      "id": "30047",
-      "source": "geeknews",
-      "title": "Show GN: 레고스타일 블럭 제거 게임(Android, iOS, html preview)",
-      "url": "https://news.hada.io/topic?id=30047",
-      "commentsUrl": "https://news.hada.io/topic?id=30047",
-      "author": "drbaksoo",
-      "publishedAt": "2026-05-31T14:03:59.000Z"
-    },
-    {
-      "id": "30045",
-      "source": "geeknews",
-      "title": "Openrsync - OpenBSD 팀의 rsync 구현",
-      "url": "https://news.hada.io/topic?id=30045",
-      "commentsUrl": "https://news.hada.io/topic?id=30045",
-      "author": "neo",
-      "publishedAt": "2026-05-31T09:35:26.000Z"
-    },
-    {
-      "id": "30044",
-      "source": "geeknews",
-      "title": "NixOS 26.05 출시",
-      "url": "https://news.hada.io/topic?id=30044",
-      "commentsUrl": "https://news.hada.io/topic?id=30044",
-      "author": "neo",
-      "publishedAt": "2026-05-31T09:01:02.000Z"
-    },
-    {
-      "id": "30043",
-      "source": "geeknews",
-      "title": "Pandoc 템플릿",
-      "url": "https://news.hada.io/topic?id=30043",
-      "commentsUrl": "https://news.hada.io/topic?id=30043",
-      "author": "neo",
-      "publishedAt": "2026-05-31T07:40:01.000Z"
-    },
-    {
-      "id": "30042",
-      "source": "geeknews",
-      "title": "Show GN: Nomad AI - 나만의 온디바이스 여행 도우미",
-      "url": "https://news.hada.io/topic?id=30042",
-      "commentsUrl": "https://news.hada.io/topic?id=30042",
-      "author": "hshim",
-      "publishedAt": "2026-05-31T07:32:39.000Z"
-    },
-    {
-      "id": "30040",
-      "source": "geeknews",
-      "title": "OpenRouter, 1억 1,300만 달러 Series B 유치",
-      "url": "https://news.hada.io/topic?id=30040",
-      "commentsUrl": "https://news.hada.io/topic?id=30040",
-      "author": "neo",
-      "publishedAt": "2026-05-31T05:43:18.000Z"
-    },
-    {
-      "id": "30039",
-      "source": "geeknews",
-      "title": "도메인 전문성은 언제나 진짜 해자였다",
-      "url": "https://news.hada.io/topic?id=30039",
-      "commentsUrl": "https://news.hada.io/topic?id=30039",
-      "author": "neo",
-      "publishedAt": "2026-05-31T05:40:18.000Z"
-    },
-    {
-      "id": "30038",
-      "source": "geeknews",
-      "title": "Show GN: pisesh - pi 코딩 에이전트 세션 즐겨찾기 도구 만들었습니다",
-      "url": "https://news.hada.io/topic?id=30038",
-      "commentsUrl": "https://news.hada.io/topic?id=30038",
-      "author": "gongryak",
-      "publishedAt": "2026-05-31T04:48:13.000Z"
-    },
-    {
-      "id": "30037",
-      "source": "geeknews",
-      "title": "Microsoft가 영구 라이선스 오프라인 제품의 기능을 저하시킴",
-      "url": "https://news.hada.io/topic?id=30037",
-      "commentsUrl": "https://news.hada.io/topic?id=30037",
-      "author": "neo",
-      "publishedAt": "2026-05-31T02:37:22.000Z"
-    },
-    {
-      "id": "30036",
-      "source": "geeknews",
-      "title": "지루한 기술을 선택하라, Revisited (2025)",
-      "url": "https://news.hada.io/topic?id=30036",
-      "commentsUrl": "https://news.hada.io/topic?id=30036",
-      "author": "neo",
-      "publishedAt": "2026-05-31T02:15:01.000Z"
     }
   ]
 }

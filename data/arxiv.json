@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-06-01T02:57:09.641Z",
-  "items": []
+  "fetchedAt": "2026-06-01T17:24:28.239Z",
+  "items": [
+    {
+      "id": "2605.30018",
+      "source": "arxiv",
+      "title": "Latent Performance Profiling of Large Language Models",
+      "url": "https://arxiv.org/abs/2605.30018",
+      "author": "Tanmoy Chakraborty, Ayan Sengupta, Suparna Bhattacharya +7",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Large language models (LLMs) frequently achieve impressive scores on standardized benchmarks, yet accuracy alone offers a limited view of their capabilities. Evaluating open-source LLMs through leader…"
+    },
+    {
+      "id": "2605.29852",
+      "source": "arxiv",
+      "title": "Parameter-Efficient Subspace Decoupling ViT for Mitigating Multi-Task Negative Transfer in Histological Scoring",
+      "url": "https://arxiv.org/abs/2605.29852",
+      "author": "Youhan Huang, Jiajun Li, Yilin Fang +2",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Histological scoring is essential for diagnosing Non-Alcoholic Fatty Liver Disease (NAFLD), yet its automation remains challenging due to the high annotation cost and negative transfer among the stron…"
+    },
+    {
+      "id": "2605.29511",
+      "source": "arxiv",
+      "title": "DynaGraph: Lightweight Multi-Model Interaction Framework via Dynamic Topological Reconfiguration",
+      "url": "https://arxiv.org/abs/2605.29511",
+      "author": "Yanxing Guo, Zihao Zheng, Fangzhou Wu +4",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Tackling complex reasoning tasks typically relies on massive monolithic LLMs, which suffer from severe computational redundancy. While task decomposition through structured pipelines or multi-agent co…"
+    },
+    {
+      "id": "2605.28952",
+      "source": "arxiv",
+      "title": "Optimal Rates for Differentially Private Hypothesis Testing with E-values",
+      "url": "https://arxiv.org/abs/2605.28952",
+      "author": "Ben Jacobsen, Tomas Gonzalez, Gavin Brown +2",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "E-values have attracted considerable interest in recent years as flexible tools for enabling anytime-valid and adaptive data analysis. Hypothesis testing is at the core of many of these applications,…"
+    },
+    {
+      "id": "2605.28162",
+      "source": "arxiv",
+      "title": "Learning Logical Operations for Arbitrary Quantum Error Correction Codes",
+      "url": "https://arxiv.org/abs/2605.28162",
+      "author": "Nico Meyer, Christopher Mutschler, Dominik Seu{\\ss} +2",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Logical operations are essential for quantum computation within quantum error-correcting codes. However, discovering their physical realizations is challenging, especially for non-additive codes that…"
+    },
+    {
+      "id": "2605.27912",
+      "source": "arxiv",
+      "title": "Privately Estimating Monotone Statistics in Polynomial Time",
+      "url": "https://arxiv.org/abs/2605.27912",
+      "author": "Gavin Brown, Ephraim Linder, Mahbod Majid +1",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "We study efficient differentially private algorithms for estimating monotone statistics, i.e., statistics that are monotone under the addition of new observations. The starting point for our investiga…"
+    },
+    {
+      "id": "2605.26711",
+      "source": "arxiv",
+      "title": "The Need for an External Observer Formalizing the Sufficiency Gap: A Mathematical Extension of Mixture Identifiability and Contextual Grounding in Sequence Models",
+      "url": "https://arxiv.org/abs/2605.26711",
+      "author": "Francesco Corielli",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "We construct a binary mixed-regime process with one deterministic textual regime and one random regime governed by an unobserved latent state. Even an ideal infinite-capacity sequence predictor that e…"
+    },
+    {
+      "id": "2605.26183",
+      "source": "arxiv",
+      "title": "What Molecular Structure Cannot Tell Us: A Taxonomy of Explainability Gaps in GNN-Based Drug Toxicity Prediction",
+      "url": "https://arxiv.org/abs/2605.26183",
+      "author": "Juergen Dietrich",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Not all clinically relevant adverse effects are structurally inferable from molecular graphs - regardless of model quality or architectural complexity. This study introduces an operational taxonomy of…"
+    },
+    {
+      "id": "2605.24535",
+      "source": "arxiv",
+      "title": "Steering Beyond the Support: Adversarial Training on Unsupervised Jailbroken Activation Simulation",
+      "url": "https://arxiv.org/abs/2605.24535",
+      "author": "Luoyu Chen, Weiqi Wang, Zhiyi Tian +5",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Jailbreak prompts can trigger harmful completions on aligned LLMs, In accordance, safety steering has been proposed: test-time activation interventions that steer jailbreak activations to trigger refu…"
+    },
+    {
+      "id": "2605.19233",
+      "source": "arxiv",
+      "title": "Quantum Machine Learning for Cyber-Physical Anomaly Detection in Unmanned Aerial Vehicles: A Leakage-Free Evaluation with Proxy-Audited Feature Sets",
+      "url": "https://arxiv.org/abs/2605.19233",
+      "author": "Carlos A. Dur\\'an Paredes, Javier E. Le\\'on Calder\\'on, Nicol\\'as S\\'anchez Perea +2",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Unmanned aerial vehicles (UAVs) are cyber-physical systems whose attack surface spans networked avionics and on-board sensor fusion: a compromised GPS or battery module can mimic a benign mission segm…"
+    },
+    {
+      "id": "2605.17126",
+      "source": "arxiv",
+      "title": "Multi-task Linear Regression without Eigenvalue Lower Bounds: Adaptivity, Robustness, and Safety",
+      "url": "https://arxiv.org/abs/2605.17126",
+      "author": "Seok-Jin Kim",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "We study the multi-task linear regression problem in the presence of contaminated tasks. We address the setting where the unknown parameters of a majority of tasks are close in the $\\ell_2$-norm, whil…"
+    },
+    {
+      "id": "2605.12340",
+      "source": "arxiv",
+      "title": "Online Learning-to-Defer with Varying Experts",
+      "url": "https://arxiv.org/abs/2605.12340",
+      "author": "Dang Hoang Duy, Yannis Montreuil, Maxime Meyer +3",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Learning-to-Defer (L2D) methods route each query either to a predictive model or to external experts. While existing work studies this problem in batch settings, real-world deployments require handlin…"
+    },
+    {
+      "id": "2605.02125",
+      "source": "arxiv",
+      "title": "FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training",
+      "url": "https://arxiv.org/abs/2605.02125",
+      "author": "Yijiang Li, Emon Dey, Zilinghan Li +3",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Federated learning (FL) across multiple HPC facilities faces stochastic admission delays from batch schedulers that dominate wall-clock time. Synchronous FL suffers from severe stragglers, while async…"
+    },
+    {
+      "id": "2604.23436",
+      "source": "arxiv",
+      "title": "Inference of Online Newton Methods with Nesterov's Accelerated Sketching",
+      "url": "https://arxiv.org/abs/2604.23436",
+      "author": "Haoxuan Wang, Xinchen Du, Sen Na",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Reliable decision-making with streaming data requires principled uncertainty quantification of online methods. While first-order methods enable efficient iterate updates, their inference procedures st…"
+    },
+    {
+      "id": "2604.09414",
+      "source": "arxiv",
+      "title": "Beyond Augmented-Action Surrogates for Multi-Expert Learning-to-Defer",
+      "url": "https://arxiv.org/abs/2604.09414",
+      "author": "Yannis Montreuil, Axel Carlier, Lai Xing Ng +1",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "A learning-to-defer (L2D) system decides, for each input, whether to predict on its own or to hand it to one of several available experts. The very well established recipe trains classifier and router…"
+    },
+    {
+      "id": "2604.09412",
+      "source": "arxiv",
+      "title": "Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks",
+      "url": "https://arxiv.org/abs/2604.09412",
+      "author": "Jie Huang, Bruno Loureiro, Stefano Sarao Mannelli",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "We study the population loss landscape of two-layer ReLU networks of the form $\\sum_{k=1}^K \\mathrm{ReLU}(w_k^\\top x)$ in a realisable teacher-student setting with Gaussian covariates. We show that lo…"
+    },
+    {
+      "id": "2604.02969",
+      "source": "arxiv",
+      "title": "Inversion-Free Natural Gradient Descent on Riemannian Manifolds",
+      "url": "https://arxiv.org/abs/2604.02969",
+      "author": "Dario Draca, Takuo Matsubara, Minh-Ngoc Tran",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "The natural gradient method is a central tool for statistical optimisation, but its broader application is hindered by the assumption of a Euclidean parameter space, the repeated estimation of the Fis…"
+    },
+    {
+      "id": "2603.29972",
+      "source": "arxiv",
+      "title": "Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition",
+      "url": "https://arxiv.org/abs/2603.29972",
+      "author": "Manuel Quintero, Advik Shreekumar, William T. Stephenson +1",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Scientists often want to explain why an outcome is different in two groups. For instance, differences in patient mortality rates across two hospitals could be due to differences in the patients themse…"
+    },
+    {
+      "id": "2603.26506",
+      "source": "arxiv",
+      "title": "Identifying Connectivity Distributions from Neural Dynamics Using Flows",
+      "url": "https://arxiv.org/abs/2603.26506",
+      "author": "Timothy Doyeon Kim, Ulises Pereira-Obilinovic, Yiliu Wang +2",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Connectivity structure shapes neural computation, but inferring this structure from population recordings is degenerate: multiple connectivity structures can generate identical dynamics. Recent work u…"
+    },
+    {
+      "id": "2603.22235",
+      "source": "arxiv",
+      "title": "ShapDBM: Exploring Decision Boundary Maps in Shapley Space",
+      "url": "https://arxiv.org/abs/2603.22235",
+      "author": "Luke Watkin, Daniel Archambault, Alex Telea",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Decision Boundary Maps (DBMs) are an effective tool for visualising machine learning classification boundaries. Yet, DBM quality strongly depends on the dimensionality reduction (DR) technique and hig…"
+    },
+    {
+      "id": "2603.19862",
+      "source": "arxiv",
+      "title": "IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment",
+      "url": "https://arxiv.org/abs/2603.19862",
+      "author": "Simone Magistri, Dipam Goswami, Marco Mistretta +3",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Vision-Language Models like CLIP are extensively used for inter-modal tasks which involve both visual and text modalities. However, when the individual modality encoders are applied to inherently intr…"
+    },
+    {
+      "id": "2603.14324",
+      "source": "arxiv",
+      "title": "Learning-to-Defer with Expert-Conditional Advice",
+      "url": "https://arxiv.org/abs/2603.14324",
+      "author": "Yannis Montreuil, Le\\\"ina Montreuil, Axel Carlier +2",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Learning-to-Defer routes each input to the expert that minimizes expected cost, but it assumes that the information available to every expert is fixed at decision time. Many modern systems violate thi…"
+    },
+    {
+      "id": "2603.13875",
+      "source": "arxiv",
+      "title": "GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent",
+      "url": "https://arxiv.org/abs/2603.13875",
+      "author": "Yuri Kuratov, Matvey Kairov, Aydar Bulatov +2",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Many large language model applications require conditioning on long contexts. Transformers typically support this by storing a large per-layer KV-cache of past activations, which incurs substantial me…"
+    },
+    {
+      "id": "2603.09787",
+      "source": "arxiv",
+      "title": "What is Missing? Explaining Neurons Activated by Absent Concepts",
+      "url": "https://arxiv.org/abs/2603.09787",
+      "author": "Robin Hesse, Simone Schaub-Meyer, Janina Hesse +2",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Explainable artificial intelligence (XAI) aims to provide human-interpretable insights into the behavior of deep neural networks (DNNs), typically by estimating a simplified causal structure of the mo…"
+    },
+    {
+      "id": "2603.08721",
+      "source": "arxiv",
+      "title": "KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware",
+      "url": "https://arxiv.org/abs/2603.08721",
+      "author": "Jiayi Nie, Haoran Wu, Yao Lai +9",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "New AI accelerators with novel instruction set architectures (ISAs) often require developers to manually craft low-level kernels, a time-consuming and error-prone process that does not scale across ha…"
+    },
+    {
+      "id": "2602.21620",
+      "source": "arxiv",
+      "title": "Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners",
+      "url": "https://arxiv.org/abs/2602.21620",
+      "author": "Arnab Maiti, Junyan Liu, Kevin Jamieson +1",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "We study the discrete Bertrand pricing game with a non-increasing demand function. The game has $n \\ge 2$ players who simultaneously choose prices from the set $\\{1/k, 2/k, \\ldots, 1\\}$, where $k\\in\\m…"
+    },
+    {
+      "id": "2602.20176",
+      "source": "arxiv",
+      "title": "Cross-Chirality Generalization by Axial Vectors for Hetero-Chiral Protein-Peptide Interaction Design",
+      "url": "https://arxiv.org/abs/2602.20176",
+      "author": "Ziyi Yang, Zitong Tian, Yinjun Jia +7",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "D-peptide binders targeting L-proteins have promising therapeutic potential. Despite rapid advances in machine learning-based target-conditioned peptide design, generating D-peptide binders remains la…"
+    },
+    {
+      "id": "2602.19049",
+      "source": "arxiv",
+      "title": "IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning",
+      "url": "https://arxiv.org/abs/2602.19049",
+      "author": "Yinhan He, Yaochen Zhu, Mingjia Shi +5",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Large language models increasingly rely on long chains of thought to improve accuracy, yet such gains come with substantial inference-time costs. We revisit token-efficient post-training and argue tha…"
+    },
+    {
+      "id": "2602.17587",
+      "source": "arxiv",
+      "title": "Asymptotically Optimal Sequential Testing with Markovian Data",
+      "url": "https://arxiv.org/abs/2602.17587",
+      "author": "Alhad Sethi, Kavali Sofia Sagar, Shubhada Agrawal +2",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "We study one-sided and $\\alpha$-correct sequential hypothesis testing for data generated by an ergodic, finite-state Markov chain. The null hypothesis is that the unknown transition matrix belongs to…"
+    },
+    {
+      "id": "2602.16601",
+      "source": "arxiv",
+      "title": "Quantifying Error Propagation and Model Collapse in Diffusion Models",
+      "url": "https://arxiv.org/abs/2602.16601",
+      "author": "Nail B. Khelifa, Richard E. Turner, Ramji Venkataramanan",
+      "publishedAt": "2026-06-01T04:00:00.000Z",
+      "summary": "Machine learning models are increasingly trained or fine-tuned on synthetic data. Recursively training on such data has been observed to significantly degrade performance in a wide range of tasks, oft…"
+    }
+  ]
 }
