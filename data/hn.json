@@ -1,126 +1,126 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-05-31T13:22:58.973Z",
+  "fetchedAt": "2026-06-01T02:57:09.760Z",
   "items": [
+    {
+      "id": "48347153",
+      "source": "hn",
+      "title": "The Speed of Prototyping in the Age of AI",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "score": 119,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48347153",
+      "author": "mooreds",
+      "publishedAt": "2026-05-31T16:37:34.000Z"
+    },
+    {
+      "id": "48326721",
+      "source": "hn",
+      "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+      "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+      "score": 94,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48326721",
+      "author": "uxhacker",
+      "publishedAt": "2026-05-29T17:50:11.000Z"
+    },
+    {
+      "id": "48346693",
+      "source": "hn",
+      "title": "Odysseus – self-hosted AI workspace",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "score": 122,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48346693",
+      "author": "Dzheky",
+      "publishedAt": "2026-05-31T15:50:34.000Z"
+    },
+    {
+      "id": "48351115",
+      "source": "hn",
+      "title": "Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow",
+      "url": "https://github.com/pssah4/vault-operator",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48351115",
+      "author": "pssah4",
+      "publishedAt": "2026-06-01T00:03:11.000Z"
+    },
+    {
+      "id": "48351721",
+      "source": "hn",
+      "title": "Unlawful by design: Exposing the human rights costs of generative AI",
+      "url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48351721",
+      "author": "cratermoon",
+      "publishedAt": "2026-06-01T01:41:59.000Z"
+    },
+    {
+      "id": "48348360",
+      "source": "hn",
+      "title": "Guidelines for Respectful Use of AI",
+      "url": "https://www.elidedbranches.com/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48348360",
+      "author": "ruds",
+      "publishedAt": "2026-05-31T18:35:45.000Z"
+    },
+    {
+      "id": "48348930",
+      "source": "hn",
+      "title": "The UI problem of AI coding agents",
+      "url": "https://cate.cero-ai.com/blog/ui-problem-ai-coding-agents",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48348930",
+      "author": "Imbiss",
+      "publishedAt": "2026-05-31T19:33:58.000Z"
+    },
+    {
+      "id": "48345028",
+      "source": "hn",
+      "title": "With Claude: Less Coding, More Testing",
+      "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/",
+      "score": 21,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48345028",
+      "author": "ingve",
+      "publishedAt": "2026-05-31T11:56:54.000Z"
+    },
+    {
+      "id": "48345896",
+      "source": "hn",
+      "title": "The solution might be cancelling my AI subscription",
+      "url": "https://thoughts.hmmz.org/2026-05-31.html",
+      "score": 343,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48345896",
+      "author": "dmw_ng",
+      "publishedAt": "2026-05-31T14:23:30.000Z"
+    },
     {
       "id": "48336760",
       "source": "hn",
       "title": "AI job grief: A psychological crisis hitting tech workers",
       "url": "https://jackmaguire.org/blog/ai-job-grief/",
-      "score": 164,
+      "score": 190,
       "commentsUrl": "https://news.ycombinator.com/item?id=48336760",
       "author": "LilBytes",
       "publishedAt": "2026-05-30T14:41:26.000Z"
     },
     {
-      "id": "48315016",
+      "id": "48346640",
       "source": "hn",
-      "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
-      "url": "https://openenvelope.org/docs/schema/",
-      "score": 43,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48315016",
-      "author": "ashconway",
-      "publishedAt": "2026-05-28T20:30:20.000Z"
+      "title": "Remove all LLM generated commits before people get hurt by this nonsense",
+      "url": "https://github.com/RsyncProject/rsync/issues/934",
+      "score": 26,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48346640",
+      "author": "shantnutiwari",
+      "publishedAt": "2026-05-31T15:44:30.000Z"
     },
     {
       "id": "48311647",
       "source": "hn",
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1749,
+      "score": 1758,
       "commentsUrl": "https://news.ycombinator.com/item?id=48311647",
       "author": "craigmart",
       "publishedAt": "2026-05-28T16:49:14.000Z"
-    },
-    {
-      "id": "48328184",
-      "source": "hn",
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "url": "https://github.com/jmaczan/tiny-vllm",
-      "score": 188,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48328184",
-      "author": "yu3zhou4",
-      "publishedAt": "2026-05-29T19:38:27.000Z"
-    },
-    {
-      "id": "48311705",
-      "source": "hn",
-      "title": "Dynamic Workflows in Claude Code",
-      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-      "score": 188,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48311705",
-      "author": "mil22",
-      "publishedAt": "2026-05-28T16:52:21.000Z"
-    },
-    {
-      "id": "48321076",
-      "source": "hn",
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "score": 214,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48321076",
-      "author": "NicoConstant",
-      "publishedAt": "2026-05-29T09:47:23.000Z"
-    },
-    {
-      "id": "48325340",
-      "source": "hn",
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 460,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48325340",
-      "author": "vnglst",
-      "publishedAt": "2026-05-29T16:22:01.000Z"
-    },
-    {
-      "id": "48340189",
-      "source": "hn",
-      "title": "1M Ancient Greek fragments soon to be translated with the help of AI",
-      "url": "https://www.oeaw.ac.at/en/news/austrian-academy-of-sciences-is-developing-the-ancient-greek-ai-apollo-with-mistral-ai-and-reply",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48340189",
-      "author": "janandonly",
-      "publishedAt": "2026-05-30T20:14:14.000Z"
-    },
-    {
-      "id": "48335388",
-      "source": "hn",
-      "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-      "score": 177,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48335388",
-      "author": "1vuio0pswjnm7",
-      "publishedAt": "2026-05-30T12:17:33.000Z"
-    },
-    {
-      "id": "48324910",
-      "source": "hn",
-      "title": "CAPTCHAs can still detect AI agents",
-      "url": "https://research.roundtable.ai/captchas-detect-ai/",
-      "score": 83,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48324910",
-      "author": "timshell",
-      "publishedAt": "2026-05-29T15:57:37.000Z"
-    },
-    {
-      "id": "48341921",
-      "source": "hn",
-      "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-      "score": 48,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48341921",
-      "author": "1vuio0pswjnm7",
-      "publishedAt": "2026-05-31T00:23:33.000Z"
-    },
-    {
-      "id": "48322929",
-      "source": "hn",
-      "title": "Expertise in the age of AI",
-      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
-      "score": 124,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48322929",
-      "author": "brilee",
-      "publishedAt": "2026-05-29T13:35:13.000Z"
     }
   ]
 }
