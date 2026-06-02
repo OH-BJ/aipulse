@@ -1,23 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-02T02:54:32.600Z",
+  "fetchedAt": "2026-06-02T16:08:57.860Z",
   "items": [
+    {
+      "id": "48368121",
+      "source": "hn",
+      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "url": "https://blog.adafruit.com/",
+      "score": 392,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48368121",
+      "author": "semanser",
+      "publishedAt": "2026-06-02T10:00:56.000Z"
+    },
+    {
+      "id": "48371592",
+      "source": "hn",
+      "title": "Americans don't know how to fight AI so they're fighting data centers",
+      "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48371592",
+      "author": "stalfosknight",
+      "publishedAt": "2026-06-02T15:32:06.000Z"
+    },
     {
       "id": "48364055",
       "source": "hn",
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
       "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 104,
+      "score": 570,
       "commentsUrl": "https://news.ycombinator.com/item?id=48364055",
       "author": "1vuio0pswjnm7",
       "publishedAt": "2026-06-01T23:45:46.000Z"
+    },
+    {
+      "id": "48369098",
+      "source": "hn",
+      "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48369098",
+      "author": "nedwin",
+      "publishedAt": "2026-06-02T12:01:04.000Z"
     },
     {
       "id": "48363132",
       "source": "hn",
       "title": "OpenAI frontier models and Codex are now available on AWS",
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "score": 152,
+      "score": 338,
       "commentsUrl": "https://news.ycombinator.com/item?id=48363132",
       "author": "typpo",
       "publishedAt": "2026-06-01T21:50:02.000Z"
@@ -27,7 +57,7 @@
       "source": "hn",
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 334,
+      "score": 472,
       "commentsUrl": "https://news.ycombinator.com/item?id=48359232",
       "author": "prakashqwerty",
       "publishedAt": "2026-06-01T16:41:49.000Z"
@@ -37,7 +67,7 @@
       "source": "hn",
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
       "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-      "score": 115,
+      "score": 233,
       "commentsUrl": "https://news.ycombinator.com/item?id=48362515",
       "author": "gregschlom",
       "publishedAt": "2026-06-01T20:55:15.000Z"
@@ -47,7 +77,7 @@
       "source": "hn",
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
       "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "score": 184,
+      "score": 255,
       "commentsUrl": "https://news.ycombinator.com/item?id=48358667",
       "author": "cyunker",
       "publishedAt": "2026-06-01T16:02:04.000Z"
@@ -57,7 +87,7 @@
       "source": "hn",
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
       "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "score": 459,
+      "score": 514,
       "commentsUrl": "https://news.ycombinator.com/item?id=48358646",
       "author": "surprisetalk",
       "publishedAt": "2026-06-01T16:00:40.000Z"
@@ -67,70 +97,50 @@
       "source": "hn",
       "title": "Build a Basic AI Agent from Scratch: Tools",
       "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
-      "score": 17,
+      "score": 34,
       "commentsUrl": "https://news.ycombinator.com/item?id=48360088",
       "author": "ruxudev",
       "publishedAt": "2026-06-01T17:40:00.000Z"
     },
     {
-      "id": "48364716",
+      "id": "48368187",
       "source": "hn",
-      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system",
-      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48364716",
-      "author": "spenvo",
-      "publishedAt": "2026-06-02T01:17:14.000Z"
-    },
-    {
-      "id": "48360933",
-      "source": "hn",
-      "title": "Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices",
-      "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo",
-      "score": 47,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48360933",
-      "author": "benwen",
-      "publishedAt": "2026-06-01T18:44:09.000Z"
-    },
-    {
-      "id": "48364520",
-      "source": "hn",
-      "title": "Colorado Rolls Back Landmark AI Governance Law",
-      "url": "https://www.bankinfosecurity.com/colorado-rolls-back-landmark-ai-governance-law-a-31804",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48364520",
-      "author": "mooreds",
-      "publishedAt": "2026-06-02T00:53:17.000Z"
-    },
-    {
-      "id": "48359130",
-      "source": "hn",
-      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
-      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "score": 285,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48359130",
-      "author": "jaredwiener",
-      "publishedAt": "2026-06-01T16:33:59.000Z"
+      "title": "Michael Burry says neither SpaceX nor Anthropic is worth $1T",
+      "url": "https://www.businessinsider.com/big-short-michael-burry-spacex-anthropic-ipo-ai-bubble-claude-2026-6",
+      "score": 107,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48368187",
+      "author": "mgh2",
+      "publishedAt": "2026-06-02T10:09:21.000Z"
     },
     {
       "id": "48347153",
       "source": "hn",
       "title": "The Speed of Prototyping in the Age of AI",
       "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "score": 189,
+      "score": 196,
       "commentsUrl": "https://news.ycombinator.com/item?id=48347153",
       "author": "mooreds",
       "publishedAt": "2026-05-31T16:37:34.000Z"
     },
     {
-      "id": "48362212",
+      "id": "48370437",
       "source": "hn",
-      "title": "Remote work, not AI, has sidelined recent college graduates, research finds",
-      "url": "https://text.npr.org/nx-s1-5843076",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48362212",
-      "author": "hi41",
-      "publishedAt": "2026-06-01T20:27:42.000Z"
+      "title": "AI Doesn't Have ROI",
+      "url": "https://www.wheresyoured.at/ai-doesnt-have-roi/",
+      "score": 43,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48370437",
+      "author": "crescit_eundo",
+      "publishedAt": "2026-06-02T14:06:52.000Z"
+    },
+    {
+      "id": "48366607",
+      "source": "hn",
+      "title": "Show HN: Viveka: filter LLM output against a Lean-verified Advaita Vedanta model",
+      "url": "https://github.com/SpecStudio-net/Viveka",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48366607",
+      "author": "adyashakti",
+      "publishedAt": "2026-06-02T06:01:37.000Z"
     }
   ]
 }
