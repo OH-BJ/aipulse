@@ -1,7 +1,160 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-02T16:08:58.499Z",
+  "fetchedAt": "2026-06-03T03:29:34.501Z",
   "items": [
+    {
+      "id": "30138",
+      "source": "geeknews",
+      "title": "Michael Burry, SpaceX와 Anthropic 모두 1조 달러 가치가 없다고 말해",
+      "url": "https://news.hada.io/topic?id=30138",
+      "commentsUrl": "https://news.hada.io/topic?id=30138",
+      "author": "xguru",
+      "publishedAt": "2026-06-03T02:46:13.000Z"
+    },
+    {
+      "id": "30137",
+      "source": "geeknews",
+      "title": "MAI-Code-1-Flash",
+      "url": "https://news.hada.io/topic?id=30137",
+      "commentsUrl": "https://news.hada.io/topic?id=30137",
+      "author": "neo",
+      "publishedAt": "2026-06-03T02:35:26.000Z"
+    },
+    {
+      "id": "30136",
+      "source": "geeknews",
+      "title": "작업별 맞춤 하네스: Claude Code의 동적 워크플로우",
+      "url": "https://news.hada.io/topic?id=30136",
+      "commentsUrl": "https://news.hada.io/topic?id=30136",
+      "author": "neo",
+      "publishedAt": "2026-06-03T02:00:03.000Z"
+    },
+    {
+      "id": "30135",
+      "source": "geeknews",
+      "title": "Vim Classic 8.3 출시 - 장기 지원 Vim 포크",
+      "url": "https://news.hada.io/topic?id=30135",
+      "commentsUrl": "https://news.hada.io/topic?id=30135",
+      "author": "neo",
+      "publishedAt": "2026-06-03T01:01:12.000Z"
+    },
+    {
+      "id": "30134",
+      "source": "geeknews",
+      "title": "macOS는 그리드를 되찾아야 한다",
+      "url": "https://news.hada.io/topic?id=30134",
+      "commentsUrl": "https://news.hada.io/topic?id=30134",
+      "author": "neo",
+      "publishedAt": "2026-06-03T00:50:15.000Z"
+    },
+    {
+      "id": "30133",
+      "source": "geeknews",
+      "title": "Gmail은 내가 멍청하다고 생각해서, 나는 떠났다",
+      "url": "https://news.hada.io/topic?id=30133",
+      "commentsUrl": "https://news.hada.io/topic?id=30133",
+      "author": "neo",
+      "publishedAt": "2026-06-03T00:47:15.000Z"
+    },
+    {
+      "id": "30132",
+      "source": "geeknews",
+      "title": "Adafruit, Flux.ai를 대리한 Fenwick 법률 자문으로부터 요구 서한을 받다",
+      "url": "https://news.hada.io/topic?id=30132",
+      "commentsUrl": "https://news.hada.io/topic?id=30132",
+      "author": "neo",
+      "publishedAt": "2026-06-03T00:44:15.000Z"
+    },
+    {
+      "id": "30131",
+      "source": "geeknews",
+      "title": "구직 중인 사람들에게 스팸을 보내지 마세요. 그건 잔인합니다",
+      "url": "https://news.hada.io/topic?id=30131",
+      "commentsUrl": "https://news.hada.io/topic?id=30131",
+      "author": "neo",
+      "publishedAt": "2026-06-03T00:41:15.000Z"
+    },
+    {
+      "id": "30130",
+      "source": "geeknews",
+      "title": "누구나 만들 수 있게 되면, 정말 중요한 것은 뭘까?",
+      "url": "https://news.hada.io/topic?id=30130",
+      "commentsUrl": "https://news.hada.io/topic?id=30130",
+      "author": "xguru",
+      "publishedAt": "2026-06-03T00:31:02.000Z"
+    },
+    {
+      "id": "30129",
+      "source": "geeknews",
+      "title": "Staff 프로덕트 디자이너로 일하는 법",
+      "url": "https://news.hada.io/topic?id=30129",
+      "commentsUrl": "https://news.hada.io/topic?id=30129",
+      "author": "neo",
+      "publishedAt": "2026-06-03T00:25:02.000Z"
+    },
+    {
+      "id": "30128",
+      "source": "geeknews",
+      "title": "OpenAI, Codex에서 웹사이트를 만들어 배포하는 Sites 플러그인 공개",
+      "url": "https://news.hada.io/topic?id=30128",
+      "commentsUrl": "https://news.hada.io/topic?id=30128",
+      "author": "xguru",
+      "publishedAt": "2026-06-03T00:16:01.000Z"
+    },
+    {
+      "id": "30127",
+      "source": "geeknews",
+      "title": "Slop 시대의 품질",
+      "url": "https://news.hada.io/topic?id=30127",
+      "commentsUrl": "https://news.hada.io/topic?id=30127",
+      "author": "neo",
+      "publishedAt": "2026-06-03T00:08:40.000Z"
+    },
+    {
+      "id": "30126",
+      "source": "geeknews",
+      "title": "왜 Janet인가? (2023)",
+      "url": "https://news.hada.io/topic?id=30126",
+      "commentsUrl": "https://news.hada.io/topic?id=30126",
+      "author": "neo",
+      "publishedAt": "2026-06-03T00:05:40.000Z"
+    },
+    {
+      "id": "30125",
+      "source": "geeknews",
+      "title": "Codex, 역할별 플러그인·Sites·주석으로 비개발자 업무까지 확장",
+      "url": "https://news.hada.io/topic?id=30125",
+      "commentsUrl": "https://news.hada.io/topic?id=30125",
+      "author": "neo",
+      "publishedAt": "2026-06-02T23:35:02.000Z"
+    },
+    {
+      "id": "30124",
+      "source": "geeknews",
+      "title": "DuckDuckGo, 트래픽 급증 속 ‘No-AI’ 검색 엔진에 더 쉽게 접근할 수 있게 함",
+      "url": "https://news.hada.io/topic?id=30124",
+      "commentsUrl": "https://news.hada.io/topic?id=30124",
+      "author": "neo",
+      "publishedAt": "2026-06-02T22:39:10.000Z"
+    },
+    {
+      "id": "30121",
+      "source": "geeknews",
+      "title": "Show GN: Hunchi - 초기 프로젝트의 다음 마일스톤을 YES/NO로 예측하는 서비스",
+      "url": "https://news.hada.io/topic?id=30121",
+      "commentsUrl": "https://news.hada.io/topic?id=30121",
+      "author": "warm9806",
+      "publishedAt": "2026-06-02T17:47:40.000Z"
+    },
+    {
+      "id": "30120",
+      "source": "geeknews",
+      "title": "Chipotlai Max - Chipotle Pepper AI를 기본 모델로 쓰는 밈 AI 코딩 에이전트",
+      "url": "https://news.hada.io/topic?id=30120",
+      "commentsUrl": "https://news.hada.io/topic?id=30120",
+      "author": "neo",
+      "publishedAt": "2026-06-02T16:32:52.000Z"
+    },
     {
       "id": "30119",
       "source": "geeknews",
@@ -23,7 +176,7 @@
     {
       "id": "30117",
       "source": "geeknews",
-      "title": "RGB 값을 255로 정규화해야 할까, 256으로 정규화해야 할까?",
+      "title": "RGB 값을 255로 나눠 정규화해야 할까, 256으로 나눠야 할까?",
       "url": "https://news.hada.io/topic?id=30117",
       "commentsUrl": "https://news.hada.io/topic?id=30117",
       "author": "neo",
@@ -118,159 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30107",
       "author": "neo",
       "publishedAt": "2026-06-02T03:33:33.000Z"
-    },
-    {
-      "id": "30106",
-      "source": "geeknews",
-      "title": "설계상 불법: 생성형 AI의 인권 비용 드러내기",
-      "url": "https://news.hada.io/topic?id=30106",
-      "commentsUrl": "https://news.hada.io/topic?id=30106",
-      "author": "neo",
-      "publishedAt": "2026-06-02T03:01:31.000Z"
-    },
-    {
-      "id": "30105",
-      "source": "geeknews",
-      "title": "Nvidia Cosmos 3",
-      "url": "https://news.hada.io/topic?id=30105",
-      "commentsUrl": "https://news.hada.io/topic?id=30105",
-      "author": "xguru",
-      "publishedAt": "2026-06-02T02:59:35.000Z"
-    },
-    {
-      "id": "30104",
-      "source": "geeknews",
-      "title": "Microsoft, NVIDIA 기반 Surface Laptop Ultra로 MacBook Pro 경쟁 제품을 만듦",
-      "url": "https://news.hada.io/topic?id=30104",
-      "commentsUrl": "https://news.hada.io/topic?id=30104",
-      "author": "xguru",
-      "publishedAt": "2026-06-02T02:40:18.000Z"
-    },
-    {
-      "id": "30103",
-      "source": "geeknews",
-      "title": "SRE에서의 AI: Google은 어떻게 신뢰성 있는 운영의 미래를 설계하는가",
-      "url": "https://news.hada.io/topic?id=30103",
-      "commentsUrl": "https://news.hada.io/topic?id=30103",
-      "author": "epdlemflaj",
-      "publishedAt": "2026-06-02T02:08:38.000Z"
-    },
-    {
-      "id": "30102",
-      "source": "geeknews",
-      "title": "NVIDIA, RTX Spark 공개",
-      "url": "https://news.hada.io/topic?id=30102",
-      "commentsUrl": "https://news.hada.io/topic?id=30102",
-      "author": "xguru",
-      "publishedAt": "2026-06-02T02:03:12.000Z"
-    },
-    {
-      "id": "30100",
-      "source": "geeknews",
-      "title": "Show GN: oh-my-harness - AI 코딩 에이전트를 위한 훅 제너레이터 CLI",
-      "url": "https://news.hada.io/topic?id=30100",
-      "commentsUrl": "https://news.hada.io/topic?id=30100",
-      "author": "kyu1204",
-      "publishedAt": "2026-06-02T01:31:31.000Z"
-    },
-    {
-      "id": "30099",
-      "source": "geeknews",
-      "title": "Show GN: AI가 쓴 티 나는 문장, 패턴으로 잡아서 고쳐주는 도구를 만들었습니다",
-      "url": "https://news.hada.io/topic?id=30099",
-      "commentsUrl": "https://news.hada.io/topic?id=30099",
-      "author": "devswha",
-      "publishedAt": "2026-06-02T01:20:44.000Z"
-    },
-    {
-      "id": "30098",
-      "source": "geeknews",
-      "title": "Anthropic, SEC에 S-1 초안을 비공개 제출",
-      "url": "https://news.hada.io/topic?id=30098",
-      "commentsUrl": "https://news.hada.io/topic?id=30098",
-      "author": "neo",
-      "publishedAt": "2026-06-02T01:00:38.000Z"
-    },
-    {
-      "id": "30097",
-      "source": "geeknews",
-      "title": "The Pirate Bay는 압수수색 20년 뒤에도 여전히 회복력을 유지함",
-      "url": "https://news.hada.io/topic?id=30097",
-      "commentsUrl": "https://news.hada.io/topic?id=30097",
-      "author": "neo",
-      "publishedAt": "2026-06-02T00:57:38.000Z"
-    },
-    {
-      "id": "30096",
-      "source": "geeknews",
-      "title": "10년 된 Xeon이면 충분하다",
-      "url": "https://news.hada.io/topic?id=30096",
-      "commentsUrl": "https://news.hada.io/topic?id=30096",
-      "author": "neo",
-      "publishedAt": "2026-06-02T00:54:38.000Z"
-    },
-    {
-      "id": "30095",
-      "source": "geeknews",
-      "title": "Red Hat Cloud Services 전반에서 악성 npm 패키지 발견",
-      "url": "https://news.hada.io/topic?id=30095",
-      "commentsUrl": "https://news.hada.io/topic?id=30095",
-      "author": "neo",
-      "publishedAt": "2026-06-02T00:51:38.000Z"
-    },
-    {
-      "id": "30094",
-      "source": "geeknews",
-      "title": "최신 Instagram “익스플로잇”은 내가 본 것 중 가장 어이없다",
-      "url": "https://news.hada.io/topic?id=30094",
-      "commentsUrl": "https://news.hada.io/topic?id=30094",
-      "author": "neo",
-      "publishedAt": "2026-06-02T00:48:38.000Z"
-    },
-    {
-      "id": "30093",
-      "source": "geeknews",
-      "title": "GitHub와 소프트웨어에 대한 범죄",
-      "url": "https://news.hada.io/topic?id=30093",
-      "commentsUrl": "https://news.hada.io/topic?id=30093",
-      "author": "neo",
-      "publishedAt": "2026-06-02T00:34:36.000Z"
-    },
-    {
-      "id": "30092",
-      "source": "geeknews",
-      "title": "당신은 systemd 타이머를 충분히 좋아하지 않는군요",
-      "url": "https://news.hada.io/topic?id=30092",
-      "commentsUrl": "https://news.hada.io/topic?id=30092",
-      "author": "neo",
-      "publishedAt": "2026-06-02T00:31:36.000Z"
-    },
-    {
-      "id": "30091",
-      "source": "geeknews",
-      "title": "geo-seo-claude - Claude Code용 GEO 우선 SEO 스킬",
-      "url": "https://news.hada.io/topic?id=30091",
-      "commentsUrl": "https://news.hada.io/topic?id=30091",
-      "author": "xguru",
-      "publishedAt": "2026-06-02T00:31:02.000Z"
-    },
-    {
-      "id": "30090",
-      "source": "geeknews",
-      "title": "단순히 X가 아니라, Y다",
-      "url": "https://news.hada.io/topic?id=30090",
-      "commentsUrl": "https://news.hada.io/topic?id=30090",
-      "author": "neo",
-      "publishedAt": "2026-06-02T00:28:36.000Z"
-    },
-    {
-      "id": "30089",
-      "source": "geeknews",
-      "title": "Rust로 구현한 Zstandard 발표",
-      "url": "https://news.hada.io/topic?id=30089",
-      "commentsUrl": "https://news.hada.io/topic?id=30089",
-      "author": "neo",
-      "publishedAt": "2026-06-02T00:25:36.000Z"
     }
   ]
 }

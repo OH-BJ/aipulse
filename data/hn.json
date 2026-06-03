@@ -1,36 +1,56 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-02T16:08:57.860Z",
+  "fetchedAt": "2026-06-03T03:29:33.899Z",
   "items": [
     {
-      "id": "48368121",
+      "id": "48377761",
       "source": "hn",
-      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-      "url": "https://blog.adafruit.com/",
-      "score": 392,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48368121",
-      "author": "semanser",
-      "publishedAt": "2026-06-02T10:00:56.000Z"
+      "title": "AI outperforms law professors in Stanford Law study",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "score": 123,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48377761",
+      "author": "berlianta",
+      "publishedAt": "2026-06-02T23:43:12.000Z"
     },
     {
-      "id": "48371592",
+      "id": "48372628",
       "source": "hn",
-      "title": "Americans don't know how to fight AI so they're fighting data centers",
-      "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
-      "score": 37,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48371592",
-      "author": "stalfosknight",
-      "publishedAt": "2026-06-02T15:32:06.000Z"
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "score": 183,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48372628",
+      "author": "_alternator_",
+      "publishedAt": "2026-06-02T16:40:16.000Z"
     },
     {
-      "id": "48364055",
+      "id": "48373675",
       "source": "hn",
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 570,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48364055",
-      "author": "1vuio0pswjnm7",
-      "publishedAt": "2026-06-01T23:45:46.000Z"
+      "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
+      "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
+      "score": 87,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48373675",
+      "author": "kkm",
+      "publishedAt": "2026-06-02T17:52:48.000Z"
+    },
+    {
+      "id": "48377854",
+      "source": "hn",
+      "title": "More than 6 out of 10 people turn to AI for psychological support",
+      "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+      "score": 66,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48377854",
+      "author": "mgh2",
+      "publishedAt": "2026-06-02T23:55:04.000Z"
+    },
+    {
+      "id": "48374528",
+      "source": "hn",
+      "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
+      "url": "https://news.ycombinator.com/item?id=48374528",
+      "score": 32,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48374528",
+      "author": "rishipankhaniya",
+      "publishedAt": "2026-06-02T18:51:09.000Z"
     },
     {
       "id": "48369098",
@@ -43,104 +63,104 @@
       "publishedAt": "2026-06-02T12:01:04.000Z"
     },
     {
+      "id": "48368121",
+      "source": "hn",
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+      "url": "https://blog.adafruit.com/",
+      "score": 632,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48368121",
+      "author": "semanser",
+      "publishedAt": "2026-06-02T10:00:56.000Z"
+    },
+    {
+      "id": "48375673",
+      "source": "hn",
+      "title": "Now AI agents need what RSS does",
+      "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
+      "score": 65,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48375673",
+      "author": "julienreszka",
+      "publishedAt": "2026-06-02T20:19:11.000Z"
+    },
+    {
+      "id": "48367223",
+      "source": "hn",
+      "title": "Different attitudes towards AI in California's university system",
+      "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+      "score": 104,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48367223",
+      "author": "jeffwass",
+      "publishedAt": "2026-06-02T07:46:20.000Z"
+    },
+    {
+      "id": "48364055",
+      "source": "hn",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "score": 686,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48364055",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-06-01T23:45:46.000Z"
+    },
+    {
+      "id": "48373045",
+      "source": "hn",
+      "title": "CLI tool that packages data science projects for LLM context windows",
+      "url": "https://github.com/arianmokhtariha/data2prompt",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48373045",
+      "author": "ArianM",
+      "publishedAt": "2026-06-02T17:08:25.000Z"
+    },
+    {
+      "id": "48376569",
+      "source": "hn",
+      "title": "Skillhound: Give your AI access to every public SKILL.md",
+      "url": "https://www.skillhound.ai/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48376569",
+      "author": "mfkhalil",
+      "publishedAt": "2026-06-02T21:28:56.000Z"
+    },
+    {
+      "id": "48379024",
+      "source": "hn",
+      "title": "Look Who Just Crashed OpenAI and SoftBank's IPO Party",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-06-02/ipo-race-look-who-just-crashed-open-ai-and-softbank-s-party",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48379024",
+      "author": "petethomas",
+      "publishedAt": "2026-06-03T02:12:48.000Z"
+    },
+    {
+      "id": "48370368",
+      "source": "hn",
+      "title": "Show HN: Build Your Own AI Agent CLI in 150 Lines",
+      "url": "https://go-micro.dev/blog/11",
+      "score": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48370368",
+      "author": "asim",
+      "publishedAt": "2026-06-02T14:00:38.000Z"
+    },
+    {
+      "id": "48374308",
+      "source": "hn",
+      "title": "Show HN: 100cc - Roll your own Claude in 100 lines",
+      "url": "https://github.com/yujqiao/100cc",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48374308",
+      "author": "rapiz",
+      "publishedAt": "2026-06-02T18:35:06.000Z"
+    },
+    {
       "id": "48363132",
       "source": "hn",
       "title": "OpenAI frontier models and Codex are now available on AWS",
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "score": 338,
+      "score": 359,
       "commentsUrl": "https://news.ycombinator.com/item?id=48363132",
       "author": "typpo",
       "publishedAt": "2026-06-01T21:50:02.000Z"
-    },
-    {
-      "id": "48359232",
-      "source": "hn",
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 472,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48359232",
-      "author": "prakashqwerty",
-      "publishedAt": "2026-06-01T16:41:49.000Z"
-    },
-    {
-      "id": "48362515",
-      "source": "hn",
-      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-      "score": 233,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48362515",
-      "author": "gregschlom",
-      "publishedAt": "2026-06-01T20:55:15.000Z"
-    },
-    {
-      "id": "48358667",
-      "source": "hn",
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "score": 255,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48358667",
-      "author": "cyunker",
-      "publishedAt": "2026-06-01T16:02:04.000Z"
-    },
-    {
-      "id": "48358646",
-      "source": "hn",
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "score": 514,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48358646",
-      "author": "surprisetalk",
-      "publishedAt": "2026-06-01T16:00:40.000Z"
-    },
-    {
-      "id": "48360088",
-      "source": "hn",
-      "title": "Build a Basic AI Agent from Scratch: Tools",
-      "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48360088",
-      "author": "ruxudev",
-      "publishedAt": "2026-06-01T17:40:00.000Z"
-    },
-    {
-      "id": "48368187",
-      "source": "hn",
-      "title": "Michael Burry says neither SpaceX nor Anthropic is worth $1T",
-      "url": "https://www.businessinsider.com/big-short-michael-burry-spacex-anthropic-ipo-ai-bubble-claude-2026-6",
-      "score": 107,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48368187",
-      "author": "mgh2",
-      "publishedAt": "2026-06-02T10:09:21.000Z"
-    },
-    {
-      "id": "48347153",
-      "source": "hn",
-      "title": "The Speed of Prototyping in the Age of AI",
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "score": 196,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48347153",
-      "author": "mooreds",
-      "publishedAt": "2026-05-31T16:37:34.000Z"
-    },
-    {
-      "id": "48370437",
-      "source": "hn",
-      "title": "AI Doesn't Have ROI",
-      "url": "https://www.wheresyoured.at/ai-doesnt-have-roi/",
-      "score": 43,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48370437",
-      "author": "crescit_eundo",
-      "publishedAt": "2026-06-02T14:06:52.000Z"
-    },
-    {
-      "id": "48366607",
-      "source": "hn",
-      "title": "Show HN: Viveka: filter LLM output against a Lean-verified Advaita Vedanta model",
-      "url": "https://github.com/SpecStudio-net/Viveka",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48366607",
-      "author": "adyashakti",
-      "publishedAt": "2026-06-02T06:01:37.000Z"
     }
   ]
 }
