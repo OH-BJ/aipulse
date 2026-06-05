@@ -1,23 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-05T02:46:27.815Z",
+  "fetchedAt": "2026-06-05T14:33:10.862Z",
   "items": [
+    {
+      "id": "48408442",
+      "source": "hn",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "score": 129,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48408442",
+      "author": "taubek",
+      "publishedAt": "2026-06-05T05:46:06.000Z"
+    },
     {
       "id": "48403980",
       "source": "hn",
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 284,
+      "score": 475,
       "commentsUrl": "https://news.ycombinator.com/item?id=48403980",
       "author": "binyu",
       "publishedAt": "2026-06-04T20:11:20.000Z"
+    },
+    {
+      "id": "48411510",
+      "source": "hn",
+      "title": "Programmers will document for Claude, but not for each other",
+      "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+      "score": 68,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48411510",
+      "author": "surprisetalk",
+      "publishedAt": "2026-06-05T12:30:17.000Z"
+    },
+    {
+      "id": "48409955",
+      "source": "hn",
+      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "url": "https://github.com/zdk/lowfat",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48409955",
+      "author": "zdkaster",
+      "publishedAt": "2026-06-05T09:10:42.000Z"
     },
     {
       "id": "48406358",
       "source": "hn",
       "title": "Open Code Review – An AI-powered code review CLI tool",
       "url": "https://github.com/alibaba/open-code-review",
-      "score": 51,
+      "score": 221,
       "commentsUrl": "https://news.ycombinator.com/item?id=48406358",
       "author": "geoffbp",
       "publishedAt": "2026-06-05T00:04:29.000Z"
@@ -27,67 +57,57 @@
       "source": "hn",
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "score": 345,
+      "score": 481,
       "commentsUrl": "https://news.ycombinator.com/item?id=48400842",
       "author": "meetpateltech",
       "publishedAt": "2026-06-04T16:20:17.000Z"
     },
     {
-      "id": "48406198",
+      "id": "48410589",
       "source": "hn",
-      "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
-      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48406198",
-      "author": "Cider9986",
-      "publishedAt": "2026-06-04T23:45:56.000Z"
-    },
-    {
-      "id": "48399528",
-      "source": "hn",
-      "title": "AI, Ashby Engineering, and the future",
-      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-      "score": 57,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48399528",
-      "author": "fredley",
-      "publishedAt": "2026-06-04T14:48:44.000Z"
+      "title": "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
+      "url": "https://news.ycombinator.com/item?id=48410589",
+      "score": 26,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48410589",
+      "author": "sunshine-o",
+      "publishedAt": "2026-06-05T10:43:28.000Z"
     },
     {
       "id": "48392004",
       "source": "hn",
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
       "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 736,
+      "score": 787,
       "commentsUrl": "https://news.ycombinator.com/item?id=48392004",
       "author": "littlexsparkee",
       "publishedAt": "2026-06-04T00:18:02.000Z"
     },
     {
-      "id": "48404233",
+      "id": "48406198",
       "source": "hn",
-      "title": "NSA using Anthropic's Mythos for cyber attacks",
-      "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
-      "score": 78,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48404233",
-      "author": "jawiggins",
-      "publishedAt": "2026-06-04T20:33:02.000Z"
+      "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "score": 153,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48406198",
+      "author": "Cider9986",
+      "publishedAt": "2026-06-04T23:45:56.000Z"
     },
     {
-      "id": "48399358",
+      "id": "48408031",
       "source": "hn",
-      "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
-      "url": "https://boxes.dev",
-      "score": 85,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48399358",
-      "author": "nab",
-      "publishedAt": "2026-06-04T14:38:35.000Z"
+      "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+      "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+      "score": 79,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48408031",
+      "author": "Fricken",
+      "publishedAt": "2026-06-05T04:38:41.000Z"
     },
     {
       "id": "48383056",
       "source": "hn",
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 606,
+      "score": 608,
       "commentsUrl": "https://news.ycombinator.com/item?id=48383056",
       "author": "pdyc",
       "publishedAt": "2026-06-03T12:25:14.000Z"
@@ -97,40 +117,20 @@
       "source": "hn",
       "title": "Claude Code and Codex can have real-time conversation via Git",
       "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
-      "score": 104,
+      "score": 112,
       "commentsUrl": "https://news.ycombinator.com/item?id=48345837",
       "author": "syumei",
       "publishedAt": "2026-05-31T14:12:48.000Z"
     },
     {
-      "id": "48392082",
+      "id": "48399528",
       "source": "hn",
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "score": 221,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48392082",
-      "author": "jbredeche",
-      "publishedAt": "2026-06-04T00:27:52.000Z"
-    },
-    {
-      "id": "48404658",
-      "source": "hn",
-      "title": "AI will consume as much water in 2030 as 1.3B people",
-      "url": "https://english.elpais.com/technology/2026-06-03/ai-will-consume-as-much-water-in-2030-as-13-billion-people.html",
-      "score": 29,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48404658",
-      "author": "dnnddidiej",
-      "publishedAt": "2026-06-04T21:07:34.000Z"
-    },
-    {
-      "id": "48401973",
-      "source": "hn",
-      "title": "Airlines Uses AI to Fake Empathy Rather Than Fix Problems: Passenger Sent Prompt",
-      "url": "https://viewfromthewing.com/airlines-are-using-ai-to-manufacture-empathy-instead-of-solving-problems-one-passenger-was-sent-the-prompt-by-mistake/",
-      "score": 38,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48401973",
-      "author": "crescit_eundo",
-      "publishedAt": "2026-06-04T17:39:59.000Z"
+      "title": "AI, Ashby Engineering, and the future",
+      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+      "score": 59,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48399528",
+      "author": "fredley",
+      "publishedAt": "2026-06-04T14:48:44.000Z"
     }
   ]
 }
