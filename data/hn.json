@@ -1,106 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-04T14:43:13.417Z",
+  "fetchedAt": "2026-06-05T02:46:27.815Z",
   "items": [
     {
-      "id": "48397435",
+      "id": "48403980",
       "source": "hn",
-      "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
-      "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
-      "score": 1,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48397435",
-      "author": "mathiasn",
-      "publishedAt": "2026-06-04T12:00:29.000Z"
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "score": 284,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48403980",
+      "author": "binyu",
+      "publishedAt": "2026-06-04T20:11:20.000Z"
+    },
+    {
+      "id": "48406358",
+      "source": "hn",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "score": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48406358",
+      "author": "geoffbp",
+      "publishedAt": "2026-06-05T00:04:29.000Z"
+    },
+    {
+      "id": "48400842",
+      "source": "hn",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "score": 345,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48400842",
+      "author": "meetpateltech",
+      "publishedAt": "2026-06-04T16:20:17.000Z"
+    },
+    {
+      "id": "48406198",
+      "source": "hn",
+      "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48406198",
+      "author": "Cider9986",
+      "publishedAt": "2026-06-04T23:45:56.000Z"
+    },
+    {
+      "id": "48399528",
+      "source": "hn",
+      "title": "AI, Ashby Engineering, and the future",
+      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48399528",
+      "author": "fredley",
+      "publishedAt": "2026-06-04T14:48:44.000Z"
     },
     {
       "id": "48392004",
       "source": "hn",
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
       "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 528,
+      "score": 736,
       "commentsUrl": "https://news.ycombinator.com/item?id=48392004",
       "author": "littlexsparkee",
       "publishedAt": "2026-06-04T00:18:02.000Z"
     },
     {
-      "id": "48392082",
+      "id": "48404233",
       "source": "hn",
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "score": 169,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48392082",
-      "author": "jbredeche",
-      "publishedAt": "2026-06-04T00:27:52.000Z"
+      "title": "NSA using Anthropic's Mythos for cyber attacks",
+      "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
+      "score": 78,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48404233",
+      "author": "jawiggins",
+      "publishedAt": "2026-06-04T20:33:02.000Z"
     },
     {
-      "id": "48345837",
+      "id": "48399358",
       "source": "hn",
-      "title": "Claude Code and Codex Can Have Real-Time Conversation via Git",
-      "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
-      "score": 78,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48345837",
-      "author": "syumei",
-      "publishedAt": "2026-05-31T14:12:48.000Z"
+      "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
+      "url": "https://boxes.dev",
+      "score": 85,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48399358",
+      "author": "nab",
+      "publishedAt": "2026-06-04T14:38:35.000Z"
     },
     {
       "id": "48383056",
       "source": "hn",
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 546,
+      "score": 606,
       "commentsUrl": "https://news.ycombinator.com/item?id=48383056",
       "author": "pdyc",
       "publishedAt": "2026-06-03T12:25:14.000Z"
     },
     {
-      "id": "48382052",
+      "id": "48345837",
       "source": "hn",
-      "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-      "score": 268,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48382052",
-      "author": "pseudolus",
-      "publishedAt": "2026-06-03T10:05:48.000Z"
+      "title": "Claude Code and Codex can have real-time conversation via Git",
+      "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
+      "score": 104,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48345837",
+      "author": "syumei",
+      "publishedAt": "2026-05-31T14:12:48.000Z"
     },
     {
-      "id": "48389586",
+      "id": "48392082",
       "source": "hn",
-      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "url": "https://github.com/zaydmulani09/mnemo",
-      "score": 53,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48389586",
-      "author": "zaydmulani",
-      "publishedAt": "2026-06-03T20:32:10.000Z"
+      "title": "The ways we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "score": 221,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48392082",
+      "author": "jbredeche",
+      "publishedAt": "2026-06-04T00:27:52.000Z"
     },
     {
-      "id": "48383241",
+      "id": "48404658",
       "source": "hn",
-      "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-      "score": 413,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48383241",
-      "author": "papersail",
-      "publishedAt": "2026-06-03T12:43:43.000Z"
+      "title": "AI will consume as much water in 2030 as 1.3B people",
+      "url": "https://english.elpais.com/technology/2026-06-03/ai-will-consume-as-much-water-in-2030-as-13-billion-people.html",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48404658",
+      "author": "dnnddidiej",
+      "publishedAt": "2026-06-04T21:07:34.000Z"
     },
     {
-      "id": "48379664",
+      "id": "48401973",
       "source": "hn",
-      "title": "U of T researchers demonstrate AI worm could target any online device",
-      "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
-      "score": 146,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48379664",
-      "author": "shscs911",
-      "publishedAt": "2026-06-03T03:47:21.000Z"
-    },
-    {
-      "id": "48377761",
-      "source": "hn",
-      "title": "AI outperforms law professors in Stanford Law study",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "score": 406,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48377761",
-      "author": "berlianta",
-      "publishedAt": "2026-06-02T23:43:12.000Z"
+      "title": "Airlines Uses AI to Fake Empathy Rather Than Fix Problems: Passenger Sent Prompt",
+      "url": "https://viewfromthewing.com/airlines-are-using-ai-to-manufacture-empathy-instead-of-solving-problems-one-passenger-was-sent-the-prompt-by-mistake/",
+      "score": 38,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48401973",
+      "author": "crescit_eundo",
+      "publishedAt": "2026-06-04T17:39:59.000Z"
     }
   ]
 }
