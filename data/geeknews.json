@@ -1,11 +1,56 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-06T02:33:42.151Z",
+  "fetchedAt": "2026-06-06T13:16:42.186Z",
   "items": [
+    {
+      "id": "30231",
+      "source": "geeknews",
+      "title": "Show GN: SidecarSnap - 마우스를 화면 끝으로 밀어 아이패드 사이드카 위치를 자동 배치해주는 맥 앱",
+      "url": "https://news.hada.io/topic?id=30231",
+      "commentsUrl": "https://news.hada.io/topic?id=30231",
+      "author": "hellowkim",
+      "publishedAt": "2026-06-06T12:59:49.000Z"
+    },
+    {
+      "id": "30230",
+      "source": "geeknews",
+      "title": "새로운 방법은 폐기물 없이 바닷물을 식수로 바꾼다",
+      "url": "https://news.hada.io/topic?id=30230",
+      "commentsUrl": "https://news.hada.io/topic?id=30230",
+      "author": "neo",
+      "publishedAt": "2026-06-06T11:38:10.000Z"
+    },
+    {
+      "id": "30229",
+      "source": "geeknews",
+      "title": "인터넷 메일을 어떻게 선별·필터링·관리하나요?",
+      "url": "https://news.hada.io/topic?id=30229",
+      "commentsUrl": "https://news.hada.io/topic?id=30229",
+      "author": "neo",
+      "publishedAt": "2026-06-06T09:01:25.000Z"
+    },
+    {
+      "id": "30227",
+      "source": "geeknews",
+      "title": "Ask HN: GenAI를 보며 “아, 큰일 났다”라고 느낀 순간은 언제였나요?",
+      "url": "https://news.hada.io/topic?id=30227",
+      "commentsUrl": "https://news.hada.io/topic?id=30227",
+      "author": "xguru",
+      "publishedAt": "2026-06-06T06:57:01.000Z"
+    },
+    {
+      "id": "30226",
+      "source": "geeknews",
+      "title": "GOV.UK, Stripe를 네덜란드 제공업체 Adyen으로 교체",
+      "url": "https://news.hada.io/topic?id=30226",
+      "commentsUrl": "https://news.hada.io/topic?id=30226",
+      "author": "neo",
+      "publishedAt": "2026-06-06T02:36:42.000Z"
+    },
     {
       "id": "30225",
       "source": "geeknews",
-      "title": "pg_durable - PostgreSQL 내부에서 실행되는 지속 실행 워크플로우",
+      "title": "pg_durable - PostgreSQL을 위한 내구성 SQL 함수",
       "url": "https://news.hada.io/topic?id=30225",
       "commentsUrl": "https://news.hada.io/topic?id=30225",
       "author": "xguru",
@@ -226,51 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30200",
       "author": "haebom",
       "publishedAt": "2026-06-05T05:55:43.000Z"
-    },
-    {
-      "id": "30199",
-      "source": "geeknews",
-      "title": "프랑스-이란계 작가 Marjane Satrapi, 'Persepolis'의 저자, 56세로 별세",
-      "url": "https://news.hada.io/topic?id=30199",
-      "commentsUrl": "https://news.hada.io/topic?id=30199",
-      "author": "neo",
-      "publishedAt": "2026-06-05T05:36:02.000Z"
-    },
-    {
-      "id": "30198",
-      "source": "geeknews",
-      "title": "코드 리뷰에는 읽기가 필요하다",
-      "url": "https://news.hada.io/topic?id=30198",
-      "commentsUrl": "https://news.hada.io/topic?id=30198",
-      "author": "neo",
-      "publishedAt": "2026-06-05T05:01:31.000Z"
-    },
-    {
-      "id": "30196",
-      "source": "geeknews",
-      "title": "Show GN: smol-image-processor – EXIF/메타데이터 제거 후 WebP로 정규화하는 마이크로서비스 (Bun/Elysia)",
-      "url": "https://news.hada.io/topic?id=30196",
-      "commentsUrl": "https://news.hada.io/topic?id=30196",
-      "author": "levish",
-      "publishedAt": "2026-06-05T02:29:41.000Z"
-    },
-    {
-      "id": "30195",
-      "source": "geeknews",
-      "title": "AI-네이티브 스타트업을 만드는 방법",
-      "url": "https://news.hada.io/topic?id=30195",
-      "commentsUrl": "https://news.hada.io/topic?id=30195",
-      "author": "neo",
-      "publishedAt": "2026-06-05T01:00:03.000Z"
-    },
-    {
-      "id": "30194",
-      "source": "geeknews",
-      "title": "Ian의 안전한 신발끈 매듭",
-      "url": "https://news.hada.io/topic?id=30194",
-      "commentsUrl": "https://news.hada.io/topic?id=30194",
-      "author": "neo",
-      "publishedAt": "2026-06-05T00:46:13.000Z"
     }
   ]
 }
