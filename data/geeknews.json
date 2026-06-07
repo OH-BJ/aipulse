@@ -1,7 +1,43 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-07T02:52:21.001Z",
+  "fetchedAt": "2026-06-07T13:27:43.995Z",
   "items": [
+    {
+      "id": "30254",
+      "source": "geeknews",
+      "title": "SQLite에서 UUID 기본 키의 위험성",
+      "url": "https://news.hada.io/topic?id=30254",
+      "commentsUrl": "https://news.hada.io/topic?id=30254",
+      "author": "neo",
+      "publishedAt": "2026-06-07T11:01:53.000Z"
+    },
+    {
+      "id": "30253",
+      "source": "geeknews",
+      "title": "Pokemon Emerald, WebAssembly로 포팅됨(100k FPS)",
+      "url": "https://news.hada.io/topic?id=30253",
+      "commentsUrl": "https://news.hada.io/topic?id=30253",
+      "author": "neo",
+      "publishedAt": "2026-06-07T10:36:56.000Z"
+    },
+    {
+      "id": "30252",
+      "source": "geeknews",
+      "title": "LLM이 인간 같은 속성을 가진다면 Age of Empires II도 그렇다",
+      "url": "https://news.hada.io/topic?id=30252",
+      "commentsUrl": "https://news.hada.io/topic?id=30252",
+      "author": "neo",
+      "publishedAt": "2026-06-07T09:01:32.000Z"
+    },
+    {
+      "id": "30250",
+      "source": "geeknews",
+      "title": "Ntsc-rs - 아날로그 TV와 VHS 아티팩트의 오픈소스 비디오 에뮬레이션",
+      "url": "https://news.hada.io/topic?id=30250",
+      "commentsUrl": "https://news.hada.io/topic?id=30250",
+      "author": "neo",
+      "publishedAt": "2026-06-07T08:37:04.000Z"
+    },
     {
       "id": "30249",
       "source": "geeknews",
@@ -235,42 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30222",
       "author": "xguru",
       "publishedAt": "2026-06-06T00:51:31.000Z"
-    },
-    {
-      "id": "30221",
-      "source": "geeknews",
-      "title": "유럽 상공의 강력한 GNSS 간섭원 추적",
-      "url": "https://news.hada.io/topic?id=30221",
-      "commentsUrl": "https://news.hada.io/topic?id=30221",
-      "author": "neo",
-      "publishedAt": "2026-06-06T00:42:05.000Z"
-    },
-    {
-      "id": "30220",
-      "source": "geeknews",
-      "title": "C++: 다큐멘터리: 세계에서 가장 중대한 프로그래밍 언어",
-      "url": "https://news.hada.io/topic?id=30220",
-      "commentsUrl": "https://news.hada.io/topic?id=30220",
-      "author": "neo",
-      "publishedAt": "2026-06-06T00:39:05.000Z"
-    },
-    {
-      "id": "30219",
-      "source": "geeknews",
-      "title": "Mouseless - macOS/Linux/Windows의 키보드 기반 제어",
-      "url": "https://news.hada.io/topic?id=30219",
-      "commentsUrl": "https://news.hada.io/topic?id=30219",
-      "author": "xguru",
-      "publishedAt": "2026-06-06T00:37:28.000Z"
-    },
-    {
-      "id": "30218",
-      "source": "geeknews",
-      "title": "Gemma 4 QAT 모델: 모바일과 노트북 효율성을 위한 압축 최적화",
-      "url": "https://news.hada.io/topic?id=30218",
-      "commentsUrl": "https://news.hada.io/topic?id=30218",
-      "author": "xguru",
-      "publishedAt": "2026-06-06T00:35:42.000Z"
     }
   ]
 }
