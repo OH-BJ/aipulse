@@ -1,16 +1,16 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-06T13:16:41.651Z",
+  "fetchedAt": "2026-06-07T02:52:20.573Z",
   "items": [
     {
-      "id": "48421442",
+      "id": "48427643",
       "source": "hn",
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 725,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48421442",
-      "author": "maltalex",
-      "publishedAt": "2026-06-06T04:38:36.000Z"
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "score": 452,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48427643",
+      "author": "speckx",
+      "publishedAt": "2026-06-06T18:35:27.000Z"
     },
     {
       "id": "48424103",
@@ -23,21 +23,31 @@
       "publishedAt": "2026-06-06T12:00:56.000Z"
     },
     {
-      "id": "48411635",
+      "id": "48427592",
       "source": "hn",
-      "title": "Did Claude increase bugs in rsync?",
-      "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 449,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48411635",
-      "author": "logicprog",
-      "publishedAt": "2026-06-05T12:43:33.000Z"
+      "title": "Law Professors Prefer AI over Peer Answers",
+      "url": "https://law.stanford.edu/publications/law-professors-prefer-ai-over-peer-answers/",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48427592",
+      "author": "davidbarker",
+      "publishedAt": "2026-06-06T18:29:06.000Z"
+    },
+    {
+      "id": "48421442",
+      "source": "hn",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "score": 1380,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48421442",
+      "author": "maltalex",
+      "publishedAt": "2026-06-06T04:38:36.000Z"
     },
     {
       "id": "48420827",
       "source": "hn",
       "title": "Ask HN: Why is the HN crowd so anti-AI?",
       "url": "https://news.ycombinator.com/item?id=48420827",
-      "score": 203,
+      "score": 396,
       "commentsUrl": "https://news.ycombinator.com/item?id=48420827",
       "author": "Ekami",
       "publishedAt": "2026-06-06T02:31:51.000Z"
@@ -47,27 +57,37 @@
       "source": "hn",
       "title": "South Korean forums will need to scan every images with AI censorship tools",
       "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-      "score": 250,
+      "score": 262,
       "commentsUrl": "https://news.ycombinator.com/item?id=48406198",
       "author": "Cider9986",
       "publishedAt": "2026-06-04T23:45:56.000Z"
     },
     {
-      "id": "48424252",
+      "id": "48425031",
       "source": "hn",
-      "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
-      "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48424252",
-      "author": "mekpro",
-      "publishedAt": "2026-06-06T12:15:59.000Z"
+      "title": "US House lawmakers release draft bill to prohibit state AI rules",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "score": 113,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48425031",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-06-06T13:40:22.000Z"
+    },
+    {
+      "id": "48423995",
+      "source": "hn",
+      "title": "AI Can't Care",
+      "url": "https://www.mooreds.com/wordpress/archives/3737",
+      "score": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48423995",
+      "author": "mooreds",
+      "publishedAt": "2026-06-06T11:46:43.000Z"
     },
     {
       "id": "48409955",
       "source": "hn",
       "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
       "url": "https://github.com/zdk/lowfat",
-      "score": 131,
+      "score": 148,
       "commentsUrl": "https://news.ycombinator.com/item?id=48409955",
       "author": "zdkaster",
       "publishedAt": "2026-06-05T09:10:42.000Z"
@@ -77,70 +97,30 @@
       "source": "hn",
       "title": "Fine-tuning an LLM to write docs like it's 1995",
       "url": "https://passo.uno/fine-tuning-docs-llm/",
-      "score": 187,
+      "score": 190,
       "commentsUrl": "https://news.ycombinator.com/item?id=48408442",
       "author": "taubek",
       "publishedAt": "2026-06-05T05:46:06.000Z"
+    },
+    {
+      "id": "48411635",
+      "source": "hn",
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "score": 496,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48411635",
+      "author": "logicprog",
+      "publishedAt": "2026-06-05T12:43:33.000Z"
     },
     {
       "id": "48406358",
       "source": "hn",
       "title": "Open Code Review – An AI-powered code review CLI tool",
       "url": "https://github.com/alibaba/open-code-review",
-      "score": 267,
+      "score": 275,
       "commentsUrl": "https://news.ycombinator.com/item?id=48406358",
       "author": "geoffbp",
       "publishedAt": "2026-06-05T00:04:29.000Z"
-    },
-    {
-      "id": "48400842",
-      "source": "hn",
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "score": 512,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48400842",
-      "author": "meetpateltech",
-      "publishedAt": "2026-06-04T16:20:17.000Z"
-    },
-    {
-      "id": "48403980",
-      "source": "hn",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 524,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48403980",
-      "author": "binyu",
-      "publishedAt": "2026-06-04T20:11:20.000Z"
-    },
-    {
-      "id": "48392004",
-      "source": "hn",
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 816,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48392004",
-      "author": "littlexsparkee",
-      "publishedAt": "2026-06-04T00:18:02.000Z"
-    },
-    {
-      "id": "48417916",
-      "source": "hn",
-      "title": "Hacker News, Sans AI",
-      "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
-      "score": 173,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48417916",
-      "author": "chilipepperhott",
-      "publishedAt": "2026-06-05T20:38:40.000Z"
-    },
-    {
-      "id": "48413629",
-      "source": "hn",
-      "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
-      "url": "https://news.ycombinator.com/item?id=48413629",
-      "score": 140,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48413629",
-      "author": "dv35z",
-      "publishedAt": "2026-06-05T15:13:54.000Z"
     }
   ]
 }
