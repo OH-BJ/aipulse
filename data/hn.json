@@ -1,106 +1,76 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-07T13:27:43.309Z",
+  "fetchedAt": "2026-06-08T02:54:51.992Z",
   "items": [
+    {
+      "id": "48440448",
+      "source": "hn",
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "score": 78,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48440448",
+      "author": "yogthos",
+      "publishedAt": "2026-06-08T01:39:30.000Z"
+    },
     {
       "id": "48434436",
       "source": "hn",
       "title": "Anthropic, please ship an official Claude Desktop for Linux",
       "url": "https://github.com/anthropics/claude-code/issues/65697",
-      "score": 9,
+      "score": 468,
       "commentsUrl": "https://news.ycombinator.com/item?id=48434436",
       "author": "predkambrij",
       "publishedAt": "2026-06-07T13:06:52.000Z"
-    },
-    {
-      "id": "48427643",
-      "source": "hn",
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "score": 639,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48427643",
-      "author": "speckx",
-      "publishedAt": "2026-06-06T18:35:27.000Z"
     },
     {
       "id": "48431981",
       "source": "hn",
       "title": "I design with Claude more than Figma now",
       "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-      "score": 199,
+      "score": 273,
       "commentsUrl": "https://news.ycombinator.com/item?id=48431981",
       "author": "MrBuddyCasino",
       "publishedAt": "2026-06-07T05:04:24.000Z"
     },
     {
-      "id": "48433351",
+      "id": "48438180",
       "source": "hn",
-      "title": "Automated QA and Testing with AI",
-      "url": "https://antirez.com/news/168",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48433351",
-      "author": "Chrisszz",
-      "publishedAt": "2026-06-07T09:57:18.000Z"
+      "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
+      "url": "https://github.com/ninoxAI/nightwatch",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48438180",
+      "author": "egorferber",
+      "publishedAt": "2026-06-07T20:24:36.000Z"
+    },
+    {
+      "id": "48437912",
+      "source": "hn",
+      "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
+      "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
+      "score": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48437912",
+      "author": "billybuckwheat",
+      "publishedAt": "2026-06-07T19:48:01.000Z"
     },
     {
       "id": "48406198",
       "source": "hn",
       "title": "South Korean forums will need to scan every images with AI censorship tools",
       "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-      "score": 269,
+      "score": 275,
       "commentsUrl": "https://news.ycombinator.com/item?id=48406198",
       "author": "Cider9986",
       "publishedAt": "2026-06-04T23:45:56.000Z"
     },
     {
-      "id": "48429870",
+      "id": "48433351",
       "source": "hn",
-      "title": "Why Aren't We Measuring How AI Affects Humans?",
-      "url": "https://spectrum.ieee.org/measuring-ai-societal-impact-khan",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48429870",
-      "author": "pseudolus",
-      "publishedAt": "2026-06-06T22:54:58.000Z"
-    },
-    {
-      "id": "48427592",
-      "source": "hn",
-      "title": "Law Professors Prefer AI over Peer Answers",
-      "url": "https://law.stanford.edu/publications/law-professors-prefer-ai-over-peer-answers/",
-      "score": 22,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48427592",
-      "author": "davidbarker",
-      "publishedAt": "2026-06-06T18:29:06.000Z"
-    },
-    {
-      "id": "48420827",
-      "source": "hn",
-      "title": "Ask HN: Why is the HN crowd so anti-AI?",
-      "url": "https://news.ycombinator.com/item?id=48420827",
-      "score": 420,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48420827",
-      "author": "Ekami",
-      "publishedAt": "2026-06-06T02:31:51.000Z"
-    },
-    {
-      "id": "48421442",
-      "source": "hn",
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 1419,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48421442",
-      "author": "maltalex",
-      "publishedAt": "2026-06-06T04:38:36.000Z"
-    },
-    {
-      "id": "48409955",
-      "source": "hn",
-      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-      "url": "https://github.com/zdk/lowfat",
-      "score": 149,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48409955",
-      "author": "zdkaster",
-      "publishedAt": "2026-06-05T09:10:42.000Z"
+      "title": "Automated QA and Testing with AI",
+      "url": "https://antirez.com/news/168",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48433351",
+      "author": "Chrisszz",
+      "publishedAt": "2026-06-07T09:57:18.000Z"
     }
   ]
 }
