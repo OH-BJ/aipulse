@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-06-08T02:54:51.677Z",
-  "items": []
+  "fetchedAt": "2026-06-08T15:35:51.238Z",
+  "items": [
+    {
+      "id": "2606.06224",
+      "source": "arxiv",
+      "title": "Symb-xMIL: Symbolic Explanations for Multiple Instance Learning in Digital Pathology",
+      "url": "https://arxiv.org/abs/2606.06224",
+      "author": "Yanqing Luo, Julius Hense, Niklas Preni{\\ss}l +4",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Explanations of multiple instance learning (MIL) models are widely used for validation and discovery in digital histopathology. Existing methods primarily rely on heatmaps that highlight influential r…"
+    },
+    {
+      "id": "2606.05967",
+      "source": "arxiv",
+      "title": "Fast and Robust Convergence Rate for TD(0) with Linear Function Approximation, Universal Learning Steps and I.I.D. Samples",
+      "url": "https://arxiv.org/abs/2606.05967",
+      "author": "Ziad Kobeissi (L2S), \\'Elo\\\"ise Berthier (U2IS)",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "In this paper, we study the finite-time behavior of the TD(0) temporal-difference method with linear function approximation (LFA). We consider on-policy independent and identically distributed (i.i.d.…"
+    },
+    {
+      "id": "2606.05919",
+      "source": "arxiv",
+      "title": "Finding Most Influential Sets",
+      "url": "https://arxiv.org/abs/2606.05919",
+      "author": "Lucas D. Konrad, Nikolas Kuschnig",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Identifying most influential sets (MIS) - size-$k$ subsets whose removal maximally changes a target estimand - is typically infeasible because it requires searching over $\\binom{n}{k}$ subsets. For es…"
+    },
+    {
+      "id": "2606.04525",
+      "source": "arxiv",
+      "title": "GENEB: Why Genomic Models Are Hard to Compare",
+      "url": "https://arxiv.org/abs/2606.04525",
+      "author": "Daria Ledneva, Mikhail Nuridinov, Denis Kuznetsov",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Progress in genomic foundation models is difficult to assess due to fragmented benchmarks, incompatible evaluation protocols, and task-specific reporting. As a result, claims of superiority or general…"
+    },
+    {
+      "id": "2606.04101",
+      "source": "arxiv",
+      "title": "UltraEP: Unleash MoE Training and Inference on Rack-Scale Nodes with Near-Optimal Load Balancing",
+      "url": "https://arxiv.org/abs/2606.04101",
+      "author": "Xinming Wei, Chao Jin, Tuo Dai +10",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Large-scale expert parallelism (EP) is becoming pivotal for training and serving frontier MoE models, but it also amplifies device-level expert load imbalance into compute stragglers, token all-to-all…"
+    },
+    {
+      "id": "2606.02475",
+      "source": "arxiv",
+      "title": "Physics-Informed Residuals for Adaptive Mesh Refinement in Finite-Difference PDE Solvers",
+      "url": "https://arxiv.org/abs/2606.02475",
+      "author": "Henry Kasumba, Ronald Katende",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Classical finite-difference solvers remain reliable tools for partial differential equations, but their efficiency depends on where mesh resolution is placed. Uniform refinement can waste degrees of f…"
+    },
+    {
+      "id": "2606.01765",
+      "source": "arxiv",
+      "title": "An Algebraic View of the Expressivity of Recurrent Language Models",
+      "url": "https://arxiv.org/abs/2606.01765",
+      "author": "Franz Nowak, Ryan Cotterell, Reda Boumasmoud",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "What formal languages can a recurrent neural language model recognize? Formal results in the literature conflict: some authors report Turing-completeness, while others show equivalence to regular lang…"
+    },
+    {
+      "id": "2606.01446",
+      "source": "arxiv",
+      "title": "Spatially Distributed Task-Oriented Compression for Multi-Emitter Localization and Characterization with Spectral Overlap",
+      "url": "https://arxiv.org/abs/2606.01446",
+      "author": "H. Nazim Bicer, J. Nicholas Laneman",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Radio frequency spectrum awareness requires the ability to detect, localize, and characterize emitters in dense and contested wireless environments. In this work, we propose a task-oriented distribute…"
+    },
+    {
+      "id": "2606.01342",
+      "source": "arxiv",
+      "title": "Towards Optimal Robustness in Learning-Augmented Paging",
+      "url": "https://arxiv.org/abs/2606.01342",
+      "author": "Peng Chen, Hailiang Zhao, Xueyan Tang +2",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Learning-augmented paging has been extensively studied in recent years. A key advantage over naive ML-based approaches is \\emph{bounded robustness}, which guarantees worst-case performance even when p…"
+    },
+    {
+      "id": "2606.00279",
+      "source": "arxiv",
+      "title": "Bit-Exact AI Inference Verification Without Performance Tradeoffs",
+      "url": "https://arxiv.org/abs/2606.00279",
+      "author": "Naci Cankaya",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Verifying claims about AI workloads is a prerequisite for credible AI governance of covert adversaries (who comply with monitoring only when detection likelihood is high), yet the apparent non-determi…"
+    },
+    {
+      "id": "2605.30432",
+      "source": "arxiv",
+      "title": "Learning effective models from network dynamics data with multiple initial conditions using weak form SINDy",
+      "url": "https://arxiv.org/abs/2605.30432",
+      "author": "Moyi Tian, Daniel A. Messenger, Vanja Dukic +2",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Social systems consist of networks of individuals who influence one another through social interactions. Studying how processes evolve on these networks can help us better understand patterns of socia…"
+    },
+    {
+      "id": "2605.25638",
+      "source": "arxiv",
+      "title": "Reinforcement Learning from Denoising Feedback",
+      "url": "https://arxiv.org/abs/2605.25638",
+      "author": "Qi He, Huan Chen, Ya Guo +3",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Policy loss estimation remains a fundamental and long-standing challenge in reinforcement learning (RL) for diffusion language models (DLMs). We introduce Reinforcement Learning from Denoising Feedbac…"
+    },
+    {
+      "id": "2605.13268",
+      "source": "arxiv",
+      "title": "Physics Guided Generative Optimization for Trotter Suzuki Decomposition",
+      "url": "https://arxiv.org/abs/2605.13268",
+      "author": "WenBin Yan",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Trotter Suzuki product formulas are the standard route to Hamiltonian evolution on noisy intermediate-scale quantum (\\NISQ{}) hardware, but their accuracy depends on three coupled choices: term groupi…"
+    },
+    {
+      "id": "2605.10792",
+      "source": "arxiv",
+      "title": "Implicit Neural Optimal Transport via Fixed-Point Optimization",
+      "url": "https://arxiv.org/abs/2605.10792",
+      "author": "Yesom Park, Eric Gelphman, Stanley Osher +1",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "We propose an implicit neural formulation of optimal transport that eliminates adversarial min--max optimization and multi-network architectures commonly used in existing approaches. Our key idea is t…"
+    },
+    {
+      "id": "2605.08732",
+      "source": "arxiv",
+      "title": "Latent Geometry Beyond Search: Amortizing Planning in World Models",
+      "url": "https://arxiv.org/abs/2605.08732",
+      "author": "Hoang Nguyen, Xiaohao Xu, Xiaonan Huang",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Modern vision-based world models can represent observations as compact yet expressive latent manifolds, but fast goal-oriented planning in these spaces remains challenging. This raises a central quest…"
+    },
+    {
+      "id": "2604.23025",
+      "source": "arxiv",
+      "title": "Self-Supervised Learning for Android Malware Detection on a Time-Stamped Dataset",
+      "url": "https://arxiv.org/abs/2604.23025",
+      "author": "Annan Fu, Hao Pei, Maryam Tanha",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Android malware detectors built with machine learning often suffer from temporal bias: models are trained and evaluated without respecting apps' actual release times, inflating accuracy and weakening…"
+    },
+    {
+      "id": "2604.03146",
+      "source": "arxiv",
+      "title": "Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization",
+      "url": "https://arxiv.org/abs/2604.03146",
+      "author": "Chiheb Yaakoubi, Cosme Louart, Malik Tiomoko +1",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "We study high-dimensional convex empirical risk minimization (ERM) under general non-Gaussian data designs. By heuristically extending the Convex Gaussian Min-Max Theorem (CGMT) to non-Gaussian settin…"
+    },
+    {
+      "id": "2603.22278",
+      "source": "arxiv",
+      "title": "The Dual Mechanisms of Spatial Variable Binding in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2603.22278",
+      "author": "Kelly Cui, Nikhil Prakash, Shoval Messica +4",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Many multimodal tasks, such as image captioning and visual question answering, require vision-language models (VLMs) to bind objects with their properties and spatial relations. Yet it remains unclear…"
+    },
+    {
+      "id": "2603.20967",
+      "source": "arxiv",
+      "title": "Hard labels sampled from sparse targets mislead rotation invariant algorithms",
+      "url": "https://arxiv.org/abs/2603.20967",
+      "author": "Avrajit Ghosh, Bin Yu, Manfred Warmuth +1",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "One of the most common machine learning setups is logistic regression. In many classification models, including neural networks, the final prediction is obtained by applying a logistic link function t…"
+    },
+    {
+      "id": "2603.06915",
+      "source": "arxiv",
+      "title": "A Dynamic Self-Evolving Extraction System",
+      "url": "https://arxiv.org/abs/2603.06915",
+      "author": "Moin Amin-Naseri, Hannah Kim, Estevam Hruschka",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "The extraction of structured information from raw text is a fundamental component of many NLP applications, including document retrieval, ranking, and relevance estimation. High-quality extractions of…"
+    },
+    {
+      "id": "2603.06673",
+      "source": "arxiv",
+      "title": "Unmixing ATR-{\\mu}FTIR spectroscopic images of cross-sections of historical oil paintings",
+      "url": "https://arxiv.org/abs/2603.06673",
+      "author": "Shivam Pande, Nicolas Nadisic, Francisco Mederos-Henry +1",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Spectroscopic imaging (SI) has become central to heritage science because it enables non-invasive, spatially resolved characterisation of materials in artefacts. In particular, attenuated total reflec…"
+    },
+    {
+      "id": "2602.16908",
+      "source": "arxiv",
+      "title": "Multi-objective optimization and quantum hybridization of equivariant deep learning interatomic potentials",
+      "url": "https://arxiv.org/abs/2602.16908",
+      "author": "G. Laskaris, D. Morozov, D. Tarpanov +6",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Allegro is a machine learning interatomic potential model designed to predict atomic properties in molecules using E(3) equivariant neural networks. When training this model, there tends to be a trade…"
+    },
+    {
+      "id": "2602.09580",
+      "source": "arxiv",
+      "title": "SERNF: Sample-Efficient Real-World Dexterous Policy Fine-Tuning via Action-Chunked Critics and Normalizing Flows",
+      "url": "https://arxiv.org/abs/2602.09580",
+      "author": "Chenyu Yang, Denis Tarasov, Davide Liconti +3",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Real-world fine-tuning of dexterous manipulation policies remains challenging due to limited real-world interaction budgets and highly multimodal action distributions. Diffusion-based policies, while…"
+    },
+    {
+      "id": "2602.06245",
+      "source": "arxiv",
+      "title": "Inheritance Between Feedforward and Convolutional Networks via Model Projection",
+      "url": "https://arxiv.org/abs/2602.06245",
+      "author": "Nicolas Ewen, Jairo Diaz-Rodriguez, Kelly Ramsay",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Neural-network techniques are often transferred across architecture families by analogy, but such transfer is valid only when the assumptions required by a technique are preserved. We introduce this i…"
+    },
+    {
+      "id": "2602.01177",
+      "source": "arxiv",
+      "title": "Privacy Implies Stability: Information-Theoretic Generalization Bounds for Quantum Learning",
+      "url": "https://arxiv.org/abs/2602.01177",
+      "author": "Ayanava Dasgupta, Naqueeb Ahmad Warsi, Masahito Hayashi",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "We develop an information-theoretic framework connecting stability, privacy, and generalization for quantum learning algorithms. Learning procedures are modeled as quantum instruments with classical-q…"
+    },
+    {
+      "id": "2601.12375",
+      "source": "arxiv",
+      "title": "LiQSS: Post-Transformer Linear Quantum-Inspired State-Space Tensor Networks for Real-Time 6G",
+      "url": "https://arxiv.org/abs/2601.12375",
+      "author": "Farhad Rezazadeh, Hatim Chergui, Amir Ashtari Gargari +4",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Proactive and agentic control in Sixth-Generation (6G) Open Radio Access Networks (O-RAN) requires control-grade prediction under stringent Near-Real-Time (Near-RT) latency and computational constrain…"
+    },
+    {
+      "id": "2601.08097",
+      "source": "arxiv",
+      "title": "AdaJudge: Adaptive Multi-Perspective Judging for Reward Modeling",
+      "url": "https://arxiv.org/abs/2601.08097",
+      "author": "Yongliang Miao, Yangyang Liang, Mengnan Du",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Reward modeling is essential for aligning large language models with human preferences, yet predominant architectures rely on a static pooling strategy to condense sequences into scalar scores. This p…"
+    },
+    {
+      "id": "2601.04791",
+      "source": "arxiv",
+      "title": "Measurement-Consistent Langevin Corrector for Stabilizing Latent Diffusion Inverse Problem Solvers",
+      "url": "https://arxiv.org/abs/2601.04791",
+      "author": "Lee Hyoseok, Sohwi Lim, Eunju Cha +1",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "While latent diffusion models (LDMs) have emerged as powerful priors for inverse problems, existing LDM-based solvers frequently suffer from instability. In this work, we first identify the instabilit…"
+    },
+    {
+      "id": "2512.13278",
+      "source": "arxiv",
+      "title": "AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning",
+      "url": "https://arxiv.org/abs/2512.13278",
+      "author": "Jiaru Zou, Ling Yang, Yunzhe Qi +5",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Agentic reinforcement learning has advanced large language models (LLMs) to reason through long chain-of-thought trajectories while interleaving external tool use. Existing approaches assume a fixed i…"
+    },
+    {
+      "id": "2511.04567",
+      "source": "arxiv",
+      "title": "Machine Learning for Electron-Scale Turbulence Modeling in W7-X",
+      "url": "https://arxiv.org/abs/2511.04567",
+      "author": "Ionut-Gabriel Farcas, Don Lawrence Carl Agapito Fernando, Alejandro Banon Navarro +2",
+      "publishedAt": "2026-06-08T04:00:00.000Z",
+      "summary": "Constructing reduced models for turbulent transport is essential for accelerating profile predictions and enabling many-query tasks such as parameter exploration and design optimization. This work inv…"
+    }
+  ]
 }

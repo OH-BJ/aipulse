@@ -1,76 +1,46 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-08T02:54:51.992Z",
+  "fetchedAt": "2026-06-08T15:35:51.499Z",
   "items": [
     {
       "id": "48440448",
       "source": "hn",
       "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
       "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "score": 78,
+      "score": 369,
       "commentsUrl": "https://news.ycombinator.com/item?id=48440448",
       "author": "yogthos",
       "publishedAt": "2026-06-08T01:39:30.000Z"
-    },
-    {
-      "id": "48434436",
-      "source": "hn",
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
-      "score": 468,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48434436",
-      "author": "predkambrij",
-      "publishedAt": "2026-06-07T13:06:52.000Z"
     },
     {
       "id": "48431981",
       "source": "hn",
       "title": "I design with Claude more than Figma now",
       "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-      "score": 273,
+      "score": 300,
       "commentsUrl": "https://news.ycombinator.com/item?id=48431981",
       "author": "MrBuddyCasino",
       "publishedAt": "2026-06-07T05:04:24.000Z"
+    },
+    {
+      "id": "48434436",
+      "source": "hn",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "score": 509,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48434436",
+      "author": "predkambrij",
+      "publishedAt": "2026-06-07T13:06:52.000Z"
     },
     {
       "id": "48438180",
       "source": "hn",
       "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
       "url": "https://github.com/ninoxAI/nightwatch",
-      "score": 9,
+      "score": 26,
       "commentsUrl": "https://news.ycombinator.com/item?id=48438180",
       "author": "egorferber",
       "publishedAt": "2026-06-07T20:24:36.000Z"
-    },
-    {
-      "id": "48437912",
-      "source": "hn",
-      "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
-      "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
-      "score": 24,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48437912",
-      "author": "billybuckwheat",
-      "publishedAt": "2026-06-07T19:48:01.000Z"
-    },
-    {
-      "id": "48406198",
-      "source": "hn",
-      "title": "South Korean forums will need to scan every images with AI censorship tools",
-      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-      "score": 275,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48406198",
-      "author": "Cider9986",
-      "publishedAt": "2026-06-04T23:45:56.000Z"
-    },
-    {
-      "id": "48433351",
-      "source": "hn",
-      "title": "Automated QA and Testing with AI",
-      "url": "https://antirez.com/news/168",
-      "score": 33,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48433351",
-      "author": "Chrisszz",
-      "publishedAt": "2026-06-07T09:57:18.000Z"
     }
   ]
 }

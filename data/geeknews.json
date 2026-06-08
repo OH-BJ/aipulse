@@ -1,7 +1,97 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-08T02:54:52.668Z",
+  "fetchedAt": "2026-06-08T15:35:52.376Z",
   "items": [
+    {
+      "id": "30288",
+      "source": "geeknews",
+      "title": "살아보지 못한 꿈과 화해하기 (2023)",
+      "url": "https://news.hada.io/topic?id=30288",
+      "commentsUrl": "https://news.hada.io/topic?id=30288",
+      "author": "neo",
+      "publishedAt": "2026-06-08T14:34:14.000Z"
+    },
+    {
+      "id": "30287",
+      "source": "geeknews",
+      "title": "TypeScript를 LLVM 기계어로 직접 컴파일, \"Perry\" 네이티브 컴파일러",
+      "url": "https://news.hada.io/topic?id=30287",
+      "commentsUrl": "https://news.hada.io/topic?id=30287",
+      "author": "dopeflamingo",
+      "publishedAt": "2026-06-08T13:46:59.000Z"
+    },
+    {
+      "id": "30286",
+      "source": "geeknews",
+      "title": "이스라엘 및 중동 일부 국가에서 발생한 주요 P2P 문제",
+      "url": "https://news.hada.io/topic?id=30286",
+      "commentsUrl": "https://news.hada.io/topic?id=30286",
+      "author": "neo",
+      "publishedAt": "2026-06-08T12:32:53.000Z"
+    },
+    {
+      "id": "30285",
+      "source": "geeknews",
+      "title": "이제 Figma보다 Claude로 더 많이 디자인한다",
+      "url": "https://news.hada.io/topic?id=30285",
+      "commentsUrl": "https://news.hada.io/topic?id=30285",
+      "author": "neo",
+      "publishedAt": "2026-06-08T10:35:42.000Z"
+    },
+    {
+      "id": "30283",
+      "source": "geeknews",
+      "title": "C로 장난치기, &((int*)-8)[3] 편",
+      "url": "https://news.hada.io/topic?id=30283",
+      "commentsUrl": "https://news.hada.io/topic?id=30283",
+      "author": "neo",
+      "publishedAt": "2026-06-08T08:03:51.000Z"
+    },
+    {
+      "id": "30282",
+      "source": "geeknews",
+      "title": "Show HN: Lathe – LLM으로 새 도메인을 건너뛰지 않고 학습하기",
+      "url": "https://news.hada.io/topic?id=30282",
+      "commentsUrl": "https://news.hada.io/topic?id=30282",
+      "author": "neo",
+      "publishedAt": "2026-06-08T06:33:17.000Z"
+    },
+    {
+      "id": "30280",
+      "source": "geeknews",
+      "title": "Show GN: 1인 앱 개발을 위한 React Native + Expo 베이스 템플릿",
+      "url": "https://news.hada.io/topic?id=30280",
+      "commentsUrl": "https://news.hada.io/topic?id=30280",
+      "author": "blueng",
+      "publishedAt": "2026-06-08T04:53:02.000Z"
+    },
+    {
+      "id": "30279",
+      "source": "geeknews",
+      "title": "Show GN: 네이버 지도 와이드 갤러리 - 사진을 전체화면으로 한 번에 보기",
+      "url": "https://news.hada.io/topic?id=30279",
+      "commentsUrl": "https://news.hada.io/topic?id=30279",
+      "author": "rivolt2022",
+      "publishedAt": "2026-06-08T04:41:32.000Z"
+    },
+    {
+      "id": "30277",
+      "source": "geeknews",
+      "title": "사용자는 신경 쓰지 않는다 — 하지만 당신은 신경 써야 한다",
+      "url": "https://news.hada.io/topic?id=30277",
+      "commentsUrl": "https://news.hada.io/topic?id=30277",
+      "author": "neo",
+      "publishedAt": "2026-06-08T04:03:15.000Z"
+    },
+    {
+      "id": "30276",
+      "source": "geeknews",
+      "title": "Linear는 어떻게 이렇게 빠른가? 기술적 분석",
+      "url": "https://news.hada.io/topic?id=30276",
+      "commentsUrl": "https://news.hada.io/topic?id=30276",
+      "author": "neo",
+      "publishedAt": "2026-06-08T03:35:37.000Z"
+    },
     {
       "id": "30274",
       "source": "geeknews",
@@ -181,96 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30255",
       "author": "neo",
       "publishedAt": "2026-06-07T14:03:44.000Z"
-    },
-    {
-      "id": "30254",
-      "source": "geeknews",
-      "title": "SQLite에서 UUID 기본 키의 위험성",
-      "url": "https://news.hada.io/topic?id=30254",
-      "commentsUrl": "https://news.hada.io/topic?id=30254",
-      "author": "neo",
-      "publishedAt": "2026-06-07T11:01:53.000Z"
-    },
-    {
-      "id": "30253",
-      "source": "geeknews",
-      "title": "Pokemon Emerald, WebAssembly로 포팅됨(100k FPS)",
-      "url": "https://news.hada.io/topic?id=30253",
-      "commentsUrl": "https://news.hada.io/topic?id=30253",
-      "author": "neo",
-      "publishedAt": "2026-06-07T10:36:56.000Z"
-    },
-    {
-      "id": "30252",
-      "source": "geeknews",
-      "title": "LLM이 인간 같은 속성을 가진다면 Age of Empires II도 그렇다",
-      "url": "https://news.hada.io/topic?id=30252",
-      "commentsUrl": "https://news.hada.io/topic?id=30252",
-      "author": "neo",
-      "publishedAt": "2026-06-07T09:01:32.000Z"
-    },
-    {
-      "id": "30250",
-      "source": "geeknews",
-      "title": "Ntsc-rs - 아날로그 TV와 VHS 아티팩트의 오픈소스 비디오 에뮬레이션",
-      "url": "https://news.hada.io/topic?id=30250",
-      "commentsUrl": "https://news.hada.io/topic?id=30250",
-      "author": "neo",
-      "publishedAt": "2026-06-07T08:37:04.000Z"
-    },
-    {
-      "id": "30249",
-      "source": "geeknews",
-      "title": "Ask HN: HN 이용자들은 왜 이렇게 AI에 반대하나요?",
-      "url": "https://news.hada.io/topic?id=30249",
-      "commentsUrl": "https://news.hada.io/topic?id=30249",
-      "author": "neo",
-      "publishedAt": "2026-06-07T01:03:55.000Z"
-    },
-    {
-      "id": "30248",
-      "source": "geeknews",
-      "title": "소식통들: 미 국방부, 미국 내 이스라엘 스파이 활동 위협을 최고 수준으로 상향",
-      "url": "https://news.hada.io/topic?id=30248",
-      "commentsUrl": "https://news.hada.io/topic?id=30248",
-      "author": "neo",
-      "publishedAt": "2026-06-07T01:00:55.000Z"
-    },
-    {
-      "id": "30246",
-      "source": "geeknews",
-      "title": "GrapheneOS 사용자가 GrapheneOS 사용으로 당국에 신고됨",
-      "url": "https://news.hada.io/topic?id=30246",
-      "commentsUrl": "https://news.hada.io/topic?id=30246",
-      "author": "neo",
-      "publishedAt": "2026-06-07T00:54:55.000Z"
-    },
-    {
-      "id": "30245",
-      "source": "geeknews",
-      "title": "S&P 500, SpaceX 거부하며 OpenAI와 Anthropic 편입도 차단",
-      "url": "https://news.hada.io/topic?id=30245",
-      "commentsUrl": "https://news.hada.io/topic?id=30245",
-      "author": "neo",
-      "publishedAt": "2026-06-07T00:51:54.000Z"
-    },
-    {
-      "id": "30244",
-      "source": "geeknews",
-      "title": "Nvidia, Windows PC용 괴물 같은 CPU 시스템 제안",
-      "url": "https://news.hada.io/topic?id=30244",
-      "commentsUrl": "https://news.hada.io/topic?id=30244",
-      "author": "xguru",
-      "publishedAt": "2026-06-07T00:37:42.000Z"
-    },
-    {
-      "id": "30243",
-      "source": "geeknews",
-      "title": "fork() + exec()를 넘어",
-      "url": "https://news.hada.io/topic?id=30243",
-      "commentsUrl": "https://news.hada.io/topic?id=30243",
-      "author": "xguru",
-      "publishedAt": "2026-06-07T00:33:21.000Z"
     }
   ]
 }
