@@ -1,46 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-08T15:35:51.499Z",
+  "fetchedAt": "2026-06-09T02:32:48.225Z",
   "items": [
     {
-      "id": "48440448",
+      "id": "48450142",
       "source": "hn",
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "score": 369,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48440448",
-      "author": "yogthos",
-      "publishedAt": "2026-06-08T01:39:30.000Z"
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "score": 358,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48450142",
+      "author": "unclefuzzy",
+      "publishedAt": "2026-06-08T19:14:47.000Z"
+    },
+    {
+      "id": "48419000",
+      "source": "hn",
+      "title": "Hermes Agent – Open-source AI agent with persistent memory",
+      "url": "https://hermes-agent.org/",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48419000",
+      "author": "SeriousM",
+      "publishedAt": "2026-06-05T22:09:38.000Z"
+    },
+    {
+      "id": "48449084",
+      "source": "hn",
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "score": 425,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48449084",
+      "author": "0xedb",
+      "publishedAt": "2026-06-08T18:17:53.000Z"
+    },
+    {
+      "id": "48449665",
+      "source": "hn",
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "score": 207,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48449665",
+      "author": "hmokiguess",
+      "publishedAt": "2026-06-08T18:47:38.000Z"
+    },
+    {
+      "id": "48449187",
+      "source": "hn",
+      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "url": "https://news.ycombinator.com/item?id=48449187",
+      "score": 156,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48449187",
+      "author": "aryamaan",
+      "publishedAt": "2026-06-08T18:22:39.000Z"
+    },
+    {
+      "id": "48446893",
+      "source": "hn",
+      "title": "AI is slowing down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "score": 415,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48446893",
+      "author": "crescit_eundo",
+      "publishedAt": "2026-06-08T15:46:37.000Z"
+    },
+    {
+      "id": "48452000",
+      "source": "hn",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48452000",
+      "author": "jbernardo95",
+      "publishedAt": "2026-06-08T21:02:00.000Z"
+    },
+    {
+      "id": "48453002",
+      "source": "hn",
+      "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+      "url": "https://www.cc.dev/",
+      "score": 38,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48453002",
+      "author": "Darmani",
+      "publishedAt": "2026-06-08T22:10:18.000Z"
+    },
+    {
+      "id": "48451791",
+      "source": "hn",
+      "title": "AI and Agency",
+      "url": "https://www.bitsandletters.com/ideas/ai-and-agency",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48451791",
+      "author": "demaree",
+      "publishedAt": "2026-06-08T20:48:56.000Z"
     },
     {
       "id": "48431981",
       "source": "hn",
       "title": "I design with Claude more than Figma now",
       "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-      "score": 300,
+      "score": 309,
       "commentsUrl": "https://news.ycombinator.com/item?id=48431981",
       "author": "MrBuddyCasino",
       "publishedAt": "2026-06-07T05:04:24.000Z"
     },
     {
-      "id": "48434436",
+      "id": "48452224",
       "source": "hn",
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
-      "score": 509,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48434436",
-      "author": "predkambrij",
-      "publishedAt": "2026-06-07T13:06:52.000Z"
-    },
-    {
-      "id": "48438180",
-      "source": "hn",
-      "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
-      "url": "https://github.com/ninoxAI/nightwatch",
-      "score": 26,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48438180",
-      "author": "egorferber",
-      "publishedAt": "2026-06-07T20:24:36.000Z"
+      "title": "OpenAI Confidentially Files for IPO",
+      "url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48452224",
+      "author": "rvz",
+      "publishedAt": "2026-06-08T21:16:20.000Z"
     }
   ]
 }
