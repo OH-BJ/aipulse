@@ -1,23 +1,43 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-11T02:55:43.640Z",
+  "fetchedAt": "2026-06-11T15:42:34.714Z",
   "items": [
+    {
+      "id": "48489917",
+      "source": "hn",
+      "title": "Open Reproduction of DeepSeek-R1",
+      "url": "https://github.com/huggingface/open-r1",
+      "score": 64,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48489917",
+      "author": "yogthos",
+      "publishedAt": "2026-06-11T13:14:31.000Z"
+    },
     {
       "id": "48484584",
       "source": "hn",
       "title": "AI agent runs amok in Fedora and elsewhere",
       "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "score": 134,
+      "score": 515,
       "commentsUrl": "https://news.ycombinator.com/item?id=48484584",
       "author": "tanelpoder",
       "publishedAt": "2026-06-11T00:10:08.000Z"
+    },
+    {
+      "id": "48490057",
+      "source": "hn",
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "score": 158,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48490057",
+      "author": "ZeidJ",
+      "publishedAt": "2026-06-11T13:26:59.000Z"
     },
     {
       "id": "48478969",
       "source": "hn",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "score": 247,
+      "score": 545,
       "commentsUrl": "https://news.ycombinator.com/item?id=48478969",
       "author": "speckx",
       "publishedAt": "2026-06-10T16:42:00.000Z"
@@ -27,170 +47,250 @@
       "source": "hn",
       "title": "Anthropic requires 30 day data retention for Fable and Mythos",
       "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "score": 218,
+      "score": 563,
       "commentsUrl": "https://news.ycombinator.com/item?id=48464258",
       "author": "lebovic",
       "publishedAt": "2026-06-09T17:23:40.000Z"
     },
     {
-      "id": "48479452",
+      "id": "48461635",
       "source": "hn",
-      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-      "url": "https://github.com/anthropics/claude-code/issues/29045",
-      "score": 352,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48479452",
-      "author": "tonyrice",
-      "publishedAt": "2026-06-10T17:11:56.000Z"
+      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+      "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+      "score": 96,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48461635",
+      "author": "ruxudev",
+      "publishedAt": "2026-06-09T14:29:34.000Z"
+    },
+    {
+      "id": "48487540",
+      "source": "hn",
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "score": 182,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48487540",
+      "author": "trueduke",
+      "publishedAt": "2026-06-11T07:51:17.000Z"
+    },
+    {
+      "id": "48491534",
+      "source": "hn",
+      "title": "Yserver: Modern X11 Server Written in Rust with the Help of Claude Code",
+      "url": "https://www.phoronix.com/news/YSERVER-Rust-X11-Server",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48491534",
+      "author": "rbanffy",
+      "publishedAt": "2026-06-11T15:17:42.000Z"
+    },
+    {
+      "id": "48489797",
+      "source": "hn",
+      "title": "We scanned 131 AI-built websites, and the \"AI look\" wasn't the biggest tell",
+      "url": "https://siteblob.com/blog/we-scanned-131-ai-built-websites-ai-look-wasnt-the-tell",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48489797",
+      "author": "mirathesmart",
+      "publishedAt": "2026-06-11T13:03:39.000Z"
+    },
+    {
+      "id": "48491301",
+      "source": "hn",
+      "title": "Craig Federighi Details Apple's Collaboration with Google for Siri AI in iOS 27",
+      "url": "https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48491301",
+      "author": "tambourine_man",
+      "publishedAt": "2026-06-11T15:01:26.000Z"
+    },
+    {
+      "id": "48491670",
+      "source": "hn",
+      "title": "The $15,000 AI Bill. Your $20 Subscription is a DELUSION [video]",
+      "url": "https://www.youtube.com/watch?v=UfApUobqN8Y",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48491670",
+      "author": "Vasniktel",
+      "publishedAt": "2026-06-11T15:27:02.000Z"
+    },
+    {
+      "id": "48489835",
+      "source": "hn",
+      "title": "More AI-generated code doesn't make your team faster. It might slow you",
+      "url": "https://twitter.com/awscloud/status/2064449711155589396",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48489835",
+      "author": "_____k",
+      "publishedAt": "2026-06-11T13:06:08.000Z"
     },
     {
       "id": "48477400",
       "source": "hn",
       "title": "Apache Burr: Build reliable AI agents and applications",
       "url": "https://burr.apache.org/",
-      "score": 177,
+      "score": 234,
       "commentsUrl": "https://news.ycombinator.com/item?id=48477400",
       "author": "anhldbk",
       "publishedAt": "2026-06-10T15:01:06.000Z"
     },
     {
-      "id": "48476474",
+      "id": "48490410",
       "source": "hn",
-      "title": "Notes on DeepSeek",
-      "url": "https://news.ycombinator.com/item?id=48476474",
-      "score": 117,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48476474",
-      "author": "vinhnx",
-      "publishedAt": "2026-06-10T14:03:40.000Z"
+      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48490410",
+      "author": "doener",
+      "publishedAt": "2026-06-11T13:56:24.000Z"
     },
     {
-      "id": "48476136",
+      "id": "48489335",
       "source": "hn",
-      "title": "A €0.01 bank transfer could compromise a banking AI agent",
-      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-      "score": 168,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48476136",
-      "author": "tvissers",
-      "publishedAt": "2026-06-10T13:39:11.000Z"
+      "title": "The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug",
+      "url": "https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48489335",
+      "author": "6stringmerc",
+      "publishedAt": "2026-06-11T12:19:17.000Z"
     },
     {
-      "id": "48480852",
+      "id": "48491423",
       "source": "hn",
-      "title": "Anthropic's model naming, extrapolated",
-      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-      "score": 288,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48480852",
-      "author": "sammycdubs",
-      "publishedAt": "2026-06-10T18:45:20.000Z"
+      "title": "Who Is Responsible for Answers AI Gives You? A German Court Has Some Thoughts",
+      "url": "https://read.misalignedmag.com/who-is-responsible-for-answers-ai-gives-you-a-german-court-has-some-thoughts-8b6e45335054",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48491423",
+      "author": "lcubw",
+      "publishedAt": "2026-06-11T15:09:34.000Z"
     },
     {
       "id": "48463808",
       "source": "hn",
       "title": "Claude Fable 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 2548,
+      "score": 2579,
       "commentsUrl": "https://news.ycombinator.com/item?id=48463808",
       "author": "Philpax",
       "publishedAt": "2026-06-09T16:58:01.000Z"
     },
     {
-      "id": "48480719",
+      "id": "48488870",
       "source": "hn",
-      "title": "Policy on the AI Exponential",
-      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-      "score": 136,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48480719",
-      "author": "yjp20",
-      "publishedAt": "2026-06-10T18:36:04.000Z"
+      "title": "Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral",
+      "url": "https://github.com/vishal-dehurdle/state-harness",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48488870",
+      "author": "visha1v",
+      "publishedAt": "2026-06-11T11:21:54.000Z"
+    },
+    {
+      "id": "48479452",
+      "source": "hn",
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "score": 419,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48479452",
+      "author": "tonyrice",
+      "publishedAt": "2026-06-10T17:11:56.000Z"
+    },
+    {
+      "id": "48476136",
+      "source": "hn",
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "score": 196,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48476136",
+      "author": "tvissers",
+      "publishedAt": "2026-06-10T13:39:11.000Z"
+    },
+    {
+      "id": "48488753",
+      "source": "hn",
+      "title": "Show HN: Claumon – forecasting Claude Code usage limits with a Gamma process",
+      "url": "https://github.com/fabioconcina/claumon",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48488753",
+      "author": "fabioconcina",
+      "publishedAt": "2026-06-11T11:05:55.000Z"
+    },
+    {
+      "id": "48476474",
+      "source": "hn",
+      "title": "Notes on DeepSeek",
+      "url": "https://news.ycombinator.com/item?id=48476474",
+      "score": 193,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48476474",
+      "author": "vinhnx",
+      "publishedAt": "2026-06-10T14:03:40.000Z"
+    },
+    {
+      "id": "48489996",
+      "source": "hn",
+      "title": "Europe 2031: What getting AI wrong means for us",
+      "url": "https://europe2031.ai/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48489996",
+      "author": "atlasunshrugged",
+      "publishedAt": "2026-06-11T13:21:58.000Z"
     },
     {
       "id": "48473166",
       "source": "hn",
       "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
       "url": "https://news.ycombinator.com/item?id=48473166",
-      "score": 398,
+      "score": 409,
       "commentsUrl": "https://news.ycombinator.com/item?id=48473166",
       "author": "TomAnthony",
       "publishedAt": "2026-06-10T08:21:38.000Z"
-    },
-    {
-      "id": "48484606",
-      "source": "hn",
-      "title": "Antirez on X: I believe what Anthropic is doing is *deeply* wrong",
-      "url": "https://twitter.com/antirez/status/2064766429887352971",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48484606",
-      "author": "ethanpil",
-      "publishedAt": "2026-06-11T00:13:06.000Z"
     },
     {
       "id": "48470581",
       "source": "hn",
       "title": "Rich Sutton on AI creativity and discovery",
       "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-      "score": 198,
+      "score": 205,
       "commentsUrl": "https://news.ycombinator.com/item?id=48470581",
       "author": "yimby",
       "publishedAt": "2026-06-10T02:25:24.000Z"
     },
     {
-      "id": "48482043",
+      "id": "48480852",
       "source": "hn",
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates/",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48482043",
-      "author": "amrrs",
-      "publishedAt": "2026-06-10T20:17:37.000Z"
+      "title": "Anthropic's model naming, extrapolated",
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "score": 313,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48480852",
+      "author": "sammycdubs",
+      "publishedAt": "2026-06-10T18:45:20.000Z"
+    },
+    {
+      "id": "48480719",
+      "source": "hn",
+      "title": "Policy on the AI Exponential",
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "score": 161,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48480719",
+      "author": "yjp20",
+      "publishedAt": "2026-06-10T18:36:04.000Z"
+    },
+    {
+      "id": "48490129",
+      "source": "hn",
+      "title": "Oracle's AI spending blows past estimates, raising worries over growing debt",
+      "url": "https://www.reuters.com/technology/oracle-beats-fourth-quarter-revenue-estimates-2026-06-10/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48490129",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-06-11T13:32:36.000Z"
     },
     {
       "id": "48467896",
       "source": "hn",
       "title": "If Claude Fable stops helping you, you'll never know",
       "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "score": 1004,
+      "score": 1020,
       "commentsUrl": "https://news.ycombinator.com/item?id=48467896",
       "author": "mips_avatar",
       "publishedAt": "2026-06-09T21:19:11.000Z"
-    },
-    {
-      "id": "48465675",
-      "source": "hn",
-      "title": "CEOs who think AI replaces their employees are just bad CEOs",
-      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-      "score": 811,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48465675",
-      "author": "speckx",
-      "publishedAt": "2026-06-09T18:45:59.000Z"
-    },
-    {
-      "id": "48473845",
-      "source": "hn",
-      "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
-      "url": "https://github.com/grzegorz-raczek-unit8/claude-quota",
-      "score": 59,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48473845",
-      "author": "grzracz",
-      "publishedAt": "2026-06-10T09:43:16.000Z"
-    },
-    {
-      "id": "48457830",
-      "source": "hn",
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "score": 554,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48457830",
-      "author": "raffael_de",
-      "publishedAt": "2026-06-09T07:33:16.000Z"
-    },
-    {
-      "id": "48470248",
-      "source": "hn",
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "score": 968,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48470248",
-      "author": "ahlCVA",
-      "publishedAt": "2026-06-10T01:44:13.000Z"
     }
   ]
 }
