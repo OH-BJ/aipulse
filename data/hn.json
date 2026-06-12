@@ -1,13 +1,23 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-12T02:52:50.441Z",
+  "fetchedAt": "2026-06-12T14:43:26.197Z",
   "items": [
+    {
+      "id": "48500012",
+      "source": "hn",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "score": 1062,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48500012",
+      "author": "xiaoyu2006",
+      "publishedAt": "2026-06-12T04:42:53.000Z"
+    },
     {
       "id": "48498573",
       "source": "hn",
       "title": "Claude Fable is relentlessly proactive",
       "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "score": 93,
+      "score": 611,
       "commentsUrl": "https://news.ycombinator.com/item?id=48498573",
       "author": "lumpa",
       "publishedAt": "2026-06-12T01:06:51.000Z"
@@ -17,147 +27,147 @@
       "source": "hn",
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "score": 328,
+      "score": 469,
       "commentsUrl": "https://news.ycombinator.com/item?id=48489229",
       "author": "rarisma",
       "publishedAt": "2026-06-11T12:05:02.000Z"
-    },
-    {
-      "id": "48492210",
-      "source": "hn",
-      "title": "Claude Fable 5: mid-tier results on coding tasks",
-      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-      "score": 247,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48492210",
-      "author": "bugvader",
-      "publishedAt": "2026-06-11T16:03:21.000Z"
     },
     {
       "id": "48487829",
       "source": "hn",
       "title": "Making a vintage LLM from scratch",
       "url": "https://crlf.link/log/entries/260525-1/",
-      "score": 27,
+      "score": 57,
       "commentsUrl": "https://news.ycombinator.com/item?id=48487829",
       "author": "croqaz",
       "publishedAt": "2026-06-11T08:38:00.000Z"
     },
     {
-      "id": "48489917",
+      "id": "48492210",
       "source": "hn",
-      "title": "Open Reproduction of DeepSeek-R1",
-      "url": "https://github.com/huggingface/open-r1",
-      "score": 205,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48489917",
-      "author": "yogthos",
-      "publishedAt": "2026-06-11T13:14:31.000Z"
-    },
-    {
-      "id": "48495575",
-      "source": "hn",
-      "title": "Shall we play a game? My AI nuclear simulation",
-      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "score": 185,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48495575",
-      "author": "nick238",
-      "publishedAt": "2026-06-11T19:54:54.000Z"
-    },
-    {
-      "id": "48498283",
-      "source": "hn",
-      "title": "Don't let the LLM speak, just probe it",
-      "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48498283",
-      "author": "gmays",
-      "publishedAt": "2026-06-12T00:24:48.000Z"
-    },
-    {
-      "id": "48486486",
-      "source": "hn",
-      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
-      "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
-      "score": 117,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48486486",
-      "author": "agentifysh",
-      "publishedAt": "2026-06-11T05:16:42.000Z"
-    },
-    {
-      "id": "48497260",
-      "source": "hn",
-      "title": "OpenAI Prepping for On-Prem Product?",
-      "url": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48497260",
-      "author": "bdroopy",
-      "publishedAt": "2026-06-11T22:28:01.000Z"
-    },
-    {
-      "id": "48461635",
-      "source": "hn",
-      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
-      "score": 126,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48461635",
-      "author": "ruxudev",
-      "publishedAt": "2026-06-09T14:29:34.000Z"
-    },
-    {
-      "id": "48496332",
-      "source": "hn",
-      "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
-      "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48496332",
-      "author": "jklmnopqrstuvw",
-      "publishedAt": "2026-06-11T21:00:17.000Z"
-    },
-    {
-      "id": "48484584",
-      "source": "hn",
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "score": 539,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48484584",
-      "author": "tanelpoder",
-      "publishedAt": "2026-06-11T00:10:08.000Z"
-    },
-    {
-      "id": "48491821",
-      "source": "hn",
-      "title": "OpenAI to acquire Ona to expand Codex",
-      "url": "https://openai.com/index/openai-to-acquire-ona/",
-      "score": 37,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48491821",
-      "author": "htrp",
-      "publishedAt": "2026-06-11T15:36:49.000Z"
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "score": 368,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48492210",
+      "author": "bugvader",
+      "publishedAt": "2026-06-11T16:03:21.000Z"
     },
     {
       "id": "48446673",
       "source": "hn",
       "title": "How Terry Tao became an evangelist for AI in math",
       "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-      "score": 103,
+      "score": 149,
       "commentsUrl": "https://news.ycombinator.com/item?id=48446673",
       "author": "Tomte",
       "publishedAt": "2026-06-08T15:30:09.000Z"
     },
     {
-      "id": "48487540",
+      "id": "48489917",
       "source": "hn",
-      "title": "Why AI hasn't replaced software engineers, and won't",
-      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-      "score": 280,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48487540",
-      "author": "trueduke",
-      "publishedAt": "2026-06-11T07:51:17.000Z"
+      "title": "Open Reproduction of DeepSeek-R1",
+      "url": "https://github.com/huggingface/open-r1",
+      "score": 236,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48489917",
+      "author": "yogthos",
+      "publishedAt": "2026-06-11T13:14:31.000Z"
+    },
+    {
+      "id": "48502750",
+      "source": "hn",
+      "title": "AI will be massively deflationary",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48502750",
+      "author": "dalvasorsali",
+      "publishedAt": "2026-06-12T11:28:59.000Z"
+    },
+    {
+      "id": "48499790",
+      "source": "hn",
+      "title": "The Normalization of Deviance in AI",
+      "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48499790",
+      "author": "gurjeet",
+      "publishedAt": "2026-06-12T04:04:23.000Z"
+    },
+    {
+      "id": "48486486",
+      "source": "hn",
+      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+      "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+      "score": 123,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48486486",
+      "author": "agentifysh",
+      "publishedAt": "2026-06-11T05:16:42.000Z"
+    },
+    {
+      "id": "48498283",
+      "source": "hn",
+      "title": "Don't let the LLM speak, just probe it",
+      "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
+      "score": 36,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48498283",
+      "author": "gmays",
+      "publishedAt": "2026-06-12T00:24:48.000Z"
+    },
+    {
+      "id": "48461635",
+      "source": "hn",
+      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+      "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+      "score": 135,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48461635",
+      "author": "ruxudev",
+      "publishedAt": "2026-06-09T14:29:34.000Z"
+    },
+    {
+      "id": "48495575",
+      "source": "hn",
+      "title": "Shall we play a game? My AI nuclear simulation",
+      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "score": 200,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48495575",
+      "author": "nick238",
+      "publishedAt": "2026-06-11T19:54:54.000Z"
+    },
+    {
+      "id": "48463808",
+      "source": "hn",
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "score": 2604,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48463808",
+      "author": "Philpax",
+      "publishedAt": "2026-06-09T16:58:01.000Z"
+    },
+    {
+      "id": "48502456",
+      "source": "hn",
+      "title": "AI Economics for Dummies",
+      "url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48502456",
+      "author": "_____k",
+      "publishedAt": "2026-06-12T10:56:45.000Z"
+    },
+    {
+      "id": "48484584",
+      "source": "hn",
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "score": 546,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48484584",
+      "author": "tanelpoder",
+      "publishedAt": "2026-06-11T00:10:08.000Z"
     },
     {
       "id": "48464258",
       "source": "hn",
       "title": "Anthropic requires 30 day data retention for Fable and Mythos",
       "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "score": 589,
+      "score": 594,
       "commentsUrl": "https://news.ycombinator.com/item?id=48464258",
       "author": "lebovic",
       "publishedAt": "2026-06-09T17:23:40.000Z"
@@ -167,50 +177,10 @@
       "source": "hn",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "score": 581,
+      "score": 584,
       "commentsUrl": "https://news.ycombinator.com/item?id=48478969",
       "author": "speckx",
       "publishedAt": "2026-06-10T16:42:00.000Z"
-    },
-    {
-      "id": "48463808",
-      "source": "hn",
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 2593,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48463808",
-      "author": "Philpax",
-      "publishedAt": "2026-06-09T16:58:01.000Z"
-    },
-    {
-      "id": "48492118",
-      "source": "hn",
-      "title": "Ask HN: How do you get into a flow state when using AI to code?",
-      "url": "https://news.ycombinator.com/item?id=48492118",
-      "score": 80,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48492118",
-      "author": "kilroy123",
-      "publishedAt": "2026-06-11T15:56:25.000Z"
-    },
-    {
-      "id": "48498252",
-      "source": "hn",
-      "title": "Our workplace LLM mass delusion",
-      "url": "https://blog.avas.space/llm-circus/",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48498252",
-      "author": "birdculture",
-      "publishedAt": "2026-06-12T00:20:40.000Z"
-    },
-    {
-      "id": "48477400",
-      "source": "hn",
-      "title": "Apache Burr: Build reliable AI agents and applications",
-      "url": "https://burr.apache.org/",
-      "score": 243,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48477400",
-      "author": "anhldbk",
-      "publishedAt": "2026-06-10T15:01:06.000Z"
     }
   ]
 }

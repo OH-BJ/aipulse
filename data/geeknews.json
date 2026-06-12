@@ -1,7 +1,70 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-12T02:52:50.961Z",
+  "fetchedAt": "2026-06-12T14:43:26.556Z",
   "items": [
+    {
+      "id": "30431",
+      "source": "geeknews",
+      "title": "Show HN: FablePool – 프롬프트에 자금을 모으면 Fable이 공개적으로 구축함",
+      "url": "https://news.hada.io/topic?id=30431",
+      "commentsUrl": "https://news.hada.io/topic?id=30431",
+      "author": "neo",
+      "publishedAt": "2026-06-12T13:38:43.000Z"
+    },
+    {
+      "id": "30429",
+      "source": "geeknews",
+      "title": "Rust에서 main 이전에도 실행되는 코드가 있다",
+      "url": "https://news.hada.io/topic?id=30429",
+      "commentsUrl": "https://news.hada.io/topic?id=30429",
+      "author": "neo",
+      "publishedAt": "2026-06-12T10:02:54.000Z"
+    },
+    {
+      "id": "30428",
+      "source": "geeknews",
+      "title": "Anthropic, 보이지 않는 Claude Fable 가드레일에 사과함",
+      "url": "https://news.hada.io/topic?id=30428",
+      "commentsUrl": "https://news.hada.io/topic?id=30428",
+      "author": "neo",
+      "publishedAt": "2026-06-12T09:39:04.000Z"
+    },
+    {
+      "id": "30427",
+      "source": "geeknews",
+      "title": "캐나다 Bill C-22 철회 청원",
+      "url": "https://news.hada.io/topic?id=30427",
+      "commentsUrl": "https://news.hada.io/topic?id=30427",
+      "author": "neo",
+      "publishedAt": "2026-06-12T07:39:18.000Z"
+    },
+    {
+      "id": "30425",
+      "source": "geeknews",
+      "title": "인간의 주의를 요구한다면 인간의 노력을 보여줘야 한다",
+      "url": "https://news.hada.io/topic?id=30425",
+      "commentsUrl": "https://news.hada.io/topic?id=30425",
+      "author": "neo",
+      "publishedAt": "2026-06-12T05:38:54.000Z"
+    },
+    {
+      "id": "30424",
+      "source": "geeknews",
+      "title": "ReuseLessSoftware - 소프트웨어, '덜' 재사용하기",
+      "url": "https://news.hada.io/topic?id=30424",
+      "commentsUrl": "https://news.hada.io/topic?id=30424",
+      "author": "neo",
+      "publishedAt": "2026-06-12T04:02:44.000Z"
+    },
+    {
+      "id": "30423",
+      "source": "geeknews",
+      "title": "Show GN: Social Archiver - SNS 글을 옵시디언에 바로 가져오는 플러그인(업데이트)",
+      "url": "https://news.hada.io/topic?id=30423",
+      "commentsUrl": "https://news.hada.io/topic?id=30423",
+      "author": "hyungyunlim",
+      "publishedAt": "2026-06-12T03:17:00.000Z"
+    },
     {
       "id": "30422",
       "source": "geeknews",
@@ -208,69 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30399",
       "author": "neo",
       "publishedAt": "2026-06-11T11:35:06.000Z"
-    },
-    {
-      "id": "30398",
-      "source": "geeknews",
-      "title": "사이버보안 연구자들이 Anthropic의 Fable 가드레일에 불만을 표하고 있음",
-      "url": "https://news.hada.io/topic?id=30398",
-      "commentsUrl": "https://news.hada.io/topic?id=30398",
-      "author": "neo",
-      "publishedAt": "2026-06-11T10:35:34.000Z"
-    },
-    {
-      "id": "30397",
-      "source": "geeknews",
-      "title": "PgDog이 투자 유치를 완료하고 가까운 데이터베이스로 찾아옵니다",
-      "url": "https://news.hada.io/topic?id=30397",
-      "commentsUrl": "https://news.hada.io/topic?id=30397",
-      "author": "neo",
-      "publishedAt": "2026-06-11T09:37:12.000Z"
-    },
-    {
-      "id": "30396",
-      "source": "geeknews",
-      "title": "Show GN: LLM으로 월드컵 경기 시뮬레이션하기",
-      "url": "https://news.hada.io/topic?id=30396",
-      "commentsUrl": "https://news.hada.io/topic?id=30396",
-      "author": "tantara",
-      "publishedAt": "2026-06-11T09:33:54.000Z"
-    },
-    {
-      "id": "30395",
-      "source": "geeknews",
-      "title": "Claude Fable 5의 고신호 활용 사례 저장소에 오신 것을 환영합니다.",
-      "url": "https://news.hada.io/topic?id=30395",
-      "commentsUrl": "https://news.hada.io/topic?id=30395",
-      "author": "evolink",
-      "publishedAt": "2026-06-11T09:11:14.000Z"
-    },
-    {
-      "id": "30393",
-      "source": "geeknews",
-      "title": "아랍어 타이포그래피 렌더링의 놀라운 경험과 기술 부채에 대한 인터랙티브 입문",
-      "url": "https://news.hada.io/topic?id=30393",
-      "commentsUrl": "https://news.hada.io/topic?id=30393",
-      "author": "neo",
-      "publishedAt": "2026-06-11T08:02:38.000Z"
-    },
-    {
-      "id": "30392",
-      "source": "geeknews",
-      "title": "Show GN: Claude Code, Codex 스킬이 잘 작동하는지 rubric evaluator로 검증 해보기",
-      "url": "https://news.hada.io/topic?id=30392",
-      "commentsUrl": "https://news.hada.io/topic?id=30392",
-      "author": "simsan00",
-      "publishedAt": "2026-06-11T07:16:02.000Z"
-    },
-    {
-      "id": "30391",
-      "source": "geeknews",
-      "title": "농부가 공원용으로 기부한 땅을 시가 데이터센터 부지로 1,000만 달러에 매각",
-      "url": "https://news.hada.io/topic?id=30391",
-      "commentsUrl": "https://news.hada.io/topic?id=30391",
-      "author": "neo",
-      "publishedAt": "2026-06-11T05:36:03.000Z"
     }
   ]
 }
