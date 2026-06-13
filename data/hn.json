@@ -1,133 +1,183 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-13T02:45:07.472Z",
+  "fetchedAt": "2026-06-13T13:44:50.149Z",
   "items": [
+    {
+      "id": "48516504",
+      "source": "hn",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "score": 44,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48516504",
+      "author": "hek2sch",
+      "publishedAt": "2026-06-13T12:10:47.000Z"
+    },
+    {
+      "id": "48515385",
+      "source": "hn",
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "url": "https://github.com/Paca-AI/paca",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48515385",
+      "author": "pikann22",
+      "publishedAt": "2026-06-13T09:44:25.000Z"
+    },
     {
       "id": "48511908",
       "source": "hn",
-      "title": "Open Source AI Must Win",
+      "title": "Open source AI must win",
       "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 70,
+      "score": 1187,
       "commentsUrl": "https://news.ycombinator.com/item?id=48511908",
       "author": "vednig",
       "publishedAt": "2026-06-13T02:14:24.000Z"
     },
     {
-      "id": "48511121",
+      "id": "48513728",
       "source": "hn",
-      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
-      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
-      "score": 52,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48511121",
-      "author": "jesse_dot_id",
-      "publishedAt": "2026-06-13T00:58:06.000Z"
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "score": 113,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48513728",
+      "author": "vnglst",
+      "publishedAt": "2026-06-13T05:44:46.000Z"
     },
     {
       "id": "48504912",
       "source": "hn",
       "title": "Slightly reducing the sloppiness of AI generated front end",
       "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "score": 166,
+      "score": 208,
       "commentsUrl": "https://news.ycombinator.com/item?id=48504912",
       "author": "FergusArgyll",
       "publishedAt": "2026-06-12T14:48:38.000Z"
     },
     {
-      "id": "48500012",
+      "id": "48515454",
       "source": "hn",
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "score": 1396,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48500012",
-      "author": "xiaoyu2006",
-      "publishedAt": "2026-06-12T04:42:53.000Z"
+      "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48515454",
+      "author": "iMil",
+      "publishedAt": "2026-06-13T09:55:32.000Z"
     },
     {
-      "id": "48487829",
+      "id": "48515733",
       "source": "hn",
-      "title": "Making a vintage LLM from scratch",
-      "url": "https://crlf.link/log/entries/260525-1/",
-      "score": 97,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48487829",
-      "author": "croqaz",
-      "publishedAt": "2026-06-11T08:38:00.000Z"
+      "title": "KPMG's AI report turns into a demo of AI hallucinations",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48515733",
+      "author": "dijksterhuis",
+      "publishedAt": "2026-06-13T10:32:38.000Z"
     },
     {
       "id": "48446673",
       "source": "hn",
       "title": "How Terry Tao became an evangelist for AI in math",
       "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-      "score": 168,
+      "score": 178,
       "commentsUrl": "https://news.ycombinator.com/item?id=48446673",
       "author": "Tomte",
       "publishedAt": "2026-06-08T15:30:09.000Z"
+    },
+    {
+      "id": "48516437",
+      "source": "hn",
+      "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
+      "url": "https://www.youtube.com/watch?v=qC_lCFTOJU0",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48516437",
+      "author": "binyu",
+      "publishedAt": "2026-06-13T12:01:16.000Z"
+    },
+    {
+      "id": "48500012",
+      "source": "hn",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "score": 1424,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48500012",
+      "author": "xiaoyu2006",
+      "publishedAt": "2026-06-12T04:42:53.000Z"
+    },
+    {
+      "id": "48515349",
+      "source": "hn",
+      "title": "What Would It Look Like If the AI Bubble Popped?",
+      "url": "https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48515349",
+      "author": "pimeys",
+      "publishedAt": "2026-06-13T09:40:13.000Z"
+    },
+    {
+      "id": "48487829",
+      "source": "hn",
+      "title": "Making a vintage LLM from scratch",
+      "url": "https://crlf.link/log/entries/260525-1/",
+      "score": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48487829",
+      "author": "croqaz",
+      "publishedAt": "2026-06-11T08:38:00.000Z"
     },
     {
       "id": "48498573",
       "source": "hn",
       "title": "Claude Fable is relentlessly proactive",
       "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "score": 728,
+      "score": 749,
       "commentsUrl": "https://news.ycombinator.com/item?id=48498573",
       "author": "lumpa",
       "publishedAt": "2026-06-12T01:06:51.000Z"
-    },
-    {
-      "id": "48505161",
-      "source": "hn",
-      "title": "Show HN: Script to bulk delete Claude chats from the web UI",
-      "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
-      "score": 52,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48505161",
-      "author": "ML0037",
-      "publishedAt": "2026-06-12T15:08:59.000Z"
     },
     {
       "id": "48489229",
       "source": "hn",
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "score": 498,
+      "score": 503,
       "commentsUrl": "https://news.ycombinator.com/item?id=48489229",
       "author": "rarisma",
       "publishedAt": "2026-06-11T12:05:02.000Z"
-    },
-    {
-      "id": "48510471",
-      "source": "hn",
-      "title": "I Think They [Anthropic] Are Lying to You [video]",
-      "url": "https://www.youtube.com/watch?v=zfYsSFY4l18",
-      "score": 64,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48510471",
-      "author": "salutis",
-      "publishedAt": "2026-06-12T23:12:39.000Z"
-    },
-    {
-      "id": "48492210",
-      "source": "hn",
-      "title": "Claude Fable 5: mid-tier results on coding tasks",
-      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-      "score": 394,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48492210",
-      "author": "bugvader",
-      "publishedAt": "2026-06-11T16:03:21.000Z"
     },
     {
       "id": "48463808",
       "source": "hn",
       "title": "Claude Fable 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 2611,
+      "score": 2617,
       "commentsUrl": "https://news.ycombinator.com/item?id=48463808",
       "author": "Philpax",
       "publishedAt": "2026-06-09T16:58:01.000Z"
+    },
+    {
+      "id": "48515805",
+      "source": "hn",
+      "title": "OpenAI under investigation by group of state attorneys general, source says",
+      "url": "https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48515805",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-06-13T10:42:43.000Z"
+    },
+    {
+      "id": "48492210",
+      "source": "hn",
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "score": 402,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48492210",
+      "author": "bugvader",
+      "publishedAt": "2026-06-11T16:03:21.000Z"
     },
     {
       "id": "48486486",
       "source": "hn",
       "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
       "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
-      "score": 127,
+      "score": 131,
       "commentsUrl": "https://news.ycombinator.com/item?id=48486486",
       "author": "agentifysh",
       "publishedAt": "2026-06-11T05:16:42.000Z"
