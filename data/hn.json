@@ -1,136 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-14T02:56:24.639Z",
+  "fetchedAt": "2026-06-14T13:47:36.521Z",
   "items": [
+    {
+      "id": "48523752",
+      "source": "hn",
+      "title": "Making Claude a Chemist",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48523752",
+      "author": "gmays",
+      "publishedAt": "2026-06-14T02:55:36.000Z"
+    },
     {
       "id": "48519092",
       "source": "hn",
       "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
       "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "score": 569,
+      "score": 735,
       "commentsUrl": "https://news.ycombinator.com/item?id=48519092",
       "author": "ls612",
       "publishedAt": "2026-06-13T16:57:49.000Z"
-    },
-    {
-      "id": "48520807",
-      "source": "hn",
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "score": 246,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48520807",
-      "author": "austinallegro",
-      "publishedAt": "2026-06-13T19:54:55.000Z"
     },
     {
       "id": "48515454",
       "source": "hn",
       "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
       "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-      "score": 199,
+      "score": 266,
       "commentsUrl": "https://news.ycombinator.com/item?id=48515454",
       "author": "iMil",
       "publishedAt": "2026-06-13T09:55:32.000Z"
     },
     {
-      "id": "48518969",
+      "id": "48520807",
       "source": "hn",
-      "title": "AI coding at home without going broke",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "score": 243,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48518969",
-      "author": "sbochins",
-      "publishedAt": "2026-06-13T16:45:03.000Z"
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "score": 347,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48520807",
+      "author": "austinallegro",
+      "publishedAt": "2026-06-13T19:54:55.000Z"
     },
     {
       "id": "48516504",
       "source": "hn",
       "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
       "url": "https://github.com/tensorzero/tensorzero",
-      "score": 245,
+      "score": 268,
       "commentsUrl": "https://news.ycombinator.com/item?id=48516504",
       "author": "hek2sch",
       "publishedAt": "2026-06-13T12:10:47.000Z"
-    },
-    {
-      "id": "48522675",
-      "source": "hn",
-      "title": "State Attorneys General Are Investigating OpenAI",
-      "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
-      "score": 40,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48522675",
-      "author": "donohoe",
-      "publishedAt": "2026-06-13T23:52:19.000Z"
     },
     {
       "id": "48515385",
       "source": "hn",
       "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
       "url": "https://github.com/Paca-AI/paca",
-      "score": 137,
+      "score": 158,
       "commentsUrl": "https://news.ycombinator.com/item?id=48515385",
       "author": "pikann22",
       "publishedAt": "2026-06-13T09:44:25.000Z"
     },
     {
-      "id": "48523271",
+      "id": "48518969",
       "source": "hn",
-      "title": "'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
-      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-      "score": 52,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48523271",
-      "author": "momentmaker",
-      "publishedAt": "2026-06-14T01:23:45.000Z"
+      "title": "AI coding at home without going broke",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "score": 314,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48518969",
+      "author": "sbochins",
+      "publishedAt": "2026-06-13T16:45:03.000Z"
     },
     {
-      "id": "48523341",
+      "id": "48522675",
       "source": "hn",
-      "title": "The whirlwind 24 hours that led to export controls on Anthropic",
-      "url": "https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48523341",
-      "author": "ls612",
-      "publishedAt": "2026-06-14T01:37:22.000Z"
-    },
-    {
-      "id": "48519519",
-      "source": "hn",
-      "title": "PwC Report: AI Making Medical Bills Higher",
-      "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
-      "score": 70,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48519519",
-      "author": "karakoram",
-      "publishedAt": "2026-06-13T17:39:14.000Z"
-    },
-    {
-      "id": "48511908",
-      "source": "hn",
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 1521,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48511908",
-      "author": "vednig",
-      "publishedAt": "2026-06-13T02:14:24.000Z"
-    },
-    {
-      "id": "48522072",
-      "source": "hn",
-      "title": "Amazon security research reportedly led to the White House's Anthropic Fable ban",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48522072",
-      "author": "kikibobo69",
-      "publishedAt": "2026-06-13T22:20:54.000Z"
+      "title": "State Attorneys General Are Investigating OpenAI",
+      "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+      "score": 60,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48522675",
+      "author": "donohoe",
+      "publishedAt": "2026-06-13T23:52:19.000Z"
     },
     {
       "id": "48446673",
       "source": "hn",
       "title": "How Terry Tao became an evangelist for AI in math",
       "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-      "score": 184,
+      "score": 188,
       "commentsUrl": "https://news.ycombinator.com/item?id=48446673",
       "author": "Tomte",
       "publishedAt": "2026-06-08T15:30:09.000Z"
+    },
+    {
+      "id": "48511908",
+      "source": "hn",
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "score": 1544,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48511908",
+      "author": "vednig",
+      "publishedAt": "2026-06-13T02:14:24.000Z"
     }
   ]
 }
