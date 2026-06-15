@@ -1,106 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-14T13:47:36.521Z",
+  "fetchedAt": "2026-06-15T03:29:31.006Z",
   "items": [
+    {
+      "id": "48528371",
+      "source": "hn",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "score": 296,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48528371",
+      "author": "unrvl22",
+      "publishedAt": "2026-06-14T15:37:31.000Z"
+    },
+    {
+      "id": "48532178",
+      "source": "hn",
+      "title": "AI is code – and can't be prompted into being smarter",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "score": 104,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48532178",
+      "author": "wglb",
+      "publishedAt": "2026-06-14T20:17:54.000Z"
+    },
+    {
+      "id": "48527700",
+      "source": "hn",
+      "title": "Not everyone is using AI for everything",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "score": 438,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48527700",
+      "author": "yegg",
+      "publishedAt": "2026-06-14T14:44:29.000Z"
+    },
+    {
+      "id": "48527946",
+      "source": "hn",
+      "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 39,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48527946",
+      "author": "mellosouls",
+      "publishedAt": "2026-06-14T15:08:17.000Z"
+    },
+    {
+      "id": "48535797",
+      "source": "hn",
+      "title": "AI Has Amnesia. Here's Every System Built to Fix It",
+      "url": "https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48535797",
+      "author": "AlanAAG",
+      "publishedAt": "2026-06-15T02:16:24.000Z"
+    },
+    {
+      "id": "48533504",
+      "source": "hn",
+      "title": "Did Anthropic ask for this?",
+      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "score": 166,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48533504",
+      "author": "ad8e",
+      "publishedAt": "2026-06-14T22:23:05.000Z"
+    },
+    {
+      "id": "48527297",
+      "source": "hn",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "score": 130,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48527297",
+      "author": "Brajeshwar",
+      "publishedAt": "2026-06-14T14:01:35.000Z"
+    },
     {
       "id": "48523752",
       "source": "hn",
       "title": "Making Claude a Chemist",
       "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-      "score": 57,
+      "score": 86,
       "commentsUrl": "https://news.ycombinator.com/item?id=48523752",
       "author": "gmays",
       "publishedAt": "2026-06-14T02:55:36.000Z"
-    },
-    {
-      "id": "48519092",
-      "source": "hn",
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "score": 735,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48519092",
-      "author": "ls612",
-      "publishedAt": "2026-06-13T16:57:49.000Z"
-    },
-    {
-      "id": "48515454",
-      "source": "hn",
-      "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
-      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-      "score": 266,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48515454",
-      "author": "iMil",
-      "publishedAt": "2026-06-13T09:55:32.000Z"
     },
     {
       "id": "48520807",
       "source": "hn",
       "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
       "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "score": 347,
+      "score": 374,
       "commentsUrl": "https://news.ycombinator.com/item?id=48520807",
       "author": "austinallegro",
       "publishedAt": "2026-06-13T19:54:55.000Z"
-    },
-    {
-      "id": "48516504",
-      "source": "hn",
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "score": 268,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48516504",
-      "author": "hek2sch",
-      "publishedAt": "2026-06-13T12:10:47.000Z"
     },
     {
       "id": "48515385",
       "source": "hn",
       "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
       "url": "https://github.com/Paca-AI/paca",
-      "score": 158,
+      "score": 162,
       "commentsUrl": "https://news.ycombinator.com/item?id=48515385",
       "author": "pikann22",
       "publishedAt": "2026-06-13T09:44:25.000Z"
     },
     {
-      "id": "48518969",
+      "id": "48516504",
       "source": "hn",
-      "title": "AI coding at home without going broke",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "score": 314,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48518969",
-      "author": "sbochins",
-      "publishedAt": "2026-06-13T16:45:03.000Z"
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "score": 274,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48516504",
+      "author": "hek2sch",
+      "publishedAt": "2026-06-13T12:10:47.000Z"
     },
     {
-      "id": "48522675",
+      "id": "48533308",
       "source": "hn",
-      "title": "State Attorneys General Are Investigating OpenAI",
-      "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
-      "score": 60,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48522675",
-      "author": "donohoe",
-      "publishedAt": "2026-06-13T23:52:19.000Z"
+      "title": "Why Is Claude Turning into an a**Hole?",
+      "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+      "score": 105,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48533308",
+      "author": "drob518",
+      "publishedAt": "2026-06-14T22:04:01.000Z"
     },
     {
-      "id": "48446673",
+      "id": "48530709",
       "source": "hn",
-      "title": "How Terry Tao became an evangelist for AI in math",
-      "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-      "score": 188,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48446673",
-      "author": "Tomte",
-      "publishedAt": "2026-06-08T15:30:09.000Z"
-    },
-    {
-      "id": "48511908",
-      "source": "hn",
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 1544,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48511908",
-      "author": "vednig",
-      "publishedAt": "2026-06-13T02:14:24.000Z"
+      "title": "Welcome to the AGI era of AI governance",
+      "url": "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48530709",
+      "author": "only_in_america",
+      "publishedAt": "2026-06-14T18:19:48.000Z"
     }
   ]
 }
