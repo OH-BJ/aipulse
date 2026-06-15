@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-06-15T03:29:30.589Z",
-  "items": []
+  "fetchedAt": "2026-06-15T17:04:49.717Z",
+  "items": [
+    {
+      "id": "2606.13626",
+      "source": "arxiv",
+      "title": "Generative Modeling of Bach-Style Symbolic Music: A Comparative Study of Autoregressive, Latent-Variable, and Adversarial Approaches",
+      "url": "https://arxiv.org/abs/2606.13626",
+      "author": "Dezhi Yu, Kyuil Lee, Yongkang Huang",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "We study generative modeling of Bach-style symbolic piano music using a shared MIDI corpus and three model families: autoregressive LSTMs with attention, latent-variable models including recurrent VAE…"
+    },
+    {
+      "id": "2606.12881",
+      "source": "arxiv",
+      "title": "Direct Preference Optimization for Chatbot Fine-Tuning: An Empirical Study",
+      "url": "https://arxiv.org/abs/2606.12881",
+      "author": "Dezhi Yu, Yvonne Qiu, ShuoJia Fu",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "We present an approach to fine-tuning large language models using Direct Preference Optimization (DPO), a reinforcement learning technique. Our experimental results demonstrate that DPO simplifies the…"
+    },
+    {
+      "id": "2606.12728",
+      "source": "arxiv",
+      "title": "EquiDexFlow: Contact-Grounded SE(3)-Equivariant Dexterous Grasp Generative Flows",
+      "url": "https://arxiv.org/abs/2606.12728",
+      "author": "Clinton Enwerem, John S. Baras, Calin Belta",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Most learned dexterous grasp generators relegate contact forces to a downstream verification step, so a kinematically-plausible pose can still violate the conditions for a stable physical grasp. We ad…"
+    },
+    {
+      "id": "2606.02231",
+      "source": "arxiv",
+      "title": "Identifiable Markov Switching Models with Instantaneous Effects and Exponential Families",
+      "url": "https://arxiv.org/abs/2606.02231",
+      "author": "Roel Hulsman, Carles Balsells-Rodas, Sara Magliacane",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Temporal systems often exhibit non-stationary behaviour, such as seasonal climate variation or glucose fluctuations in patients with type-1 diabetes. One way to model non-stationarity is through discr…"
+    },
+    {
+      "id": "2605.24795",
+      "source": "arxiv",
+      "title": "Lifted Schr\\\"odinger Bridges for Gaussian Mixture Endpoints: Projection Gaps and Path-Space Obstructions",
+      "url": "https://arxiv.org/abs/2605.24795",
+      "author": "Siddhartha Ganguly, George Rapakoulias, Panagiotis Tsiotras",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "We study stochastic density control between Gaussian-mixture endpoint distributions under Brownian prior dynamics. Since the direct Schr\\\"odinger bridge between Gaussian mixtures is generally not avai…"
+    },
+    {
+      "id": "2605.18250",
+      "source": "arxiv",
+      "title": "A Unified Framework for Structured Flow Modeling: From Representation to Verification and Model Discovery",
+      "url": "https://arxiv.org/abs/2605.18250",
+      "author": "Diego Casadei",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Many dynamical systems can be described in terms of structured flows combining source/sink behavior, cyclic dynamics, and topology-constrained transport. These features arise across a wide range of ph…"
+    },
+    {
+      "id": "2605.04954",
+      "source": "arxiv",
+      "title": "On the Influence of the Feature Computation Budget on Per-Instance Algorithm Selection for Black-Box Optimization",
+      "url": "https://arxiv.org/abs/2605.04954",
+      "author": "Koen van der Blom, Diederick Vermetten",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Per-instance algorithm selection (PIAS) takes advantage of complementarity between a set of algorithms by deciding which algorithm to run on a given instance. This decision is based on features of the…"
+    },
+    {
+      "id": "2604.23336",
+      "source": "arxiv",
+      "title": "Efficient Rationale-based Retrieval: On-policy Distillation from Generative Rerankers based on JEPA",
+      "url": "https://arxiv.org/abs/2604.23336",
+      "author": "Teng Chen, Sheng Xu, Feixiang Guo +4",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Unlike traditional fact-based retrieval, rationale-based retrieval typically necessitates cross-encoding of query-document pairs using large language models, incurring substantial computational costs.…"
+    },
+    {
+      "id": "2602.16835",
+      "source": "arxiv",
+      "title": "NeST: Neuron Selective Tuning for LLM Safety",
+      "url": "https://arxiv.org/abs/2602.16835",
+      "author": "Sasha Behrouzi, Lichao Wu, Mohamadreza Rostami +1",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Safety alignment is essential for the responsible deployment of Large Language Models (LLMs). Yet, existing approaches often rely on heavyweight fine-tuning that is costly to update, audit, and mainta…"
+    },
+    {
+      "id": "2602.09161",
+      "source": "arxiv",
+      "title": "Minimum Distance Summaries for Robust Neural Posterior Estimation",
+      "url": "https://arxiv.org/abs/2602.09161",
+      "author": "Sherman Khoo, Dennis Prangle, Song Liu +1",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Simulation-based inference (SBI) enables amortized Bayesian inference by first training a neural posterior estimator (NPE) on prior-simulator pairs, typically through low-dimensional summary statistic…"
+    },
+    {
+      "id": "2602.02355",
+      "source": "arxiv",
+      "title": "Mitigating Heterogeneity-Induced Drift in Hierarchical Sign-Based Federated Learning",
+      "url": "https://arxiv.org/abs/2602.02355",
+      "author": "Amirreza Kazemi, Seyed Mohammad Azimi-Abarghouyi, Gabor Fodor +1",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Hierarchical federated learning (HFL) is well suited for large-scale wireless and Internet of Things systems, where devices communicate with nearby edge servers before reaching the cloud. In these env…"
+    },
+    {
+      "id": "2602.00593",
+      "source": "arxiv",
+      "title": "Pix2Fact: When Vision Is Not Enough -- Benchmarking Fine-Grained VQA with Web Verification on High-Resolution Real-World Scenes",
+      "url": "https://arxiv.org/abs/2602.00593",
+      "author": "Yifan Jiang, Cong Zhang, Bofei Zhang +4",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Despite progress on general tasks, vision-language models (VLMs) still struggle with challenges that demand both fine-grained visual grounding and external knowledge, a synergy overlooked by existing…"
+    },
+    {
+      "id": "2601.11626",
+      "source": "arxiv",
+      "title": "Concatenated Matrix SVD: Compression Bounds, Incremental Approximation, and Error-Constrained Clustering",
+      "url": "https://arxiv.org/abs/2601.11626",
+      "author": "Maksym Shamrai",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Large collections of matrices arise throughout modern machine learning, signal processing, and scientific computing, where they are commonly compressed by concatenation followed by truncated singular…"
+    },
+    {
+      "id": "2512.23847",
+      "source": "arxiv",
+      "title": "Detecting Lookahead Bias in LLM Forecasts",
+      "url": "https://arxiv.org/abs/2512.23847",
+      "author": "Zhenyu Gao, Wenxi Jiang, Yutong Yan",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "We develop a statistical procedure to detect lookahead bias in economic forecasts generated by large language models (LLMs). Using a date-only recall query for a firm-date pair, we estimate the probab…"
+    },
+    {
+      "id": "2512.18021",
+      "source": "arxiv",
+      "title": "Shuttling Compiler for Trapped-Ion Quantum Computers Based on Large Language Models",
+      "url": "https://arxiv.org/abs/2512.18021",
+      "author": "Fabian Kreppel, Reza Salkhordeh, Ferdinand Schmidt-Kaler +1",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "We present the first shuttling compiler based on large language models (LLMs) for trapped-ion quantum computers, where qubits are shuttled between segments for gate execution and qubit storage. We fin…"
+    },
+    {
+      "id": "2512.04981",
+      "source": "arxiv",
+      "title": "Aligned but Stereotypical? How System Prompts Shape Demographic Bias in LLM-Based Text-to-Image Models",
+      "url": "https://arxiv.org/abs/2512.04981",
+      "author": "NaHyeon Park, Na Min An, Kunhee Kim +3",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Text-to-image (T2I) systems increasingly rely on Large Language Model (LLM)-based text conditioning to interpret and expand user prompts. While this improves prompt understanding and text-image alignm…"
+    },
+    {
+      "id": "2511.14897",
+      "source": "arxiv",
+      "title": "HULFSynth : An INR based Super-Resolution and Ultra Low-Field MRI Synthesis via Contrast factor estimation",
+      "url": "https://arxiv.org/abs/2511.14897",
+      "author": "Pranav Indrakanti, Luca Trautmann, Ivor Simpson",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "We present an unsupervised single image bidirectional Magnetic Resonance Image (MRI) synthesizer that synthesizes an Ultra-Low Field (ULF) like image from a High-Field (HF) magnitude image and vice-ve…"
+    },
+    {
+      "id": "2509.24710",
+      "source": "arxiv",
+      "title": "MAD: Manifold Attracted Diffusion",
+      "url": "https://arxiv.org/abs/2509.24710",
+      "author": "Dennis Elbr\\\"achter, Giovanni S. Alberti, Matteo Santacesaria",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Score-based diffusion models are a highly effective method for generating samples from a distribution of images. We consider scenarios where the training data comes from a noisy version of the target…"
+    },
+    {
+      "id": "2509.06697",
+      "source": "arxiv",
+      "title": "Neural ARFIMA model for forecasting BRIC exchange rates with long memory",
+      "url": "https://arxiv.org/abs/2509.06697",
+      "author": "Donia Besher, Madhurima Panja, Shovon Sengupta +1",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Exchange rate forecasting remains a challenging problem, particularly for emerging economies, where the observed time series exhibit pronounced long-memory dependence, nonlinear dynamics, and sensitiv…"
+    },
+    {
+      "id": "2508.18166",
+      "source": "arxiv",
+      "title": "PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation",
+      "url": "https://arxiv.org/abs/2508.18166",
+      "author": "Bin Tan, Wangyao Ge, Yidi Wang +4",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Modern app store recommender systems struggle with multiple-category apps, as traditional taxonomies fail to capture overlapping semantics, leading to suboptimal personalization. We propose PCR-CA (Pa…"
+    },
+    {
+      "id": "2506.06542",
+      "source": "arxiv",
+      "title": "Direct Fisher Score Estimation for Likelihood Maximization",
+      "url": "https://arxiv.org/abs/2506.06542",
+      "author": "Sherman Khoo, Yakun Wang, Song Liu +1",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "We study the problem of likelihood maximization when the likelihood function is intractable but model simulations are readily available. We propose a sequential, gradient-based optimization method tha…"
+    },
+    {
+      "id": "2505.04671",
+      "source": "arxiv",
+      "title": "Reward-SQL: Boosting Text-to-SQL via Stepwise Execution-Aware Reasoning and Process-Supervised Rewards",
+      "url": "https://arxiv.org/abs/2505.04671",
+      "author": "Yuxin Zhang, Meihao Fan, Ju Fan +5",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Recent advances in large language models (LLMs) trained with reinforcement learning (RL) have improved Text-to-SQL performance. However, RL-based approaches still struggle with complex queries due to…"
+    },
+    {
+      "id": "2410.15051",
+      "source": "arxiv",
+      "title": "Automatic identification of diagnosis from hospital discharge letters via weakly supervised Natural Language Processing",
+      "url": "https://arxiv.org/abs/2410.15051",
+      "author": "Vittorio Torri, Elisa Barbieri, Anna Cantarutti +2",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Identifying patient diagnoses from hospital discharge letters is essential for large-scale cohort selection and epidemiological research, but traditional supervised approaches require extensive manual…"
+    },
+    {
+      "id": "2405.03063",
+      "source": "arxiv",
+      "title": "Stability of a Generalized Debiased Lasso with Applications to Resampling-Based Variable Selection",
+      "url": "https://arxiv.org/abs/2405.03063",
+      "author": "Jingbo Liu",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "We propose a generalized debiased Lasso estimator based on a stability principle. When a single column of the design matrix is perturbed, the estimator admits a simple update formula that can be compu…"
+    },
+    {
+      "id": "2402.17750",
+      "source": "arxiv",
+      "title": "Arbitrary control over multimode wave propagation for machine learning",
+      "url": "https://arxiv.org/abs/2402.17750",
+      "author": "Tatsuhiro Onodera, Martin M. Stein, Benjamin A. Ash +10",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Controlled multimode wave propagation can enable more space-efficient photonic processors than architectures based on discrete components connected by single-mode waveguides. Instead of defining discr…"
+    },
+    {
+      "id": "2402.16388",
+      "source": "arxiv",
+      "title": "Leave-One-Out-, Bootstrap- and Cross-Conformal Anomaly Detectors",
+      "url": "https://arxiv.org/abs/2402.16388",
+      "author": "Oliver Hennh\\\"ofer, Christine Preisach",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "The need for uncertainty quantification in anomaly detection systems has become increasingly important. In this context, effectively controlling Type I error rates without inflating Type II error rate…"
+    },
+    {
+      "id": "2312.14889",
+      "source": "arxiv",
+      "title": "On Rate-Optimal Partitioning Classification from Observable and from Privatised Data",
+      "url": "https://arxiv.org/abs/2312.14889",
+      "author": "Bal\\'azs Csan\\'ad Cs\\'aji, L\\'aszl\\'o Gy\\\"orfi, Ambrus Tam\\'as +1",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "In this paper we revisit the classical method of partitioning classification and prove novel convergence rates under relaxed conditions, both for observable (non-privatised) and for privatised data. W…"
+    },
+    {
+      "id": "2606.13657",
+      "source": "arxiv",
+      "title": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2606.13657",
+      "author": "Guo Yu, Wenlin Liu, Yulan Hu +3",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "On-policy distillation (\\textsc{OPD}) has recently become a prominent post-training recipe by combining two desirable ingredients: on-policy student trajectories and dense teacher supervision. However…"
+    },
+    {
+      "id": "2606.13300",
+      "source": "arxiv",
+      "title": "Quantizing Time-Series Models As Dynamical Systems: Trajectory-Based Quantization Sensitivity Score",
+      "url": "https://arxiv.org/abs/2606.13300",
+      "author": "Mariya Pavlova, Harrison Bo Hua Zhu, Elizsveta Semenova +1",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "We introduce the Trajectory-based Quantization Sensitivity Score (TQS), a metric that reframes post-training quantization (PTQ) through the lens of dynamical-systems stability. By modeling the network…"
+    },
+    {
+      "id": "2606.13221",
+      "source": "arxiv",
+      "title": "From Uncertain Judgments to Calibrated Rankings: Conformal Elo Estimation for LLM Evaluation",
+      "url": "https://arxiv.org/abs/2606.13221",
+      "author": "Bora Kargi, David Salinas",
+      "publishedAt": "2026-06-15T04:00:00.000Z",
+      "summary": "Evaluating new large language models typically requires costly human annotation campaigns at scale. LLM-as-a-judge offers a cheaper alternative, but judge scores carry systematic errors - such as posi…"
+    }
+  ]
 }

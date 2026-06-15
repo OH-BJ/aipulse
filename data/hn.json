@@ -1,136 +1,126 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-15T03:29:31.006Z",
+  "fetchedAt": "2026-06-15T17:04:49.800Z",
   "items": [
+    {
+      "id": "48542433",
+      "source": "hn",
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "score": 36,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48542433",
+      "author": "rsgm",
+      "publishedAt": "2026-06-15T15:09:40.000Z"
+    },
+    {
+      "id": "48542100",
+      "source": "hn",
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "url": "https://news.ycombinator.com/item?id=48542100",
+      "score": 44,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48542100",
+      "author": "cloudking",
+      "publishedAt": "2026-06-15T14:46:53.000Z"
+    },
+    {
+      "id": "48538833",
+      "source": "hn",
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "url": "https://github.com/themartiano/luz",
+      "score": 127,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48538833",
+      "author": "martiano",
+      "publishedAt": "2026-06-15T09:34:10.000Z"
+    },
+    {
+      "id": "48539078",
+      "source": "hn",
+      "title": "Anthropic's Safety Superpower",
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+      "score": 169,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48539078",
+      "author": "swolpers",
+      "publishedAt": "2026-06-15T10:06:35.000Z"
+    },
     {
       "id": "48528371",
       "source": "hn",
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "score": 296,
+      "score": 386,
       "commentsUrl": "https://news.ycombinator.com/item?id=48528371",
       "author": "unrvl22",
       "publishedAt": "2026-06-14T15:37:31.000Z"
     },
     {
-      "id": "48532178",
+      "id": "48541014",
       "source": "hn",
-      "title": "AI is code – and can't be prompted into being smarter",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-      "score": 104,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48532178",
-      "author": "wglb",
-      "publishedAt": "2026-06-14T20:17:54.000Z"
+      "title": "Show HN: Can Europe train a frontier AI model on the compute it owns?",
+      "url": "https://github.com/sammysltd/euromesh",
+      "score": 46,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48541014",
+      "author": "smashini",
+      "publishedAt": "2026-06-15T13:31:09.000Z"
+    },
+    {
+      "id": "48541105",
+      "source": "hn",
+      "title": "India, UAE partner on AI sovereignty to bypass Google, Microsoft",
+      "url": "https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/",
+      "score": 26,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48541105",
+      "author": "speckx",
+      "publishedAt": "2026-06-15T13:37:54.000Z"
     },
     {
       "id": "48527700",
       "source": "hn",
       "title": "Not everyone is using AI for everything",
       "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "score": 438,
+      "score": 488,
       "commentsUrl": "https://news.ycombinator.com/item?id=48527700",
       "author": "yegg",
       "publishedAt": "2026-06-14T14:44:29.000Z"
+    },
+    {
+      "id": "48542615",
+      "source": "hn",
+      "title": "Anthropic Sued over Limits on Its $200-a-Month AI Plans",
+      "url": "https://www.wsj.com/tech/ai/anthropic-sued-over-limits-on-its-200-a-month-ai-plans-e2a109e4",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48542615",
+      "author": "JumpCrisscross",
+      "publishedAt": "2026-06-15T15:21:39.000Z"
     },
     {
       "id": "48527946",
       "source": "hn",
       "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 39,
+      "score": 81,
       "commentsUrl": "https://news.ycombinator.com/item?id=48527946",
       "author": "mellosouls",
       "publishedAt": "2026-06-14T15:08:17.000Z"
-    },
-    {
-      "id": "48535797",
-      "source": "hn",
-      "title": "AI Has Amnesia. Here's Every System Built to Fix It",
-      "url": "https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48535797",
-      "author": "AlanAAG",
-      "publishedAt": "2026-06-15T02:16:24.000Z"
-    },
-    {
-      "id": "48533504",
-      "source": "hn",
-      "title": "Did Anthropic ask for this?",
-      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-      "score": 166,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48533504",
-      "author": "ad8e",
-      "publishedAt": "2026-06-14T22:23:05.000Z"
-    },
-    {
-      "id": "48527297",
-      "source": "hn",
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "score": 130,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48527297",
-      "author": "Brajeshwar",
-      "publishedAt": "2026-06-14T14:01:35.000Z"
     },
     {
       "id": "48523752",
       "source": "hn",
       "title": "Making Claude a Chemist",
       "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-      "score": 86,
+      "score": 90,
       "commentsUrl": "https://news.ycombinator.com/item?id=48523752",
       "author": "gmays",
       "publishedAt": "2026-06-14T02:55:36.000Z"
     },
     {
-      "id": "48520807",
+      "id": "48527297",
       "source": "hn",
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "score": 374,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48520807",
-      "author": "austinallegro",
-      "publishedAt": "2026-06-13T19:54:55.000Z"
-    },
-    {
-      "id": "48515385",
-      "source": "hn",
-      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-      "url": "https://github.com/Paca-AI/paca",
-      "score": 162,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48515385",
-      "author": "pikann22",
-      "publishedAt": "2026-06-13T09:44:25.000Z"
-    },
-    {
-      "id": "48516504",
-      "source": "hn",
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "score": 274,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48516504",
-      "author": "hek2sch",
-      "publishedAt": "2026-06-13T12:10:47.000Z"
-    },
-    {
-      "id": "48533308",
-      "source": "hn",
-      "title": "Why Is Claude Turning into an a**Hole?",
-      "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
-      "score": 105,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48533308",
-      "author": "drob518",
-      "publishedAt": "2026-06-14T22:04:01.000Z"
-    },
-    {
-      "id": "48530709",
-      "source": "hn",
-      "title": "Welcome to the AGI era of AI governance",
-      "url": "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48530709",
-      "author": "only_in_america",
-      "publishedAt": "2026-06-14T18:19:48.000Z"
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "score": 152,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48527297",
+      "author": "Brajeshwar",
+      "publishedAt": "2026-06-14T14:01:35.000Z"
     }
   ]
 }
