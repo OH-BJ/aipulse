@@ -1,53 +1,43 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-16T03:26:57.768Z",
+  "fetchedAt": "2026-06-16T16:30:03.590Z",
   "items": [
     {
-      "id": "48549918",
+      "id": "48542433",
       "source": "hn",
-      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-      "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
-      "score": 52,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48549918",
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "score": 349,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48542433",
+      "author": "rsgm",
+      "publishedAt": "2026-06-15T15:09:40.000Z"
+    },
+    {
+      "id": "48554814",
+      "source": "hn",
+      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48554814",
       "author": "ilreb",
-      "publishedAt": "2026-06-16T02:47:57.000Z"
+      "publishedAt": "2026-06-16T13:15:15.000Z"
     },
     {
       "id": "48542100",
       "source": "hn",
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
       "url": "https://news.ycombinator.com/item?id=48542100",
-      "score": 740,
+      "score": 1208,
       "commentsUrl": "https://news.ycombinator.com/item?id=48542100",
       "author": "cloudking",
       "publishedAt": "2026-06-15T14:46:53.000Z"
-    },
-    {
-      "id": "48542433",
-      "source": "hn",
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 257,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48542433",
-      "author": "rsgm",
-      "publishedAt": "2026-06-15T15:09:40.000Z"
-    },
-    {
-      "id": "48544823",
-      "source": "hn",
-      "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-      "url": "https://grassdx.com/",
-      "score": 42,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48544823",
-      "author": "andrewbr",
-      "publishedAt": "2026-06-15T17:56:00.000Z"
     },
     {
       "id": "48544637",
       "source": "hn",
       "title": "Claude Corps",
       "url": "https://www.anthropic.com/news/claude-corps",
-      "score": 99,
+      "score": 151,
       "commentsUrl": "https://news.ycombinator.com/item?id=48544637",
       "author": "Mustan",
       "publishedAt": "2026-06-15T17:41:24.000Z"
@@ -57,80 +47,50 @@
       "source": "hn",
       "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
       "url": "https://fata.dev",
-      "score": 86,
+      "score": 105,
       "commentsUrl": "https://news.ycombinator.com/item?id=48489163",
       "author": "djoume",
       "publishedAt": "2026-06-11T11:57:03.000Z"
+    },
+    {
+      "id": "48544823",
+      "source": "hn",
+      "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+      "url": "https://grassdx.com/",
+      "score": 71,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48544823",
+      "author": "andrewbr",
+      "publishedAt": "2026-06-15T17:56:00.000Z"
     },
     {
       "id": "48541014",
       "source": "hn",
       "title": "Can Europe train a frontier AI model on the compute it owns?",
       "url": "https://github.com/sammysltd/euromesh",
-      "score": 120,
+      "score": 137,
       "commentsUrl": "https://news.ycombinator.com/item?id=48541014",
       "author": "smashini",
       "publishedAt": "2026-06-15T13:31:09.000Z"
     },
     {
-      "id": "48548381",
+      "id": "48553983",
       "source": "hn",
-      "title": "Show HN: Claude Code for Visual Studio (native diff with accept/reject)",
-      "url": "https://github.com/firish/claude_code_vs",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48548381",
-      "author": "firish",
-      "publishedAt": "2026-06-15T23:15:56.000Z"
+      "title": "The White House Is Ratcheting Up Its War Against Anthropic",
+      "url": "https://www.theatlantic.com/technology/2026/06/trump-anthropic-export-control-ai-race/687555/",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48553983",
+      "author": "dstala",
+      "publishedAt": "2026-06-16T12:10:28.000Z"
     },
     {
-      "id": "48539078",
+      "id": "48550465",
       "source": "hn",
-      "title": "Anthropic's Safety Superpower",
-      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-      "score": 205,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48539078",
-      "author": "swolpers",
-      "publishedAt": "2026-06-15T10:06:35.000Z"
-    },
-    {
-      "id": "48547929",
-      "source": "hn",
-      "title": "Prediction and Entropy of Printed English - Claude Shannon (1950) [pdf]",
-      "url": "https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48547929",
-      "author": "consumer451",
-      "publishedAt": "2026-06-15T22:32:20.000Z"
-    },
-    {
-      "id": "48538833",
-      "source": "hn",
-      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "url": "https://github.com/themartiano/luz",
-      "score": 145,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48538833",
-      "author": "martiano",
-      "publishedAt": "2026-06-15T09:34:10.000Z"
-    },
-    {
-      "id": "48547539",
-      "source": "hn",
-      "title": "Show HN: When Will AI? – A timeline of top AI predictions",
-      "url": "https://whenwill.ai",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48547539",
-      "author": "jaymeh13",
-      "publishedAt": "2026-06-15T21:54:32.000Z"
-    },
-    {
-      "id": "48528371",
-      "source": "hn",
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "score": 394,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48528371",
-      "author": "unrvl22",
-      "publishedAt": "2026-06-14T15:37:31.000Z"
+      "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
+      "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
+      "score": 117,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48550465",
+      "author": "spking",
+      "publishedAt": "2026-06-16T04:05:48.000Z"
     }
   ]
 }

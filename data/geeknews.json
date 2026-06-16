@@ -1,7 +1,88 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-16T03:26:58.178Z",
+  "fetchedAt": "2026-06-16T16:30:03.715Z",
   "items": [
+    {
+      "id": "30544",
+      "source": "geeknews",
+      "title": "savearoundtrip: HTTPS DNS 레코드를 게시하고 왕복 1회를 건너뛰기",
+      "url": "https://news.hada.io/topic?id=30544",
+      "commentsUrl": "https://news.hada.io/topic?id=30544",
+      "author": "neo",
+      "publishedAt": "2026-06-16T15:01:49.000Z"
+    },
+    {
+      "id": "30543",
+      "source": "geeknews",
+      "title": "노트북에서 FreeBSD 15 사용하기",
+      "url": "https://news.hada.io/topic?id=30543",
+      "commentsUrl": "https://news.hada.io/topic?id=30543",
+      "author": "neo",
+      "publishedAt": "2026-06-16T14:02:17.000Z"
+    },
+    {
+      "id": "30542",
+      "source": "geeknews",
+      "title": "Show GN: Anf - 새로운 macOS Finder",
+      "url": "https://news.hada.io/topic?id=30542",
+      "commentsUrl": "https://news.hada.io/topic?id=30542",
+      "author": "zihado",
+      "publishedAt": "2026-06-16T13:46:51.000Z"
+    },
+    {
+      "id": "30541",
+      "source": "geeknews",
+      "title": "Wi-Fi 스마트 전구 속 금서 도서관",
+      "url": "https://news.hada.io/topic?id=30541",
+      "commentsUrl": "https://news.hada.io/topic?id=30541",
+      "author": "neo",
+      "publishedAt": "2026-06-16T12:36:56.000Z"
+    },
+    {
+      "id": "30540",
+      "source": "geeknews",
+      "title": "페일오버가 안전하지 않을 때: Kubernetes 기반 고가용성 PostgreSQL 구축",
+      "url": "https://news.hada.io/topic?id=30540",
+      "commentsUrl": "https://news.hada.io/topic?id=30540",
+      "author": "neo",
+      "publishedAt": "2026-06-16T12:26:01.000Z"
+    },
+    {
+      "id": "30539",
+      "source": "geeknews",
+      "title": "Show GN: Devup UI - 압축률 글로벌 1위 UI 프레임워크, 속도 및 CSS 압축 더욱 개선",
+      "url": "https://news.hada.io/topic?id=30539",
+      "commentsUrl": "https://news.hada.io/topic?id=30539",
+      "author": "owjs3901",
+      "publishedAt": "2026-06-16T08:08:43.000Z"
+    },
+    {
+      "id": "30538",
+      "source": "geeknews",
+      "title": "Hetzner 가격 조정",
+      "url": "https://news.hada.io/topic?id=30538",
+      "commentsUrl": "https://news.hada.io/topic?id=30538",
+      "author": "neo",
+      "publishedAt": "2026-06-16T07:36:10.000Z"
+    },
+    {
+      "id": "30537",
+      "source": "geeknews",
+      "title": "OpenRouter Fusion API",
+      "url": "https://news.hada.io/topic?id=30537",
+      "commentsUrl": "https://news.hada.io/topic?id=30537",
+      "author": "xguru",
+      "publishedAt": "2026-06-16T07:25:29.000Z"
+    },
+    {
+      "id": "30536",
+      "source": "geeknews",
+      "title": "Show GN: 창업지원사업을 모두 찾을 수 있는 서비스를 만들어봤습니다.",
+      "url": "https://news.hada.io/topic?id=30536",
+      "commentsUrl": "https://news.hada.io/topic?id=30536",
+      "author": "goddessana",
+      "publishedAt": "2026-06-16T05:51:22.000Z"
+    },
     {
       "id": "30531",
       "source": "geeknews",
@@ -190,87 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30510",
       "author": "awfulanthropic",
       "publishedAt": "2026-06-15T12:28:33.000Z"
-    },
-    {
-      "id": "30509",
-      "source": "geeknews",
-      "title": "Windows 11 사용자들은 Microsoft 계정 요구가 모든 곳으로 확산되는 데 지쳐 있음",
-      "url": "https://news.hada.io/topic?id=30509",
-      "commentsUrl": "https://news.hada.io/topic?id=30509",
-      "author": "neo",
-      "publishedAt": "2026-06-15T10:35:42.000Z"
-    },
-    {
-      "id": "30508",
-      "source": "geeknews",
-      "title": "Show GN: tradingcodex - 코덱스를 자산운용사로 만들어주는 하네스",
-      "url": "https://news.hada.io/topic?id=30508",
-      "commentsUrl": "https://news.hada.io/topic?id=30508",
-      "author": "monarchjuno",
-      "publishedAt": "2026-06-15T10:13:16.000Z"
-    },
-    {
-      "id": "30506",
-      "source": "geeknews",
-      "title": "리우데자네이루의 “자체 개발” LLM이 기존 모델의 병합으로 보임",
-      "url": "https://news.hada.io/topic?id=30506",
-      "commentsUrl": "https://news.hada.io/topic?id=30506",
-      "author": "neo",
-      "publishedAt": "2026-06-15T08:36:19.000Z"
-    },
-    {
-      "id": "30505",
-      "source": "geeknews",
-      "title": "“오픈소스 Windows” ReactOS, Half-Life 실행 가능해짐",
-      "url": "https://news.hada.io/topic?id=30505",
-      "commentsUrl": "https://news.hada.io/topic?id=30505",
-      "author": "neo",
-      "publishedAt": "2026-06-15T08:00:46.000Z"
-    },
-    {
-      "id": "30504",
-      "source": "geeknews",
-      "title": "Show GN: AI 답변 복붙하면 이모지·마크다운을 깔끔하게 정리해주는 도구",
-      "url": "https://news.hada.io/topic?id=30504",
-      "commentsUrl": "https://news.hada.io/topic?id=30504",
-      "author": "jjmusic1",
-      "publishedAt": "2026-06-15T07:20:11.000Z"
-    },
-    {
-      "id": "30503",
-      "source": "geeknews",
-      "title": "Show GN: Gukhanmun: 국한문을 한글 전용으로 바꾸는 Rust/JavaScript 라이브러리",
-      "url": "https://news.hada.io/topic?id=30503",
-      "commentsUrl": "https://news.hada.io/topic?id=30503",
-      "author": "hongminhee",
-      "publishedAt": "2026-06-15T07:19:04.000Z"
-    },
-    {
-      "id": "30502",
-      "source": "geeknews",
-      "title": "M1 Max 컴퓨터와 로컬 ML 모델로 669GB GoPro 영상을 인덱싱함",
-      "url": "https://news.hada.io/topic?id=30502",
-      "commentsUrl": "https://news.hada.io/topic?id=30502",
-      "author": "neo",
-      "publishedAt": "2026-06-15T06:35:33.000Z"
-    },
-    {
-      "id": "30501",
-      "source": "geeknews",
-      "title": "당신의 ePub은 정상입니다",
-      "url": "https://news.hada.io/topic?id=30501",
-      "commentsUrl": "https://news.hada.io/topic?id=30501",
-      "author": "neo",
-      "publishedAt": "2026-06-15T05:36:11.000Z"
-    },
-    {
-      "id": "30500",
-      "source": "geeknews",
-      "title": "Show GN: 예/아니오 질문으로 사건을 푸는 AI 추리 퀴즈 앱 CaseRoom을 만들었습니다",
-      "url": "https://news.hada.io/topic?id=30500",
-      "commentsUrl": "https://news.hada.io/topic?id=30500",
-      "author": "ppj050",
-      "publishedAt": "2026-06-15T04:23:57.000Z"
     }
   ]
 }
