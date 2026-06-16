@@ -1,126 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-15T17:04:49.800Z",
+  "fetchedAt": "2026-06-16T03:26:57.768Z",
   "items": [
     {
-      "id": "48542433",
+      "id": "48549918",
       "source": "hn",
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 36,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48542433",
-      "author": "rsgm",
-      "publishedAt": "2026-06-15T15:09:40.000Z"
+      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "score": 52,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48549918",
+      "author": "ilreb",
+      "publishedAt": "2026-06-16T02:47:57.000Z"
     },
     {
       "id": "48542100",
       "source": "hn",
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
       "url": "https://news.ycombinator.com/item?id=48542100",
-      "score": 44,
+      "score": 740,
       "commentsUrl": "https://news.ycombinator.com/item?id=48542100",
       "author": "cloudking",
       "publishedAt": "2026-06-15T14:46:53.000Z"
     },
     {
-      "id": "48538833",
+      "id": "48542433",
       "source": "hn",
-      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "url": "https://github.com/themartiano/luz",
-      "score": 127,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48538833",
-      "author": "martiano",
-      "publishedAt": "2026-06-15T09:34:10.000Z"
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "score": 257,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48542433",
+      "author": "rsgm",
+      "publishedAt": "2026-06-15T15:09:40.000Z"
+    },
+    {
+      "id": "48544823",
+      "source": "hn",
+      "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+      "url": "https://grassdx.com/",
+      "score": 42,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48544823",
+      "author": "andrewbr",
+      "publishedAt": "2026-06-15T17:56:00.000Z"
+    },
+    {
+      "id": "48544637",
+      "source": "hn",
+      "title": "Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "score": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48544637",
+      "author": "Mustan",
+      "publishedAt": "2026-06-15T17:41:24.000Z"
+    },
+    {
+      "id": "48489163",
+      "source": "hn",
+      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "url": "https://fata.dev",
+      "score": 86,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48489163",
+      "author": "djoume",
+      "publishedAt": "2026-06-11T11:57:03.000Z"
+    },
+    {
+      "id": "48541014",
+      "source": "hn",
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "url": "https://github.com/sammysltd/euromesh",
+      "score": 120,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48541014",
+      "author": "smashini",
+      "publishedAt": "2026-06-15T13:31:09.000Z"
+    },
+    {
+      "id": "48548381",
+      "source": "hn",
+      "title": "Show HN: Claude Code for Visual Studio (native diff with accept/reject)",
+      "url": "https://github.com/firish/claude_code_vs",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48548381",
+      "author": "firish",
+      "publishedAt": "2026-06-15T23:15:56.000Z"
     },
     {
       "id": "48539078",
       "source": "hn",
       "title": "Anthropic's Safety Superpower",
       "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-      "score": 169,
+      "score": 205,
       "commentsUrl": "https://news.ycombinator.com/item?id=48539078",
       "author": "swolpers",
       "publishedAt": "2026-06-15T10:06:35.000Z"
+    },
+    {
+      "id": "48547929",
+      "source": "hn",
+      "title": "Prediction and Entropy of Printed English - Claude Shannon (1950) [pdf]",
+      "url": "https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48547929",
+      "author": "consumer451",
+      "publishedAt": "2026-06-15T22:32:20.000Z"
+    },
+    {
+      "id": "48538833",
+      "source": "hn",
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "url": "https://github.com/themartiano/luz",
+      "score": 145,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48538833",
+      "author": "martiano",
+      "publishedAt": "2026-06-15T09:34:10.000Z"
+    },
+    {
+      "id": "48547539",
+      "source": "hn",
+      "title": "Show HN: When Will AI? – A timeline of top AI predictions",
+      "url": "https://whenwill.ai",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48547539",
+      "author": "jaymeh13",
+      "publishedAt": "2026-06-15T21:54:32.000Z"
     },
     {
       "id": "48528371",
       "source": "hn",
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "score": 386,
+      "score": 394,
       "commentsUrl": "https://news.ycombinator.com/item?id=48528371",
       "author": "unrvl22",
       "publishedAt": "2026-06-14T15:37:31.000Z"
-    },
-    {
-      "id": "48541014",
-      "source": "hn",
-      "title": "Show HN: Can Europe train a frontier AI model on the compute it owns?",
-      "url": "https://github.com/sammysltd/euromesh",
-      "score": 46,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48541014",
-      "author": "smashini",
-      "publishedAt": "2026-06-15T13:31:09.000Z"
-    },
-    {
-      "id": "48541105",
-      "source": "hn",
-      "title": "India, UAE partner on AI sovereignty to bypass Google, Microsoft",
-      "url": "https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/",
-      "score": 26,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48541105",
-      "author": "speckx",
-      "publishedAt": "2026-06-15T13:37:54.000Z"
-    },
-    {
-      "id": "48527700",
-      "source": "hn",
-      "title": "Not everyone is using AI for everything",
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "score": 488,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48527700",
-      "author": "yegg",
-      "publishedAt": "2026-06-14T14:44:29.000Z"
-    },
-    {
-      "id": "48542615",
-      "source": "hn",
-      "title": "Anthropic Sued over Limits on Its $200-a-Month AI Plans",
-      "url": "https://www.wsj.com/tech/ai/anthropic-sued-over-limits-on-its-200-a-month-ai-plans-e2a109e4",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48542615",
-      "author": "JumpCrisscross",
-      "publishedAt": "2026-06-15T15:21:39.000Z"
-    },
-    {
-      "id": "48527946",
-      "source": "hn",
-      "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 81,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48527946",
-      "author": "mellosouls",
-      "publishedAt": "2026-06-14T15:08:17.000Z"
-    },
-    {
-      "id": "48523752",
-      "source": "hn",
-      "title": "Making Claude a Chemist",
-      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-      "score": 90,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48523752",
-      "author": "gmays",
-      "publishedAt": "2026-06-14T02:55:36.000Z"
-    },
-    {
-      "id": "48527297",
-      "source": "hn",
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "score": 152,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48527297",
-      "author": "Brajeshwar",
-      "publishedAt": "2026-06-14T14:01:35.000Z"
     }
   ]
 }

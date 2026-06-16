@@ -1,6 +1,6 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-06-15T17:04:49.717Z",
+  "fetchedAt": "2026-06-16T03:26:57.412Z",
   "items": [
     {
       "id": "2606.13626",
@@ -259,7 +259,7 @@
       "source": "arxiv",
       "title": "Quantizing Time-Series Models As Dynamical Systems: Trajectory-Based Quantization Sensitivity Score",
       "url": "https://arxiv.org/abs/2606.13300",
-      "author": "Mariya Pavlova, Harrison Bo Hua Zhu, Elizsveta Semenova +1",
+      "author": "Mariya Pavlova, Harrison Bo Hua Zhu, Lidia Vitanova +2",
       "publishedAt": "2026-06-15T04:00:00.000Z",
       "summary": "We introduce the Trajectory-based Quantization Sensitivity Score (TQS), a metric that reframes post-training quantization (PTQ) through the lens of dynamical-systems stability. By modeling the network…"
     },

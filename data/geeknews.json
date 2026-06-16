@@ -1,7 +1,160 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-15T17:04:50.522Z",
+  "fetchedAt": "2026-06-16T03:26:58.178Z",
   "items": [
+    {
+      "id": "30531",
+      "source": "geeknews",
+      "title": "[2026/06/08 ~ 14] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+      "url": "https://news.hada.io/topic?id=30531",
+      "commentsUrl": "https://news.hada.io/topic?id=30531",
+      "author": "ninebow",
+      "publishedAt": "2026-06-16T02:23:02.000Z"
+    },
+    {
+      "id": "30529",
+      "source": "geeknews",
+      "title": "Apple Foundation Models에 Claude 탑재하기",
+      "url": "https://news.hada.io/topic?id=30529",
+      "commentsUrl": "https://news.hada.io/topic?id=30529",
+      "author": "neo",
+      "publishedAt": "2026-06-16T01:12:57.000Z"
+    },
+    {
+      "id": "30528",
+      "source": "geeknews",
+      "title": "CrankGPT",
+      "url": "https://news.hada.io/topic?id=30528",
+      "commentsUrl": "https://news.hada.io/topic?id=30528",
+      "author": "neo",
+      "publishedAt": "2026-06-16T01:09:57.000Z"
+    },
+    {
+      "id": "30527",
+      "source": "geeknews",
+      "title": "TinyWind: 실제 바람 물리학을 갖춘 픽셀 해적 항해 게임(38만 km 이상 항해됨)",
+      "url": "https://news.hada.io/topic?id=30527",
+      "commentsUrl": "https://news.hada.io/topic?id=30527",
+      "author": "neo",
+      "publishedAt": "2026-06-16T01:06:57.000Z"
+    },
+    {
+      "id": "30526",
+      "source": "geeknews",
+      "title": "LinkedIn 채용 제안에 숨겨진 백도어",
+      "url": "https://news.hada.io/topic?id=30526",
+      "commentsUrl": "https://news.hada.io/topic?id=30526",
+      "author": "neo",
+      "publishedAt": "2026-06-16T01:03:57.000Z"
+    },
+    {
+      "id": "30525",
+      "source": "geeknews",
+      "title": "Ask HN: 일상적인 코딩에서 Claude/GPT를 로컬 모델로 대체한 사람이 있나요?",
+      "url": "https://news.hada.io/topic?id=30525",
+      "commentsUrl": "https://news.hada.io/topic?id=30525",
+      "author": "neo",
+      "publishedAt": "2026-06-16T01:00:57.000Z"
+    },
+    {
+      "id": "30524",
+      "source": "geeknews",
+      "title": "너드들에게 도대체 무슨 일이 일어난 걸까?",
+      "url": "https://news.hada.io/topic?id=30524",
+      "commentsUrl": "https://news.hada.io/topic?id=30524",
+      "author": "neo",
+      "publishedAt": "2026-06-16T00:57:57.000Z"
+    },
+    {
+      "id": "30523",
+      "source": "geeknews",
+      "title": "내 홈랩 AI 개발 플랫폼",
+      "url": "https://news.hada.io/topic?id=30523",
+      "commentsUrl": "https://news.hada.io/topic?id=30523",
+      "author": "xguru",
+      "publishedAt": "2026-06-16T00:56:23.000Z"
+    },
+    {
+      "id": "30522",
+      "source": "geeknews",
+      "title": "Coreutils for Windows",
+      "url": "https://news.hada.io/topic?id=30522",
+      "commentsUrl": "https://news.hada.io/topic?id=30522",
+      "author": "xguru",
+      "publishedAt": "2026-06-16T00:31:02.000Z"
+    },
+    {
+      "id": "30521",
+      "source": "geeknews",
+      "title": "Show GN: 단 23자로 애니메이션되는 시계, 40자로 어린이 한글폰트 만들기",
+      "url": "https://news.hada.io/topic?id=30521",
+      "commentsUrl": "https://news.hada.io/topic?id=30521",
+      "author": "argo9",
+      "publishedAt": "2026-06-16T00:30:20.000Z"
+    },
+    {
+      "id": "30520",
+      "source": "geeknews",
+      "title": "Iroh 1.0 - IP가 아니라 키로 연결 - 임의 기기 연결용 네트워킹 라이브러리",
+      "url": "https://news.hada.io/topic?id=30520",
+      "commentsUrl": "https://news.hada.io/topic?id=30520",
+      "author": "neo",
+      "publishedAt": "2026-06-16T00:13:45.000Z"
+    },
+    {
+      "id": "30519",
+      "source": "geeknews",
+      "title": "pyinfra — 에이전트 없는 인프라 자동화, 순수 Python으로",
+      "url": "https://news.hada.io/topic?id=30519",
+      "commentsUrl": "https://news.hada.io/topic?id=30519",
+      "author": "neo",
+      "publishedAt": "2026-06-16T00:10:45.000Z"
+    },
+    {
+      "id": "30518",
+      "source": "geeknews",
+      "title": "내 nix flakes vs guix 게시물을 삭제함",
+      "url": "https://news.hada.io/topic?id=30518",
+      "commentsUrl": "https://news.hada.io/topic?id=30518",
+      "author": "neo",
+      "publishedAt": "2026-06-16T00:07:45.000Z"
+    },
+    {
+      "id": "30517",
+      "source": "geeknews",
+      "title": "curl 행복의 여름",
+      "url": "https://news.hada.io/topic?id=30517",
+      "commentsUrl": "https://news.hada.io/topic?id=30517",
+      "author": "neo",
+      "publishedAt": "2026-06-16T00:04:45.000Z"
+    },
+    {
+      "id": "30516",
+      "source": "geeknews",
+      "title": "JavaScript의 탄생과 죽음 (2014)",
+      "url": "https://news.hada.io/topic?id=30516",
+      "commentsUrl": "https://news.hada.io/topic?id=30516",
+      "author": "neo",
+      "publishedAt": "2026-06-15T21:34:02.000Z"
+    },
+    {
+      "id": "30515",
+      "source": "geeknews",
+      "title": "큰 컨텍스트 창을 신뢰하지 마라",
+      "url": "https://news.hada.io/topic?id=30515",
+      "commentsUrl": "https://news.hada.io/topic?id=30515",
+      "author": "neo",
+      "publishedAt": "2026-06-15T18:35:10.000Z"
+    },
+    {
+      "id": "30514",
+      "source": "geeknews",
+      "title": "Ask HN: 지금 무엇을 만들고 있나요? (2026년 6월)",
+      "url": "https://news.hada.io/topic?id=30514",
+      "commentsUrl": "https://news.hada.io/topic?id=30514",
+      "author": "neo",
+      "publishedAt": "2026-06-15T17:36:15.000Z"
+    },
     {
       "id": "30513",
       "source": "geeknews",
@@ -68,7 +221,7 @@
     {
       "id": "30505",
       "source": "geeknews",
-      "title": "ReactOS “오픈소스 Windows”, Half-Life 실행 가능이라는 이정표에 도달",
+      "title": "“오픈소스 Windows” ReactOS, Half-Life 실행 가능해짐",
       "url": "https://news.hada.io/topic?id=30505",
       "commentsUrl": "https://news.hada.io/topic?id=30505",
       "author": "neo",
@@ -118,159 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30500",
       "author": "ppj050",
       "publishedAt": "2026-06-15T04:23:57.000Z"
-    },
-    {
-      "id": "30499",
-      "source": "geeknews",
-      "title": "무료 SQL→ER 다이어그램 도구, 브라우저에서 실행되고 아무것도 업로드하지 않음",
-      "url": "https://news.hada.io/topic?id=30499",
-      "commentsUrl": "https://news.hada.io/topic?id=30499",
-      "author": "neo",
-      "publishedAt": "2026-06-15T02:35:28.000Z"
-    },
-    {
-      "id": "30498",
-      "source": "geeknews",
-      "title": "에코시스템 없는 프론티어는 안정적이지 않다",
-      "url": "https://news.hada.io/topic?id=30498",
-      "commentsUrl": "https://news.hada.io/topic?id=30498",
-      "author": "neo",
-      "publishedAt": "2026-06-15T01:35:01.000Z"
-    },
-    {
-      "id": "30497",
-      "source": "geeknews",
-      "title": "Kage - 웹사이트에서 자바스크립트를 제거하고 오프라인 보관하는 도구",
-      "url": "https://news.hada.io/topic?id=30497",
-      "commentsUrl": "https://news.hada.io/topic?id=30497",
-      "author": "neo",
-      "publishedAt": "2026-06-15T00:52:00.000Z"
-    },
-    {
-      "id": "30496",
-      "source": "geeknews",
-      "title": "re_gent - AI 코딩 에이전트를 위한 버전 관리",
-      "url": "https://news.hada.io/topic?id=30496",
-      "commentsUrl": "https://news.hada.io/topic?id=30496",
-      "author": "xguru",
-      "publishedAt": "2026-06-15T00:51:02.000Z"
-    },
-    {
-      "id": "30495",
-      "source": "geeknews",
-      "title": "Honda Civics와 악의적 발레파킹",
-      "url": "https://news.hada.io/topic?id=30495",
-      "commentsUrl": "https://news.hada.io/topic?id=30495",
-      "author": "neo",
-      "publishedAt": "2026-06-15T00:49:00.000Z"
-    },
-    {
-      "id": "30494",
-      "source": "geeknews",
-      "title": "모두가 모든 일에 AI를 쓰는 것은 아니다",
-      "url": "https://news.hada.io/topic?id=30494",
-      "commentsUrl": "https://news.hada.io/topic?id=30494",
-      "author": "neo",
-      "publishedAt": "2026-06-15T00:46:00.000Z"
-    },
-    {
-      "id": "30493",
-      "source": "geeknews",
-      "title": "10억 달러를 버는 방법",
-      "url": "https://news.hada.io/topic?id=30493",
-      "commentsUrl": "https://news.hada.io/topic?id=30493",
-      "author": "neo",
-      "publishedAt": "2026-06-15T00:43:00.000Z"
-    },
-    {
-      "id": "30492",
-      "source": "geeknews",
-      "title": "Claude Code 창시자, 소프트웨어 엔지니어의 종말을 말하다 [유튜브]",
-      "url": "https://news.hada.io/topic?id=30492",
-      "commentsUrl": "https://news.hada.io/topic?id=30492",
-      "author": "neo",
-      "publishedAt": "2026-06-15T00:41:02.000Z"
-    },
-    {
-      "id": "30491",
-      "source": "geeknews",
-      "title": "소프트웨어는 죽는 게 아니라 진화 중이다",
-      "url": "https://news.hada.io/topic?id=30491",
-      "commentsUrl": "https://news.hada.io/topic?id=30491",
-      "author": "neo",
-      "publishedAt": "2026-06-15T00:35:02.000Z"
-    },
-    {
-      "id": "30490",
-      "source": "geeknews",
-      "title": "Automerge로 멀티플레이어 팟캐스트 에디터 만들기",
-      "url": "https://news.hada.io/topic?id=30490",
-      "commentsUrl": "https://news.hada.io/topic?id=30490",
-      "author": "neo",
-      "publishedAt": "2026-06-15T00:31:02.000Z"
-    },
-    {
-      "id": "30489",
-      "source": "geeknews",
-      "title": "Grit: 에이전트로 Git을 Rust로 다시 작성하기",
-      "url": "https://news.hada.io/topic?id=30489",
-      "commentsUrl": "https://news.hada.io/topic?id=30489",
-      "author": "neo",
-      "publishedAt": "2026-06-15T00:30:02.000Z"
-    },
-    {
-      "id": "30488",
-      "source": "geeknews",
-      "title": "에이전트 코딩에 로컬 LLM 활용하기",
-      "url": "https://news.hada.io/topic?id=30488",
-      "commentsUrl": "https://news.hada.io/topic?id=30488",
-      "author": "neo",
-      "publishedAt": "2026-06-15T00:22:02.000Z"
-    },
-    {
-      "id": "30487",
-      "source": "geeknews",
-      "title": "대중문화 속 Emacs 등장 사례",
-      "url": "https://news.hada.io/topic?id=30487",
-      "commentsUrl": "https://news.hada.io/topic?id=30487",
-      "author": "neo",
-      "publishedAt": "2026-06-15T00:16:02.000Z"
-    },
-    {
-      "id": "30486",
-      "source": "geeknews",
-      "title": "Show GN: 맥북을 덮어도 클램쉘 모드로 AI 에이전트를 계속 돌리는 앱 — Electronic Clam",
-      "url": "https://news.hada.io/topic?id=30486",
-      "commentsUrl": "https://news.hada.io/topic?id=30486",
-      "author": "mssmss",
-      "publishedAt": "2026-06-15T00:09:29.000Z"
-    },
-    {
-      "id": "30485",
-      "source": "geeknews",
-      "title": "Arch Linux, 이제 악성코드 사고가 통제됐다고 판단: 1,500개 이상 패키지 영향",
-      "url": "https://news.hada.io/topic?id=30485",
-      "commentsUrl": "https://news.hada.io/topic?id=30485",
-      "author": "neo",
-      "publishedAt": "2026-06-14T23:36:04.000Z"
-    },
-    {
-      "id": "30484",
-      "source": "geeknews",
-      "title": "안 쓰는 스마트폰으로 만드는 저탄소 컴퓨팅 플랫폼",
-      "url": "https://news.hada.io/topic?id=30484",
-      "commentsUrl": "https://news.hada.io/topic?id=30484",
-      "author": "neo",
-      "publishedAt": "2026-06-14T19:42:19.000Z"
-    },
-    {
-      "id": "30483",
-      "source": "geeknews",
-      "title": "회사처럼 돈 쓰지 않고 집에서 AI 코딩하기",
-      "url": "https://news.hada.io/topic?id=30483",
-      "commentsUrl": "https://news.hada.io/topic?id=30483",
-      "author": "neo",
-      "publishedAt": "2026-06-14T19:39:19.000Z"
     }
   ]
 }
