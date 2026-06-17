@@ -1,7 +1,97 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-17T02:59:21.098Z",
+  "fetchedAt": "2026-06-17T14:58:13.628Z",
   "items": [
+    {
+      "id": "30579",
+      "source": "geeknews",
+      "title": "Calvin and Hobbes, 진정성을 지킨 대가",
+      "url": "https://news.hada.io/topic?id=30579",
+      "commentsUrl": "https://news.hada.io/topic?id=30579",
+      "author": "neo",
+      "publishedAt": "2026-06-17T14:37:50.000Z"
+    },
+    {
+      "id": "30578",
+      "source": "geeknews",
+      "title": "하지만 yak shaving은 재미있다",
+      "url": "https://news.hada.io/topic?id=30578",
+      "commentsUrl": "https://news.hada.io/topic?id=30578",
+      "author": "neo",
+      "publishedAt": "2026-06-17T11:02:36.000Z"
+    },
+    {
+      "id": "30577",
+      "source": "geeknews",
+      "title": "Rust와 C/C++의 메모리 안전성 CVE는 왜 다르게 집계되는가",
+      "url": "https://news.hada.io/topic?id=30577",
+      "commentsUrl": "https://news.hada.io/topic?id=30577",
+      "author": "neo",
+      "publishedAt": "2026-06-17T10:02:45.000Z"
+    },
+    {
+      "id": "30576",
+      "source": "geeknews",
+      "title": "Allwinner A733 심층 분석: ArmSoM이 Sige6에 이 칩을 선택한 이유",
+      "url": "https://news.hada.io/topic?id=30576",
+      "commentsUrl": "https://news.hada.io/topic?id=30576",
+      "author": "armsomyla",
+      "publishedAt": "2026-06-17T08:51:03.000Z"
+    },
+    {
+      "id": "30575",
+      "source": "geeknews",
+      "title": "Show GN: Clutio – 웹에서 읽으며 외국어를 공부하는 크롬 확장 (서버·로그인 없음)",
+      "url": "https://news.hada.io/topic?id=30575",
+      "commentsUrl": "https://news.hada.io/topic?id=30575",
+      "author": "dbwo4011",
+      "publishedAt": "2026-06-17T08:12:48.000Z"
+    },
+    {
+      "id": "30574",
+      "source": "geeknews",
+      "title": "Meta는 엔지니어링 조직을 망가뜨리고 있는가?",
+      "url": "https://news.hada.io/topic?id=30574",
+      "commentsUrl": "https://news.hada.io/topic?id=30574",
+      "author": "neo",
+      "publishedAt": "2026-06-17T07:39:09.000Z"
+    },
+    {
+      "id": "30573",
+      "source": "geeknews",
+      "title": "Show GN: sfs - 여러 AI 에이전트가 공유하는 두뇌(shared brain) 파일시스템",
+      "url": "https://news.hada.io/topic?id=30573",
+      "commentsUrl": "https://news.hada.io/topic?id=30573",
+      "author": "ssowonny",
+      "publishedAt": "2026-06-17T07:24:55.000Z"
+    },
+    {
+      "id": "30572",
+      "source": "geeknews",
+      "title": "Firefox의 다음 계획",
+      "url": "https://news.hada.io/topic?id=30572",
+      "commentsUrl": "https://news.hada.io/topic?id=30572",
+      "author": "neo",
+      "publishedAt": "2026-06-17T04:02:24.000Z"
+    },
+    {
+      "id": "30571",
+      "source": "geeknews",
+      "title": "에이전틱 코드 리뷰",
+      "url": "https://news.hada.io/topic?id=30571",
+      "commentsUrl": "https://news.hada.io/topic?id=30571",
+      "author": "neo",
+      "publishedAt": "2026-06-17T03:23:01.000Z"
+    },
+    {
+      "id": "30570",
+      "source": "geeknews",
+      "title": "GrapheneOS가 Android 17로 포팅됨",
+      "url": "https://news.hada.io/topic?id=30570",
+      "commentsUrl": "https://news.hada.io/topic?id=30570",
+      "author": "xguru",
+      "publishedAt": "2026-06-17T03:19:09.000Z"
+    },
     {
       "id": "30569",
       "source": "geeknews",
@@ -181,96 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30546",
       "author": "neo",
       "publishedAt": "2026-06-16T18:37:46.000Z"
-    },
-    {
-      "id": "30545",
-      "source": "geeknews",
-      "title": "수많은 가능성을 품은 Typst 0.15",
-      "url": "https://news.hada.io/topic?id=30545",
-      "commentsUrl": "https://news.hada.io/topic?id=30545",
-      "author": "neo",
-      "publishedAt": "2026-06-16T17:00:53.000Z"
-    },
-    {
-      "id": "30544",
-      "source": "geeknews",
-      "title": "savearoundtrip: HTTPS DNS 레코드를 게시하고 왕복 1회를 건너뛰기",
-      "url": "https://news.hada.io/topic?id=30544",
-      "commentsUrl": "https://news.hada.io/topic?id=30544",
-      "author": "neo",
-      "publishedAt": "2026-06-16T15:01:49.000Z"
-    },
-    {
-      "id": "30543",
-      "source": "geeknews",
-      "title": "노트북에서 FreeBSD 15 사용하기",
-      "url": "https://news.hada.io/topic?id=30543",
-      "commentsUrl": "https://news.hada.io/topic?id=30543",
-      "author": "neo",
-      "publishedAt": "2026-06-16T14:02:17.000Z"
-    },
-    {
-      "id": "30542",
-      "source": "geeknews",
-      "title": "Show GN: Anf - 새로운 macOS Finder",
-      "url": "https://news.hada.io/topic?id=30542",
-      "commentsUrl": "https://news.hada.io/topic?id=30542",
-      "author": "zihado",
-      "publishedAt": "2026-06-16T13:46:51.000Z"
-    },
-    {
-      "id": "30541",
-      "source": "geeknews",
-      "title": "Wi-Fi 스마트 전구 속 금서 도서관",
-      "url": "https://news.hada.io/topic?id=30541",
-      "commentsUrl": "https://news.hada.io/topic?id=30541",
-      "author": "neo",
-      "publishedAt": "2026-06-16T12:36:56.000Z"
-    },
-    {
-      "id": "30540",
-      "source": "geeknews",
-      "title": "페일오버가 안전하지 않을 때: Kubernetes 기반 고가용성 PostgreSQL 구축",
-      "url": "https://news.hada.io/topic?id=30540",
-      "commentsUrl": "https://news.hada.io/topic?id=30540",
-      "author": "neo",
-      "publishedAt": "2026-06-16T12:26:01.000Z"
-    },
-    {
-      "id": "30539",
-      "source": "geeknews",
-      "title": "Show GN: Devup UI - 압축률 글로벌 1위 UI 프레임워크, 속도 및 CSS 압축 더욱 개선",
-      "url": "https://news.hada.io/topic?id=30539",
-      "commentsUrl": "https://news.hada.io/topic?id=30539",
-      "author": "owjs3901",
-      "publishedAt": "2026-06-16T08:08:43.000Z"
-    },
-    {
-      "id": "30538",
-      "source": "geeknews",
-      "title": "Hetzner 가격 조정",
-      "url": "https://news.hada.io/topic?id=30538",
-      "commentsUrl": "https://news.hada.io/topic?id=30538",
-      "author": "neo",
-      "publishedAt": "2026-06-16T07:36:10.000Z"
-    },
-    {
-      "id": "30537",
-      "source": "geeknews",
-      "title": "OpenRouter Fusion API",
-      "url": "https://news.hada.io/topic?id=30537",
-      "commentsUrl": "https://news.hada.io/topic?id=30537",
-      "author": "xguru",
-      "publishedAt": "2026-06-16T07:25:29.000Z"
-    },
-    {
-      "id": "30536",
-      "source": "geeknews",
-      "title": "Show GN: 창업지원사업을 모두 찾을 수 있는 서비스를 만들어봤습니다.",
-      "url": "https://news.hada.io/topic?id=30536",
-      "commentsUrl": "https://news.hada.io/topic?id=30536",
-      "author": "goddessana",
-      "publishedAt": "2026-06-16T05:51:22.000Z"
     }
   ]
 }
