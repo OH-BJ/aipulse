@@ -1,43 +1,83 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-16T16:30:03.590Z",
+  "fetchedAt": "2026-06-17T02:59:20.810Z",
   "items": [
     {
-      "id": "48542433",
+      "id": "48563609",
       "source": "hn",
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 349,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48542433",
-      "author": "rsgm",
-      "publishedAt": "2026-06-15T15:09:40.000Z"
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "score": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48563609",
+      "author": "alok-g",
+      "publishedAt": "2026-06-16T23:15:44.000Z"
+    },
+    {
+      "id": "48559188",
+      "source": "hn",
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "score": 146,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48559188",
+      "author": "root-parent",
+      "publishedAt": "2026-06-16T17:54:02.000Z"
+    },
+    {
+      "id": "48558489",
+      "source": "hn",
+      "title": "Has AI already killed self-help nonfiction books?",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "score": 174,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48558489",
+      "author": "imakwana",
+      "publishedAt": "2026-06-16T17:11:05.000Z"
     },
     {
       "id": "48554814",
       "source": "hn",
       "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
       "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-      "score": 6,
+      "score": 128,
       "commentsUrl": "https://news.ycombinator.com/item?id=48554814",
       "author": "ilreb",
       "publishedAt": "2026-06-16T13:15:15.000Z"
+    },
+    {
+      "id": "48564141",
+      "source": "hn",
+      "title": "France to ditch Palantir's AI data tools in favour of domestic provider",
+      "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48564141",
+      "author": "devonnull",
+      "publishedAt": "2026-06-17T00:16:14.000Z"
     },
     {
       "id": "48542100",
       "source": "hn",
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
       "url": "https://news.ycombinator.com/item?id=48542100",
-      "score": 1208,
+      "score": 1238,
       "commentsUrl": "https://news.ycombinator.com/item?id=48542100",
       "author": "cloudking",
       "publishedAt": "2026-06-15T14:46:53.000Z"
+    },
+    {
+      "id": "48560913",
+      "source": "hn",
+      "title": "AI is potentially a Dunning-Kruger effect amplifier",
+      "url": "https://twitter.com/i/status/2066825204207091926",
+      "score": 52,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48560913",
+      "author": "binyu",
+      "publishedAt": "2026-06-16T19:47:13.000Z"
     },
     {
       "id": "48544637",
       "source": "hn",
       "title": "Claude Corps",
       "url": "https://www.anthropic.com/news/claude-corps",
-      "score": 151,
+      "score": 155,
       "commentsUrl": "https://news.ycombinator.com/item?id=48544637",
       "author": "Mustan",
       "publishedAt": "2026-06-15T17:41:24.000Z"
@@ -47,50 +87,70 @@
       "source": "hn",
       "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
       "url": "https://fata.dev",
-      "score": 105,
+      "score": 111,
       "commentsUrl": "https://news.ycombinator.com/item?id=48489163",
       "author": "djoume",
       "publishedAt": "2026-06-11T11:57:03.000Z"
+    },
+    {
+      "id": "48560301",
+      "source": "hn",
+      "title": "Leviathan Waking – On Anthropic/USG, and a new era in AI governance",
+      "url": "https://www.hyperdimensional.co/p/leviathan-waking",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48560301",
+      "author": "speckx",
+      "publishedAt": "2026-06-16T19:01:55.000Z"
+    },
+    {
+      "id": "48561112",
+      "source": "hn",
+      "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
+      "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
+      "score": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48561112",
+      "author": "coolwulf",
+      "publishedAt": "2026-06-16T19:59:14.000Z"
+    },
+    {
+      "id": "48558766",
+      "source": "hn",
+      "title": "Claude: Elevated errors across many models [resolved]",
+      "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+      "score": 182,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48558766",
+      "author": "forks",
+      "publishedAt": "2026-06-16T17:30:30.000Z"
+    },
+    {
+      "id": "48558696",
+      "source": "hn",
+      "title": "The octopus architecture for AI agents",
+      "url": "https://blog.goodman.dev/blog/octopus-agent-architecture/",
+      "score": 20,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48558696",
+      "author": "joshbetz",
+      "publishedAt": "2026-06-16T17:24:45.000Z"
     },
     {
       "id": "48544823",
       "source": "hn",
       "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
       "url": "https://grassdx.com/",
-      "score": 71,
+      "score": 73,
       "commentsUrl": "https://news.ycombinator.com/item?id=48544823",
       "author": "andrewbr",
       "publishedAt": "2026-06-15T17:56:00.000Z"
     },
     {
-      "id": "48541014",
+      "id": "48556644",
       "source": "hn",
-      "title": "Can Europe train a frontier AI model on the compute it owns?",
-      "url": "https://github.com/sammysltd/euromesh",
-      "score": 137,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48541014",
-      "author": "smashini",
-      "publishedAt": "2026-06-15T13:31:09.000Z"
-    },
-    {
-      "id": "48553983",
-      "source": "hn",
-      "title": "The White House Is Ratcheting Up Its War Against Anthropic",
-      "url": "https://www.theatlantic.com/technology/2026/06/trump-anthropic-export-control-ai-race/687555/",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48553983",
-      "author": "dstala",
-      "publishedAt": "2026-06-16T12:10:28.000Z"
-    },
-    {
-      "id": "48550465",
-      "source": "hn",
-      "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
-      "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
-      "score": 117,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48550465",
-      "author": "spking",
-      "publishedAt": "2026-06-16T04:05:48.000Z"
+      "title": "After AI takes everything",
+      "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
+      "score": 89,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48556644",
+      "author": "speckx",
+      "publishedAt": "2026-06-16T15:20:05.000Z"
     }
   ]
 }
