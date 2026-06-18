@@ -1,116 +1,186 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-17T14:58:12.888Z",
+  "fetchedAt": "2026-06-18T02:53:27.210Z",
   "items": [
     {
-      "id": "48569278",
+      "id": "48565498",
       "source": "hn",
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "url": "https://wpvip.com/future-of-the-web-2026/",
-      "score": 465,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48569278",
-      "author": "thm",
-      "publishedAt": "2026-06-17T12:11:27.000Z"
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "score": 374,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48565498",
+      "author": "giuliomagnifico",
+      "publishedAt": "2026-06-17T03:55:16.000Z"
     },
     {
-      "id": "48570948",
+      "id": "48572553",
       "source": "hn",
-      "title": "AI demands more engineering discipline. Not less",
-      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "score": 35,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48570948",
-      "author": "BerislavLopac",
-      "publishedAt": "2026-06-17T14:20:44.000Z"
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "score": 161,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48572553",
+      "author": "zachdive",
+      "publishedAt": "2026-06-17T16:14:04.000Z"
     },
     {
-      "id": "48558489",
+      "id": "48576824",
       "source": "hn",
-      "title": "Has AI already killed self-help nonfiction books?",
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-      "score": 369,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48558489",
-      "author": "imakwana",
-      "publishedAt": "2026-06-16T17:11:05.000Z"
+      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "score": 180,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48576824",
+      "author": "Usu",
+      "publishedAt": "2026-06-17T21:00:07.000Z"
     },
     {
-      "id": "48559188",
+      "id": "48573221",
       "source": "hn",
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "score": 239,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48559188",
-      "author": "root-parent",
-      "publishedAt": "2026-06-16T17:54:02.000Z"
+      "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
+      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48573221",
+      "author": "macklinkachorn",
+      "publishedAt": "2026-06-17T17:00:02.000Z"
     },
     {
-      "id": "48568023",
+      "id": "48557002",
       "source": "hn",
-      "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
-      "url": "https://brevio.pro",
-      "score": 37,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48568023",
-      "author": "ruimbarreira",
-      "publishedAt": "2026-06-17T09:48:59.000Z"
+      "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
+      "url": "https://blitzgraph.com",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48557002",
+      "author": "lveillard",
+      "publishedAt": "2026-06-16T15:41:02.000Z"
     },
     {
       "id": "48566832",
       "source": "hn",
       "title": "The founder's playbook: Building an AI-native startup",
       "url": "https://claude.com/blog/the-founders-playbook",
-      "score": 138,
+      "score": 214,
       "commentsUrl": "https://news.ycombinator.com/item?id=48566832",
       "author": "e2e4",
       "publishedAt": "2026-06-17T07:04:42.000Z"
+    },
+    {
+      "id": "48573757",
+      "source": "hn",
+      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
+      "score": 50,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48573757",
+      "author": "ilreb",
+      "publishedAt": "2026-06-17T17:34:20.000Z"
+    },
+    {
+      "id": "48570948",
+      "source": "hn",
+      "title": "AI demands more engineering discipline. Not less",
+      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+      "score": 348,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48570948",
+      "author": "BerislavLopac",
+      "publishedAt": "2026-06-17T14:20:44.000Z"
+    },
+    {
+      "id": "48571851",
+      "source": "hn",
+      "title": "TREX: An AI code reviewer that runs your code",
+      "url": "https://www.greptile.com/blog/trex-code-execution",
+      "score": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48571851",
+      "author": "dakshgupta",
+      "publishedAt": "2026-06-17T15:29:01.000Z"
+    },
+    {
+      "id": "48578957",
+      "source": "hn",
+      "title": "Noam Shazeer is joining OpenAI",
+      "url": "https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/",
+      "score": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48578957",
+      "author": "devanshp",
+      "publishedAt": "2026-06-18T00:31:28.000Z"
+    },
+    {
+      "id": "48578913",
+      "source": "hn",
+      "title": "Noam Shazeer Joins OpenAI",
+      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48578913",
+      "author": "lukasgross",
+      "publishedAt": "2026-06-18T00:26:06.000Z"
+    },
+    {
+      "id": "48569278",
+      "source": "hn",
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "score": 1012,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48569278",
+      "author": "thm",
+      "publishedAt": "2026-06-17T12:11:27.000Z"
+    },
+    {
+      "id": "48579017",
+      "source": "hn",
+      "title": "Sovereign AI: Why Owning the Full Stack Is the New Strategic Imperative",
+      "url": "https://www.forbes.com/sites/chuckbrooks/2026/04/22/sovereign-ai-why-owning-the-full-stack-is-the-new-strategic-imperative/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48579017",
+      "author": "HardAnchor",
+      "publishedAt": "2026-06-18T00:37:23.000Z"
     },
     {
       "id": "48571016",
       "source": "hn",
       "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
       "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-      "score": 5,
+      "score": 69,
       "commentsUrl": "https://news.ycombinator.com/item?id=48571016",
       "author": "FrustratedMonky",
       "publishedAt": "2026-06-17T14:26:07.000Z"
     },
     {
-      "id": "48554814",
+      "id": "48577580",
       "source": "hn",
-      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-      "score": 201,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48554814",
-      "author": "ilreb",
-      "publishedAt": "2026-06-16T13:15:15.000Z"
+      "title": "Everything I Learned Training Frontier Small Models – Maxime Labonne, Liquid AI [video]",
+      "url": "https://www.youtube.com/watch?v=fLUtUkqYHnQ",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48577580",
+      "author": "Topfi",
+      "publishedAt": "2026-06-17T22:04:57.000Z"
     },
     {
-      "id": "48542100",
+      "id": "48558489",
       "source": "hn",
-      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "url": "https://news.ycombinator.com/item?id=48542100",
-      "score": 1270,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48542100",
-      "author": "cloudking",
-      "publishedAt": "2026-06-15T14:46:53.000Z"
+      "title": "Has AI already killed self-help nonfiction books?",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "score": 395,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48558489",
+      "author": "imakwana",
+      "publishedAt": "2026-06-16T17:11:05.000Z"
     },
     {
-      "id": "48544637",
+      "id": "48568023",
       "source": "hn",
-      "title": "Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "score": 159,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48544637",
-      "author": "Mustan",
-      "publishedAt": "2026-06-15T17:41:24.000Z"
+      "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+      "url": "https://brevio.pro",
+      "score": 85,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48568023",
+      "author": "ruimbarreira",
+      "publishedAt": "2026-06-17T09:48:59.000Z"
     },
     {
-      "id": "48489163",
+      "id": "48559188",
       "source": "hn",
-      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-      "url": "https://fata.dev",
-      "score": 116,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48489163",
-      "author": "djoume",
-      "publishedAt": "2026-06-11T11:57:03.000Z"
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "score": 248,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48559188",
+      "author": "root-parent",
+      "publishedAt": "2026-06-16T17:54:02.000Z"
     }
   ]
 }
