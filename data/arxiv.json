@@ -1,6 +1,6 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-06-18T14:53:31.384Z",
+  "fetchedAt": "2026-06-19T03:40:16.184Z",
   "items": [
     {
       "id": "2606.18105",
@@ -75,15 +75,6 @@
       "summary": "We present SegmentAnyTreeV2, a sensor- and platform-agnostic framework for semantic and instance segmentation of forest point clouds. The model combines a serialization-based Point Transformer v3 back…"
     },
     {
-      "id": "2606.06133",
-      "source": "arxiv",
-      "title": "TLA-Prover: Verifiable TLA+ Specification Synthesis via Preference-Optimized Low-Rank Adaptation",
-      "url": "https://arxiv.org/abs/2606.06133",
-      "author": "Eric Spencer, Arslan Bisharat, Brian Ortiz +5",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "TLA+ is a formal specification language for verifying distributed systems and safety-critical protocols. Large language models (LLMs) frequently produce TLA+ specifications that fail the TLC model che…"
-    },
-    {
       "id": "2606.04404",
       "source": "arxiv",
       "title": "Knockoffs-based False Discovery Rate Control and Simplification for Deep Neural Networks",
@@ -91,15 +82,6 @@
       "author": "Wenyu Liao, Yiqing Shi, Fang Xie",
       "publishedAt": "2026-06-18T04:00:00.000Z",
       "summary": "The deep neural network is a widely used framework in machine learning that has been widely applied in various fields. However, deep neural networks often involve a large number of parameters and inpu…"
-    },
-    {
-      "id": "2606.02800",
-      "source": "arxiv",
-      "title": "Cosmos 3: Omnimodal World Models for Physical AI",
-      "url": "https://arxiv.org/abs/2606.02800",
-      "author": "NVIDIA, :, Aditi +293",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "We introduce Cosmos 3, a family of omnimodal world models designed to jointly process and generate language, image, video, audio, and action sequences within a unified mixture-of-transformers architec…"
     },
     {
       "id": "2605.28690",
@@ -165,42 +147,6 @@
       "summary": "Modern applications of conformal inference to multiple testing problems, such as outlier detection and candidate selection, often involve selecting test samples whose conformal p-values fall below a t…"
     },
     {
-      "id": "2605.17131",
-      "source": "arxiv",
-      "title": "A Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation",
-      "url": "https://arxiv.org/abs/2605.17131",
-      "author": "Minhas Kamal, Hiranya Garbha Kumar, Balakrishnan Prabhakaran",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Point cloud stands as the most widely adopted format for representing 3D shapes and scenes due to its simplicity and geometric fidelity. However, its inherent unordered and irregular nature, exacerbat…"
-    },
-    {
-      "id": "2605.03460",
-      "source": "arxiv",
-      "title": "FinSTaR: Towards Financial Reasoning with Time Series Reasoning Models",
-      "url": "https://arxiv.org/abs/2605.03460",
-      "author": "Seunghan Lee, Jun Seo, Jaehoon Lee +7",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Time series (TS) reasoning models (TSRMs) have shown promising capabilities in general domains, yet they consistently fail in the financial domain, which exhibits unique characteristics. We propose a…"
-    },
-    {
-      "id": "2604.28076",
-      "source": "arxiv",
-      "title": "TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering",
-      "url": "https://arxiv.org/abs/2604.28076",
-      "author": "An-Yang Ji, Jun-Peng Jiang, De-Chuan Zhan +1",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Large Language Models (LLMs) have advanced Table Question Answering, where most queries can be answered by extracting information or simple aggregation. However, a common class of real-world queries i…"
-    },
-    {
-      "id": "2604.23716",
-      "source": "arxiv",
-      "title": "Information-Theoretic Measures in AI: A Practical Decision Guide",
-      "url": "https://arxiv.org/abs/2604.23716",
-      "author": "Nikolaos Al. Papadopoulos, Konstantinos E. Psannis",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Information-theoretic (IT) measures are ubiquitous in artificial intelligence: entropy drives decision-tree splits and uncertainty quantification, cross-entropy is the default classification loss, mut…"
-    },
-    {
       "id": "2604.22476",
       "source": "arxiv",
       "title": "All Eyes on the Workflow: Automated and Efficient Event Discovery from Video Streams",
@@ -228,49 +174,103 @@
       "summary": "The pseudoknot secondary structure in SARS-CoV-2 RNA is essential for regulating protein synthesis through $-$1 programmed ribosomal frameshifting ($-1$ PRF), a mechanism that allows the virus to gene…"
     },
     {
-      "id": "2604.06367",
+      "id": "2603.11417",
       "source": "arxiv",
-      "title": "WebSP-Eval: Evaluating Web Agents on Website Security and Privacy Tasks",
-      "url": "https://arxiv.org/abs/2604.06367",
-      "author": "Guruprasad Viswanathan Ramesh, Asmit Nayak, Basieem Siddique +1",
+      "title": "Zero-Shot Cross-City Generalization in End-to-End Autonomous Driving: Self-Supervised versus Supervised Representations",
+      "url": "https://arxiv.org/abs/2603.11417",
+      "author": "Fatemeh Naeinian, Ali Hamza, Haoran Zhu +1",
       "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Web agents automate browser tasks, ranging from simple form completion to complex workflows like ordering groceries. While current benchmarks evaluate general-purpose performance~(e.g., WebArena) or s…"
+      "summary": "End-to-end autonomous driving models are typically trained on multi-city datasets using supervised ImageNet-pretrained backbones, yet their ability to generalize to unseen cities remains largely unexa…"
     },
     {
-      "id": "2604.03275",
+      "id": "2603.04895",
       "source": "arxiv",
-      "title": "IPSL-AID: Generative Diffusion Models for Climate Downscaling from Global to Regional Scales",
-      "url": "https://arxiv.org/abs/2604.03275",
-      "author": "Kishanthan Kingston, Olivier Boucher, Freddy Bouchet +5",
+      "title": "How Does the ReLU Activation Affect the Implicit Bias of Gradient Descent on High-dimensional Neural Network Regression?",
+      "url": "https://arxiv.org/abs/2603.04895",
+      "author": "Kuo-Wei Lai, Guanghui Wang, Molei Tao +1",
       "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Effective adaptation and mitigation strategies for climate change require high-resolution projections to inform strategic decision-making. Conventional global climate models, which typically operate a…"
+      "summary": "Overparameterized ML models, including neural networks, typically induce underdetermined training objectives with multiple global minima. The implicit bias refers to the limiting global minimum that i…"
     },
     {
-      "id": "2604.00730",
+      "id": "2602.23006",
       "source": "arxiv",
-      "title": "A CEFR-Inspired Classification Framework with Fuzzy C-Means To Automate Assessment of Programming Skills in Scratch",
-      "url": "https://arxiv.org/abs/2604.00730",
-      "author": "Ricardo Hidalgo-Arag\\'on, Jes\\'us M. Gonz\\'alez-Barahona, Gregorio Robles",
+      "title": "Regular Fourier Features for Nonstationary Gaussian Processes",
+      "url": "https://arxiv.org/abs/2602.23006",
+      "author": "Arsalan Jawaid, Abdullah Karatas, J\\\"org Seewig",
       "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Context: Schools, training platforms, and technology firms increasingly need to assess programming proficiency at scale with transparent, reproducible methods that support personalized learning pathwa…"
+      "summary": "Simulating a Gaussian process requires sampling from a high-dimensional Gaussian distribution, which scales cubically with the number of sample locations. Spectral methods address this challenge by ex…"
     },
     {
-      "id": "2603.29247",
+      "id": "2602.21160",
       "source": "arxiv",
-      "title": "MemRerank: Preference Memory for Personalized Product Reranking",
-      "url": "https://arxiv.org/abs/2603.29247",
-      "author": "Zhiyuan Peng, Xuyang Wu, Huaixiao Tou +2",
+      "title": "Not Just How Much, But Where: Decomposing Epistemic Uncertainty into Per-Class Contributions",
+      "url": "https://arxiv.org/abs/2602.21160",
+      "author": "Mame Diarra Toure, David A. Stephens",
       "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "LLM-based shopping agents increasingly rely on long purchase histories and multi-turn interactions for personalization, yet naively appending raw history to prompts is often ineffective due to noise,…"
+      "summary": "In safety-critical classification, the cost of failure is often asymmetric, yet Bayesian deep learning summarises epistemic uncertainty with a single scalar, mutual information (MI), that cannot disti…"
     },
     {
-      "id": "2603.15988",
+      "id": "2602.17187",
       "source": "arxiv",
-      "title": "Something from Nothing: Data Augmentation for Robust Severity Level Estimation of Dysarthric Speech",
-      "url": "https://arxiv.org/abs/2603.15988",
-      "author": "Jaesung Bae, Xiuwen Zheng, Minje Kim +2",
+      "title": "Anti-causal domain generalization: Leveraging unlabeled data",
+      "url": "https://arxiv.org/abs/2602.17187",
+      "author": "Sorawit Saengkyongam, Juan L. Gamella, Andrew C. Miller +3",
       "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Dysarthric speech quality assessment (DSQA) is critical for clinical diagnostics and inclusive speech technologies. However, subjective evaluation is costly and difficult to scale, and the scarcity of…"
+      "summary": "The problem of domain generalization concerns learning predictive models that are robust to distribution shifts when deployed in new, previously unseen environments. Existing methods typically require…"
+    },
+    {
+      "id": "2602.02056",
+      "source": "arxiv",
+      "title": "Ultrafast On-chip Online Learning via Spline Locality in Kolmogorov-Arnold Networks",
+      "url": "https://arxiv.org/abs/2602.02056",
+      "author": "Duc Hoang, Aarush Gupta, Philip Harris",
+      "publishedAt": "2026-06-18T04:00:00.000Z",
+      "summary": "Ultrafast online learning is essential for high-frequency systems, such as controls for quantum computing and nuclear fusion, where adaptation must occur on sub-microsecond timescales. Meeting these r…"
+    },
+    {
+      "id": "2512.12850",
+      "source": "arxiv",
+      "title": "KANEL\\'E: Kolmogorov-Arnold Networks for Efficient LUT-based Evaluation",
+      "url": "https://arxiv.org/abs/2512.12850",
+      "author": "Duc Hoang, Aarush Gupta, Philip Harris",
+      "publishedAt": "2026-06-18T04:00:00.000Z",
+      "summary": "Low-latency, resource-efficient neural network inference on FPGAs is essential for applications demanding real-time capability and low power. Lookup table (LUT)-based neural networks are a common solu…"
+    },
+    {
+      "id": "2511.19468",
+      "source": "arxiv",
+      "title": "Towards a future space-based, highly scalable AI infrastructure system design",
+      "url": "https://arxiv.org/abs/2511.19468",
+      "author": "Blaise Ag\\\"uera y Arcas, Travis Beals, Maria Biggs +6",
+      "publishedAt": "2026-06-18T04:00:00.000Z",
+      "summary": "If AI is a foundational general-purpose technology, we should anticipate that demand for AI compute -- and energy -- will continue to grow. The Sun is by far the largest energy source in our solar sys…"
+    },
+    {
+      "id": "2511.00802",
+      "source": "arxiv",
+      "title": "GrowthHacker: Automated Off-Policy Evaluation Optimization Using Code-Modifying LLM Agents",
+      "url": "https://arxiv.org/abs/2511.00802",
+      "author": "Jie JW Wu, Ayanda Patrick Herlihy, Ahmad Saleem Mirza +2",
+      "publishedAt": "2026-06-18T04:00:00.000Z",
+      "summary": "With data-driven development now widely adopted, online A/B testing is an established method for measuring the effects of new technologies. However, deploying online experiments demands resources for…"
+    },
+    {
+      "id": "2511.00366",
+      "source": "arxiv",
+      "title": "A Streaming Sparse Cholesky Method for Derivative-Informed Gaussian Process Surrogates Within Digital Twin Applications",
+      "url": "https://arxiv.org/abs/2511.00366",
+      "author": "Shridhar Vashishtha, Krishna Prasath Logakannan, Jacob Hochhalter +2",
+      "publishedAt": "2026-06-18T04:00:00.000Z",
+      "summary": "Digital twins are developed to model the behavior of a specific physical asset (or twin), and they can consist of high-fidelity physics-based models or surrogates. A highly accurate surrogate is often…"
+    },
+    {
+      "id": "2509.03734",
+      "source": "arxiv",
+      "title": "How fast can you find a good hypothesis?",
+      "url": "https://arxiv.org/abs/2509.03734",
+      "author": "Anders Aamand, Maryam Aliakbarpour, Justin Y. Chen +1",
+      "publishedAt": "2026-06-18T04:00:00.000Z",
+      "summary": "In the hypothesis selection problem, we are given sample and query access to finite set of candidate distributions (hypotheses), $\\mathcal{H} = \\{H_1, \\ldots, H_n\\}$, and samples from an unknown distr…"
     }
   ]
 }
