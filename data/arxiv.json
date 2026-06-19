@@ -1,276 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-06-19T03:40:16.184Z",
+  "fetchedAt": "2026-06-19T14:48:55.717Z",
   "items": [
     {
-      "id": "2606.18105",
+      "id": "2606.19186",
       "source": "arxiv",
-      "title": "OmniPlan: An Adaptive Framework for Timely and Near-Optimal Network Planning Optimization",
-      "url": "https://arxiv.org/abs/2606.18105",
-      "author": "Longlong Zhu, Jiashuo Yu, Zedi Chen +12",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Network planning optimization is a fundamental problem across diverse domains, including transportation systems, communication networks, and power grids. It requires simultaneous optimization of multi…"
+      "title": "Learning to Annotate Delayed and False AEB Events: A Practical System for Extreme Class Imbalance and Asymmetric Label Noise",
+      "url": "https://arxiv.org/abs/2606.19186",
+      "author": "Mengxiang Hao, Xin Jiang, Xinghao Huang +10",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Autonomous Emergency Braking (AEB) optimization relies on accurately annotated real-world trigger events, particularly rare but critical delayed and false AEB triggers that expose system deficiencies.…"
     },
     {
-      "id": "2606.17846",
+      "id": "2606.19149",
       "source": "arxiv",
-      "title": "Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models",
-      "url": "https://arxiv.org/abs/2606.17846",
-      "author": "Haoqi Yuan, Zhixuan Liang, Anzhe Chen +20",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Foundation models in language and multimodality achieve strong generalization by aligning heterogeneous data under a unified formulation and training at scale. In this report, we investigate whether t…"
+      "title": "OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing",
+      "url": "https://arxiv.org/abs/2606.19149",
+      "author": "Nahum Korda, Gadi Evron",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Automated vulnerability discovery in large codebases remains challenging: traditional static analysis produces high false-positive rates, while dynamic approaches such as fuzzing require substantial i…"
     },
     {
-      "id": "2606.17491",
+      "id": "2606.18679",
       "source": "arxiv",
-      "title": "A Bayesian Boolean Matrix Factorization with Application to Copy Number Analysis in Cancer",
-      "url": "https://arxiv.org/abs/2606.17491",
-      "author": "Adolphus Wagala, Mehmet Samur, Giovanni Parmigiani",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Binary data factorization is common, but real-valued methods ignore discreteness and yield hard-to-interpret factors. Boolean Matrix Factorization (BooMF) instead decomposes a binary matrix into two l…"
+      "title": "Fair Online Resource Allocation",
+      "url": "https://arxiv.org/abs/2606.18679",
+      "author": "Christopher En, Yuri Faenza, Andrea Lodi +1",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "We study the problem of fair online resource allocation, motivated by applications such as refugee resettlement and airline scheduling, where agents arrive sequentially and must be assigned to facilit…"
     },
     {
-      "id": "2606.17276",
+      "id": "2606.18436",
       "source": "arxiv",
-      "title": "On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies",
-      "url": "https://arxiv.org/abs/2606.17276",
-      "author": "Sunwoo Kim, Sunkyung Lee, Clark Mingxuan Ju +5",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Generative recommendation (GR) has emerged as a promising direction for recommender systems. Recently, large language models (LLMs) have been increasingly adopted for GR, as their rich pretrained know…"
+      "title": "Pointwise is Pointless? A Multimodal Ablation Study for Precipitation Nowcasting with Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2606.18436",
+      "author": "Oph\\'elia Miralles, M\\'at\\'e Mile, Christoffer Artturi +2",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Sparse point observations are increasingly available for precipitation nowcasting, but it is unclear how much they improve dense radar-field forecasts. We partially address this question with a multim…"
     },
     {
-      "id": "2606.16000",
+      "id": "2606.14784",
       "source": "arxiv",
-      "title": "GRACE-DS: a Guarded Reward-guided Agent Correction Environment in Data Science",
-      "url": "https://arxiv.org/abs/2606.16000",
-      "author": "Aleksandr Tsymbalov, Danis Zaripov, Artem Epifanov +1",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "We introduce GRACE-DS, a Guarded Reward-guided Agent Correction Environment in Data Science for pre-deployment evaluation of LLM-powered AutoML agents. GRACE-DS is a set of evaluation metrics in an is…"
+      "title": "LLM-Based Synthetic Ground Truth Generation for Audio-Based Emotion Classification via In-Context Learning",
+      "url": "https://arxiv.org/abs/2606.14784",
+      "author": "Qing Huang, Pooja Pol, Jianing Zhang",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Understanding human states and interaction dynamics is a core goal of human-computer interaction (HCI). As interaction paradigms become more immersive, virtual reality (VR) has emerged as a powerful p…"
     },
     {
-      "id": "2606.12816",
+      "id": "2606.14776",
       "source": "arxiv",
-      "title": "Graph Reinforcement Learning for Calibration-Aware Quantum Circuit Routing",
-      "url": "https://arxiv.org/abs/2606.12816",
-      "author": "Yash Vardhan Tomar, Dheeraj Peddireddy",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Quantum circuit routing is a key step in compiling programs for noisy intermediate-scale quantum processors. Routes that appear efficient by standard overhead metrics can still lose fidelity when they…"
+      "title": "Deep Learning-Based Lunar Crater Terrain Relative Navigation",
+      "url": "https://arxiv.org/abs/2606.14776",
+      "author": "Batu Candan, Simone Servadio",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Accurate position estimation is crucial for the successful implementation of future lunar landings using autonomous vehicles, especially in dangerous environments with sparse terrain features. In this…"
     },
     {
-      "id": "2606.11615",
+      "id": "2606.11673",
       "source": "arxiv",
-      "title": "Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks",
-      "url": "https://arxiv.org/abs/2606.11615",
-      "author": "Omid Ahmadieh, Nima Karimian",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "The widespread adoption of face recognition (FR) technologies raises serious privacy concerns, as facial data can be exploited without consent. To address this challenge, we propose Adv-TGD, a generat…"
+      "title": "Higher-Order Token Interactions via Quantum Attention",
+      "url": "https://arxiv.org/abs/2606.11673",
+      "author": "Jian Xu, Chao Li, Delu Zeng +2",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Standard dot-product self-attention computes, in a single layer, only pairwise (order-2) interactions between tokens; representing a generic order-$k$ interaction is known to require either super-quad…"
     },
     {
-      "id": "2606.08206",
+      "id": "2606.10686",
       "source": "arxiv",
-      "title": "SegmentAnyTreeV2: Scaling Transformer-Based Tree Instance Segmentation Across Sensors, Platforms, and Forests",
-      "url": "https://arxiv.org/abs/2606.08206",
-      "author": "Maciej Wielgosz, Stefano Puliti, Rasmus Astrup",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "We present SegmentAnyTreeV2, a sensor- and platform-agnostic framework for semantic and instance segmentation of forest point clouds. The model combines a serialization-based Point Transformer v3 back…"
+      "title": "An adaptive framework for the axisymmetric pulsar magnetosphere using physics-informed Kolmogorov-Arnold networks",
+      "url": "https://arxiv.org/abs/2606.10686",
+      "author": "Spyros Rigas, Ioannis Contopoulos, Georgios Alexandridis +1",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "The pulsar magnetosphere has only recently been addressed using Physics-Informed Neural Networks (PINNs), by deploying a domain-decomposition approach and treating the separatrix and equatorial curren…"
     },
     {
-      "id": "2606.04404",
+      "id": "2606.09547",
       "source": "arxiv",
-      "title": "Knockoffs-based False Discovery Rate Control and Simplification for Deep Neural Networks",
-      "url": "https://arxiv.org/abs/2606.04404",
-      "author": "Wenyu Liao, Yiqing Shi, Fang Xie",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "The deep neural network is a widely used framework in machine learning that has been widely applied in various fields. However, deep neural networks often involve a large number of parameters and inpu…"
+      "title": "Streaming Interventions: Can Video Large Language Models Correct Mistakes as They Occur?",
+      "url": "https://arxiv.org/abs/2606.09547",
+      "author": "Apratim Bhattacharyya, Shweta Mahajan, Sanjay Haresh +5",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Learning everyday skills, like cooking a dish, relies increasingly on instructional media such as online videos. This opens the door to the use of video (and multimodal) large language models (LLMs) a…"
     },
     {
-      "id": "2605.28690",
+      "id": "2606.04101",
       "source": "arxiv",
-      "title": "Latent-Conditioned Parameterized Quantum Circuits as Universal Approximators for Distributions over Quantum States",
-      "url": "https://arxiv.org/abs/2605.28690",
-      "author": "Quoc Hoan Tran, Koki Chinzei, Yasuhiro Endo +1",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Many applications in quantum simulation, quantum chemistry, and quantum machine learning require not a single quantum state but an ensemble of states characterizing the heterogeneity of a target syste…"
+      "title": "UltraEP: Unleash MoE Training and Inference on Rack-Scale Nodes with Near-Optimal Load Balancing",
+      "url": "https://arxiv.org/abs/2606.04101",
+      "author": "Xinming Wei, Chao Jin, Tuo Dai +10",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Large-scale expert parallelism (EP) is becoming pivotal for training and serving frontier MoE models, but it also amplifies device-level expert load imbalance into compute stragglers, token all-to-all…"
     },
     {
-      "id": "2605.27478",
+      "id": "2605.31158",
       "source": "arxiv",
-      "title": "Triangular-Reference Schr\\\"odinger Bridges for Time Series Generation",
-      "url": "https://arxiv.org/abs/2605.27478",
-      "author": "Gabriele Bocchi",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Schr\\\"odinger bridges for time series (SBTS) generate synthetic paths by projecting, in relative entropy, a Brownian reference onto the path laws that match the joint distribution of the data on the o…"
+      "title": "Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models",
+      "url": "https://arxiv.org/abs/2605.31158",
+      "author": "Jiacheng Lu, Haoyi Zhu, Sipei Yi +3",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Interactive video world models generate video chunk by chunk in response to user-controlled camera movements, enabling applications such as real-time game simulation, virtual scene navigation, and emb…"
     },
     {
-      "id": "2605.26631",
+      "id": "2605.20531",
       "source": "arxiv",
-      "title": "Data-driven sparse identification of governing PDEs via knockoff filters and multi-criteria trade-offs",
-      "url": "https://arxiv.org/abs/2605.26631",
-      "author": "Pongpisit Thanasutives, Naichang Ke, Yoshinobu Kawahara",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "We propose KO-PDE-IDENT, a data-driven framework for identifying parsimonious partial differential equations (PDEs) with false discovery rate (FDR) control. PDE discovery from noisy observations is of…"
+      "title": "Pseudo-Formalization for Automatic Proof Verification",
+      "url": "https://arxiv.org/abs/2605.20531",
+      "author": "Slim Barkallah, Luke Bailey, Kaiyue Wen +2",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Reliable verification of proofs remains a bottleneck for training and evaluating AI systems on hard mathematical reasoning. Fully formal proofs, in languages like Lean, are easy to verify because they…"
     },
     {
-      "id": "2605.25929",
+      "id": "2605.20448",
       "source": "arxiv",
-      "title": "Multi-Agent Systems are Mixtures of Experts: Who Becomes an Influencer?",
-      "url": "https://arxiv.org/abs/2605.25929",
-      "author": "Franka Bause, Jonas Niederle, Martin Pawelczyk +1",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "The effectiveness of multi-agent LLM deliberation depends not only on the agents' individual predictions, but also on how they communicate and collaborate. We study this mechanism through the lens of…"
+      "title": "Do Vision-Language Models Understand 3D Scenes or Just Catalogue Objects?",
+      "url": "https://arxiv.org/abs/2605.20448",
+      "author": "Animesh Maheshwari, Divyansh Sahu, Nishit Verma",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Vision-language models reliably name objects in a scene, but do they represent the 3D layout those objects inhabit? We introduce a 3,034-sample human-curated benchmark targeting three components of sp…"
     },
     {
-      "id": "2605.22845",
+      "id": "2605.00457",
       "source": "arxiv",
-      "title": "A finite-element-inspired bipartite graph learned simulator for manufacturability assessment in large-deformation sheet forming",
-      "url": "https://arxiv.org/abs/2605.22845",
-      "author": "Yingxue Zhao, Haoran Li, Haosu Zhou +2",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Explicit dynamic finite element (FE) simulations are widely used for large deformation engineering analysis, but repeated simulations remain costly during design space exploration and optimisation. In…"
+      "title": "Utility-Aware DRL-Based TXOP Adaptation for NR-U and Wi-Fi Coexistence Networks",
+      "url": "https://arxiv.org/abs/2605.00457",
+      "author": "Po-Heng Chou, Yi-Fang Yu, Shou-Yu Chen +1",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "The coexistence of NR-U and Wi-Fi in the unlicensed spectrum introduces a challenging resource management problem, where heterogeneous channel access mechanisms can lead to unbalanced spectrum utiliza…"
     },
     {
-      "id": "2605.21115",
+      "id": "2604.21097",
       "source": "arxiv",
-      "title": "Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs",
-      "url": "https://arxiv.org/abs/2605.21115",
-      "author": "Mouhamed Amine Bouchiha, Abdelaziz Amara Korba, Yacine Ghamri-Doudane",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Federated learning (FL) has emerged as a promising paradigm for managing electric vehicle (EV) battery data in intelligent transportation systems (ITS), enabling privacy-preserving tasks such as anoma…"
+      "title": "Learning to Emulate Chaos: Adversarial Optimal Transport Regularization",
+      "url": "https://arxiv.org/abs/2604.21097",
+      "author": "Gabriel Melo, Leonardo Santiago, Peter Y. Lu",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Chaos arises in many complex dynamical systems, from weather to power grids, but is difficult to accurately model with data-driven methods such as machine learning emulators. While emulators are promi…"
     },
     {
-      "id": "2605.20726",
+      "id": "2604.13240",
       "source": "arxiv",
-      "title": "Everywhere Valid Bounds on False Discovery Proportions in Conformal Inference",
-      "url": "https://arxiv.org/abs/2605.20726",
-      "author": "Ziang Song, Ying Jin, Emmanuel J. Cand\\`es",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Modern applications of conformal inference to multiple testing problems, such as outlier detection and candidate selection, often involve selecting test samples whose conformal p-values fall below a t…"
+      "title": "A High-Resolution Landscape Dataset for Concept-Based XAI With Application to Species Distribution Models",
+      "url": "https://arxiv.org/abs/2604.13240",
+      "author": "Augustin de la Brosse, Damien Garreau, Thomas Houet +1",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Mapping the spatial distribution of species is essential for conservation policy and invasive species management. Species distribution models (SDMs) are the primary tools for this task, serving two pu…"
     },
     {
-      "id": "2604.22476",
+      "id": "2604.06001",
       "source": "arxiv",
-      "title": "All Eyes on the Workflow: Automated and Efficient Event Discovery from Video Streams",
-      "url": "https://arxiv.org/abs/2604.22476",
-      "author": "Marco Pegoraro, Jonas Seng, Dustin Heller +2",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Disciplines such as business process management and process mining aid organizations by discovering insights about processes on the basis of recorded event data. However, an obstacle to process analys…"
+      "title": "A deep learning framework for jointly solving transient Fokker-Planck equations with arbitrary parameters and initial distributions",
+      "url": "https://arxiv.org/abs/2604.06001",
+      "author": "Xiaolong Wang, Jing Feng, Qi Liu +3",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Efficiently solving the Fokker-Planck equation (FPE) is central to analyzing complex parameterized stochastic systems. However, current numerical methods lack parallel computation capabilities across…"
     },
     {
-      "id": "2604.20822",
+      "id": "2604.03146",
       "source": "arxiv",
-      "title": "Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series",
-      "url": "https://arxiv.org/abs/2604.20822",
-      "author": "Thorsten Hoeser, Felix Bachofer, Claudia Kuenzer",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "The offshore wind energy sector is expanding rapidly, increasing the need for independent, high-temporal-resolution monitoring of infrastructure deployment and operation at global scale. While Earth O…"
+      "title": "Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization",
+      "url": "https://arxiv.org/abs/2604.03146",
+      "author": "Chiheb Yaakoubi, Cosme Louart, Malik Tiomoko +1",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "We study high-dimensional convex empirical risk minimization (ERM) under general non-Gaussian data designs. By heuristically extending the Convex Gaussian Min-Max Theorem (CGMT) to non-Gaussian settin…"
     },
     {
-      "id": "2604.14906",
+      "id": "2603.10184",
       "source": "arxiv",
-      "title": "Unraveling the Mechanism of Drug Binding to SARS-CoV-2 RNA Pseudoknot with Thermodynamics-Driven Machine Learning",
-      "url": "https://arxiv.org/abs/2604.14906",
-      "author": "Mariia Ivonina, Jakub Rydzewski",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "The pseudoknot secondary structure in SARS-CoV-2 RNA is essential for regulating protein synthesis through $-$1 programmed ribosomal frameshifting ($-1$ PRF), a mechanism that allows the virus to gene…"
+      "title": "Stabilizing Bandits using Regularization: Precise Regret and A Quantitative Central Limit Theorem",
+      "url": "https://arxiv.org/abs/2603.10184",
+      "author": "Budhaditya Halder, Ishan Sengupta, Koustav Chowdhury +2",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Statistical inference with bandit data presents fundamental challenges owing to adaptive sampling, which violates the independence assumptions underlying classical asymptotic theory. Recent work has i…"
     },
     {
-      "id": "2603.11417",
+      "id": "2602.15707",
       "source": "arxiv",
-      "title": "Zero-Shot Cross-City Generalization in End-to-End Autonomous Driving: Self-Supervised versus Supervised Representations",
-      "url": "https://arxiv.org/abs/2603.11417",
-      "author": "Fatemeh Naeinian, Ali Hamza, Haoran Zhu +1",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "End-to-end autonomous driving models are typically trained on multi-city datasets using supervised ImageNet-pretrained backbones, yet their ability to generalize to unseen cities remains largely unexa…"
+      "title": "Proactive Conversational Assistant for a Procedural Manual Task based on Audio and IMU",
+      "url": "https://arxiv.org/abs/2602.15707",
+      "author": "Rehana Mahfuz, Yinyi Guo, Erik Visser +1",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Real-time conversational assistants for procedural manual tasks often depend on video input, which can be computationally expensive and compromise user privacy. For the first time, we propose a real-t…"
     },
     {
-      "id": "2603.04895",
+      "id": "2601.22300",
       "source": "arxiv",
-      "title": "How Does the ReLU Activation Affect the Implicit Bias of Gradient Descent on High-dimensional Neural Network Regression?",
-      "url": "https://arxiv.org/abs/2603.04895",
-      "author": "Kuo-Wei Lai, Guanghui Wang, Molei Tao +1",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Overparameterized ML models, including neural networks, typically induce underdetermined training objectives with multiple global minima. The implicit bias refers to the limiting global minimum that i…"
+      "title": "Toward all-optical unsupervised Hebbian learning in deep photonic neuromorphic networks",
+      "url": "https://arxiv.org/abs/2601.22300",
+      "author": "Xi Li, Disha Biswas, Peng Zhou +4",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "We propose a deep photonic neuromorphic network (PNN) architecture based on phase-change material (PCM) synapses and local optical feedback for online, unsupervised Hebbian learning. The proposed arch…"
     },
     {
-      "id": "2602.23006",
+      "id": "2601.14430",
       "source": "arxiv",
-      "title": "Regular Fourier Features for Nonstationary Gaussian Processes",
-      "url": "https://arxiv.org/abs/2602.23006",
-      "author": "Arsalan Jawaid, Abdullah Karatas, J\\\"org Seewig",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Simulating a Gaussian process requires sampling from a high-dimensional Gaussian distribution, which scales cubically with the number of sample locations. Spectral methods address this challenge by ex…"
+      "title": "Meta Flow Maps enable scalable reward alignment",
+      "url": "https://arxiv.org/abs/2601.14430",
+      "author": "Peter Potaptchik, Adhi Saravanan, Abbas Mammadov +3",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Controlling generative models is computationally expensive. This is because optimal alignment with a reward function--whether via inference-time steering or fine-tuning--requires estimating the value…"
     },
     {
-      "id": "2602.21160",
+      "id": "2601.02322",
       "source": "arxiv",
-      "title": "Not Just How Much, But Where: Decomposing Epistemic Uncertainty into Per-Class Contributions",
-      "url": "https://arxiv.org/abs/2602.21160",
-      "author": "Mame Diarra Toure, David A. Stephens",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "In safety-critical classification, the cost of failure is often asymmetric, yet Bayesian deep learning summarises epistemic uncertainty with a single scalar, mutual information (MI), that cannot disti…"
+      "title": "Environment-Adaptive Covariate Selection: Learning When to Use Spurious Correlations for Out-of-Distribution Prediction",
+      "url": "https://arxiv.org/abs/2601.02322",
+      "author": "Shuozhi Zuo, Yixin Wang",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "A common approach to out-of-distribution prediction restricts models to causal or invariant covariates to avoid spurious associations that may change across environments. Despite its theoretical appea…"
     },
     {
-      "id": "2602.17187",
+      "id": "2512.17473",
       "source": "arxiv",
-      "title": "Anti-causal domain generalization: Leveraging unlabeled data",
-      "url": "https://arxiv.org/abs/2602.17187",
-      "author": "Sorawit Saengkyongam, Juan L. Gamella, Andrew C. Miller +3",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "The problem of domain generalization concerns learning predictive models that are robust to distribution shifts when deployed in new, previously unseen environments. Existing methods typically require…"
+      "title": "Alternating Direction Method of Multipliers for Nonlinear Matrix Decompositions",
+      "url": "https://arxiv.org/abs/2512.17473",
+      "author": "Atharva Awari, Nicolas Gillis, Arnaud Vandaele",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "We present an algorithm based on the alternating direction method of multipliers (ADMM) for solving nonlinear matrix decompositions (NMD). Given an input matrix $X \\in \\mathbb{R}^{m \\times n}$ and a f…"
     },
     {
-      "id": "2602.02056",
+      "id": "2511.22486",
       "source": "arxiv",
-      "title": "Ultrafast On-chip Online Learning via Spline Locality in Kolmogorov-Arnold Networks",
-      "url": "https://arxiv.org/abs/2602.02056",
-      "author": "Duc Hoang, Aarush Gupta, Philip Harris",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Ultrafast online learning is essential for high-frequency systems, such as controls for quantum computing and nuclear fusion, where adaptation must occur on sub-microsecond timescales. Meeting these r…"
+      "title": "The Machine Learning Approach to Moment Closure Relations for Plasma: A Review",
+      "url": "https://arxiv.org/abs/2511.22486",
+      "author": "Samuel Burles, Enrico Camporeale",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "The requirement for large-scale global simulations of plasma is an ongoing challenge in both space and laboratory plasma physics. Any simulation based on a fluid model inherently requires a closure re…"
     },
     {
-      "id": "2512.12850",
+      "id": "2510.08807",
       "source": "arxiv",
-      "title": "KANEL\\'E: Kolmogorov-Arnold Networks for Efficient LUT-based Evaluation",
-      "url": "https://arxiv.org/abs/2512.12850",
-      "author": "Duc Hoang, Aarush Gupta, Philip Harris",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Low-latency, resource-efficient neural network inference on FPGAs is essential for applications demanding real-time capability and low power. Lookup table (LUT)-based neural networks are a common solu…"
+      "title": "Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation",
+      "url": "https://arxiv.org/abs/2510.08807",
+      "author": "Zhenyu Zhao, Hongyi Jing, Xiawei Liu +7",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "From loco-motion to dextrous manipulation, humanoid robots have made remarkable strides in demonstrating complex full-body capabilities. However, the majority of current robot learning datasets and be…"
     },
     {
-      "id": "2511.19468",
+      "id": "2509.24894",
       "source": "arxiv",
-      "title": "Towards a future space-based, highly scalable AI infrastructure system design",
-      "url": "https://arxiv.org/abs/2511.19468",
-      "author": "Blaise Ag\\\"uera y Arcas, Travis Beals, Maria Biggs +6",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "If AI is a foundational general-purpose technology, we should anticipate that demand for AI compute -- and energy -- will continue to grow. The Sun is by far the largest energy source in our solar sys…"
+      "title": "Improved Stochastic Optimization of LogSumExp",
+      "url": "https://arxiv.org/abs/2509.24894",
+      "author": "Egor Gladin, Alexey Kroshnin, Jia-Jie Zhu +1",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "The LogSumExp function, dual to the Kullback-Leibler (KL) divergence, plays a central role in many important optimization problems, including entropy-regularized optimal transport (OT) and distributio…"
     },
     {
-      "id": "2511.00802",
+      "id": "2509.23806",
       "source": "arxiv",
-      "title": "GrowthHacker: Automated Off-Policy Evaluation Optimization Using Code-Modifying LLM Agents",
-      "url": "https://arxiv.org/abs/2511.00802",
-      "author": "Jie JW Wu, Ayanda Patrick Herlihy, Ahmad Saleem Mirza +2",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "With data-driven development now widely adopted, online A/B testing is an established method for measuring the effects of new technologies. However, deploying online experiments demands resources for…"
+      "title": "Influence-Guided Concolic Testing of Transformer Robustness",
+      "url": "https://arxiv.org/abs/2509.23806",
+      "author": "Chih-Duo Hong, Chih-Cheng Yang, Yu Wang +1",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Concolic testing for neural networks alternates concrete execution with constraint solving to search for inputs that flip model decisions. We present a concolic tester for Transformer classifiers that…"
     },
     {
-      "id": "2511.00366",
+      "id": "2509.15822",
       "source": "arxiv",
-      "title": "A Streaming Sparse Cholesky Method for Derivative-Informed Gaussian Process Surrogates Within Digital Twin Applications",
-      "url": "https://arxiv.org/abs/2511.00366",
-      "author": "Shridhar Vashishtha, Krishna Prasath Logakannan, Jacob Hochhalter +2",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "Digital twins are developed to model the behavior of a specific physical asset (or twin), and they can consist of high-fidelity physics-based models or surrogates. A highly accurate surrogate is often…"
+      "title": "Phase Transition for Stochastic Block Model with more than $\\sqrt{n}$ Communities",
+      "url": "https://arxiv.org/abs/2509.15822",
+      "author": "Alexandra Carpentier, Christophe Giraud, Nicolas Verzelen",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Predictions from statistical physics postulate that recovery of the communities in the Stochastic Block Model (SBM) with a fixed number $K$ of communities is possible in polynomial time above, and onl…"
     },
     {
-      "id": "2509.03734",
+      "id": "2508.13313",
       "source": "arxiv",
-      "title": "How fast can you find a good hypothesis?",
-      "url": "https://arxiv.org/abs/2509.03734",
-      "author": "Anders Aamand, Maryam Aliakbarpour, Justin Y. Chen +1",
-      "publishedAt": "2026-06-18T04:00:00.000Z",
-      "summary": "In the hypothesis selection problem, we are given sample and query access to finite set of candidate distributions (hypotheses), $\\mathcal{H} = \\{H_1, \\ldots, H_n\\}$, and samples from an unknown distr…"
+      "title": "Flow Matching for Efficient and Scalable Data Assimilation",
+      "url": "https://arxiv.org/abs/2508.13313",
+      "author": "Taos Transue, Bohan Chen, So Takao +1",
+      "publishedAt": "2026-06-19T04:00:00.000Z",
+      "summary": "Data assimilation (DA) estimates a dynamical system's state from noisy observations. Recent generative models like the ensemble score filter (EnSF) improve DA in high-dimensional nonlinear settings bu…"
     }
   ]
 }

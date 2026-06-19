@@ -1,126 +1,86 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-19T03:40:16.421Z",
+  "fetchedAt": "2026-06-19T14:48:55.775Z",
   "items": [
-    {
-      "id": "48578913",
-      "source": "hn",
-      "title": "Noam Shazeer Joins OpenAI",
-      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "score": 301,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48578913",
-      "author": "lukasgross",
-      "publishedAt": "2026-06-18T00:26:06.000Z"
-    },
     {
       "id": "48584484",
       "source": "hn",
       "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
       "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "score": 103,
+      "score": 120,
       "commentsUrl": "https://news.ycombinator.com/item?id=48584484",
       "author": "dstala",
       "publishedAt": "2026-06-18T12:44:09.000Z"
+    },
+    {
+      "id": "48578913",
+      "source": "hn",
+      "title": "Noam Shazeer Joins OpenAI",
+      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "score": 343,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48578913",
+      "author": "lukasgross",
+      "publishedAt": "2026-06-18T00:26:06.000Z"
+    },
+    {
+      "id": "48598086",
+      "source": "hn",
+      "title": "Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs",
+      "url": "https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48598086",
+      "author": "root-parent",
+      "publishedAt": "2026-06-19T13:01:52.000Z"
     },
     {
       "id": "48581458",
       "source": "hn",
       "title": "DeepSeek Introduces Vision",
       "url": "https://chat.deepseek.com/",
-      "score": 455,
+      "score": 479,
       "commentsUrl": "https://news.ycombinator.com/item?id=48581458",
       "author": "RIshabh235",
       "publishedAt": "2026-06-18T06:17:40.000Z"
-    },
-    {
-      "id": "48580209",
-      "source": "hn",
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-      "score": 454,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48580209",
-      "author": "alphabettsy",
-      "publishedAt": "2026-06-18T03:04:20.000Z"
     },
     {
       "id": "48572553",
       "source": "hn",
       "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
       "url": "https://github.com/Adam-CAD/CADAM",
-      "score": 206,
+      "score": 209,
       "commentsUrl": "https://news.ycombinator.com/item?id=48572553",
       "author": "zachdive",
       "publishedAt": "2026-06-17T16:14:04.000Z"
     },
     {
-      "id": "48590891",
+      "id": "48580209",
       "source": "hn",
-      "title": "Amazon investigating engineers who criticized AI data center expansion",
-      "url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html",
-      "score": 40,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48590891",
-      "author": "hathym",
-      "publishedAt": "2026-06-18T20:14:15.000Z"
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "score": 470,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48580209",
+      "author": "alphabettsy",
+      "publishedAt": "2026-06-18T03:04:20.000Z"
     },
     {
       "id": "48565498",
       "source": "hn",
       "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
       "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "score": 524,
+      "score": 531,
       "commentsUrl": "https://news.ycombinator.com/item?id=48565498",
       "author": "giuliomagnifico",
       "publishedAt": "2026-06-17T03:55:16.000Z"
-    },
-    {
-      "id": "48587808",
-      "source": "hn",
-      "title": "Ask HN: What tools are you using for AI-assisted code review?",
-      "url": "https://news.ycombinator.com/item?id=48587808",
-      "score": 13,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48587808",
-      "author": "agos",
-      "publishedAt": "2026-06-18T16:25:27.000Z"
-    },
-    {
-      "id": "48592327",
-      "source": "hn",
-      "title": "Why Weibo's tiny VibeThinker-3B has the AI world arguing over benchmarks again",
-      "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48592327",
-      "author": "gmays",
-      "publishedAt": "2026-06-18T22:09:58.000Z"
     },
     {
       "id": "48566832",
       "source": "hn",
       "title": "The founder's playbook: Building an AI-native startup",
       "url": "https://claude.com/blog/the-founders-playbook",
-      "score": 238,
+      "score": 241,
       "commentsUrl": "https://news.ycombinator.com/item?id=48566832",
       "author": "e2e4",
       "publishedAt": "2026-06-17T07:04:42.000Z"
-    },
-    {
-      "id": "48579913",
-      "source": "hn",
-      "title": "AI Compute Extensions (ACE) Specification",
-      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
-      "score": 51,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48579913",
-      "author": "matt_d",
-      "publishedAt": "2026-06-18T02:32:01.000Z"
-    },
-    {
-      "id": "48590590",
-      "source": "hn",
-      "title": "Medical AI scores high on exams but stumbles on real patient care",
-      "url": "https://www.medicaleconomics.com/view/medical-ai-scores-high-on-exams-but-stumbles-on-real-patient-care-new-benchmark-finds",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48590590",
-      "author": "SVI",
-      "publishedAt": "2026-06-18T19:48:58.000Z"
     }
   ]
 }
