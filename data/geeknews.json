@@ -1,7 +1,79 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-19T14:48:56.453Z",
+  "fetchedAt": "2026-06-20T02:43:50.918Z",
   "items": [
+    {
+      "id": "30655",
+      "source": "geeknews",
+      "title": "노르웨이, 초등학교 AI 사용 사실상 금지",
+      "url": "https://news.hada.io/topic?id=30655",
+      "commentsUrl": "https://news.hada.io/topic?id=30655",
+      "author": "neo",
+      "publishedAt": "2026-06-20T01:41:17.000Z"
+    },
+    {
+      "id": "30654",
+      "source": "geeknews",
+      "title": "더 작은 NixOS ISO를 만들 수 있을까?",
+      "url": "https://news.hada.io/topic?id=30654",
+      "commentsUrl": "https://news.hada.io/topic?id=30654",
+      "author": "neo",
+      "publishedAt": "2026-06-20T01:11:17.000Z"
+    },
+    {
+      "id": "30653",
+      "source": "geeknews",
+      "title": "Project Valhalla: 10년간의 작업이 JDK 28에 어떻게 반영되었는가",
+      "url": "https://news.hada.io/topic?id=30653",
+      "commentsUrl": "https://news.hada.io/topic?id=30653",
+      "author": "neo",
+      "publishedAt": "2026-06-20T00:51:17.000Z"
+    },
+    {
+      "id": "30652",
+      "source": "geeknews",
+      "title": "현대, 4,900억원에 Boston Dynamics 잔여 지분 인수해 완전 자회사화",
+      "url": "https://news.hada.io/topic?id=30652",
+      "commentsUrl": "https://news.hada.io/topic?id=30652",
+      "author": "neo",
+      "publishedAt": "2026-06-20T00:41:17.000Z"
+    },
+    {
+      "id": "30651",
+      "source": "geeknews",
+      "title": "glojure - Go 위에 호스팅된 Clojure 인터프리터",
+      "url": "https://news.hada.io/topic?id=30651",
+      "commentsUrl": "https://news.hada.io/topic?id=30651",
+      "author": "xguru",
+      "publishedAt": "2026-06-20T00:31:02.000Z"
+    },
+    {
+      "id": "30650",
+      "source": "geeknews",
+      "title": "Craigslist 창업자, 5억 달러를 기부하다",
+      "url": "https://news.hada.io/topic?id=30650",
+      "commentsUrl": "https://news.hada.io/topic?id=30650",
+      "author": "neo",
+      "publishedAt": "2026-06-19T16:41:16.000Z"
+    },
+    {
+      "id": "30649",
+      "source": "geeknews",
+      "title": "CS 6120: 고급 컴파일러 자기주도 온라인 강좌 (2020)",
+      "url": "https://news.hada.io/topic?id=30649",
+      "commentsUrl": "https://news.hada.io/topic?id=30649",
+      "author": "neo",
+      "publishedAt": "2026-06-19T15:41:16.000Z"
+    },
+    {
+      "id": "30648",
+      "source": "geeknews",
+      "title": "CLI 인증, 제대로 하는 법",
+      "url": "https://news.hada.io/topic?id=30648",
+      "commentsUrl": "https://news.hada.io/topic?id=30648",
+      "author": "neo",
+      "publishedAt": "2026-06-19T15:11:15.000Z"
+    },
     {
       "id": "30647",
       "source": "geeknews",
@@ -199,78 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30623",
       "author": "xguru",
       "publishedAt": "2026-06-19T00:31:02.000Z"
-    },
-    {
-      "id": "30622",
-      "source": "geeknews",
-      "title": "구글 Open Knowledge Format 공개 - AI에이전트를 위한 지식 공유 표준",
-      "url": "https://news.hada.io/topic?id=30622",
-      "commentsUrl": "https://news.hada.io/topic?id=30622",
-      "author": "neo",
-      "publishedAt": "2026-06-19T00:28:01.000Z"
-    },
-    {
-      "id": "30621",
-      "source": "geeknews",
-      "title": "SQLite의 창시자, 리처드 힙과 함께하는 Turso, AI, 그리고 26년간의 코드 이야기 [유튜브]",
-      "url": "https://news.hada.io/topic?id=30621",
-      "commentsUrl": "https://news.hada.io/topic?id=30621",
-      "author": "baeba",
-      "publishedAt": "2026-06-19T00:18:32.000Z"
-    },
-    {
-      "id": "30620",
-      "source": "geeknews",
-      "title": "Audacity 4.0 베타, 새 Qt 인터페이스 공개 테스트 시작",
-      "url": "https://news.hada.io/topic?id=30620",
-      "commentsUrl": "https://news.hada.io/topic?id=30620",
-      "author": "neo",
-      "publishedAt": "2026-06-19T00:12:12.000Z"
-    },
-    {
-      "id": "30619",
-      "source": "geeknews",
-      "title": "컴파일러가 싫다",
-      "url": "https://news.hada.io/topic?id=30619",
-      "commentsUrl": "https://news.hada.io/topic?id=30619",
-      "author": "neo",
-      "publishedAt": "2026-06-19T00:09:12.000Z"
-    },
-    {
-      "id": "30618",
-      "source": "geeknews",
-      "title": "Emacs 31에서 이미 매일 쓰는 변화들",
-      "url": "https://news.hada.io/topic?id=30618",
-      "commentsUrl": "https://news.hada.io/topic?id=30618",
-      "author": "neo",
-      "publishedAt": "2026-06-19T00:06:12.000Z"
-    },
-    {
-      "id": "30617",
-      "source": "geeknews",
-      "title": "Stop Killing Games, 130만 서명에도 EU 법제화 확보 실패",
-      "url": "https://news.hada.io/topic?id=30617",
-      "commentsUrl": "https://news.hada.io/topic?id=30617",
-      "author": "neo",
-      "publishedAt": "2026-06-18T22:33:46.000Z"
-    },
-    {
-      "id": "30616",
-      "source": "geeknews",
-      "title": "유출 재무 문서: OpenAI, 매년 수십억 달러 손실",
-      "url": "https://news.hada.io/topic?id=30616",
-      "commentsUrl": "https://news.hada.io/topic?id=30616",
-      "author": "neo",
-      "publishedAt": "2026-06-18T21:33:02.000Z"
-    },
-    {
-      "id": "30615",
-      "source": "geeknews",
-      "title": "재미와 징역형을 부르는 IIS 서버 정찰",
-      "url": "https://news.hada.io/topic?id=30615",
-      "commentsUrl": "https://news.hada.io/topic?id=30615",
-      "author": "neo",
-      "publishedAt": "2026-06-18T20:34:58.000Z"
     }
   ]
 }
