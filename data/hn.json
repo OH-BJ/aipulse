@@ -1,63 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-20T02:43:50.198Z",
+  "fetchedAt": "2026-06-20T13:46:24.979Z",
   "items": [
     {
-      "id": "48605117",
+      "id": "48600167",
       "source": "hn",
-      "title": "I solved my mystery fatigue with AI",
-      "url": "https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48605117",
-      "author": "staticshock",
-      "publishedAt": "2026-06-20T00:47:54.000Z"
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "score": 310,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48600167",
+      "author": "oshrimpton",
+      "publishedAt": "2026-06-19T16:11:25.000Z"
     },
     {
       "id": "48600093",
       "source": "hn",
       "title": "Norway imposes near ban on AI in elementary school",
       "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 463,
+      "score": 735,
       "commentsUrl": "https://news.ycombinator.com/item?id=48600093",
       "author": "ilreb",
       "publishedAt": "2026-06-19T16:03:15.000Z"
-    },
-    {
-      "id": "48602862",
-      "source": "hn",
-      "title": "Hide Secrets from AI Agents and NPM install using Airgap",
-      "url": "https://sauleau.com/notes/airgap-security-for-the-modern-ai-age.html",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48602862",
-      "author": "netgusto",
-      "publishedAt": "2026-06-19T20:24:59.000Z"
-    },
-    {
-      "id": "48600167",
-      "source": "hn",
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "url": "https://arrowtsx.dev/bigger-models/",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48600167",
-      "author": "oshrimpton",
-      "publishedAt": "2026-06-19T16:11:25.000Z"
-    },
-    {
-      "id": "48602639",
-      "source": "hn",
-      "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
-      "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-      "score": 173,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48602639",
-      "author": "theanonymousone",
-      "publishedAt": "2026-06-19T20:03:16.000Z"
     },
     {
       "id": "48601162",
       "source": "hn",
       "title": "John Jumper to join Anthropic",
       "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-      "score": 76,
+      "score": 151,
       "commentsUrl": "https://news.ycombinator.com/item?id=48601162",
       "author": "artninja1988",
       "publishedAt": "2026-06-19T17:53:00.000Z"
@@ -67,60 +37,80 @@
       "source": "hn",
       "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
       "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "score": 134,
+      "score": 141,
       "commentsUrl": "https://news.ycombinator.com/item?id=48584484",
       "author": "dstala",
       "publishedAt": "2026-06-18T12:44:09.000Z"
     },
     {
-      "id": "48602571",
+      "id": "48608173",
       "source": "hn",
-      "title": "Companies rein in AI usage as costs strain budgets",
-      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-      "score": 93,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48602571",
-      "author": "fandorin",
-      "publishedAt": "2026-06-19T19:57:18.000Z"
+      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
+      "url": "https://www.bbc.co.uk/news/articles/c0eyq7rnn22o",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48608173",
+      "author": "nephihaha",
+      "publishedAt": "2026-06-20T10:40:59.000Z"
     },
     {
       "id": "48578913",
       "source": "hn",
       "title": "Noam Shazeer Joins OpenAI",
       "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "score": 350,
+      "score": 352,
       "commentsUrl": "https://news.ycombinator.com/item?id=48578913",
       "author": "lukasgross",
       "publishedAt": "2026-06-18T00:26:06.000Z"
+    },
+    {
+      "id": "48602862",
+      "source": "hn",
+      "title": "Hide Secrets from AI Agents and NPM install using Airgap",
+      "url": "https://sauleau.com/notes/airgap-security-for-the-modern-ai-age.html",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48602862",
+      "author": "netgusto",
+      "publishedAt": "2026-06-19T20:24:59.000Z"
+    },
+    {
+      "id": "48602571",
+      "source": "hn",
+      "title": "Companies rein in AI usage as costs strain budgets",
+      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "score": 115,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48602571",
+      "author": "fandorin",
+      "publishedAt": "2026-06-19T19:57:18.000Z"
     },
     {
       "id": "48572553",
       "source": "hn",
       "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
       "url": "https://github.com/Adam-CAD/CADAM",
-      "score": 210,
+      "score": 211,
       "commentsUrl": "https://news.ycombinator.com/item?id=48572553",
       "author": "zachdive",
       "publishedAt": "2026-06-17T16:14:04.000Z"
-    },
-    {
-      "id": "48581458",
-      "source": "hn",
-      "title": "DeepSeek Introduces Vision",
-      "url": "https://chat.deepseek.com/",
-      "score": 488,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48581458",
-      "author": "RIshabh235",
-      "publishedAt": "2026-06-18T06:17:40.000Z"
     },
     {
       "id": "48580209",
       "source": "hn",
       "title": "Local Qwen isn't a worse Opus, it's a different tool",
       "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-      "score": 478,
+      "score": 481,
       "commentsUrl": "https://news.ycombinator.com/item?id=48580209",
       "author": "alphabettsy",
       "publishedAt": "2026-06-18T03:04:20.000Z"
+    },
+    {
+      "id": "48581458",
+      "source": "hn",
+      "title": "DeepSeek Introduces Vision",
+      "url": "https://chat.deepseek.com/",
+      "score": 492,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48581458",
+      "author": "RIshabh235",
+      "publishedAt": "2026-06-18T06:17:40.000Z"
     }
   ]
 }
