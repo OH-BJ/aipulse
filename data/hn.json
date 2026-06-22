@@ -1,76 +1,146 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-21T13:53:51.903Z",
+  "fetchedAt": "2026-06-22T03:31:22.016Z",
   "items": [
+    {
+      "id": "48622778",
+      "source": "hn",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "score": 245,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48622778",
+      "author": "T-A",
+      "publishedAt": "2026-06-21T21:29:43.000Z"
+    },
+    {
+      "id": "48623434",
+      "source": "hn",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "score": 40,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48623434",
+      "author": "dev-experiments",
+      "publishedAt": "2026-06-21T22:55:23.000Z"
+    },
     {
       "id": "48618455",
       "source": "hn",
-      "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
-      "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
-      "score": 90,
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "score": 612,
       "commentsUrl": "https://news.ycombinator.com/item?id=48618455",
       "author": "bathory",
       "publishedAt": "2026-06-21T12:44:13.000Z"
+    },
+    {
+      "id": "48622590",
+      "source": "hn",
+      "title": "Show HN: Recall – fully-local project memory for Claude Code",
+      "url": "https://github.com/raiyanyahya/recall",
+      "score": 82,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48622590",
+      "author": "mateenah",
+      "publishedAt": "2026-06-21T21:05:37.000Z"
+    },
+    {
+      "id": "48623371",
+      "source": "hn",
+      "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
+      "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48623371",
+      "author": "Anon84",
+      "publishedAt": "2026-06-21T22:46:43.000Z"
+    },
+    {
+      "id": "48612844",
+      "source": "hn",
+      "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
+      "url": "https://github.com/nikitadoudikov/claude-pulse",
+      "score": 34,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48612844",
+      "author": "nikitadvd",
+      "publishedAt": "2026-06-20T20:46:50.000Z"
+    },
+    {
+      "id": "48616017",
+      "source": "hn",
+      "title": "The 100k whys of AI",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "score": 174,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48616017",
+      "author": "surprisetalk",
+      "publishedAt": "2026-06-21T05:45:21.000Z"
+    },
+    {
+      "id": "48623695",
+      "source": "hn",
+      "title": "Tech Workers Are Fighting Against Silicon Valley's AI Push",
+      "url": "https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/",
+      "score": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48623695",
+      "author": "reasonableklout",
+      "publishedAt": "2026-06-21T23:29:51.000Z"
+    },
+    {
+      "id": "48624168",
+      "source": "hn",
+      "title": "Ask HN: Are you being \"529 Overloaded\" by Anthropic too?",
+      "url": "https://news.ycombinator.com/item?id=48624168",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48624168",
+      "author": "hmokiguess",
+      "publishedAt": "2026-06-22T00:41:20.000Z"
+    },
+    {
+      "id": "48615776",
+      "source": "hn",
+      "title": "Don’t use AI to write things that you present as your own work",
+      "url": "https://www.satisfice.com/blog/archives/488148",
+      "score": 81,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48615776",
+      "author": "satisfice",
+      "publishedAt": "2026-06-21T04:50:46.000Z"
     },
     {
       "id": "48615680",
       "source": "hn",
       "title": "Building reliable agentic AI systems",
       "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "score": 121,
+      "score": 186,
       "commentsUrl": "https://news.ycombinator.com/item?id=48615680",
       "author": "sarangk90",
       "publishedAt": "2026-06-21T04:28:39.000Z"
-    },
-    {
-      "id": "48608394",
-      "source": "hn",
-      "title": "Temporary Cloudflare accounts for AI agents",
-      "url": "https://blog.cloudflare.com/temporary-accounts/",
-      "score": 226,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48608394",
-      "author": "farhadhf",
-      "publishedAt": "2026-06-20T11:19:05.000Z"
     },
     {
       "id": "48600167",
       "source": "hn",
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
       "url": "https://arrowtsx.dev/bigger-models/",
-      "score": 537,
+      "score": 551,
       "commentsUrl": "https://news.ycombinator.com/item?id=48600167",
       "author": "oshrimpton",
       "publishedAt": "2026-06-19T16:11:25.000Z"
     },
     {
-      "id": "48614631",
+      "id": "48622061",
       "source": "hn",
-      "title": "When I reject AI code even if it works",
-      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-      "score": 205,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48614631",
-      "author": "vnbrs",
-      "publishedAt": "2026-06-21T00:58:13.000Z"
+      "title": "Show HN: DebugBrief – turn debugging sessions into reports, no AI",
+      "url": "https://github.com/harihkk/Debug-Brief",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48622061",
+      "author": "itshkrishna",
+      "publishedAt": "2026-06-21T19:57:54.000Z"
     },
     {
-      "id": "48616017",
+      "id": "48622625",
       "source": "hn",
-      "title": "The 100k Whys of AI",
-      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-      "score": 123,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48616017",
-      "author": "surprisetalk",
-      "publishedAt": "2026-06-21T05:45:21.000Z"
-    },
-    {
-      "id": "48616918",
-      "source": "hn",
-      "title": "The \"I don't know, Claude wrote this\" pandemic",
-      "url": "https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48616918",
-      "author": "theanonymousone",
-      "publishedAt": "2026-06-21T08:44:54.000Z"
+      "title": "Securing the Future of AI Agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48622625",
+      "author": "gmays",
+      "publishedAt": "2026-06-21T21:10:24.000Z"
     }
   ]
 }
