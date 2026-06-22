@@ -1,146 +1,156 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-22T03:31:22.016Z",
+  "fetchedAt": "2026-06-22T16:42:56.211Z",
   "items": [
+    {
+      "id": "48630535",
+      "source": "hn",
+      "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "score": 124,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48630535",
+      "author": "0o_MrPatrick_o0",
+      "publishedAt": "2026-06-22T14:22:46.000Z"
+    },
     {
       "id": "48622778",
       "source": "hn",
       "title": "Apertus – Open Foundation Model for Sovereign AI",
       "url": "https://apertvs.ai/",
-      "score": 245,
+      "score": 496,
       "commentsUrl": "https://news.ycombinator.com/item?id=48622778",
       "author": "T-A",
       "publishedAt": "2026-06-21T21:29:43.000Z"
+    },
+    {
+      "id": "48599998",
+      "source": "hn",
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "score": 172,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48599998",
+      "author": "tosh",
+      "publishedAt": "2026-06-19T15:54:23.000Z"
     },
     {
       "id": "48623434",
       "source": "hn",
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
       "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "score": 40,
+      "score": 196,
       "commentsUrl": "https://news.ycombinator.com/item?id=48623434",
       "author": "dev-experiments",
       "publishedAt": "2026-06-21T22:55:23.000Z"
+    },
+    {
+      "id": "48622590",
+      "source": "hn",
+      "title": "Show HN: Recall – Local project memory for Claude Code",
+      "url": "https://github.com/raiyanyahya/recall",
+      "score": 124,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48622590",
+      "author": "mateenah",
+      "publishedAt": "2026-06-21T21:05:37.000Z"
     },
     {
       "id": "48618455",
       "source": "hn",
       "title": "Identity verification on Claude",
       "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "score": 612,
+      "score": 832,
       "commentsUrl": "https://news.ycombinator.com/item?id=48618455",
       "author": "bathory",
       "publishedAt": "2026-06-21T12:44:13.000Z"
     },
     {
-      "id": "48622590",
+      "id": "48630678",
       "source": "hn",
-      "title": "Show HN: Recall – fully-local project memory for Claude Code",
-      "url": "https://github.com/raiyanyahya/recall",
-      "score": 82,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48622590",
-      "author": "mateenah",
-      "publishedAt": "2026-06-21T21:05:37.000Z"
+      "title": "China is having another AI moment",
+      "url": "https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48630678",
+      "author": "andsoitis",
+      "publishedAt": "2026-06-22T14:30:47.000Z"
+    },
+    {
+      "id": "48631367",
+      "source": "hn",
+      "title": "Microsoft's Satya Nadella: We Can't Let AI Giants Eat the Economy",
+      "url": "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48631367",
+      "author": "berkeleyjunk",
+      "publishedAt": "2026-06-22T15:15:45.000Z"
     },
     {
       "id": "48623371",
       "source": "hn",
       "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
       "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
-      "score": 16,
+      "score": 48,
       "commentsUrl": "https://news.ycombinator.com/item?id=48623371",
       "author": "Anon84",
       "publishedAt": "2026-06-21T22:46:43.000Z"
     },
     {
-      "id": "48612844",
+      "id": "48630044",
       "source": "hn",
-      "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
-      "url": "https://github.com/nikitadoudikov/claude-pulse",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48612844",
-      "author": "nikitadvd",
-      "publishedAt": "2026-06-20T20:46:50.000Z"
+      "title": "The Coming Enshittification of AI",
+      "url": "https://www.damianmr.com/posts/the-coming-enshittification-of-ai",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48630044",
+      "author": "Pattaya",
+      "publishedAt": "2026-06-22T13:44:33.000Z"
     },
     {
       "id": "48616017",
       "source": "hn",
       "title": "The 100k whys of AI",
       "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-      "score": 174,
+      "score": 190,
       "commentsUrl": "https://news.ycombinator.com/item?id=48616017",
       "author": "surprisetalk",
       "publishedAt": "2026-06-21T05:45:21.000Z"
-    },
-    {
-      "id": "48623695",
-      "source": "hn",
-      "title": "Tech Workers Are Fighting Against Silicon Valley's AI Push",
-      "url": "https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/",
-      "score": 22,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48623695",
-      "author": "reasonableklout",
-      "publishedAt": "2026-06-21T23:29:51.000Z"
-    },
-    {
-      "id": "48624168",
-      "source": "hn",
-      "title": "Ask HN: Are you being \"529 Overloaded\" by Anthropic too?",
-      "url": "https://news.ycombinator.com/item?id=48624168",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48624168",
-      "author": "hmokiguess",
-      "publishedAt": "2026-06-22T00:41:20.000Z"
-    },
-    {
-      "id": "48615776",
-      "source": "hn",
-      "title": "Don’t use AI to write things that you present as your own work",
-      "url": "https://www.satisfice.com/blog/archives/488148",
-      "score": 81,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48615776",
-      "author": "satisfice",
-      "publishedAt": "2026-06-21T04:50:46.000Z"
-    },
-    {
-      "id": "48615680",
-      "source": "hn",
-      "title": "Building reliable agentic AI systems",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "score": 186,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48615680",
-      "author": "sarangk90",
-      "publishedAt": "2026-06-21T04:28:39.000Z"
     },
     {
       "id": "48600167",
       "source": "hn",
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
       "url": "https://arrowtsx.dev/bigger-models/",
-      "score": 551,
+      "score": 570,
       "commentsUrl": "https://news.ycombinator.com/item?id=48600167",
       "author": "oshrimpton",
       "publishedAt": "2026-06-19T16:11:25.000Z"
     },
     {
-      "id": "48622061",
+      "id": "48615776",
       "source": "hn",
-      "title": "Show HN: DebugBrief – turn debugging sessions into reports, no AI",
-      "url": "https://github.com/harihkk/Debug-Brief",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48622061",
-      "author": "itshkrishna",
-      "publishedAt": "2026-06-21T19:57:54.000Z"
+      "title": "Don’t use AI to write things that you present as your own work",
+      "url": "https://www.satisfice.com/blog/archives/488148",
+      "score": 98,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48615776",
+      "author": "satisfice",
+      "publishedAt": "2026-06-21T04:50:46.000Z"
     },
     {
-      "id": "48622625",
+      "id": "48612844",
       "source": "hn",
-      "title": "Securing the Future of AI Agents",
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48622625",
-      "author": "gmays",
-      "publishedAt": "2026-06-21T21:10:24.000Z"
+      "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
+      "url": "https://github.com/nikitadoudikov/claude-pulse",
+      "score": 38,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48612844",
+      "author": "nikitadvd",
+      "publishedAt": "2026-06-20T20:46:50.000Z"
+    },
+    {
+      "id": "48615680",
+      "source": "hn",
+      "title": "Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "score": 194,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48615680",
+      "author": "sarangk90",
+      "publishedAt": "2026-06-21T04:28:39.000Z"
     }
   ]
 }
