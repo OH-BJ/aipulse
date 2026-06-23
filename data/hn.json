@@ -1,53 +1,83 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-22T16:42:56.211Z",
+  "fetchedAt": "2026-06-23T02:37:42.707Z",
   "items": [
     {
       "id": "48630535",
       "source": "hn",
-      "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+      "title": "The text in Claude Code’s “Extended Thinking” output",
       "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "score": 124,
+      "score": 284,
       "commentsUrl": "https://news.ycombinator.com/item?id=48630535",
       "author": "0o_MrPatrick_o0",
       "publishedAt": "2026-06-22T14:22:46.000Z"
-    },
-    {
-      "id": "48622778",
-      "source": "hn",
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "score": 496,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48622778",
-      "author": "T-A",
-      "publishedAt": "2026-06-21T21:29:43.000Z"
     },
     {
       "id": "48599998",
       "source": "hn",
       "title": "Munich 1991: The Roots of the Current AI Boom",
       "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "score": 172,
+      "score": 214,
       "commentsUrl": "https://news.ycombinator.com/item?id=48599998",
       "author": "tosh",
       "publishedAt": "2026-06-19T15:54:23.000Z"
     },
     {
-      "id": "48623434",
+      "id": "48636632",
       "source": "hn",
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "score": 196,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48623434",
-      "author": "dev-experiments",
-      "publishedAt": "2026-06-21T22:55:23.000Z"
+      "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+      "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+      "score": 49,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48636632",
+      "author": "petethomas",
+      "publishedAt": "2026-06-22T21:43:22.000Z"
+    },
+    {
+      "id": "48637477",
+      "source": "hn",
+      "title": "The AI shift in cyber risk: why leaders must act now",
+      "url": "https://www.cyber.gov.au/about-us/view-all-content/news/five-eyes-cyber-security-agencies-statement",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48637477",
+      "author": "Khaine",
+      "publishedAt": "2026-06-22T22:46:36.000Z"
+    },
+    {
+      "id": "48630515",
+      "source": "hn",
+      "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+      "url": "https://github.com/Intuned/selector-forge",
+      "score": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48630515",
+      "author": "ahmadilaiwi",
+      "publishedAt": "2026-06-22T14:21:24.000Z"
+    },
+    {
+      "id": "48638776",
+      "source": "hn",
+      "title": "AI's Brokenomics",
+      "url": "https://www.wheresyoured.at/brokenomics/",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48638776",
+      "author": "Anon84",
+      "publishedAt": "2026-06-23T01:00:53.000Z"
+    },
+    {
+      "id": "48622778",
+      "source": "hn",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "score": 520,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48622778",
+      "author": "T-A",
+      "publishedAt": "2026-06-21T21:29:43.000Z"
     },
     {
       "id": "48622590",
       "source": "hn",
       "title": "Show HN: Recall – Local project memory for Claude Code",
       "url": "https://github.com/raiyanyahya/recall",
-      "score": 124,
+      "score": 127,
       "commentsUrl": "https://news.ycombinator.com/item?id=48622590",
       "author": "mateenah",
       "publishedAt": "2026-06-21T21:05:37.000Z"
@@ -57,100 +87,30 @@
       "source": "hn",
       "title": "Identity verification on Claude",
       "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "score": 832,
+      "score": 844,
       "commentsUrl": "https://news.ycombinator.com/item?id=48618455",
       "author": "bathory",
       "publishedAt": "2026-06-21T12:44:13.000Z"
     },
     {
-      "id": "48630678",
+      "id": "48636590",
       "source": "hn",
-      "title": "China is having another AI moment",
-      "url": "https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48630678",
-      "author": "andsoitis",
-      "publishedAt": "2026-06-22T14:30:47.000Z"
+      "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
+      "url": "https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/",
+      "score": 21,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48636590",
+      "author": "tartoran",
+      "publishedAt": "2026-06-22T21:39:58.000Z"
     },
     {
-      "id": "48631367",
+      "id": "48634966",
       "source": "hn",
-      "title": "Microsoft's Satya Nadella: We Can't Let AI Giants Eat the Economy",
-      "url": "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48631367",
-      "author": "berkeleyjunk",
-      "publishedAt": "2026-06-22T15:15:45.000Z"
-    },
-    {
-      "id": "48623371",
-      "source": "hn",
-      "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
-      "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
-      "score": 48,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48623371",
-      "author": "Anon84",
-      "publishedAt": "2026-06-21T22:46:43.000Z"
-    },
-    {
-      "id": "48630044",
-      "source": "hn",
-      "title": "The Coming Enshittification of AI",
-      "url": "https://www.damianmr.com/posts/the-coming-enshittification-of-ai",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48630044",
-      "author": "Pattaya",
-      "publishedAt": "2026-06-22T13:44:33.000Z"
-    },
-    {
-      "id": "48616017",
-      "source": "hn",
-      "title": "The 100k whys of AI",
-      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-      "score": 190,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48616017",
-      "author": "surprisetalk",
-      "publishedAt": "2026-06-21T05:45:21.000Z"
-    },
-    {
-      "id": "48600167",
-      "source": "hn",
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "url": "https://arrowtsx.dev/bigger-models/",
-      "score": 570,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48600167",
-      "author": "oshrimpton",
-      "publishedAt": "2026-06-19T16:11:25.000Z"
-    },
-    {
-      "id": "48615776",
-      "source": "hn",
-      "title": "Don’t use AI to write things that you present as your own work",
-      "url": "https://www.satisfice.com/blog/archives/488148",
-      "score": 98,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48615776",
-      "author": "satisfice",
-      "publishedAt": "2026-06-21T04:50:46.000Z"
-    },
-    {
-      "id": "48612844",
-      "source": "hn",
-      "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
-      "url": "https://github.com/nikitadoudikov/claude-pulse",
-      "score": 38,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48612844",
-      "author": "nikitadvd",
-      "publishedAt": "2026-06-20T20:46:50.000Z"
-    },
-    {
-      "id": "48615680",
-      "source": "hn",
-      "title": "Building reliable agentic AI systems",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "score": 194,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48615680",
-      "author": "sarangk90",
-      "publishedAt": "2026-06-21T04:28:39.000Z"
+      "title": "AI Has Already Killed Academia as We Know It",
+      "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/",
+      "score": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48634966",
+      "author": "pseudolus",
+      "publishedAt": "2026-06-22T19:36:58.000Z"
     }
   ]
 }
