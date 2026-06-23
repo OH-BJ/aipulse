@@ -1,116 +1,86 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-23T02:37:42.707Z",
+  "fetchedAt": "2026-06-23T14:34:34.594Z",
   "items": [
     {
-      "id": "48630535",
+      "id": "48639063",
       "source": "hn",
-      "title": "The text in Claude Code’s “Extended Thinking” output",
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "score": 284,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48630535",
-      "author": "0o_MrPatrick_o0",
-      "publishedAt": "2026-06-22T14:22:46.000Z"
+      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "score": 154,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48639063",
+      "author": "AaronO",
+      "publishedAt": "2026-06-23T01:36:08.000Z"
+    },
+    {
+      "id": "48645152",
+      "source": "hn",
+      "title": "Mistral OCR 4",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48645152",
+      "author": "meetpateltech",
+      "publishedAt": "2026-06-23T14:03:19.000Z"
     },
     {
       "id": "48599998",
       "source": "hn",
       "title": "Munich 1991: The Roots of the Current AI Boom",
       "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "score": 214,
+      "score": 226,
       "commentsUrl": "https://news.ycombinator.com/item?id=48599998",
       "author": "tosh",
       "publishedAt": "2026-06-19T15:54:23.000Z"
     },
     {
-      "id": "48636632",
+      "id": "48630535",
       "source": "hn",
-      "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-      "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-      "score": 49,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48636632",
-      "author": "petethomas",
-      "publishedAt": "2026-06-22T21:43:22.000Z"
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "score": 314,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48630535",
+      "author": "0o_MrPatrick_o0",
+      "publishedAt": "2026-06-22T14:22:46.000Z"
     },
     {
-      "id": "48637477",
+      "id": "48641774",
       "source": "hn",
-      "title": "The AI shift in cyber risk: why leaders must act now",
-      "url": "https://www.cyber.gov.au/about-us/view-all-content/news/five-eyes-cyber-security-agencies-statement",
+      "title": "I built an AI memory engine in 10 days, then needed a project to prove it works",
+      "url": "https://parametric-memory.dev",
       "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48637477",
-      "author": "Khaine",
-      "publishedAt": "2026-06-22T22:46:36.000Z"
-    },
-    {
-      "id": "48630515",
-      "source": "hn",
-      "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
-      "url": "https://github.com/Intuned/selector-forge",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48630515",
-      "author": "ahmadilaiwi",
-      "publishedAt": "2026-06-22T14:21:24.000Z"
-    },
-    {
-      "id": "48638776",
-      "source": "hn",
-      "title": "AI's Brokenomics",
-      "url": "https://www.wheresyoured.at/brokenomics/",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48638776",
-      "author": "Anon84",
-      "publishedAt": "2026-06-23T01:00:53.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=48641774",
+      "author": "EntityOne",
+      "publishedAt": "2026-06-23T07:59:01.000Z"
     },
     {
       "id": "48622778",
       "source": "hn",
       "title": "Apertus – Open Foundation Model for Sovereign AI",
       "url": "https://apertvs.ai/",
-      "score": 520,
+      "score": 526,
       "commentsUrl": "https://news.ycombinator.com/item?id=48622778",
       "author": "T-A",
       "publishedAt": "2026-06-21T21:29:43.000Z"
+    },
+    {
+      "id": "48641927",
+      "source": "hn",
+      "title": "AI Built a Nuke and Still Lost",
+      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+      "score": 82,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48641927",
+      "author": "kensai",
+      "publishedAt": "2026-06-23T08:16:45.000Z"
     },
     {
       "id": "48622590",
       "source": "hn",
       "title": "Show HN: Recall – Local project memory for Claude Code",
       "url": "https://github.com/raiyanyahya/recall",
-      "score": 127,
+      "score": 134,
       "commentsUrl": "https://news.ycombinator.com/item?id=48622590",
       "author": "mateenah",
       "publishedAt": "2026-06-21T21:05:37.000Z"
-    },
-    {
-      "id": "48618455",
-      "source": "hn",
-      "title": "Identity verification on Claude",
-      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "score": 844,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48618455",
-      "author": "bathory",
-      "publishedAt": "2026-06-21T12:44:13.000Z"
-    },
-    {
-      "id": "48636590",
-      "source": "hn",
-      "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
-      "url": "https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48636590",
-      "author": "tartoran",
-      "publishedAt": "2026-06-22T21:39:58.000Z"
-    },
-    {
-      "id": "48634966",
-      "source": "hn",
-      "title": "AI Has Already Killed Academia as We Know It",
-      "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48634966",
-      "author": "pseudolus",
-      "publishedAt": "2026-06-22T19:36:58.000Z"
     }
   ]
 }
