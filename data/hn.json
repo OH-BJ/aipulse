@@ -1,116 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-24T02:38:13.469Z",
+  "fetchedAt": "2026-06-24T14:13:03.261Z",
   "items": [
     {
-      "id": "48643489",
+      "id": "48658095",
       "source": "hn",
-      "title": "The Low-Tech AI of Elden Ring",
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-      "score": 112,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48643489",
-      "author": "g0xA52A2A",
-      "publishedAt": "2026-06-23T11:40:50.000Z"
+      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "url": "https://haystack.deepset.ai/",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48658095",
+      "author": "doener",
+      "publishedAt": "2026-06-24T11:21:32.000Z"
+    },
+    {
+      "id": "48658647",
+      "source": "hn",
+      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+      "score": 104,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48658647",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-06-24T12:23:59.000Z"
+    },
+    {
+      "id": "48654351",
+      "source": "hn",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "score": 152,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48654351",
+      "author": "ilreb",
+      "publishedAt": "2026-06-24T02:21:47.000Z"
+    },
+    {
+      "id": "48659257",
+      "source": "hn",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48659257",
+      "author": "meetpateltech",
+      "publishedAt": "2026-06-24T13:14:39.000Z"
     },
     {
       "id": "48646276",
       "source": "hn",
       "title": "AI's Affordability Crisis",
       "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-      "score": 258,
+      "score": 303,
       "commentsUrl": "https://news.ycombinator.com/item?id=48646276",
       "author": "ilreb",
       "publishedAt": "2026-06-23T15:11:17.000Z"
-    },
-    {
-      "id": "48653507",
-      "source": "hn",
-      "title": "'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly",
-      "url": "https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48653507",
-      "author": "1vuio0pswjnm7",
-      "publishedAt": "2026-06-24T00:20:51.000Z"
-    },
-    {
-      "id": "48645152",
-      "source": "hn",
-      "title": "Mistral OCR 4",
-      "url": "https://mistral.ai/news/ocr-4/",
-      "score": 435,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48645152",
-      "author": "meetpateltech",
-      "publishedAt": "2026-06-23T14:03:19.000Z"
-    },
-    {
-      "id": "48648039",
-      "source": "hn",
-      "title": "Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "score": 233,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48648039",
-      "author": "adocomplete",
-      "publishedAt": "2026-06-23T17:09:18.000Z"
-    },
-    {
-      "id": "48646511",
-      "source": "hn",
-      "title": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
-      "url": "https://atomprophet.io/tools/cascade/",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48646511",
-      "author": "antisyzygy",
-      "publishedAt": "2026-06-23T15:22:41.000Z"
-    },
-    {
-      "id": "48651236",
-      "source": "hn",
-      "title": "Show HN: AI Torah Chervuta",
-      "url": "https://www.yochai.wiki/chat",
-      "score": 13,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48651236",
-      "author": "Philosopheril",
-      "publishedAt": "2026-06-23T20:53:15.000Z"
     },
     {
       "id": "48649137",
       "source": "hn",
       "title": "Show HN: RLM-based local debugger for AI agent traces",
       "url": "https://github.com/context-labs/halo",
-      "score": 11,
+      "score": 22,
       "commentsUrl": "https://news.ycombinator.com/item?id=48649137",
       "author": "mikepollard_dev",
       "publishedAt": "2026-06-23T18:21:52.000Z"
     },
     {
-      "id": "48634966",
+      "id": "48645152",
       "source": "hn",
-      "title": "AI has already killed academia as we know it?",
-      "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/",
-      "score": 60,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48634966",
-      "author": "pseudolus",
-      "publishedAt": "2026-06-22T19:36:58.000Z"
+      "title": "Mistral OCR 4",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "score": 474,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48645152",
+      "author": "meetpateltech",
+      "publishedAt": "2026-06-23T14:03:19.000Z"
+    },
+    {
+      "id": "48643489",
+      "source": "hn",
+      "title": "The Low-Tech AI of Elden Ring",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "score": 155,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48643489",
+      "author": "g0xA52A2A",
+      "publishedAt": "2026-06-23T11:40:50.000Z"
     },
     {
       "id": "48639063",
       "source": "hn",
       "title": "OpenAI DayBreak – GPT-5.5-Cyber",
       "url": "https://openai.com/index/daybreak-securing-the-world/",
-      "score": 206,
+      "score": 213,
       "commentsUrl": "https://news.ycombinator.com/item?id=48639063",
       "author": "AaronO",
       "publishedAt": "2026-06-23T01:36:08.000Z"
     },
     {
-      "id": "48654024",
+      "id": "48646511",
       "source": "hn",
-      "title": "Tech stocks slump as AI bubble fears loom",
-      "url": "https://www.axios.com/2026/06/23/tech-stocks-ai-bubble",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48654024",
-      "author": "1vuio0pswjnm7",
-      "publishedAt": "2026-06-24T01:30:04.000Z"
+      "title": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+      "url": "https://atomprophet.io/tools/cascade/",
+      "score": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48646511",
+      "author": "antisyzygy",
+      "publishedAt": "2026-06-23T15:22:41.000Z"
+    },
+    {
+      "id": "48648039",
+      "source": "hn",
+      "title": "Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "score": 257,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48648039",
+      "author": "adocomplete",
+      "publishedAt": "2026-06-23T17:09:18.000Z"
+    },
+    {
+      "id": "48658300",
+      "source": "hn",
+      "title": "NSA Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48658300",
+      "author": "thm",
+      "publishedAt": "2026-06-24T11:45:47.000Z"
+    },
+    {
+      "id": "48654795",
+      "source": "hn",
+      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+      "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
+      "score": 46,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48654795",
+      "author": "colinprince",
+      "publishedAt": "2026-06-24T03:36:50.000Z"
     }
   ]
 }
