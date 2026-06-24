@@ -1,86 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-23T14:34:34.594Z",
+  "fetchedAt": "2026-06-24T02:38:13.469Z",
   "items": [
     {
-      "id": "48639063",
+      "id": "48643489",
       "source": "hn",
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
-      "score": 154,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48639063",
-      "author": "AaronO",
-      "publishedAt": "2026-06-23T01:36:08.000Z"
+      "title": "The Low-Tech AI of Elden Ring",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "score": 112,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48643489",
+      "author": "g0xA52A2A",
+      "publishedAt": "2026-06-23T11:40:50.000Z"
+    },
+    {
+      "id": "48646276",
+      "source": "hn",
+      "title": "AI's Affordability Crisis",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "score": 258,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48646276",
+      "author": "ilreb",
+      "publishedAt": "2026-06-23T15:11:17.000Z"
+    },
+    {
+      "id": "48653507",
+      "source": "hn",
+      "title": "'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly",
+      "url": "https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48653507",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-06-24T00:20:51.000Z"
     },
     {
       "id": "48645152",
       "source": "hn",
       "title": "Mistral OCR 4",
       "url": "https://mistral.ai/news/ocr-4/",
-      "score": 9,
+      "score": 435,
       "commentsUrl": "https://news.ycombinator.com/item?id=48645152",
       "author": "meetpateltech",
       "publishedAt": "2026-06-23T14:03:19.000Z"
     },
     {
-      "id": "48599998",
+      "id": "48648039",
       "source": "hn",
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "score": 226,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48599998",
-      "author": "tosh",
-      "publishedAt": "2026-06-19T15:54:23.000Z"
+      "title": "Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "score": 233,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48648039",
+      "author": "adocomplete",
+      "publishedAt": "2026-06-23T17:09:18.000Z"
     },
     {
-      "id": "48630535",
+      "id": "48646511",
       "source": "hn",
-      "title": "The text in Claude Code’s “Extended Thinking” output",
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "score": 314,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48630535",
-      "author": "0o_MrPatrick_o0",
-      "publishedAt": "2026-06-22T14:22:46.000Z"
+      "title": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+      "url": "https://atomprophet.io/tools/cascade/",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48646511",
+      "author": "antisyzygy",
+      "publishedAt": "2026-06-23T15:22:41.000Z"
     },
     {
-      "id": "48641774",
+      "id": "48651236",
       "source": "hn",
-      "title": "I built an AI memory engine in 10 days, then needed a project to prove it works",
-      "url": "https://parametric-memory.dev",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48641774",
-      "author": "EntityOne",
-      "publishedAt": "2026-06-23T07:59:01.000Z"
+      "title": "Show HN: AI Torah Chervuta",
+      "url": "https://www.yochai.wiki/chat",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48651236",
+      "author": "Philosopheril",
+      "publishedAt": "2026-06-23T20:53:15.000Z"
     },
     {
-      "id": "48622778",
+      "id": "48649137",
       "source": "hn",
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "score": 526,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48622778",
-      "author": "T-A",
-      "publishedAt": "2026-06-21T21:29:43.000Z"
+      "title": "Show HN: RLM-based local debugger for AI agent traces",
+      "url": "https://github.com/context-labs/halo",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48649137",
+      "author": "mikepollard_dev",
+      "publishedAt": "2026-06-23T18:21:52.000Z"
     },
     {
-      "id": "48641927",
+      "id": "48634966",
       "source": "hn",
-      "title": "AI Built a Nuke and Still Lost",
-      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-      "score": 82,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48641927",
-      "author": "kensai",
-      "publishedAt": "2026-06-23T08:16:45.000Z"
+      "title": "AI has already killed academia as we know it?",
+      "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/",
+      "score": 60,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48634966",
+      "author": "pseudolus",
+      "publishedAt": "2026-06-22T19:36:58.000Z"
     },
     {
-      "id": "48622590",
+      "id": "48639063",
       "source": "hn",
-      "title": "Show HN: Recall – Local project memory for Claude Code",
-      "url": "https://github.com/raiyanyahya/recall",
-      "score": 134,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48622590",
-      "author": "mateenah",
-      "publishedAt": "2026-06-21T21:05:37.000Z"
+      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "score": 206,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48639063",
+      "author": "AaronO",
+      "publishedAt": "2026-06-23T01:36:08.000Z"
+    },
+    {
+      "id": "48654024",
+      "source": "hn",
+      "title": "Tech stocks slump as AI bubble fears loom",
+      "url": "https://www.axios.com/2026/06/23/tech-stocks-ai-bubble",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48654024",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-06-24T01:30:04.000Z"
     }
   ]
 }

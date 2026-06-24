@@ -1,7 +1,178 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-23T14:34:35.024Z",
+  "fetchedAt": "2026-06-24T02:38:14.029Z",
   "items": [
+    {
+      "id": "30786",
+      "source": "geeknews",
+      "title": "LLM Wiki와 본유적 부하",
+      "url": "https://news.hada.io/topic?id=30786",
+      "commentsUrl": "https://news.hada.io/topic?id=30786",
+      "author": "jeinu95",
+      "publishedAt": "2026-06-24T02:03:11.000Z"
+    },
+    {
+      "id": "30785",
+      "source": "geeknews",
+      "title": "취약점 보고서는 더 이상 특별하지 않다",
+      "url": "https://news.hada.io/topic?id=30785",
+      "commentsUrl": "https://news.hada.io/topic?id=30785",
+      "author": "neo",
+      "publishedAt": "2026-06-24T02:02:34.000Z"
+    },
+    {
+      "id": "30784",
+      "source": "geeknews",
+      "title": "Show GN: SSH 터널 매니저 - GUI, 맥/윈도용",
+      "url": "https://news.hada.io/topic?id=30784",
+      "commentsUrl": "https://news.hada.io/topic?id=30784",
+      "author": "typ0s2d10",
+      "publishedAt": "2026-06-24T01:19:03.000Z"
+    },
+    {
+      "id": "30782",
+      "source": "geeknews",
+      "title": "이스라엘의 가자지구 어린이 표적 공격이 집단학살로 이어졌다는 유엔 조사 결과",
+      "url": "https://news.hada.io/topic?id=30782",
+      "commentsUrl": "https://news.hada.io/topic?id=30782",
+      "author": "neo",
+      "publishedAt": "2026-06-24T00:55:24.000Z"
+    },
+    {
+      "id": "30781",
+      "source": "geeknews",
+      "title": "Mistral OCR 4 공개",
+      "url": "https://news.hada.io/topic?id=30781",
+      "commentsUrl": "https://news.hada.io/topic?id=30781",
+      "author": "neo",
+      "publishedAt": "2026-06-24T00:52:24.000Z"
+    },
+    {
+      "id": "30780",
+      "source": "geeknews",
+      "title": "F3 - 미래를 위한 오픈소스 데이터 파일 형식",
+      "url": "https://news.hada.io/topic?id=30780",
+      "commentsUrl": "https://news.hada.io/topic?id=30780",
+      "author": "neo",
+      "publishedAt": "2026-06-24T00:49:23.000Z"
+    },
+    {
+      "id": "30779",
+      "source": "geeknews",
+      "title": "우리가 “연령 확인”이라고 부르는 것은 실제로 대규모 감시다",
+      "url": "https://news.hada.io/topic?id=30779",
+      "commentsUrl": "https://news.hada.io/topic?id=30779",
+      "author": "neo",
+      "publishedAt": "2026-06-24T00:46:23.000Z"
+    },
+    {
+      "id": "30778",
+      "source": "geeknews",
+      "title": "memcached 예찬",
+      "url": "https://news.hada.io/topic?id=30778",
+      "commentsUrl": "https://news.hada.io/topic?id=30778",
+      "author": "xguru",
+      "publishedAt": "2026-06-24T00:39:36.000Z"
+    },
+    {
+      "id": "30777",
+      "source": "geeknews",
+      "title": "2026년의 암호화폐: 아, 여긴 정말 끔찍한 곳이야",
+      "url": "https://news.hada.io/topic?id=30777",
+      "commentsUrl": "https://news.hada.io/topic?id=30777",
+      "author": "xguru",
+      "publishedAt": "2026-06-24T00:35:50.000Z"
+    },
+    {
+      "id": "30776",
+      "source": "geeknews",
+      "title": "boring - 단순하고 가벼운 커맨드라인 SSH 터널 매니저",
+      "url": "https://news.hada.io/topic?id=30776",
+      "commentsUrl": "https://news.hada.io/topic?id=30776",
+      "author": "xguru",
+      "publishedAt": "2026-06-24T00:31:02.000Z"
+    },
+    {
+      "id": "30775",
+      "source": "geeknews",
+      "title": "Unlimited OCR — Baidu의 원샷 장문 파싱 모델",
+      "url": "https://news.hada.io/topic?id=30775",
+      "commentsUrl": "https://news.hada.io/topic?id=30775",
+      "author": "xguru",
+      "publishedAt": "2026-06-24T00:26:40.000Z"
+    },
+    {
+      "id": "30773",
+      "source": "geeknews",
+      "title": "봇 시대에도 개방성과 프라이버시를 지키려는 Mozilla의 웹 자격 증명 구상",
+      "url": "https://news.hada.io/topic?id=30773",
+      "commentsUrl": "https://news.hada.io/topic?id=30773",
+      "author": "neo",
+      "publishedAt": "2026-06-24T00:08:44.000Z"
+    },
+    {
+      "id": "30772",
+      "source": "geeknews",
+      "title": "코드 설명은 단순하게 유지해 주세요",
+      "url": "https://news.hada.io/topic?id=30772",
+      "commentsUrl": "https://news.hada.io/topic?id=30772",
+      "author": "neo",
+      "publishedAt": "2026-06-24T00:05:44.000Z"
+    },
+    {
+      "id": "30771",
+      "source": "geeknews",
+      "title": "LG 스마트 TV 앱 절반 가까이에 주거용 프록시 SDK 포함",
+      "url": "https://news.hada.io/topic?id=30771",
+      "commentsUrl": "https://news.hada.io/topic?id=30771",
+      "author": "neo",
+      "publishedAt": "2026-06-23T23:43:12.000Z"
+    },
+    {
+      "id": "30770",
+      "source": "geeknews",
+      "title": "Moebius: 0.2B 이미지 인페인팅 모델로 10B급 성능 달성",
+      "url": "https://news.hada.io/topic?id=30770",
+      "commentsUrl": "https://news.hada.io/topic?id=30770",
+      "author": "neo",
+      "publishedAt": "2026-06-23T23:40:12.000Z"
+    },
+    {
+      "id": "30769",
+      "source": "geeknews",
+      "title": "대형 트럭과 SUV가 키운 보행자 사망 위험",
+      "url": "https://news.hada.io/topic?id=30769",
+      "commentsUrl": "https://news.hada.io/topic?id=30769",
+      "author": "neo",
+      "publishedAt": "2026-06-23T22:40:20.000Z"
+    },
+    {
+      "id": "30768",
+      "source": "geeknews",
+      "title": "Show GN: AI 에이전트를 내 걸로 만드는 방법",
+      "url": "https://news.hada.io/topic?id=30768",
+      "commentsUrl": "https://news.hada.io/topic?id=30768",
+      "author": "johnonlee",
+      "publishedAt": "2026-06-23T21:55:53.000Z"
+    },
+    {
+      "id": "30767",
+      "source": "geeknews",
+      "title": "취업과 소프트웨어는 망했다",
+      "url": "https://news.hada.io/topic?id=30767",
+      "commentsUrl": "https://news.hada.io/topic?id=30767",
+      "author": "neo",
+      "publishedAt": "2026-06-23T18:38:07.000Z"
+    },
+    {
+      "id": "30766",
+      "source": "geeknews",
+      "title": "Claude Code의 “Extended Thinking” 출력 텍스트는 실제 추론이 아님",
+      "url": "https://news.hada.io/topic?id=30766",
+      "commentsUrl": "https://news.hada.io/topic?id=30766",
+      "author": "neo",
+      "publishedAt": "2026-06-23T17:35:11.000Z"
+    },
     {
       "id": "30761",
       "source": "geeknews",
@@ -100,177 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30748",
       "author": "neo",
       "publishedAt": "2026-06-23T00:42:14.000Z"
-    },
-    {
-      "id": "30747",
-      "source": "geeknews",
-      "title": "bigset - 세상의 모든 데이터를 가지고 있다면?",
-      "url": "https://news.hada.io/topic?id=30747",
-      "commentsUrl": "https://news.hada.io/topic?id=30747",
-      "author": "xguru",
-      "publishedAt": "2026-06-23T00:31:01.000Z"
-    },
-    {
-      "id": "30746",
-      "source": "geeknews",
-      "title": "컴퓨터는 어떻게 작동해야 하는가",
-      "url": "https://news.hada.io/topic?id=30746",
-      "commentsUrl": "https://news.hada.io/topic?id=30746",
-      "author": "neo",
-      "publishedAt": "2026-06-23T00:26:00.000Z"
-    },
-    {
-      "id": "30745",
-      "source": "geeknews",
-      "title": "Nix에는 재배치 가능한 바이너리가 필요함",
-      "url": "https://news.hada.io/topic?id=30745",
-      "commentsUrl": "https://news.hada.io/topic?id=30745",
-      "author": "neo",
-      "publishedAt": "2026-06-23T00:23:00.000Z"
-    },
-    {
-      "id": "30744",
-      "source": "geeknews",
-      "title": "에이전틱 테스팅 - E2E 테스트 스택에서 에이전트의 역할",
-      "url": "https://news.hada.io/topic?id=30744",
-      "commentsUrl": "https://news.hada.io/topic?id=30744",
-      "author": "neo",
-      "publishedAt": "2026-06-23T00:21:02.000Z"
-    },
-    {
-      "id": "30743",
-      "source": "geeknews",
-      "title": "Guix가 Codeberg로 옮긴 뒤 1년",
-      "url": "https://news.hada.io/topic?id=30743",
-      "commentsUrl": "https://news.hada.io/topic?id=30743",
-      "author": "neo",
-      "publishedAt": "2026-06-23T00:19:59.000Z"
-    },
-    {
-      "id": "30742",
-      "source": "geeknews",
-      "title": "Chesterton의 가운데손가락",
-      "url": "https://news.hada.io/topic?id=30742",
-      "commentsUrl": "https://news.hada.io/topic?id=30742",
-      "author": "neo",
-      "publishedAt": "2026-06-23T00:16:59.000Z"
-    },
-    {
-      "id": "30741",
-      "source": "geeknews",
-      "title": "구글을 AI로 해킹해서 7억원 벌기",
-      "url": "https://news.hada.io/topic?id=30741",
-      "commentsUrl": "https://news.hada.io/topic?id=30741",
-      "author": "neo",
-      "publishedAt": "2026-06-23T00:15:02.000Z"
-    },
-    {
-      "id": "30740",
-      "source": "geeknews",
-      "title": "Linux FLOSS 드라이버 협업을 꺼리는 드로잉 태블릿 브랜드들",
-      "url": "https://news.hada.io/topic?id=30740",
-      "commentsUrl": "https://news.hada.io/topic?id=30740",
-      "author": "neo",
-      "publishedAt": "2026-06-23T00:13:59.000Z"
-    },
-    {
-      "id": "30739",
-      "source": "geeknews",
-      "title": "실수로 wigglegram을 만들어버렸어요",
-      "url": "https://news.hada.io/topic?id=30739",
-      "commentsUrl": "https://news.hada.io/topic?id=30739",
-      "author": "neo",
-      "publishedAt": "2026-06-23T00:10:59.000Z"
-    },
-    {
-      "id": "30738",
-      "source": "geeknews",
-      "title": "Codex 로깅 버그가 로컬 SSD에 TB 단위 쓰기를 발생시켜 SSD 수명을 빠르게 소모할 수 있음",
-      "url": "https://news.hada.io/topic?id=30738",
-      "commentsUrl": "https://news.hada.io/topic?id=30738",
-      "author": "xguru",
-      "publishedAt": "2026-06-23T00:04:34.000Z"
-    },
-    {
-      "id": "30737",
-      "source": "geeknews",
-      "title": "스팀 머신 출시",
-      "url": "https://news.hada.io/topic?id=30737",
-      "commentsUrl": "https://news.hada.io/topic?id=30737",
-      "author": "helio",
-      "publishedAt": "2026-06-23T00:02:23.000Z"
-    },
-    {
-      "id": "30736",
-      "source": "geeknews",
-      "title": "FDA 자문위, 논란 끝에 Moderna mRNA 독감 백신 승인 만장일치 권고",
-      "url": "https://news.hada.io/topic?id=30736",
-      "commentsUrl": "https://news.hada.io/topic?id=30736",
-      "author": "neo",
-      "publishedAt": "2026-06-22T23:34:20.000Z"
-    },
-    {
-      "id": "30735",
-      "source": "geeknews",
-      "title": "모든 것은 로그다",
-      "url": "https://news.hada.io/topic?id=30735",
-      "commentsUrl": "https://news.hada.io/topic?id=30735",
-      "author": "neo",
-      "publishedAt": "2026-06-22T18:36:12.000Z"
-    },
-    {
-      "id": "30731",
-      "source": "geeknews",
-      "title": "요즘 작품 이미지의 LLM 학습 방해 방법은?",
-      "url": "https://news.hada.io/topic?id=30731",
-      "commentsUrl": "https://news.hada.io/topic?id=30731",
-      "author": "neo",
-      "publishedAt": "2026-06-22T15:01:08.000Z"
-    },
-    {
-      "id": "30730",
-      "source": "geeknews",
-      "title": "Show GN: 집에 있는 책을 관리하려다 만든 개인 서재 서비스 “서가담” 비공개 테스트 참여자를 모집합니다",
-      "url": "https://news.hada.io/topic?id=30730",
-      "commentsUrl": "https://news.hada.io/topic?id=30730",
-      "author": "chiuoo",
-      "publishedAt": "2026-06-22T13:58:14.000Z"
-    },
-    {
-      "id": "30729",
-      "source": "geeknews",
-      "title": "개인 웹사이트를 위한 JSON-LD 설명",
-      "url": "https://news.hada.io/topic?id=30729",
-      "commentsUrl": "https://news.hada.io/topic?id=30729",
-      "author": "xguru",
-      "publishedAt": "2026-06-22T12:54:32.000Z"
-    },
-    {
-      "id": "30728",
-      "source": "geeknews",
-      "title": "GLM 5.2 대 Opus",
-      "url": "https://news.hada.io/topic?id=30728",
-      "commentsUrl": "https://news.hada.io/topic?id=30728",
-      "author": "xguru",
-      "publishedAt": "2026-06-22T12:50:27.000Z"
-    },
-    {
-      "id": "30727",
-      "source": "geeknews",
-      "title": "오픈 모델로 갈아타는 데 따른 단점은 크지 않음",
-      "url": "https://news.hada.io/topic?id=30727",
-      "commentsUrl": "https://news.hada.io/topic?id=30727",
-      "author": "xguru",
-      "publishedAt": "2026-06-22T12:45:05.000Z"
-    },
-    {
-      "id": "30726",
-      "source": "geeknews",
-      "title": "Deno Desktop: Deno 프로젝트를 데스크톱 앱으로 패키징",
-      "url": "https://news.hada.io/topic?id=30726",
-      "commentsUrl": "https://news.hada.io/topic?id=30726",
-      "author": "xguru",
-      "publishedAt": "2026-06-22T12:41:38.000Z"
     }
   ]
 }
