@@ -1,136 +1,126 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-24T14:13:03.261Z",
+  "fetchedAt": "2026-06-25T02:39:35.314Z",
   "items": [
     {
-      "id": "48658095",
+      "id": "48663324",
       "source": "hn",
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "url": "https://haystack.deepset.ai/",
-      "score": 23,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48658095",
-      "author": "doener",
-      "publishedAt": "2026-06-24T11:21:32.000Z"
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 554,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48663324",
+      "author": "jamdesk",
+      "publishedAt": "2026-06-24T17:47:00.000Z"
     },
     {
-      "id": "48658647",
+      "id": "48664814",
       "source": "hn",
-      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
-      "score": 104,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48658647",
-      "author": "1vuio0pswjnm7",
-      "publishedAt": "2026-06-24T12:23:59.000Z"
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "score": 87,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48664814",
+      "author": "htrp",
+      "publishedAt": "2026-06-24T19:48:01.000Z"
+    },
+    {
+      "id": "48660711",
+      "source": "hn",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "score": 348,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48660711",
+      "author": "doener",
+      "publishedAt": "2026-06-24T14:41:41.000Z"
+    },
+    {
+      "id": "48662999",
+      "source": "hn",
+      "title": "Computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "score": 179,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48662999",
+      "author": "swolpers",
+      "publishedAt": "2026-06-24T17:21:34.000Z"
+    },
+    {
+      "id": "48667409",
+      "source": "hn",
+      "title": "What I'm Finding About LLM Code Style and Token Costs",
+      "url": "https://www.jimmont.com/llm-style-token-costs",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48667409",
+      "author": "jimmont",
+      "publishedAt": "2026-06-25T00:52:40.000Z"
+    },
+    {
+      "id": "48662452",
+      "source": "hn",
+      "title": "Big AI labs are hiring philosophers",
+      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "score": 127,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48662452",
+      "author": "Brajeshwar",
+      "publishedAt": "2026-06-24T16:40:13.000Z"
+    },
+    {
+      "id": "48658300",
+      "source": "hn",
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "score": 229,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48658300",
+      "author": "thm",
+      "publishedAt": "2026-06-24T11:45:47.000Z"
+    },
+    {
+      "id": "48646165",
+      "source": "hn",
+      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "url": "https://github.com/NotASithLord/peerd",
+      "score": 58,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48646165",
+      "author": "NotASithLord",
+      "publishedAt": "2026-06-23T15:05:00.000Z"
+    },
+    {
+      "id": "48660839",
+      "source": "hn",
+      "title": "For most of the world, open-source AI is the only way forward",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "score": 204,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48660839",
+      "author": "CrankyBear",
+      "publishedAt": "2026-06-24T14:50:22.000Z"
     },
     {
       "id": "48654351",
       "source": "hn",
       "title": "Qwen-AgentWorld: Language World Models for General Agents",
       "url": "https://arxiv.org/abs/2606.24597",
-      "score": 152,
+      "score": 196,
       "commentsUrl": "https://news.ycombinator.com/item?id=48654351",
       "author": "ilreb",
       "publishedAt": "2026-06-24T02:21:47.000Z"
     },
     {
-      "id": "48659257",
+      "id": "48658095",
       "source": "hn",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48659257",
-      "author": "meetpateltech",
-      "publishedAt": "2026-06-24T13:14:39.000Z"
+      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "url": "https://haystack.deepset.ai/",
+      "score": 86,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48658095",
+      "author": "doener",
+      "publishedAt": "2026-06-24T11:21:32.000Z"
     },
     {
-      "id": "48646276",
+      "id": "48665875",
       "source": "hn",
-      "title": "AI's Affordability Crisis",
-      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-      "score": 303,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48646276",
-      "author": "ilreb",
-      "publishedAt": "2026-06-23T15:11:17.000Z"
-    },
-    {
-      "id": "48649137",
-      "source": "hn",
-      "title": "Show HN: RLM-based local debugger for AI agent traces",
-      "url": "https://github.com/context-labs/halo",
-      "score": 22,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48649137",
-      "author": "mikepollard_dev",
-      "publishedAt": "2026-06-23T18:21:52.000Z"
-    },
-    {
-      "id": "48645152",
-      "source": "hn",
-      "title": "Mistral OCR 4",
-      "url": "https://mistral.ai/news/ocr-4/",
-      "score": 474,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48645152",
-      "author": "meetpateltech",
-      "publishedAt": "2026-06-23T14:03:19.000Z"
-    },
-    {
-      "id": "48643489",
-      "source": "hn",
-      "title": "The Low-Tech AI of Elden Ring",
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-      "score": 155,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48643489",
-      "author": "g0xA52A2A",
-      "publishedAt": "2026-06-23T11:40:50.000Z"
-    },
-    {
-      "id": "48639063",
-      "source": "hn",
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
-      "score": 213,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48639063",
-      "author": "AaronO",
-      "publishedAt": "2026-06-23T01:36:08.000Z"
-    },
-    {
-      "id": "48646511",
-      "source": "hn",
-      "title": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
-      "url": "https://atomprophet.io/tools/cascade/",
-      "score": 24,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48646511",
-      "author": "antisyzygy",
-      "publishedAt": "2026-06-23T15:22:41.000Z"
-    },
-    {
-      "id": "48648039",
-      "source": "hn",
-      "title": "Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "score": 257,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48648039",
-      "author": "adocomplete",
-      "publishedAt": "2026-06-23T17:09:18.000Z"
-    },
-    {
-      "id": "48658300",
-      "source": "hn",
-      "title": "NSA Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
-      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48658300",
-      "author": "thm",
-      "publishedAt": "2026-06-24T11:45:47.000Z"
-    },
-    {
-      "id": "48654795",
-      "source": "hn",
-      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-      "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
-      "score": 46,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48654795",
-      "author": "colinprince",
-      "publishedAt": "2026-06-24T03:36:50.000Z"
+      "title": "OpenAI Codex bombards SSDs with needless write operations",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48665875",
+      "author": "jgalt212",
+      "publishedAt": "2026-06-24T21:32:15.000Z"
     }
   ]
 }
