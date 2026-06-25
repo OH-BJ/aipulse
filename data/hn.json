@@ -1,33 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-25T02:39:35.314Z",
+  "fetchedAt": "2026-06-25T14:10:42.424Z",
   "items": [
-    {
-      "id": "48663324",
-      "source": "hn",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 554,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48663324",
-      "author": "jamdesk",
-      "publishedAt": "2026-06-24T17:47:00.000Z"
-    },
     {
       "id": "48664814",
       "source": "hn",
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 87,
+      "score": 580,
       "commentsUrl": "https://news.ycombinator.com/item?id=48664814",
       "author": "htrp",
       "publishedAt": "2026-06-24T19:48:01.000Z"
+    },
+    {
+      "id": "48663324",
+      "source": "hn",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 752,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48663324",
+      "author": "jamdesk",
+      "publishedAt": "2026-06-24T17:47:00.000Z"
     },
     {
       "id": "48660711",
       "source": "hn",
       "title": "RubyLLM: A Ruby framework for all major AI providers",
       "url": "https://rubyllm.com/",
-      "score": 348,
+      "score": 414,
       "commentsUrl": "https://news.ycombinator.com/item?id=48660711",
       "author": "doener",
       "publishedAt": "2026-06-24T14:41:41.000Z"
@@ -37,60 +37,10 @@
       "source": "hn",
       "title": "Computer use in Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 179,
+      "score": 232,
       "commentsUrl": "https://news.ycombinator.com/item?id=48662999",
       "author": "swolpers",
       "publishedAt": "2026-06-24T17:21:34.000Z"
-    },
-    {
-      "id": "48667409",
-      "source": "hn",
-      "title": "What I'm Finding About LLM Code Style and Token Costs",
-      "url": "https://www.jimmont.com/llm-style-token-costs",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48667409",
-      "author": "jimmont",
-      "publishedAt": "2026-06-25T00:52:40.000Z"
-    },
-    {
-      "id": "48662452",
-      "source": "hn",
-      "title": "Big AI labs are hiring philosophers",
-      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
-      "score": 127,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48662452",
-      "author": "Brajeshwar",
-      "publishedAt": "2026-06-24T16:40:13.000Z"
-    },
-    {
-      "id": "48658300",
-      "source": "hn",
-      "title": "NSA lost access to Mythos amid Anthropic dispute",
-      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-      "score": 229,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48658300",
-      "author": "thm",
-      "publishedAt": "2026-06-24T11:45:47.000Z"
-    },
-    {
-      "id": "48646165",
-      "source": "hn",
-      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
-      "url": "https://github.com/NotASithLord/peerd",
-      "score": 58,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48646165",
-      "author": "NotASithLord",
-      "publishedAt": "2026-06-23T15:05:00.000Z"
-    },
-    {
-      "id": "48660839",
-      "source": "hn",
-      "title": "For most of the world, open-source AI is the only way forward",
-      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
-      "score": 204,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48660839",
-      "author": "CrankyBear",
-      "publishedAt": "2026-06-24T14:50:22.000Z"
     },
     {
       "id": "48654351",
@@ -103,24 +53,54 @@
       "publishedAt": "2026-06-24T02:21:47.000Z"
     },
     {
-      "id": "48658095",
+      "id": "48672694",
       "source": "hn",
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "url": "https://haystack.deepset.ai/",
-      "score": 86,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48658095",
-      "author": "doener",
-      "publishedAt": "2026-06-24T11:21:32.000Z"
+      "title": "Why Does Everyone Hate AI?",
+      "url": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai",
+      "score": 56,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48672694",
+      "author": "megacorp",
+      "publishedAt": "2026-06-25T12:59:10.000Z"
     },
     {
-      "id": "48665875",
+      "id": "48662452",
       "source": "hn",
-      "title": "OpenAI Codex bombards SSDs with needless write operations",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48665875",
-      "author": "jgalt212",
-      "publishedAt": "2026-06-24T21:32:15.000Z"
+      "title": "Big AI labs are hiring philosophers",
+      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "score": 143,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48662452",
+      "author": "Brajeshwar",
+      "publishedAt": "2026-06-24T16:40:13.000Z"
+    },
+    {
+      "id": "48658300",
+      "source": "hn",
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "score": 253,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48658300",
+      "author": "thm",
+      "publishedAt": "2026-06-24T11:45:47.000Z"
+    },
+    {
+      "id": "48646165",
+      "source": "hn",
+      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "url": "https://github.com/NotASithLord/peerd",
+      "score": 61,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48646165",
+      "author": "NotASithLord",
+      "publishedAt": "2026-06-23T15:05:00.000Z"
+    },
+    {
+      "id": "48660839",
+      "source": "hn",
+      "title": "For most of the world, open-source AI is the only way forward",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "score": 219,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48660839",
+      "author": "CrankyBear",
+      "publishedAt": "2026-06-24T14:50:22.000Z"
     }
   ]
 }
