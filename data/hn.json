@@ -1,106 +1,126 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-25T14:10:42.424Z",
+  "fetchedAt": "2026-06-26T02:43:00.334Z",
   "items": [
+    {
+      "id": "48676795",
+      "source": "hn",
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "score": 82,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48676795",
+      "author": "scrlk",
+      "publishedAt": "2026-06-25T17:38:44.000Z"
+    },
+    {
+      "id": "48681250",
+      "source": "hn",
+      "title": "AI children's books, body horror edition",
+      "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+      "score": 56,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48681250",
+      "author": "surprisetalk",
+      "publishedAt": "2026-06-26T01:15:14.000Z"
+    },
+    {
+      "id": "48675435",
+      "source": "hn",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "score": 212,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48675435",
+      "author": "engomez",
+      "publishedAt": "2026-06-25T16:04:46.000Z"
+    },
+    {
+      "id": "48676256",
+      "source": "hn",
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48676256",
+      "author": "yzhong94",
+      "publishedAt": "2026-06-25T17:00:00.000Z"
+    },
+    {
+      "id": "48672779",
+      "source": "hn",
+      "title": "Political bias in AI: Where the AI models stand",
+      "url": "https://trakkr.ai/bias",
+      "score": 121,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48672779",
+      "author": "mektrik",
+      "publishedAt": "2026-06-25T13:08:31.000Z"
+    },
     {
       "id": "48664814",
       "source": "hn",
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 580,
+      "score": 751,
       "commentsUrl": "https://news.ycombinator.com/item?id=48664814",
       "author": "htrp",
       "publishedAt": "2026-06-24T19:48:01.000Z"
+    },
+    {
+      "id": "48681490",
+      "source": "hn",
+      "title": "Local-first AI coding assistant for IntelliJ-based IDEs (paid)",
+      "url": "https://plugins.jetbrains.com/plugin/31304-llamatik-code/",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48681490",
+      "author": "oogali",
+      "publishedAt": "2026-06-26T01:55:55.000Z"
     },
     {
       "id": "48663324",
       "source": "hn",
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 752,
+      "score": 806,
       "commentsUrl": "https://news.ycombinator.com/item?id=48663324",
       "author": "jamdesk",
       "publishedAt": "2026-06-24T17:47:00.000Z"
     },
     {
-      "id": "48660711",
+      "id": "48678873",
       "source": "hn",
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "score": 414,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48660711",
-      "author": "doener",
-      "publishedAt": "2026-06-24T14:41:41.000Z"
+      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+      "score": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48678873",
+      "author": "mfiguiere",
+      "publishedAt": "2026-06-25T20:36:05.000Z"
     },
     {
-      "id": "48662999",
+      "id": "48680504",
       "source": "hn",
-      "title": "Computer use in Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 232,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48662999",
-      "author": "swolpers",
-      "publishedAt": "2026-06-24T17:21:34.000Z"
+      "title": "Ask HN: Norway bans AI in elementary schools",
+      "url": "https://news.ycombinator.com/item?id=48680504",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48680504",
+      "author": "mellosty",
+      "publishedAt": "2026-06-25T23:24:59.000Z"
     },
     {
-      "id": "48654351",
+      "id": "48678671",
       "source": "hn",
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://arxiv.org/abs/2606.24597",
-      "score": 196,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48654351",
-      "author": "ilreb",
-      "publishedAt": "2026-06-24T02:21:47.000Z"
+      "title": "Hasbro's TV Contracts Ask Child Voice Actors to Sign Rights Away for AI Use",
+      "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
+      "score": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48678671",
+      "author": "ilamont",
+      "publishedAt": "2026-06-25T20:17:48.000Z"
     },
     {
-      "id": "48672694",
+      "id": "48674446",
       "source": "hn",
-      "title": "Why Does Everyone Hate AI?",
-      "url": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai",
-      "score": 56,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48672694",
-      "author": "megacorp",
-      "publishedAt": "2026-06-25T12:59:10.000Z"
-    },
-    {
-      "id": "48662452",
-      "source": "hn",
-      "title": "Big AI labs are hiring philosophers",
-      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
-      "score": 143,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48662452",
-      "author": "Brajeshwar",
-      "publishedAt": "2026-06-24T16:40:13.000Z"
-    },
-    {
-      "id": "48658300",
-      "source": "hn",
-      "title": "NSA lost access to Mythos amid Anthropic dispute",
-      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-      "score": 253,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48658300",
-      "author": "thm",
-      "publishedAt": "2026-06-24T11:45:47.000Z"
-    },
-    {
-      "id": "48646165",
-      "source": "hn",
-      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
-      "url": "https://github.com/NotASithLord/peerd",
-      "score": 61,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48646165",
-      "author": "NotASithLord",
-      "publishedAt": "2026-06-23T15:05:00.000Z"
-    },
-    {
-      "id": "48660839",
-      "source": "hn",
-      "title": "For most of the world, open-source AI is the only way forward",
-      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
-      "score": 219,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48660839",
-      "author": "CrankyBear",
-      "publishedAt": "2026-06-24T14:50:22.000Z"
+      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "score": 575,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48674446",
+      "author": "alanwreath",
+      "publishedAt": "2026-06-25T14:58:50.000Z"
     }
   ]
 }
