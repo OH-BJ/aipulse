@@ -1,83 +1,133 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-26T14:10:02.062Z",
+  "fetchedAt": "2026-06-27T02:34:47.172Z",
   "items": [
+    {
+      "id": "48689028",
+      "source": "hn",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "score": 862,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48689028",
+      "author": "minimaxir",
+      "publishedAt": "2026-06-26T17:06:55.000Z"
+    },
+    {
+      "id": "48692883",
+      "source": "hn",
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "score": 49,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48692883",
+      "author": "rbanffy",
+      "publishedAt": "2026-06-26T22:36:51.000Z"
+    },
+    {
+      "id": "48690101",
+      "source": "hn",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "score": 845,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48690101",
+      "author": "alain94040",
+      "publishedAt": "2026-06-26T18:23:14.000Z"
+    },
+    {
+      "id": "48688700",
+      "source": "hn",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "score": 150,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48688700",
+      "author": "adchurch",
+      "publishedAt": "2026-06-26T16:40:11.000Z"
+    },
+    {
+      "id": "48692995",
+      "source": "hn",
+      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "score": 223,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48692995",
+      "author": "bobrenjc93",
+      "publishedAt": "2026-06-26T22:48:28.000Z"
+    },
+    {
+      "id": "48694322",
+      "source": "hn",
+      "title": "AI Erodes a Legacy of Reading",
+      "url": "https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48694322",
+      "author": "domhudson",
+      "publishedAt": "2026-06-27T01:39:43.000Z"
+    },
+    {
+      "id": "48692101",
+      "source": "hn",
+      "title": "AgentKits – 60 production-ready AI agent blueprints with guardrails",
+      "url": "https://www.agent-kits.com",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48692101",
+      "author": "stoicstoic",
+      "publishedAt": "2026-06-26T21:19:34.000Z"
+    },
+    {
+      "id": "48678873",
+      "source": "hn",
+      "title": "OpenAI leans toward waiting until next year for IPO",
+      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+      "score": 153,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48678873",
+      "author": "mfiguiere",
+      "publishedAt": "2026-06-25T20:36:05.000Z"
+    },
     {
       "id": "48681687",
       "source": "hn",
       "title": "What happened after 2k people tried to hack my AI assistant",
       "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-      "score": 249,
+      "score": 352,
       "commentsUrl": "https://news.ycombinator.com/item?id=48681687",
       "author": "cuchoi",
       "publishedAt": "2026-06-26T02:29:23.000Z"
-    },
-    {
-      "id": "48675435",
-      "source": "hn",
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "url": "https://github.com/inkeep/open-knowledge",
-      "score": 311,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48675435",
-      "author": "engomez",
-      "publishedAt": "2026-06-25T16:04:46.000Z"
-    },
-    {
-      "id": "48676256",
-      "source": "hn",
-      "title": "Besimple AI (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
-      "score": 1,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48676256",
-      "author": "yzhong94",
-      "publishedAt": "2026-06-25T17:00:00.000Z"
     },
     {
       "id": "48672779",
       "source": "hn",
       "title": "Political bias in AI: Where the AI models stand",
       "url": "https://trakkr.ai/bias",
-      "score": 154,
+      "score": 167,
       "commentsUrl": "https://news.ycombinator.com/item?id=48672779",
       "author": "mektrik",
       "publishedAt": "2026-06-25T13:08:31.000Z"
     },
     {
-      "id": "48676795",
+      "id": "48690710",
       "source": "hn",
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-      "score": 293,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48676795",
-      "author": "scrlk",
-      "publishedAt": "2026-06-25T17:38:44.000Z"
+      "title": "Summary of METR's predeployment evaluation of GPT-5.6 Sol",
+      "url": "https://metr.org/blog/2026-06-26-gpt-5-6-sol/",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48690710",
+      "author": "pongogogo",
+      "publishedAt": "2026-06-26T19:12:20.000Z"
     },
     {
       "id": "48664814",
       "source": "hn",
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 772,
+      "score": 789,
       "commentsUrl": "https://news.ycombinator.com/item?id=48664814",
       "author": "htrp",
       "publishedAt": "2026-06-24T19:48:01.000Z"
-    },
-    {
-      "id": "48685642",
-      "source": "hn",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48685642",
-      "author": "lucamark",
-      "publishedAt": "2026-06-26T12:02:00.000Z"
     },
     {
       "id": "48663324",
       "source": "hn",
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 813,
+      "score": 818,
       "commentsUrl": "https://news.ycombinator.com/item?id=48663324",
       "author": "jamdesk",
       "publishedAt": "2026-06-24T17:47:00.000Z"
