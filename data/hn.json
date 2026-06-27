@@ -1,23 +1,43 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-27T02:34:47.172Z",
+  "fetchedAt": "2026-06-27T13:18:26.889Z",
   "items": [
+    {
+      "id": "48696585",
+      "source": "hn",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "score": 484,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48696585",
+      "author": "aurenvale",
+      "publishedAt": "2026-06-27T09:18:52.000Z"
+    },
     {
       "id": "48689028",
       "source": "hn",
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 862,
+      "score": 1036,
       "commentsUrl": "https://news.ycombinator.com/item?id=48689028",
       "author": "minimaxir",
       "publishedAt": "2026-06-26T17:06:55.000Z"
+    },
+    {
+      "id": "48692995",
+      "source": "hn",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "score": 481,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48692995",
+      "author": "bobrenjc93",
+      "publishedAt": "2026-06-26T22:48:28.000Z"
     },
     {
       "id": "48692883",
       "source": "hn",
       "title": "AI in mathematics is forcing big questions",
       "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "score": 49,
+      "score": 154,
       "commentsUrl": "https://news.ycombinator.com/item?id=48692883",
       "author": "rbanffy",
       "publishedAt": "2026-06-26T22:36:51.000Z"
@@ -27,7 +47,7 @@
       "source": "hn",
       "title": "U.S. government will decide who gets to use GPT-5.6",
       "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 845,
+      "score": 1079,
       "commentsUrl": "https://news.ycombinator.com/item?id=48690101",
       "author": "alain94040",
       "publishedAt": "2026-06-26T18:23:14.000Z"
@@ -37,37 +57,17 @@
       "source": "hn",
       "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
       "url": "https://github.com/workweave/router",
-      "score": 150,
+      "score": 181,
       "commentsUrl": "https://news.ycombinator.com/item?id=48688700",
       "author": "adchurch",
       "publishedAt": "2026-06-26T16:40:11.000Z"
-    },
-    {
-      "id": "48692995",
-      "source": "hn",
-      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
-      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
-      "score": 223,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48692995",
-      "author": "bobrenjc93",
-      "publishedAt": "2026-06-26T22:48:28.000Z"
-    },
-    {
-      "id": "48694322",
-      "source": "hn",
-      "title": "AI Erodes a Legacy of Reading",
-      "url": "https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48694322",
-      "author": "domhudson",
-      "publishedAt": "2026-06-27T01:39:43.000Z"
     },
     {
       "id": "48692101",
       "source": "hn",
       "title": "AgentKits – 60 production-ready AI agent blueprints with guardrails",
       "url": "https://www.agent-kits.com",
-      "score": 12,
+      "score": 29,
       "commentsUrl": "https://news.ycombinator.com/item?id=48692101",
       "author": "stoicstoic",
       "publishedAt": "2026-06-26T21:19:34.000Z"
@@ -77,7 +77,7 @@
       "source": "hn",
       "title": "OpenAI leans toward waiting until next year for IPO",
       "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-      "score": 153,
+      "score": 169,
       "commentsUrl": "https://news.ycombinator.com/item?id=48678873",
       "author": "mfiguiere",
       "publishedAt": "2026-06-25T20:36:05.000Z"
@@ -87,7 +87,7 @@
       "source": "hn",
       "title": "What happened after 2k people tried to hack my AI assistant",
       "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-      "score": 352,
+      "score": 365,
       "commentsUrl": "https://news.ycombinator.com/item?id=48681687",
       "author": "cuchoi",
       "publishedAt": "2026-06-26T02:29:23.000Z"
@@ -97,27 +97,17 @@
       "source": "hn",
       "title": "Political bias in AI: Where the AI models stand",
       "url": "https://trakkr.ai/bias",
-      "score": 167,
+      "score": 174,
       "commentsUrl": "https://news.ycombinator.com/item?id=48672779",
       "author": "mektrik",
       "publishedAt": "2026-06-25T13:08:31.000Z"
-    },
-    {
-      "id": "48690710",
-      "source": "hn",
-      "title": "Summary of METR's predeployment evaluation of GPT-5.6 Sol",
-      "url": "https://metr.org/blog/2026-06-26-gpt-5-6-sol/",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48690710",
-      "author": "pongogogo",
-      "publishedAt": "2026-06-26T19:12:20.000Z"
     },
     {
       "id": "48664814",
       "source": "hn",
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 789,
+      "score": 796,
       "commentsUrl": "https://news.ycombinator.com/item?id=48664814",
       "author": "htrp",
       "publishedAt": "2026-06-24T19:48:01.000Z"
@@ -127,10 +117,30 @@
       "source": "hn",
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 818,
+      "score": 819,
       "commentsUrl": "https://news.ycombinator.com/item?id=48663324",
       "author": "jamdesk",
       "publishedAt": "2026-06-24T17:47:00.000Z"
+    },
+    {
+      "id": "48696077",
+      "source": "hn",
+      "title": "NLNet Labs LLM Policy",
+      "url": "https://nlnetlabs.nl/llm-policy/",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48696077",
+      "author": "birdculture",
+      "publishedAt": "2026-06-27T07:41:42.000Z"
+    },
+    {
+      "id": "48692614",
+      "source": "hn",
+      "title": "OpenTag: An open-source alternative to Claude in Slack",
+      "url": "https://github.com/CopilotKit/OpenTag/",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48692614",
+      "author": "davidmckayv",
+      "publishedAt": "2026-06-26T22:09:07.000Z"
     }
   ]
 }
