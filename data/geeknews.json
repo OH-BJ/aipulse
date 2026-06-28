@@ -1,7 +1,16 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-06-28T02:48:16.752Z",
+  "fetchedAt": "2026-06-28T13:22:59.941Z",
   "items": [
+    {
+      "id": "30907",
+      "source": "geeknews",
+      "title": "더 많은 언어가 배워야 할 OxCaml의 무할당 함수 검사",
+      "url": "https://news.hada.io/topic?id=30907",
+      "commentsUrl": "https://news.hada.io/topic?id=30907",
+      "author": "neo",
+      "publishedAt": "2026-06-28T12:01:38.000Z"
+    },
     {
       "id": "30905",
       "source": "geeknews",
@@ -262,15 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30870",
       "author": "pentaxzs",
       "publishedAt": "2026-06-27T01:03:14.000Z"
-    },
-    {
-      "id": "30869",
-      "source": "geeknews",
-      "title": "오픈소스 보안을 함께 지키기 위한 Akrites 공개서한",
-      "url": "https://news.hada.io/topic?id=30869",
-      "commentsUrl": "https://news.hada.io/topic?id=30869",
-      "author": "neo",
-      "publishedAt": "2026-06-27T01:03:05.000Z"
     }
   ]
 }

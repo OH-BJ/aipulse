@@ -1,13 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-28T02:48:16.052Z",
+  "fetchedAt": "2026-06-28T13:22:59.582Z",
   "items": [
+    {
+      "id": "48706714",
+      "source": "hn",
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48706714",
+      "author": "pikseladam",
+      "publishedAt": "2026-06-28T12:27:33.000Z"
+    },
+    {
+      "id": "48704373",
+      "source": "hn",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "score": 86,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48704373",
+      "author": "handfuloflight",
+      "publishedAt": "2026-06-28T04:31:18.000Z"
+    },
     {
       "id": "48660021",
       "source": "hn",
       "title": "AI learns the “dark art” of RFIC design",
       "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "score": 196,
+      "score": 249,
       "commentsUrl": "https://news.ycombinator.com/item?id=48660021",
       "author": "Brajeshwar",
       "publishedAt": "2026-06-24T14:02:16.000Z"
@@ -15,9 +35,9 @@
     {
       "id": "48703452",
       "source": "hn",
-      "title": "Response to AI slop is from Robin Williams",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
       "url": "https://jayacunzo.com/blog/your-move-chief",
-      "score": 37,
+      "score": 296,
       "commentsUrl": "https://news.ycombinator.com/item?id=48703452",
       "author": "herbertl",
       "publishedAt": "2026-06-28T01:28:10.000Z"
@@ -27,7 +47,7 @@
       "source": "hn",
       "title": "Asian AI startups launch Mythos-like models",
       "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "score": 154,
+      "score": 251,
       "commentsUrl": "https://news.ycombinator.com/item?id=48697958",
       "author": "bogdiyan",
       "publishedAt": "2026-06-27T13:10:21.000Z"
@@ -37,7 +57,7 @@
       "source": "hn",
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 731,
+      "score": 772,
       "commentsUrl": "https://news.ycombinator.com/item?id=48696585",
       "author": "aurenvale",
       "publishedAt": "2026-06-27T09:18:52.000Z"
@@ -47,7 +67,7 @@
       "source": "hn",
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 1105,
+      "score": 1114,
       "commentsUrl": "https://news.ycombinator.com/item?id=48689028",
       "author": "minimaxir",
       "publishedAt": "2026-06-26T17:06:55.000Z"
@@ -57,50 +77,10 @@
       "source": "hn",
       "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
       "url": "https://news.ycombinator.com/item?id=48701615",
-      "score": 35,
+      "score": 85,
       "commentsUrl": "https://news.ycombinator.com/item?id=48701615",
       "author": "PhilipDaineko",
       "publishedAt": "2026-06-27T20:48:01.000Z"
-    },
-    {
-      "id": "48702538",
-      "source": "hn",
-      "title": "Show HN: KV-psi, using Linux PSI to to trim an LLM KV cache",
-      "url": "https://github.com/infiniteregrets/kv-psi",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48702538",
-      "author": "infiniteregrets",
-      "publishedAt": "2026-06-27T22:50:54.000Z"
-    },
-    {
-      "id": "48701902",
-      "source": "hn",
-      "title": "Peppa Pig studio wants to clone child actors' voices with AI indefinitely",
-      "url": "https://www.gadgetreview.com/peppa-pigs-ai-voice-clause-draws-nearly-1000-industry-objections",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48701902",
-      "author": "yayitswei",
-      "publishedAt": "2026-06-27T21:23:03.000Z"
-    },
-    {
-      "id": "48702053",
-      "source": "hn",
-      "title": "The AI Industry as You Know It Died Today",
-      "url": "https://www.thealgorithmicbridge.com/p/the-ai-industry-as-you-know-it-died",
-      "score": 23,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48702053",
-      "author": "ethagnawl",
-      "publishedAt": "2026-06-27T21:43:51.000Z"
-    },
-    {
-      "id": "48692883",
-      "source": "hn",
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "score": 199,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48692883",
-      "author": "rbanffy",
-      "publishedAt": "2026-06-26T22:36:51.000Z"
     }
   ]
 }
