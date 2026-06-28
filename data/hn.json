@@ -1,13 +1,43 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-27T13:18:26.889Z",
+  "fetchedAt": "2026-06-28T02:48:16.052Z",
   "items": [
+    {
+      "id": "48660021",
+      "source": "hn",
+      "title": "AI learns the “dark art” of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "score": 196,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48660021",
+      "author": "Brajeshwar",
+      "publishedAt": "2026-06-24T14:02:16.000Z"
+    },
+    {
+      "id": "48703452",
+      "source": "hn",
+      "title": "Response to AI slop is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48703452",
+      "author": "herbertl",
+      "publishedAt": "2026-06-28T01:28:10.000Z"
+    },
+    {
+      "id": "48697958",
+      "source": "hn",
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "score": 154,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48697958",
+      "author": "bogdiyan",
+      "publishedAt": "2026-06-27T13:10:21.000Z"
+    },
     {
       "id": "48696585",
       "source": "hn",
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 484,
+      "score": 731,
       "commentsUrl": "https://news.ycombinator.com/item?id=48696585",
       "author": "aurenvale",
       "publishedAt": "2026-06-27T09:18:52.000Z"
@@ -17,130 +47,60 @@
       "source": "hn",
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 1036,
+      "score": 1105,
       "commentsUrl": "https://news.ycombinator.com/item?id=48689028",
       "author": "minimaxir",
       "publishedAt": "2026-06-26T17:06:55.000Z"
     },
     {
-      "id": "48692995",
+      "id": "48701615",
       "source": "hn",
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "score": 481,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48692995",
-      "author": "bobrenjc93",
-      "publishedAt": "2026-06-26T22:48:28.000Z"
+      "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
+      "url": "https://news.ycombinator.com/item?id=48701615",
+      "score": 35,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48701615",
+      "author": "PhilipDaineko",
+      "publishedAt": "2026-06-27T20:48:01.000Z"
+    },
+    {
+      "id": "48702538",
+      "source": "hn",
+      "title": "Show HN: KV-psi, using Linux PSI to to trim an LLM KV cache",
+      "url": "https://github.com/infiniteregrets/kv-psi",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48702538",
+      "author": "infiniteregrets",
+      "publishedAt": "2026-06-27T22:50:54.000Z"
+    },
+    {
+      "id": "48701902",
+      "source": "hn",
+      "title": "Peppa Pig studio wants to clone child actors' voices with AI indefinitely",
+      "url": "https://www.gadgetreview.com/peppa-pigs-ai-voice-clause-draws-nearly-1000-industry-objections",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48701902",
+      "author": "yayitswei",
+      "publishedAt": "2026-06-27T21:23:03.000Z"
+    },
+    {
+      "id": "48702053",
+      "source": "hn",
+      "title": "The AI Industry as You Know It Died Today",
+      "url": "https://www.thealgorithmicbridge.com/p/the-ai-industry-as-you-know-it-died",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48702053",
+      "author": "ethagnawl",
+      "publishedAt": "2026-06-27T21:43:51.000Z"
     },
     {
       "id": "48692883",
       "source": "hn",
       "title": "AI in mathematics is forcing big questions",
       "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "score": 154,
+      "score": 199,
       "commentsUrl": "https://news.ycombinator.com/item?id=48692883",
       "author": "rbanffy",
       "publishedAt": "2026-06-26T22:36:51.000Z"
-    },
-    {
-      "id": "48690101",
-      "source": "hn",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 1079,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48690101",
-      "author": "alain94040",
-      "publishedAt": "2026-06-26T18:23:14.000Z"
-    },
-    {
-      "id": "48688700",
-      "source": "hn",
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "score": 181,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48688700",
-      "author": "adchurch",
-      "publishedAt": "2026-06-26T16:40:11.000Z"
-    },
-    {
-      "id": "48692101",
-      "source": "hn",
-      "title": "AgentKits – 60 production-ready AI agent blueprints with guardrails",
-      "url": "https://www.agent-kits.com",
-      "score": 29,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48692101",
-      "author": "stoicstoic",
-      "publishedAt": "2026-06-26T21:19:34.000Z"
-    },
-    {
-      "id": "48678873",
-      "source": "hn",
-      "title": "OpenAI leans toward waiting until next year for IPO",
-      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-      "score": 169,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48678873",
-      "author": "mfiguiere",
-      "publishedAt": "2026-06-25T20:36:05.000Z"
-    },
-    {
-      "id": "48681687",
-      "source": "hn",
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-      "score": 365,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48681687",
-      "author": "cuchoi",
-      "publishedAt": "2026-06-26T02:29:23.000Z"
-    },
-    {
-      "id": "48672779",
-      "source": "hn",
-      "title": "Political bias in AI: Where the AI models stand",
-      "url": "https://trakkr.ai/bias",
-      "score": 174,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48672779",
-      "author": "mektrik",
-      "publishedAt": "2026-06-25T13:08:31.000Z"
-    },
-    {
-      "id": "48664814",
-      "source": "hn",
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 796,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48664814",
-      "author": "htrp",
-      "publishedAt": "2026-06-24T19:48:01.000Z"
-    },
-    {
-      "id": "48663324",
-      "source": "hn",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 819,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48663324",
-      "author": "jamdesk",
-      "publishedAt": "2026-06-24T17:47:00.000Z"
-    },
-    {
-      "id": "48696077",
-      "source": "hn",
-      "title": "NLNet Labs LLM Policy",
-      "url": "https://nlnetlabs.nl/llm-policy/",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48696077",
-      "author": "birdculture",
-      "publishedAt": "2026-06-27T07:41:42.000Z"
-    },
-    {
-      "id": "48692614",
-      "source": "hn",
-      "title": "OpenTag: An open-source alternative to Claude in Slack",
-      "url": "https://github.com/CopilotKit/OpenTag/",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48692614",
-      "author": "davidmckayv",
-      "publishedAt": "2026-06-26T22:09:07.000Z"
     }
   ]
 }
