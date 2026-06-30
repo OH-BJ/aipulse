@@ -1,106 +1,56 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-06-30T02:43:05.797Z",
+  "fetchedAt": "2026-06-30T14:04:18.478Z",
   "items": [
     {
       "id": "48721903",
       "source": "hn",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 634,
+      "score": 1016,
       "commentsUrl": "https://news.ycombinator.com/item?id=48721903",
       "author": "stared",
       "publishedAt": "2026-06-29T17:05:16.000Z"
-    },
-    {
-      "id": "48727538",
-      "source": "hn",
-      "title": "Why Won't Europe Build AI Data Centers in Iceland?",
-      "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48727538",
-      "author": "type0",
-      "publishedAt": "2026-06-30T01:30:40.000Z"
-    },
-    {
-      "id": "48726966",
-      "source": "hn",
-      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
-      "url": "https://github.com/SMJAI/open-memory-protocol",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48726966",
-      "author": "soji_mathew",
-      "publishedAt": "2026-06-30T00:05:33.000Z"
     },
     {
       "id": "48720064",
       "source": "hn",
       "title": "Working With AI: A concrete example",
       "url": "https://htmx.org/essays/working-with-ai/",
-      "score": 97,
+      "score": 171,
       "commentsUrl": "https://news.ycombinator.com/item?id=48720064",
       "author": "comma_at",
       "publishedAt": "2026-06-29T14:53:41.000Z"
-    },
-    {
-      "id": "48718840",
-      "source": "hn",
-      "title": "Tidal AI Policy",
-      "url": "https://tidal.com/ai-policy",
-      "score": 292,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48718840",
-      "author": "hn8726",
-      "publishedAt": "2026-06-29T13:09:03.000Z"
     },
     {
       "id": "48709670",
       "source": "hn",
       "title": "GLM 5.2 beats Claude in our benchmarks",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 1064,
+      "score": 1084,
       "commentsUrl": "https://news.ycombinator.com/item?id=48709670",
       "author": "jms703",
       "publishedAt": "2026-06-28T17:50:47.000Z"
     },
     {
-      "id": "48705878",
+      "id": "48718840",
       "source": "hn",
-      "title": "ACL 1.0: A source-available commercial license for the AI era",
-      "url": "https://www.auditablelicense.org/",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48705878",
-      "author": "ilreb",
-      "publishedAt": "2026-06-28T09:45:58.000Z"
+      "title": "Tidal AI Policy",
+      "url": "https://tidal.com/ai-policy",
+      "score": 302,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48718840",
+      "author": "hn8726",
+      "publishedAt": "2026-06-29T13:09:03.000Z"
     },
     {
-      "id": "48717869",
+      "id": "48730817",
       "source": "hn",
-      "title": "DeepSeek V4 Peak Valley Pricing Change",
-      "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
-      "score": 45,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48717869",
-      "author": "lmartineng",
-      "publishedAt": "2026-06-29T11:29:14.000Z"
-    },
-    {
-      "id": "48708941",
-      "source": "hn",
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 548,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48708941",
-      "author": "engmarketer",
-      "publishedAt": "2026-06-28T16:35:19.000Z"
-    },
-    {
-      "id": "48721494",
-      "source": "hn",
-      "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
-      "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
-      "score": 48,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48721494",
-      "author": "logickkk1",
-      "publishedAt": "2026-06-29T16:39:38.000Z"
+      "title": "AI Zillionaires Are Starting to Get Scared as the Public Turns Against Them",
+      "url": "https://futurism.com/artificial-intelligence/ai-tech-billionaires-mark-cuban-scared-public",
+      "score": 21,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48730817",
+      "author": "pseudolus",
+      "publishedAt": "2026-06-30T10:48:12.000Z"
     }
   ]
 }
