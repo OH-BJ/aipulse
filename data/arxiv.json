@@ -1,276 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-07-01T02:49:06.981Z",
+  "fetchedAt": "2026-07-01T14:19:07.512Z",
   "items": [
     {
-      "id": "2606.27864",
+      "id": "2606.30035",
       "source": "arxiv",
-      "title": "A Unified Framework for Vision Transformers Equivariant to Discrete Subgroups of $\\mathrm{O}(2)$",
-      "url": "https://arxiv.org/abs/2606.27864",
-      "author": "T\\=ikun \\^Ong, Georg B\\\"okman",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Vision transformers have become a dominant architecture for visual recognition. However, standard models do not explicitly encode the planar symmetries that arise in many vision domains. We introduce…"
+      "title": "Consensus Clustering of Free-Viewing Gaze Data: New Insights into Human-Information Interaction",
+      "url": "https://arxiv.org/abs/2606.30035",
+      "author": "Beryl Gnanaraj, Jaya Sreevalsan-Nair, Saqib Alam Ansari +1",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Free-viewing gaze data provides a rich, task-free window into human visual attention. Conventional exploratory data analysis of the data provides user attention patterns through fixations and areas of…"
     },
     {
-      "id": "2606.23725",
+      "id": "2606.15837",
       "source": "arxiv",
-      "title": "Computational references are not experiments: pre-registered validation of machine-learned sodium-cathode voltages",
-      "url": "https://arxiv.org/abs/2606.23725",
-      "author": "Krishna Teja Vepa",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Machine-learning screens for battery materials are trained and judged almost entirely against computed reference voltages, and those references carry their own systematic errors. We report a case in w…"
+      "title": "Learning a Sampling-Free Variational DNN Plugin from Tiny Training Sets to Refine OOD Segmentation With Uncertainty Estimation",
+      "url": "https://arxiv.org/abs/2606.15837",
+      "author": "Jimut B. Pal, Suyash P. Awate",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Deep neural networks (DNNs) frequently fail to generalize to out-of-distribution (OOD) medical images because of variations in scanners and acquisition protocols. Retraining DNN models to address thes…"
     },
     {
-      "id": "2606.23129",
+      "id": "2606.07383",
       "source": "arxiv",
-      "title": "Spectral Gating via Damped Oscillations for Adaptive Implicit Neural Representations",
-      "url": "https://arxiv.org/abs/2606.23129",
-      "author": "Alex Costanzino, Pierluigi Zama Ramirez, Giuseppe Lisanti +1",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Implicit Neural Representations (INRs) have been proven successful in encoding continuous signals through coordinate-based networks, yet facing a spectral dilemma: periodic activations capture fine de…"
+      "title": "RhinoVLA Technical Report",
+      "url": "https://arxiv.org/abs/2606.07383",
+      "author": "Huixi Technology, :, Chen Zhang +13",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Vision-Language-Action (VLA) models have shown strong potential for robotic manipulation, but real-time deployment on edge hardware remains challenging. In this work, we identify VLM visual and contex…"
     },
     {
-      "id": "2606.19147",
+      "id": "2606.06790",
       "source": "arxiv",
-      "title": "On Local Population-Risk Certificates",
-      "url": "https://arxiv.org/abs/2606.19147",
-      "author": "Mingzhi Song",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "We develop finite-sample certificates for local population-risk increments \\(P\\delta_v=R(\\theta_0+v)-R(\\theta_0)\\), \\(v\\in\\mathcal D\\). The primitive object is an expected-valid upper endpoint \\(\\wide…"
+      "title": "Learning All-Terrain Locomotion for a Planetary Rover with Actively Articulated Suspension",
+      "url": "https://arxiv.org/abs/2606.06790",
+      "author": "Arthur Bouton, Tristan D. Hasseler, Michael Paton +5",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "This paper presents ERNEST, a four-wheeled planetary rover concept equipped with a two-degree-of-freedom Active Gimbal Suspension that combines yaw and roll actuation to enable wheel reconfiguration,…"
     },
     {
-      "id": "2606.18729",
+      "id": "2606.05895",
       "source": "arxiv",
-      "title": "TimeLAVA: Learning-Agnostic Valuation for Time Series Data",
-      "url": "https://arxiv.org/abs/2606.18729",
-      "author": "Wenqin Liu, Weizhi Quan, Aoqi Zuo +5",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Data valuation quantifies the intrinsic quality of individual samples to enable principled data curation, quality control, and robust learning. For time series in critical domains such as healthcare,…"
+      "title": "Representing Research Attention as Contextually Structured Flows",
+      "url": "https://arxiv.org/abs/2606.05895",
+      "author": "Jessica Rodrigues, Angelo Salatino, Gard Jenset +1",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Research metrics increasingly use attention as evidence of societal impact. Yet attention serves as evidence only once interpreted, and its meaning depends on the contexts in which it occurs, not on v…"
     },
     {
-      "id": "2606.18438",
+      "id": "2605.27756",
       "source": "arxiv",
-      "title": "Sequential Hiring of Contingent Workers Through Learning-Based Optimization",
-      "url": "https://arxiv.org/abs/2606.18438",
-      "author": "Chris Lee, Xiuli Chao, Izak Duenyas",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "In this paper, we study a sequential workforce management problem in a contingent labor setting with uncertainty in both worker production and labor supply. A firm seeks to maximize cumulative profit…"
+      "title": "Sparse POD Mode Selection and Manifold Dimensionality Reduction with Neural Networks",
+      "url": "https://arxiv.org/abs/2605.27756",
+      "author": "Tomoki Koike, Prakash Mohan, Marc T. Henry de Frahan +2",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Linear dimensionality reduction methods such as proper orthogonal decomposition (POD) make high-dimensional data amenable to analysis by identifying the principal components, or modes, that capture th…"
     },
     {
-      "id": "2606.09820",
+      "id": "2605.21115",
       "source": "arxiv",
-      "title": "Weighted universal approximation of differentiable maps on infinite-dimensional manifolds",
-      "url": "https://arxiv.org/abs/2606.09820",
-      "author": "Philipp Schmocker, Josef Teichmann",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "We generalize the universal approximation theorem for functional input neural networks (FNN) to differentiable maps by including the approximation of the derivatives. A FNN maps the input from a possi…"
+      "title": "Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs",
+      "url": "https://arxiv.org/abs/2605.21115",
+      "author": "Mouhamed Amine Bouchiha, Abdelaziz Amara Korba, Yacine Ghamri-Doudane",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Federated learning (FL) has emerged as a promising paradigm for managing electric vehicle (EV) battery data in intelligent transportation systems (ITS), enabling privacy-preserving tasks such as anoma…"
     },
     {
-      "id": "2606.08843",
+      "id": "2605.20804",
       "source": "arxiv",
-      "title": "From A to B to A: Palindromic Zero-Shot Voice Conversion with Non-Parallel Data",
-      "url": "https://arxiv.org/abs/2606.08843",
-      "author": "Moshe Mandel, Shlomo E. Chazan",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "We present a voice conversion (VC) framework that utilizes K-Nearest Neighbors (KNN) retrieval over WavLM representations to align non-parallel source and target speech, constructing synthetic trainin…"
+      "title": "OlmoEarth v1.2: A more efficient family of OlmoEarth models",
+      "url": "https://arxiv.org/abs/2605.20804",
+      "author": "Gabriel Tseng, Yawen Zhang, Favyen Bastani +8",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "We present a set of improvements to the OlmoEarth family. These improvements allow us to cut compute costs during training ($3.0 \\times$ reduction in GPU hours required to train our Base models) and i…"
     },
     {
-      "id": "2606.06179",
+      "id": "2605.16399",
       "source": "arxiv",
-      "title": "Diffusion Models Observe Only Gradients: A Geometric Perspective on Score Matching Errors",
-      "url": "https://arxiv.org/abs/2606.06179",
-      "author": "Na\\\"il B. Khelifa, Richard E. Turner, Ramji Venkataramanan",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Score-based diffusion models are typically trained by minimizing the $L^2$ score matching error, and standard theoretical analyses rely on this quantity to bound the sampling discrepancy between the l…"
+      "title": "Stable and Near-Reversible Diffusion ODE Solvers for Image Editing",
+      "url": "https://arxiv.org/abs/2605.16399",
+      "author": "Barbora Barancikova, Daniil Shmelev, Cristopher Salvi",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "The inversion of diffusion models plays a central role in image editing. Algebraically reversible ODE solvers provide an appealing approach to diffusion inversion for text-guided image editing, by eli…"
     },
     {
-      "id": "2606.04210",
+      "id": "2605.01133",
       "source": "arxiv",
-      "title": "Representation Matters in Randomized Smoothing for Audio Classification",
-      "url": "https://arxiv.org/abs/2606.04210",
-      "author": "Jong-Ik Park, Shreyas Chaudhari, Jos\\'e M. F. Moura +1",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Randomized smoothing (RS) certifies robustness in the vector space where Gaussian noise is added. In audio classification, this space is often not uniquely defined as standard pipelines normalize, ran…"
+      "title": "When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2605.01133",
+      "author": "Lingxi Zhang, Guangtao Zheng, Hanjie Chen",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Large language model (LLM)-powered multi-agent systems (MAS) enable agents to communicate and share information, achieving strong performance on complex tasks. However, this communication also creates…"
     },
     {
-      "id": "2606.02004",
+      "id": "2604.04050",
       "source": "arxiv",
-      "title": "Machine Learning for Coding Retail Product Names to Consumer-Price Categories: A Rule-plus-Bag-of-Words Pipeline with Reliability-Weighted Human-in-the-Loop Labeling",
-      "url": "https://arxiv.org/abs/2606.02004",
-      "author": "Vladimir Beskorovainyi",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Consumer-price measurement increasingly draws on alternative data sources -- scanner, web-scraped, and transaction/receipt data -- whose product descriptions are short, noisy, and carry no standard pr…"
+      "title": "TORA: Topological Representation Alignment for 3D Shape Assembly",
+      "url": "https://arxiv.org/abs/2604.04050",
+      "author": "Nahyuk Lee, Zhiang Chen, Marc Pollefeys +1",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Flow-matching methods for 3D shape assembly learn point-wise velocity fields that transport parts toward assembled configurations, yet they receive no explicit guidance about which cross-part interact…"
     },
     {
-      "id": "2606.00302",
+      "id": "2603.25622",
       "source": "arxiv",
-      "title": "ERICA: Quantifying Replicability of Cluster Analysis",
-      "url": "https://arxiv.org/abs/2606.00302",
-      "author": "Siamak K. Sorooshyari, Manuel A. Rivas, Robert Tibshirani",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Despite being ubiquitous in science, clustering lacks a unified framework for quantitatively evaluating the replicability of its results. We present evaluating replicability via iterative clustering a…"
+      "title": "The Geometry of Efficient Nonconvex Sampling",
+      "url": "https://arxiv.org/abs/2603.25622",
+      "author": "Santosh S. Vempala, Andre Wibisono",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "We present an efficient algorithm for uniformly sampling from an arbitrary compact body $\\mathcal{X} \\subset \\mathbb{R}^n$ from a warm start under isoperimetry and a natural volume growth condition. O…"
     },
     {
-      "id": "2605.16401",
+      "id": "2603.23297",
       "source": "arxiv",
-      "title": "CADS: Conformal Adaptive Decision System for Cost-Efficient Image Classification",
-      "url": "https://arxiv.org/abs/2605.16401",
-      "author": "Mikael Turkoglu, Tim Bary, Vincent Thielens +2",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "While high-capacity AI models have advanced state-of-the-art performance, their practical deployment is often hindered by high inference costs, environmental impact, and a \"one-size-fits-all\" approach…"
+      "title": "Drop-In Perceptual Optimization for 3D Gaussian Splatting",
+      "url": "https://arxiv.org/abs/2603.23297",
+      "author": "Ezgi Ozyilkan, Zhiqi Chen, Oren Rippel +2",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Despite their output being ultimately consumed by human viewers, 3D Gaussian Splatting (3DGS) methods often rely on ad-hoc combinations of pixel-level losses, resulting in blurry renderings. To addres…"
     },
     {
-      "id": "2605.14925",
+      "id": "2603.18481",
       "source": "arxiv",
-      "title": "Road Maps as Free Geometric Priors: Weather-Invariant Drone Geo-Localization with GeoFuse",
-      "url": "https://arxiv.org/abs/2605.14925",
-      "author": "Yunsong Fang, Tingyu Wang, Zhedong Zheng",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Drone-view geo-localization aims to match a query drone image, often captured under adverse weather conditions (e.g., rain, snow, fog), against a gallery of geo-tagged satellite images. Weather-induce…"
+      "title": "T-QPM: Enabling Temporal Out-Of-Distribution Detection and Domain Generalization for Vision-Language Models in Open-World",
+      "url": "https://arxiv.org/abs/2603.18481",
+      "author": "Aditi Naiknaware, Salimeh Sekeh",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Out-of-distribution (OOD) detection remains a critical challenge in open-world learning, where models must adapt to evolving data distributions. While recent vision-language models (VLMS) like CLIP en…"
     },
     {
-      "id": "2605.13838",
+      "id": "2603.17415",
       "source": "arxiv",
-      "title": "R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow",
-      "url": "https://arxiv.org/abs/2605.13838",
-      "author": "Zijie Wu, Lixin Xu, Puhua Jiang +3",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Video-guided 3D animation holds immense potential for content creation, offering intuitive and precise control over dynamic assets. However, practical deployment faces a critical yet frequently overlo…"
+      "title": "Structured SIR: Efficient and Expressive Importance-Weighted Inference for High-Dimensional Image Registration",
+      "url": "https://arxiv.org/abs/2603.17415",
+      "author": "Ivor J. A. Simpson, Neill D. F. Campbell",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Image registration is an ill-posed dense vision task, where multiple solutions achieve similar loss values, motivating probabilistic inference. Variational inference has previously been employed to ca…"
     },
     {
-      "id": "2605.09454",
+      "id": "2603.14579",
       "source": "arxiv",
-      "title": "Optimal Regret for Single Index Bandits",
-      "url": "https://arxiv.org/abs/2605.09454",
-      "author": "Devdan Dey, Sujoy Bhore, Avishek Ghosh",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "We study the $\\textit{single-index bandit}$ problem, where rewards depend on an unknown one-dimensional projection of high-dimensional contexts through an unknown reward function. This model extends l…"
+      "title": "Medical Image Spatial Grounding with Semantic Sampling",
+      "url": "https://arxiv.org/abs/2603.14579",
+      "author": "Andrew Seohwan Yu, Mohsen Hariri, Kunio Nakamura +3",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Vision language models (VLMs) have shown significant promise in visual grounding for images as well as videos. In medical imaging research, VLMs represent a bridge between object detection and segment…"
     },
     {
-      "id": "2605.01765",
+      "id": "2603.13402",
       "source": "arxiv",
-      "title": "Distributional Causal Mediation via Conditional Generative Modeling",
-      "url": "https://arxiv.org/abs/2605.01765",
-      "author": "Jinlun Zhang, Haoneng Huang, Zishu Zhan +1",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Mediation analysis has traditionally focused on outcome-level summary contrasts, such as mean effects, which may obscure substantial distributional changes induced by complex and nonlinear causal mech…"
+      "title": "Event-Driven Video Generation",
+      "url": "https://arxiv.org/abs/2603.13402",
+      "author": "Chika Maduabuchi, Jindong Wang",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Current text-to-video models can make individual frames look convincing while still getting simple interactions wrong: objects move before contact, an intended action is skipped, a placed object keeps…"
     },
     {
-      "id": "2604.24196",
+      "id": "2602.22083",
       "source": "arxiv",
-      "title": "Identifiability and Stability of Generative Drifting with Companion-Elliptic Kernel Families",
-      "url": "https://arxiv.org/abs/2604.24196",
-      "author": "HakGeun Lee, Hyonho Chun",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "This paper studies the identifiability and stability of drifting fields in the framework of Generative Modeling via Drifting. The motivating question is whether a zero-drift equilibrium identifies the…"
+      "title": "Coarsening Bias from Variable Discretization in Causal Functionals",
+      "url": "https://arxiv.org/abs/2602.22083",
+      "author": "Xiaxian Ou, Razieh Nabi",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Causal identification functionals often require integration over conditional densities of continuous variables, such as those arising in nonparametric identification theory of total and mediated causa…"
     },
     {
-      "id": "2604.14603",
+      "id": "2602.18767",
       "source": "arxiv",
-      "title": "A Synonymous Variational Perspective on the Rate-Distortion-Perception Tradeoff",
-      "url": "https://arxiv.org/abs/2604.14603",
-      "author": "Zijian Liang, Kai Niu, Changshuo Wang +2",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "The fundamental limit of natural signal compression has traditionally been characterized by classical rate-distortion (RD) theory through the tradeoff between coding rate and reconstruction distortion…"
+      "title": "Nazrin: An Atomic Neural Proof Automation Tactic in Lean 4",
+      "url": "https://arxiv.org/abs/2602.18767",
+      "author": "Leni Aniva, Iori Oikawa, David Dill +1",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "In Machine-Assisted Theorem Proving, a theorem proving agent searches for a sequence of expressions and tactics that can prove a statement in a proof assistant. In this work, we introduce several nove…"
     },
     {
-      "id": "2604.07753",
+      "id": "2601.16398",
       "source": "arxiv",
-      "title": "Symbiotic-MoE: Unlocking the Synergy between Generation and Understanding",
-      "url": "https://arxiv.org/abs/2604.07753",
-      "author": "Xiangyue Liu, Zijian Zhang, Miles Yang +3",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Empowering Large Multimodal Models (LMMs) with image generation often leads to catastrophic forgetting in understanding tasks due to severe gradient conflicts. While existing paradigms like Mixture-of…"
+      "title": "White-Box Sensitivity Auditing with Steering Vectors",
+      "url": "https://arxiv.org/abs/2601.16398",
+      "author": "Hannah Cyberey, Yangfeng Ji, David Evans",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Algorithmic audits are essential tools for examining systems for properties required by regulators or desired by operators. Current audits of large language models (LLMs) primarily rely on black-box e…"
     },
     {
-      "id": "2603.15055",
+      "id": "2510.14819",
       "source": "arxiv",
-      "title": "Spatio-temporal probabilistic forecast using MMAF-guided learning",
-      "url": "https://arxiv.org/abs/2603.15055",
-      "author": "Leonardo Bardi, Imma Valentina Curato, Lorenzo Proietti",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "We present a theory-guided generalized Bayesian methodology for spatio-temporal raster data, which we use to train an ensemble of stochastic feed-forward neural networks with Gaussian-distributed weig…"
+      "title": "Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning",
+      "url": "https://arxiv.org/abs/2510.14819",
+      "author": "Ji Cao, Yu Wang, Tongya Zheng +6",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Trajectory representation learning (TRL) aims to encode raw trajectory data into low-dimensional embeddings for downstream tasks such as travel time estimation, mobility prediction, and trajectory sim…"
     },
     {
-      "id": "2603.12222",
+      "id": "2510.09204",
       "source": "arxiv",
-      "title": "HiAP: A Multi-Granular Stochastic Auto-Pruning Framework for Vision Transformers",
-      "url": "https://arxiv.org/abs/2603.12222",
-      "author": "Andy Li, Aiden Durrant, Milan Markovic +1",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Vision Transformers require significant computational resources and memory bandwidth, severely limiting their deployment on resource-constraint hardware. Most structured pruning methods reduce theoret…"
+      "title": "Flow-Opt: Scalable Centralized Multi-Robot Trajectory Optimization with Flow Matching and Differentiable Optimization",
+      "url": "https://arxiv.org/abs/2510.09204",
+      "author": "Simon Idoko, Prajyot Jadhav, Arun Kumar Singh",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Centralized trajectory optimization in the joint space of multiple robots allows access to a larger feasible space that can result in smoother trajectories, especially while planning in tight spaces.…"
     },
     {
-      "id": "2602.24007",
+      "id": "2509.24575",
       "source": "arxiv",
-      "title": "Inference-time optimization for experiment-grounded protein ensemble generation",
-      "url": "https://arxiv.org/abs/2602.24007",
-      "author": "Advaith Maddipatla, Anar Rzayev, Marco Pegoraro +5",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Protein function relies on dynamic conformational ensembles, yet current generative models like AlphaFold3 often fail to produce ensembles that match experimental data. Recent experiment-guided genera…"
+      "title": "Prompting Robot Teams with Natural Language",
+      "url": "https://arxiv.org/abs/2509.24575",
+      "author": "Eduardo Sebasti\\'an, Nicolas Pfitzer, Ajay Shankar +1",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "This paper presents a framework to prompt multi-robot teams with high-level tasks using natural language expressions. Our objective is to use the reasoning capabilities of language models in understan…"
     },
     {
-      "id": "2602.21160",
+      "id": "2509.16248",
       "source": "arxiv",
-      "title": "Not Just How Much, But Where: Decomposing Epistemic Uncertainty into Per-Class Contributions",
-      "url": "https://arxiv.org/abs/2602.21160",
-      "author": "Mame Diarra Toure, David A. Stephens",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "In safety-critical classification, the cost of failure is often asymmetric, yet Bayesian deep learning summarises epistemic uncertainty with a single scalar, mutual information (MI), that cannot disti…"
+      "title": "GraphMend: Code Transformations for Fixing Graph Breaks in PyTorch 2",
+      "url": "https://arxiv.org/abs/2509.16248",
+      "author": "Savini Kashmira, Jayanaka Dantanarayana, Thamirawaran Sathiyalogeswaran +3",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "This paper presents GraphMend, a compiler technique that automatically fixes FX graph breaks in PyTorch 2 programs. Although PyTorch 2 introduced TorchDynamo and TorchInductor to enable just-in-time g…"
     },
     {
-      "id": "2602.19778",
+      "id": "2507.18606",
       "source": "arxiv",
-      "title": "Enhancing Automatic Chord Recognition via Pseudo-Labeling and Knowledge Distillation",
-      "url": "https://arxiv.org/abs/2602.19778",
-      "author": "Nghia Phan, Rong Jin, Gang Liu +1",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Automatic Chord Recognition (ACR) is constrained by the scarcity of aligned chord labels, as well-aligned annotations are costly to acquire. At the same time, open-weight pre-trained models are more a…"
+      "title": "Quantum Bayesian Networks Can Speed up Reinforcement Learning in Partially Observable Environments",
+      "url": "https://arxiv.org/abs/2507.18606",
+      "author": "Gilberto Cunha, Alexandra Ram\\^oa, Andr\\'e Sequeira +2",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Reinforcement learning (RL) provides a principled framework for decision-making in partially observable environments, which can be modeled as Markov decision processes and compactly represented throug…"
     },
     {
-      "id": "2602.18452",
+      "id": "2507.14661",
       "source": "arxiv",
-      "title": "RA-QA: A Benchmarking System for Respiratory Audio Question Answering Under Real-World Heterogeneity",
-      "url": "https://arxiv.org/abs/2602.18452",
-      "author": "Gaia A. Bertolino, Yuwei Zhang, Tong Xia +2",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "As conversational multimodal AI tools are increasingly adopted to process patient data for health assessment, robust benchmarks are needed to measure progress and expose failure modes under realistic…"
+      "title": "When few labeled target data suffice: a theory of semi-supervised domain adaptation via fine-tuning from multiple adaptive starts",
+      "url": "https://arxiv.org/abs/2507.14661",
+      "author": "Wooseok Ha, Yuansi Chen",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Semi-supervised domain adaptation (SSDA) seeks to achieve accurate predictions in a target domain with limited labeled target data by exploiting abundant source and unlabeled target data. We study thi…"
     },
     {
-      "id": "2602.18431",
+      "id": "2507.14023",
       "source": "arxiv",
-      "title": "SMaRT: Online Reusable Resource Assignment and an Application to Mediation in the Kenyan Judiciary",
-      "url": "https://arxiv.org/abs/2602.18431",
-      "author": "Shafkat Farabi, Didac Marti Pinto, Wei Lu +4",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Motivated by the problem of assigning mediators to cases in the Kenyan judicial system, we study an online resource allocation problem where incoming tasks (cases) must be immediately assigned to avai…"
+      "title": "Conformalized Regression for Continuous Bounded Outcomes",
+      "url": "https://arxiv.org/abs/2507.14023",
+      "author": "Zhanli Wu, Fabrizio Leisen, F. Javier Rubio",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Regression problems with bounded continuous outcomes frequently arise in statistical and machine learning applications, such as the analysis of rates and proportions. A central challenge in this setti…"
     },
     {
-      "id": "2602.12418",
+      "id": "2507.00263",
       "source": "arxiv",
-      "title": "Sparse Autoencoders are Capable LLM Jailbreak Mitigators",
-      "url": "https://arxiv.org/abs/2602.12418",
-      "author": "Yannick Assogba, Jacopo Cortellazzi, Javier Abad +3",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Jailbreak attacks remain a persistent threat to large language model safety. We propose Context-Conditioned Delta Steering (CC-Delta), an SAE-based defense that identifies jailbreak-relevant sparse fe…"
+      "title": "Room Scene Discovery and Grouping in Unstructured Vacation Rental Image Collections",
+      "url": "https://arxiv.org/abs/2507.00263",
+      "author": "Vignesh Ram Nithin Kappagantula, Shayan Hassantabar",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "The rapid growth of vacation rental (VR) platforms has led to an increasing volume of property images, often uploaded without structured categorization. This lack of organization poses significant cha…"
     },
     {
-      "id": "2602.07518",
+      "id": "2506.20995",
       "source": "arxiv",
-      "title": "Physical Analogue Kolmogorov-Arnold Networks based on Reconfigurable Nonlinear-Processing Units",
-      "url": "https://arxiv.org/abs/2602.07518",
-      "author": "Manuel Escudero, Mohamadreza Zolfagharinejad, Sjoerd van den Belt +2",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Kolmogorov-Arnold Networks (KANs) shift neural computation from linear layers to learnable nonlinear edge functions, but implementing these nonlinearities efficiently in hardware remains an open chall…"
+      "title": "Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance",
+      "url": "https://arxiv.org/abs/2506.20995",
+      "author": "Akio Hayakawa, Masato Ishii, Takashi Shibuya +1",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "We propose a step-by-step video-to-audio (V2A) generation method that provides finer control over the generation process and more realistic audio synthesis. Inspired by traditional Foley workflows, ou…"
     },
     {
-      "id": "2602.06989",
+      "id": "2410.11894",
       "source": "arxiv",
-      "title": "Machine learning enhanced data assimilation framework for multiscale carbonate rock characterization",
-      "url": "https://arxiv.org/abs/2602.06989",
-      "author": "Zhenkai Bo, Ahmed H. Elsheikh, Hannah P. Menke +5",
-      "publishedAt": "2026-06-30T04:00:00.000Z",
-      "summary": "Carbonate reservoirs offer significant capacity for subsurface carbon storage, oil production, and underground hydrogen storage. X-ray computed tomography (X-ray CT) coupled with numerical simulations…"
+      "title": "Automated Discovery of Operable Dynamics from Videos",
+      "url": "https://arxiv.org/abs/2410.11894",
+      "author": "Kuang Huang, Dong Heon Cho, Boyuan Chen",
+      "publishedAt": "2026-07-01T04:00:00.000Z",
+      "summary": "Dynamical systems form the foundation of scientific discovery, traditionally modeled with predefined state variables such as the angle and angular velocity, and differential equations such as the equa…"
     }
   ]
 }

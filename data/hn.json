@@ -1,106 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-01T02:49:06.742Z",
+  "fetchedAt": "2026-07-01T14:19:07.693Z",
   "items": [
-    {
-      "id": "48736605",
-      "source": "hn",
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 889,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48736605",
-      "author": "marinesebastian",
-      "publishedAt": "2026-06-30T17:59:52.000Z"
-    },
     {
       "id": "48734373",
       "source": "hn",
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 1429,
+      "score": 2262,
       "commentsUrl": "https://news.ycombinator.com/item?id=48734373",
       "author": "kirushik",
       "publishedAt": "2026-06-30T15:44:24.000Z"
     },
     {
-      "id": "48740771",
+      "id": "48736605",
       "source": "hn",
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 232,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48740771",
-      "author": "Pragmata",
-      "publishedAt": "2026-06-30T23:55:12.000Z"
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "score": 1186,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48736605",
+      "author": "marinesebastian",
+      "publishedAt": "2026-06-30T17:59:52.000Z"
+    },
+    {
+      "id": "48743472",
+      "source": "hn",
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "score": 404,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48743472",
+      "author": "pjmlp",
+      "publishedAt": "2026-07-01T07:43:22.000Z"
     },
     {
       "id": "48735770",
       "source": "hn",
       "title": "Claude Science",
       "url": "https://claude.com/product/claude-science",
-      "score": 371,
+      "score": 524,
       "commentsUrl": "https://news.ycombinator.com/item?id=48735770",
       "author": "lebovic",
       "publishedAt": "2026-06-30T17:07:41.000Z"
+    },
+    {
+      "id": "48740771",
+      "source": "hn",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "score": 810,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48740771",
+      "author": "Pragmata",
+      "publishedAt": "2026-06-30T23:55:12.000Z"
+    },
+    {
+      "id": "48745160",
+      "source": "hn",
+      "title": "Claude's writing style has me on edge",
+      "url": "https://jerodsanto.net/2026/06/claudes-writing-style-has-me-on-edge/",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48745160",
+      "author": "mooreds",
+      "publishedAt": "2026-07-01T11:41:27.000Z"
+    },
+    {
+      "id": "48742354",
+      "source": "hn",
+      "title": "Anthropic says US lifts export ban on Fable 5",
+      "url": "https://www.bbc.com/news/articles/cdr42623e1do",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48742354",
+      "author": "tobr",
+      "publishedAt": "2026-07-01T04:47:38.000Z"
     },
     {
       "id": "48721903",
       "source": "hn",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 1146,
+      "score": 1171,
       "commentsUrl": "https://news.ycombinator.com/item?id=48721903",
       "author": "stared",
       "publishedAt": "2026-06-29T17:05:16.000Z"
     },
     {
-      "id": "48740758",
+      "id": "48745966",
       "source": "hn",
-      "title": "Anthropic Mythos & Fable 5 export restrictions lifted",
-      "url": "https://www.reddit.com/r/ClaudeAI/s/GOQWdGc7Pu",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48740758",
-      "author": "bhouston",
-      "publishedAt": "2026-06-30T23:53:24.000Z"
+      "title": "Meta Is Building a Cloud Business to Sell Excess AI Compute",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48745966",
+      "author": "jmsflknr",
+      "publishedAt": "2026-07-01T12:56:54.000Z"
     },
     {
-      "id": "48739168",
+      "id": "48743203",
       "source": "hn",
-      "title": "Claude Code Just Got 5x More Expensive",
-      "url": "https://www.vincentschmalbach.com/claude-code-quietly-looks-5x-more-expensive/",
-      "score": 43,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48739168",
-      "author": "vincent_s",
-      "publishedAt": "2026-06-30T21:03:56.000Z"
+      "title": "Liquid AI releases a 230M model optimized for phones, Raspberry Pi, and robots",
+      "url": "https://www.liquid.ai/blog/lfm2-5-230m",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48743203",
+      "author": "mpfect",
+      "publishedAt": "2026-07-01T07:03:12.000Z"
     },
     {
-      "id": "48720064",
+      "id": "48742176",
       "source": "hn",
-      "title": "Working With AI: A concrete example",
-      "url": "https://htmx.org/essays/working-with-ai/",
-      "score": 186,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48720064",
-      "author": "comma_at",
-      "publishedAt": "2026-06-29T14:53:41.000Z"
-    },
-    {
-      "id": "48740805",
-      "source": "hn",
-      "title": "Anthropic restoring access to Claude Fable 5 and Mythos 5 from tomorrow",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 47,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48740805",
-      "author": "schappim",
-      "publishedAt": "2026-06-30T23:59:17.000Z"
-    },
-    {
-      "id": "48709670",
-      "source": "hn",
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 1097,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48709670",
-      "author": "jms703",
-      "publishedAt": "2026-06-28T17:50:47.000Z"
+      "title": "How employment changes when firms adopt generative AI",
+      "url": "https://ramp.com/data/ai-jobs-impact",
+      "score": 48,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48742176",
+      "author": "nreece",
+      "publishedAt": "2026-07-01T04:14:11.000Z"
     }
   ]
 }

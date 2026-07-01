@@ -1,7 +1,115 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-01T02:49:07.432Z",
+  "fetchedAt": "2026-07-01T14:19:08.586Z",
   "items": [
+    {
+      "id": "31010",
+      "source": "geeknews",
+      "title": "작가에게 “AI 어떻게 생각하세요?”라고 묻지 말라",
+      "url": "https://news.hada.io/topic?id=31010",
+      "commentsUrl": "https://news.hada.io/topic?id=31010",
+      "author": "neo",
+      "publishedAt": "2026-07-01T14:04:16.000Z"
+    },
+    {
+      "id": "31009",
+      "source": "geeknews",
+      "title": "폰으로 Claude Code 실행 — 컨텍스트 유실 없는 AI 프로젝트 허브 (AGPL v3 오픈소스)",
+      "url": "https://news.hada.io/topic?id=31009",
+      "commentsUrl": "https://news.hada.io/topic?id=31009",
+      "author": "nave94",
+      "publishedAt": "2026-07-01T13:52:00.000Z"
+    },
+    {
+      "id": "31008",
+      "source": "geeknews",
+      "title": "jj jj jj jj jj",
+      "url": "https://news.hada.io/topic?id=31008",
+      "commentsUrl": "https://news.hada.io/topic?id=31008",
+      "author": "neo",
+      "publishedAt": "2026-07-01T12:02:08.000Z"
+    },
+    {
+      "id": "31007",
+      "source": "geeknews",
+      "title": "Show GN: Branch of Thought – Claude·ChatGPT 대화의 숨은 분기를 그래프로 보여주는 크롬 확장",
+      "url": "https://news.hada.io/topic?id=31007",
+      "commentsUrl": "https://news.hada.io/topic?id=31007",
+      "author": "namarie32ilu",
+      "publishedAt": "2026-07-01T11:29:15.000Z"
+    },
+    {
+      "id": "31006",
+      "source": "geeknews",
+      "title": "TS 컴파일러로 만든 코드 그래프 MCP, Claude Code 토큰 10배 절감",
+      "url": "https://news.hada.io/topic?id=31006",
+      "commentsUrl": "https://news.hada.io/topic?id=31006",
+      "author": "autobe",
+      "publishedAt": "2026-07-01T11:21:28.000Z"
+    },
+    {
+      "id": "31005",
+      "source": "geeknews",
+      "title": "주거용 프록시의 위협",
+      "url": "https://news.hada.io/topic?id=31005",
+      "commentsUrl": "https://news.hada.io/topic?id=31005",
+      "author": "neo",
+      "publishedAt": "2026-07-01T11:03:14.000Z"
+    },
+    {
+      "id": "31003",
+      "source": "geeknews",
+      "title": "Soatok의 비공식 위협 모델 가이드",
+      "url": "https://news.hada.io/topic?id=31003",
+      "commentsUrl": "https://news.hada.io/topic?id=31003",
+      "author": "neo",
+      "publishedAt": "2026-07-01T09:05:14.000Z"
+    },
+    {
+      "id": "31002",
+      "source": "geeknews",
+      "title": "Show GN: [프롬프트] AI 1:1 밀착 원어민 튜터",
+      "url": "https://news.hada.io/topic?id=31002",
+      "commentsUrl": "https://news.hada.io/topic?id=31002",
+      "author": "getter",
+      "publishedAt": "2026-07-01T06:36:04.000Z"
+    },
+    {
+      "id": "31000",
+      "source": "geeknews",
+      "title": "Show GN: CTX v0.3.40 — Claude Code 세션 간 persistent memory (98명 사용자, 월 2,726 다운로드)",
+      "url": "https://news.hada.io/topic?id=31000",
+      "commentsUrl": "https://news.hada.io/topic?id=31000",
+      "author": "nave94",
+      "publishedAt": "2026-07-01T05:46:25.000Z"
+    },
+    {
+      "id": "30999",
+      "source": "geeknews",
+      "title": "Claude Science 공개 베타",
+      "url": "https://news.hada.io/topic?id=30999",
+      "commentsUrl": "https://news.hada.io/topic?id=30999",
+      "author": "neo",
+      "publishedAt": "2026-07-01T05:38:23.000Z"
+    },
+    {
+      "id": "30998",
+      "source": "geeknews",
+      "title": "Claude Fable 5와 Mythos 5 수출 통제 해제",
+      "url": "https://news.hada.io/topic?id=30998",
+      "commentsUrl": "https://news.hada.io/topic?id=30998",
+      "author": "neo",
+      "publishedAt": "2026-07-01T04:34:48.000Z"
+    },
+    {
+      "id": "30997",
+      "source": "geeknews",
+      "title": "37개 데이터센터 둔 Henrico County, 학교에 전기 절약 요청",
+      "url": "https://news.hada.io/topic?id=30997",
+      "commentsUrl": "https://news.hada.io/topic?id=30997",
+      "author": "neo",
+      "publishedAt": "2026-07-01T03:35:24.000Z"
+    },
     {
       "id": "30996",
       "source": "geeknews",
@@ -163,114 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=30978",
       "author": "neo",
       "publishedAt": "2026-06-30T20:34:21.000Z"
-    },
-    {
-      "id": "30977",
-      "source": "geeknews",
-      "title": "SSH를 위한 네이티브 그래픽 셸",
-      "url": "https://news.hada.io/topic?id=30977",
-      "commentsUrl": "https://news.hada.io/topic?id=30977",
-      "author": "neo",
-      "publishedAt": "2026-06-30T19:35:23.000Z"
-    },
-    {
-      "id": "30976",
-      "source": "geeknews",
-      "title": "유럽 ISP들, 과잉 차단 피해에 권리자 책임 요구",
-      "url": "https://news.hada.io/topic?id=30976",
-      "commentsUrl": "https://news.hada.io/topic?id=30976",
-      "author": "neo",
-      "publishedAt": "2026-06-30T16:34:57.000Z"
-    },
-    {
-      "id": "30974",
-      "source": "geeknews",
-      "title": "Rust의 std::pin::Pin은 무엇인가?",
-      "url": "https://news.hada.io/topic?id=30974",
-      "commentsUrl": "https://news.hada.io/topic?id=30974",
-      "author": "neo",
-      "publishedAt": "2026-06-30T15:04:49.000Z"
-    },
-    {
-      "id": "30973",
-      "source": "geeknews",
-      "title": "EU 연령 확인, 무엇이 문제인가? (없음)",
-      "url": "https://news.hada.io/topic?id=30973",
-      "commentsUrl": "https://news.hada.io/topic?id=30973",
-      "author": "neo",
-      "publishedAt": "2026-06-30T11:05:01.000Z"
-    },
-    {
-      "id": "30972",
-      "source": "geeknews",
-      "title": "Show GN: AI한테 메일 맡기지 마라 — 인박스엔 비서가 아니라 '방화벽'이 필요하다 (오픈소스)",
-      "url": "https://news.hada.io/topic?id=30972",
-      "commentsUrl": "https://news.hada.io/topic?id=30972",
-      "author": "k08200",
-      "publishedAt": "2026-06-30T09:24:47.000Z"
-    },
-    {
-      "id": "30971",
-      "source": "geeknews",
-      "title": "Show GN: 실제 사람처럼 테스트를 수행하는 SaaS",
-      "url": "https://news.hada.io/topic?id=30971",
-      "commentsUrl": "https://news.hada.io/topic?id=30971",
-      "author": "dunward",
-      "publishedAt": "2026-06-30T07:28:14.000Z"
-    },
-    {
-      "id": "30968",
-      "source": "geeknews",
-      "title": "진 상자 운반에 30년형, 표현의 자유 위기",
-      "url": "https://news.hada.io/topic?id=30968",
-      "commentsUrl": "https://news.hada.io/topic?id=30968",
-      "author": "neo",
-      "publishedAt": "2026-06-30T04:36:39.000Z"
-    },
-    {
-      "id": "30967",
-      "source": "geeknews",
-      "title": "ArmSoM Sige7로 구축한 저전력 고성능 홈 NVR 시스템",
-      "url": "https://news.hada.io/topic?id=30967",
-      "commentsUrl": "https://news.hada.io/topic?id=30967",
-      "author": "armsomyla",
-      "publishedAt": "2026-06-30T03:07:47.000Z"
-    },
-    {
-      "id": "30965",
-      "source": "geeknews",
-      "title": "클로드 코드 창시자가 말하는 AI 시대의 다섯 가지 일하는 사람의 원형(archetype)",
-      "url": "https://news.hada.io/topic?id=30965",
-      "commentsUrl": "https://news.hada.io/topic?id=30965",
-      "author": "jaehong747",
-      "publishedAt": "2026-06-30T02:24:34.000Z"
-    },
-    {
-      "id": "30963",
-      "source": "geeknews",
-      "title": "Instagram, Meta Glasses 광고에 사용자 사진 활용",
-      "url": "https://news.hada.io/topic?id=30963",
-      "commentsUrl": "https://news.hada.io/topic?id=30963",
-      "author": "xguru",
-      "publishedAt": "2026-06-30T01:14:04.000Z"
-    },
-    {
-      "id": "30962",
-      "source": "geeknews",
-      "title": "미국 대법원, 지오펜스 영장에 헌법상 개인정보 보호 필요 판결",
-      "url": "https://news.hada.io/topic?id=30962",
-      "commentsUrl": "https://news.hada.io/topic?id=30962",
-      "author": "neo",
-      "publishedAt": "2026-06-30T00:50:06.000Z"
-    },
-    {
-      "id": "30961",
-      "source": "geeknews",
-      "title": "Mullvad CEO가 스웨덴 극우 Örebro party의 주요 자금 제공자라는 주장",
-      "url": "https://news.hada.io/topic?id=30961",
-      "commentsUrl": "https://news.hada.io/topic?id=30961",
-      "author": "neo",
-      "publishedAt": "2026-06-30T00:47:06.000Z"
     }
   ]
 }
