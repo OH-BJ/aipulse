@@ -1,7 +1,79 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-02T02:38:52.976Z",
+  "fetchedAt": "2026-07-02T13:43:58.605Z",
   "items": [
+    {
+      "id": "31047",
+      "source": "geeknews",
+      "title": "ZCode: GLM-5.2용 공식 하네스",
+      "url": "https://news.hada.io/topic?id=31047",
+      "commentsUrl": "https://news.hada.io/topic?id=31047",
+      "author": "neo",
+      "publishedAt": "2026-07-02T12:36:04.000Z"
+    },
+    {
+      "id": "31046",
+      "source": "geeknews",
+      "title": "Show GN: AI를 위한, 대한민국 대중교통 경로 & 비용 탐색 CLI, MCP 서버",
+      "url": "https://news.hada.io/topic?id=31046",
+      "commentsUrl": "https://news.hada.io/topic?id=31046",
+      "author": "rlarudgh2017",
+      "publishedAt": "2026-07-02T10:11:59.000Z"
+    },
+    {
+      "id": "31043",
+      "source": "geeknews",
+      "title": "수동 Ethernet 탭 만들기",
+      "url": "https://news.hada.io/topic?id=31043",
+      "commentsUrl": "https://news.hada.io/topic?id=31043",
+      "author": "neo",
+      "publishedAt": "2026-07-02T07:02:48.000Z"
+    },
+    {
+      "id": "31041",
+      "source": "geeknews",
+      "title": "\"프론티어 AI가 의료 전문 툴 이겼다\"는 논문 재검증해보니 — 채점자간 일치도 0.10, 채점자가 곧 참가자",
+      "url": "https://news.hada.io/topic?id=31041",
+      "commentsUrl": "https://news.hada.io/topic?id=31041",
+      "author": "flamehaven01",
+      "publishedAt": "2026-07-02T05:58:33.000Z"
+    },
+    {
+      "id": "31038",
+      "source": "geeknews",
+      "title": "Show GN: 내부 사용자용 페이지 배포 플랫폼",
+      "url": "https://news.hada.io/topic?id=31038",
+      "commentsUrl": "https://news.hada.io/topic?id=31038",
+      "author": "toughrogrammer",
+      "publishedAt": "2026-07-02T04:19:41.000Z"
+    },
+    {
+      "id": "31037",
+      "source": "geeknews",
+      "title": "Box3D - 오픈소스 3D 물리 엔진 공개",
+      "url": "https://news.hada.io/topic?id=31037",
+      "commentsUrl": "https://news.hada.io/topic?id=31037",
+      "author": "neo",
+      "publishedAt": "2026-07-02T03:36:23.000Z"
+    },
+    {
+      "id": "31036",
+      "source": "geeknews",
+      "title": "Show GN: Ship - 로컬 프로젝트를 내 도메인에 바로 띄우는 오픈소스 배포 도구",
+      "url": "https://news.hada.io/topic?id=31036",
+      "commentsUrl": "https://news.hada.io/topic?id=31036",
+      "author": "gronxb",
+      "publishedAt": "2026-07-02T03:32:07.000Z"
+    },
+    {
+      "id": "31035",
+      "source": "geeknews",
+      "title": "Fable 5가 다시 돌아옴",
+      "url": "https://news.hada.io/topic?id=31035",
+      "commentsUrl": "https://news.hada.io/topic?id=31035",
+      "author": "xguru",
+      "publishedAt": "2026-07-02T02:48:53.000Z"
+    },
     {
       "id": "31034",
       "source": "geeknews",
@@ -199,78 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31012",
       "author": "ironman0722",
       "publishedAt": "2026-07-01T16:52:57.000Z"
-    },
-    {
-      "id": "31011",
-      "source": "geeknews",
-      "title": "Knoppix - CD/DVD/USB에서 부팅되는 Live Linux",
-      "url": "https://news.hada.io/topic?id=31011",
-      "commentsUrl": "https://news.hada.io/topic?id=31011",
-      "author": "neo",
-      "publishedAt": "2026-07-01T15:34:27.000Z"
-    },
-    {
-      "id": "31010",
-      "source": "geeknews",
-      "title": "작가에게 “AI 어떻게 생각하세요?”라고 그만 물어보세요",
-      "url": "https://news.hada.io/topic?id=31010",
-      "commentsUrl": "https://news.hada.io/topic?id=31010",
-      "author": "neo",
-      "publishedAt": "2026-07-01T14:04:16.000Z"
-    },
-    {
-      "id": "31008",
-      "source": "geeknews",
-      "title": "jj jj jj jj jj",
-      "url": "https://news.hada.io/topic?id=31008",
-      "commentsUrl": "https://news.hada.io/topic?id=31008",
-      "author": "neo",
-      "publishedAt": "2026-07-01T12:02:08.000Z"
-    },
-    {
-      "id": "31007",
-      "source": "geeknews",
-      "title": "Show GN: Branch of Thought – Claude·ChatGPT 대화의 숨은 분기를 그래프로 보여주는 크롬 확장",
-      "url": "https://news.hada.io/topic?id=31007",
-      "commentsUrl": "https://news.hada.io/topic?id=31007",
-      "author": "namarie32ilu",
-      "publishedAt": "2026-07-01T11:29:15.000Z"
-    },
-    {
-      "id": "31006",
-      "source": "geeknews",
-      "title": "TS 컴파일러로 만든 코드 그래프 MCP, Claude Code 토큰 10배 절감",
-      "url": "https://news.hada.io/topic?id=31006",
-      "commentsUrl": "https://news.hada.io/topic?id=31006",
-      "author": "autobe",
-      "publishedAt": "2026-07-01T11:21:28.000Z"
-    },
-    {
-      "id": "31005",
-      "source": "geeknews",
-      "title": "주거용 프록시의 위협",
-      "url": "https://news.hada.io/topic?id=31005",
-      "commentsUrl": "https://news.hada.io/topic?id=31005",
-      "author": "neo",
-      "publishedAt": "2026-07-01T11:03:14.000Z"
-    },
-    {
-      "id": "31003",
-      "source": "geeknews",
-      "title": "Soatok의 비공식 위협 모델 가이드",
-      "url": "https://news.hada.io/topic?id=31003",
-      "commentsUrl": "https://news.hada.io/topic?id=31003",
-      "author": "neo",
-      "publishedAt": "2026-07-01T09:05:14.000Z"
-    },
-    {
-      "id": "31002",
-      "source": "geeknews",
-      "title": "Show GN: [프롬프트] AI 1:1 밀착 원어민 튜터",
-      "url": "https://news.hada.io/topic?id=31002",
-      "commentsUrl": "https://news.hada.io/topic?id=31002",
-      "author": "getter",
-      "publishedAt": "2026-07-01T06:36:04.000Z"
     }
   ]
 }

@@ -1,106 +1,86 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-02T02:38:52.565Z",
+  "fetchedAt": "2026-07-02T13:43:58.374Z",
   "items": [
     {
-      "id": "48754713",
+      "id": "48760598",
       "source": "hn",
-      "title": "Meta caps internal AI token spending",
-      "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
-      "score": 121,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48754713",
-      "author": "typeofhuman",
-      "publishedAt": "2026-07-01T23:58:48.000Z"
+      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "score": 47,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48760598",
+      "author": "thm",
+      "publishedAt": "2026-07-02T12:40:36.000Z"
+    },
+    {
+      "id": "48761088",
+      "source": "hn",
+      "title": "In the age of algorithms and AI, is traditional media democracy's defence?",
+      "url": "https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48761088",
+      "author": "jruohonen",
+      "publishedAt": "2026-07-02T13:16:54.000Z"
+    },
+    {
+      "id": "48745590",
+      "source": "hn",
+      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+      "url": "https://github.com/emson/claudoro",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48745590",
+      "author": "emson",
+      "publishedAt": "2026-07-01T12:25:29.000Z"
     },
     {
       "id": "48740771",
       "source": "hn",
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 923,
+      "score": 945,
       "commentsUrl": "https://news.ycombinator.com/item?id=48740771",
       "author": "Pragmata",
       "publishedAt": "2026-06-30T23:55:12.000Z"
+    },
+    {
+      "id": "48760093",
+      "source": "hn",
+      "title": "Will tech giants ever let us opt out of AI search features?",
+      "url": "https://www.fastcompany.com/91561463/google-ai-overviews-users-opt-out-will-that-change",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48760093",
+      "author": "anticorporate",
+      "publishedAt": "2026-07-02T12:01:41.000Z"
     },
     {
       "id": "48734373",
       "source": "hn",
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 2368,
+      "score": 2394,
       "commentsUrl": "https://news.ycombinator.com/item?id=48734373",
       "author": "kirushik",
       "publishedAt": "2026-06-30T15:44:24.000Z"
-    },
-    {
-      "id": "48755439",
-      "source": "hn",
-      "title": "I'm Begging You to Leave Your AI Note-Taker at Home",
-      "url": "https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48755439",
-      "author": "cratermoon",
-      "publishedAt": "2026-07-02T01:46:59.000Z"
-    },
-    {
-      "id": "48755488",
-      "source": "hn",
-      "title": "Claude Sonnet 5 Is Not Frontier but Has Its Uses",
-      "url": "https://thezvi.substack.com/p/claude-sonnet-5-is-not-frontier-but",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48755488",
-      "author": "paulpauper",
-      "publishedAt": "2026-07-02T01:54:23.000Z"
-    },
-    {
-      "id": "48753927",
-      "source": "hn",
-      "title": "'It's like having a dumb friend': Young San Franciscans hate AI",
-      "url": "https://www.sfgate.com/tech/article/san-francisco-ai-backlash-22325141.php",
-      "score": 35,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48753927",
-      "author": "turtlegrids",
-      "publishedAt": "2026-07-01T22:22:14.000Z"
-    },
-    {
-      "id": "48754099",
-      "source": "hn",
-      "title": "Weird Al declined 'a nice pile of money' to star in AI ad",
-      "url": "https://www.avclub.com/weird-al-yankovic-ai-commercial-exit",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48754099",
-      "author": "jimt1234",
-      "publishedAt": "2026-07-01T22:41:08.000Z"
-    },
-    {
-      "id": "48753831",
-      "source": "hn",
-      "title": "Your Site, your rules: new AI traffic options for all customers",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48753831",
-      "author": "tcp_handshaker",
-      "publishedAt": "2026-07-01T22:13:44.000Z"
     },
     {
       "id": "48736605",
       "source": "hn",
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 1240,
+      "score": 1248,
       "commentsUrl": "https://news.ycombinator.com/item?id=48736605",
       "author": "marinesebastian",
       "publishedAt": "2026-06-30T17:59:52.000Z"
     },
     {
-      "id": "48748447",
+      "id": "48759754",
       "source": "hn",
-      "title": "Welcome to the Dual State of AI Regulation",
-      "url": "https://www.thefunsinthefight.com/p/welcome-to-the-dual-state-of-ai-regulation",
-      "score": 17,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48748447",
-      "author": "m-hodges",
-      "publishedAt": "2026-07-01T15:26:38.000Z"
+      "title": "Anthropic embedded spyware in Claude Code – and attempted to hide it from you",
+      "url": "https://old.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48759754",
+      "author": "rvnx",
+      "publishedAt": "2026-07-02T11:29:33.000Z"
     }
   ]
 }
