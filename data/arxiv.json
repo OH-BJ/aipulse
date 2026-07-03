@@ -1,6 +1,6 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-07-02T13:43:57.701Z",
+  "fetchedAt": "2026-07-03T02:14:01.446Z",
   "items": [
     {
       "id": "2606.29228",
@@ -27,7 +27,7 @@
       "url": "https://arxiv.org/abs/2606.25169",
       "author": "Alois Duston, Tan Bui-Thanh",
       "publishedAt": "2026-07-02T04:00:00.000Z",
-      "summary": "Sampling from an unnormalized target by reversing an Ornstein-Uhlenbeck diffusion requires the score of each noise-perturbed marginal. Tweedie's identity and a target-score identity give unbiased fini…"
+      "summary": "Sampling from an unnormalized target density by reversing an Ornstein-Uhlenbeck diffusion requires the score of each noise-perturbed marginal law. Two exact identities are available: Tweedie's identit…"
     },
     {
       "id": "2606.22180",
