@@ -1,13 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-03T02:14:01.519Z",
+  "fetchedAt": "2026-07-03T13:48:52.195Z",
   "items": [
+    {
+      "id": "48774414",
+      "source": "hn",
+      "title": "Please stop the AI confidence theater",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48774414",
+      "author": "skadamat",
+      "publishedAt": "2026-07-03T12:51:17.000Z"
+    },
+    {
+      "id": "48772443",
+      "source": "hn",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "score": 204,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48772443",
+      "author": "nsoonhui",
+      "publishedAt": "2026-07-03T08:31:37.000Z"
+    },
     {
       "id": "48766026",
       "source": "hn",
       "title": "The short leash AI coding method for beating Fable",
       "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "score": 65,
+      "score": 158,
       "commentsUrl": "https://news.ycombinator.com/item?id=48766026",
       "author": "Riseed",
       "publishedAt": "2026-07-02T19:11:57.000Z"
@@ -17,90 +37,70 @@
       "source": "hn",
       "title": "Claude-real-video － any LLM can watch a video",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "score": 82,
+      "score": 147,
       "commentsUrl": "https://news.ycombinator.com/item?id=48766005",
       "author": "cortexosmain",
       "publishedAt": "2026-07-02T19:10:12.000Z"
     },
     {
-      "id": "48767058",
+      "id": "48774246",
       "source": "hn",
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48767058",
-      "author": "cwwc",
-      "publishedAt": "2026-07-02T20:38:06.000Z"
+      "title": "AI Data Centers Use More Water Than Most Tech Giants Report",
+      "url": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
+      "score": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48774246",
+      "author": "bradleyjg",
+      "publishedAt": "2026-07-03T12:33:20.000Z"
     },
     {
       "id": "48761536",
       "source": "hn",
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
       "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "score": 361,
+      "score": 384,
       "commentsUrl": "https://news.ycombinator.com/item?id=48761536",
       "author": "mushstory",
       "publishedAt": "2026-07-02T13:43:41.000Z"
     },
     {
-      "id": "48752948",
+      "id": "48774429",
       "source": "hn",
-      "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
-      "url": "https://github.com/clidey/deptrust",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48752948",
-      "author": "modelorona",
-      "publishedAt": "2026-07-01T20:51:47.000Z"
-    },
-    {
-      "id": "48745590",
-      "source": "hn",
-      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
-      "url": "https://github.com/emson/claudoro",
-      "score": 45,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48745590",
-      "author": "emson",
-      "publishedAt": "2026-07-01T12:25:29.000Z"
-    },
-    {
-      "id": "48761096",
-      "source": "hn",
-      "title": "Show HN: I built an open-source alternative to Claude Cowork",
-      "url": "https://github.com/valmishq/valmis",
-      "score": 26,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48761096",
-      "author": "wayneshng",
-      "publishedAt": "2026-07-02T13:17:49.000Z"
-    },
-    {
-      "id": "48766635",
-      "source": "hn",
-      "title": "AI content flood: why the web's signal is dying",
-      "url": "https://psyll.com/articles/technology/ai-machine-learning/ai-content-flood-why-the-webs-signal-is-dying",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48766635",
-      "author": "lucasfletcher",
-      "publishedAt": "2026-07-02T20:04:05.000Z"
-    },
-    {
-      "id": "48767942",
-      "source": "hn",
-      "title": "'Weird Al' Yankovic Pulled Out of AI Ad",
-      "url": "https://variety.com/2026/music/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/",
-      "score": 22,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48767942",
-      "author": "cdrnsf",
-      "publishedAt": "2026-07-02T22:01:52.000Z"
+      "title": "Gemini Code Assist will be shut down on July 17",
+      "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48774429",
+      "author": "ushakov",
+      "publishedAt": "2026-07-03T12:52:48.000Z"
     },
     {
       "id": "48740771",
       "source": "hn",
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 963,
+      "score": 965,
       "commentsUrl": "https://news.ycombinator.com/item?id=48740771",
       "author": "Pragmata",
       "publishedAt": "2026-06-30T23:55:12.000Z"
+    },
+    {
+      "id": "48734373",
+      "source": "hn",
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 2423,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48734373",
+      "author": "kirushik",
+      "publishedAt": "2026-06-30T15:44:24.000Z"
+    },
+    {
+      "id": "48745590",
+      "source": "hn",
+      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+      "url": "https://github.com/emson/claudoro",
+      "score": 48,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48745590",
+      "author": "emson",
+      "publishedAt": "2026-07-01T12:25:29.000Z"
     }
   ]
 }
