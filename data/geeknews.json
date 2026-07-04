@@ -1,7 +1,196 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-03T13:48:52.489Z",
+  "fetchedAt": "2026-07-04T02:12:15.963Z",
   "items": [
+    {
+      "id": "31114",
+      "source": "geeknews",
+      "title": "Costco는 안티-Amazon이다",
+      "url": "https://news.hada.io/topic?id=31114",
+      "commentsUrl": "https://news.hada.io/topic?id=31114",
+      "author": "xguru",
+      "publishedAt": "2026-07-04T01:58:44.000Z"
+    },
+    {
+      "id": "31113",
+      "source": "geeknews",
+      "title": "Fable을 이기는 ‘짧은 목줄’ AI 코딩 방법",
+      "url": "https://news.hada.io/topic?id=31113",
+      "commentsUrl": "https://news.hada.io/topic?id=31113",
+      "author": "xguru",
+      "publishedAt": "2026-07-04T01:55:43.000Z"
+    },
+    {
+      "id": "31112",
+      "source": "geeknews",
+      "title": "세션 기록을 기억하는건 에이전트에 유용하지 않음",
+      "url": "https://news.hada.io/topic?id=31112",
+      "commentsUrl": "https://news.hada.io/topic?id=31112",
+      "author": "xguru",
+      "publishedAt": "2026-07-04T01:55:12.000Z"
+    },
+    {
+      "id": "31111",
+      "source": "geeknews",
+      "title": "Show GN: Retry-now, 지금 바로 윤회 - 완전 자율 루프 에이전트",
+      "url": "https://news.hada.io/topic?id=31111",
+      "commentsUrl": "https://news.hada.io/topic?id=31111",
+      "author": "owjs3901",
+      "publishedAt": "2026-07-04T01:50:23.000Z"
+    },
+    {
+      "id": "31107",
+      "source": "geeknews",
+      "title": "Fable 필드 가이드: 나의 미지(Unknowns) 찾기",
+      "url": "https://news.hada.io/topic?id=31107",
+      "commentsUrl": "https://news.hada.io/topic?id=31107",
+      "author": "neo",
+      "publishedAt": "2026-07-04T01:03:02.000Z"
+    },
+    {
+      "id": "31106",
+      "source": "geeknews",
+      "title": "루프 엔지니어링의 미학 (The Art of Loop Engineering)",
+      "url": "https://news.hada.io/topic?id=31106",
+      "commentsUrl": "https://news.hada.io/topic?id=31106",
+      "author": "neo",
+      "publishedAt": "2026-07-04T00:36:02.000Z"
+    },
+    {
+      "id": "31105",
+      "source": "geeknews",
+      "title": "1인 창업자의 시대",
+      "url": "https://news.hada.io/topic?id=31105",
+      "commentsUrl": "https://news.hada.io/topic?id=31105",
+      "author": "neo",
+      "publishedAt": "2026-07-04T00:35:02.000Z"
+    },
+    {
+      "id": "31104",
+      "source": "geeknews",
+      "title": "epiq - Git 기반 분산형 로컬 CLI 네이티브 이슈 트래커",
+      "url": "https://news.hada.io/topic?id=31104",
+      "commentsUrl": "https://news.hada.io/topic?id=31104",
+      "author": "xguru",
+      "publishedAt": "2026-07-04T00:31:02.000Z"
+    },
+    {
+      "id": "31103",
+      "source": "geeknews",
+      "title": "KDE Plasma에서 샌드박스를 깨는 임의 코드 실행 취약점",
+      "url": "https://news.hada.io/topic?id=31103",
+      "commentsUrl": "https://news.hada.io/topic?id=31103",
+      "author": "neo",
+      "publishedAt": "2026-07-04T00:25:48.000Z"
+    },
+    {
+      "id": "31102",
+      "source": "geeknews",
+      "title": "ActivityPub 구현이 어려운 이유, 그리고 그럴 필요가 없는 이유",
+      "url": "https://news.hada.io/topic?id=31102",
+      "commentsUrl": "https://news.hada.io/topic?id=31102",
+      "author": "neo",
+      "publishedAt": "2026-07-04T00:22:48.000Z"
+    },
+    {
+      "id": "31101",
+      "source": "geeknews",
+      "title": "ClickHouse가 Observability 전쟁에서 앞서가는 이유",
+      "url": "https://news.hada.io/topic?id=31101",
+      "commentsUrl": "https://news.hada.io/topic?id=31101",
+      "author": "neo",
+      "publishedAt": "2026-07-04T00:19:48.000Z"
+    },
+    {
+      "id": "31100",
+      "source": "geeknews",
+      "title": "14주년을 맞은 Lobsters",
+      "url": "https://news.hada.io/topic?id=31100",
+      "commentsUrl": "https://news.hada.io/topic?id=31100",
+      "author": "neo",
+      "publishedAt": "2026-07-04T00:16:48.000Z"
+    },
+    {
+      "id": "31099",
+      "source": "geeknews",
+      "title": "저커버그, Meta의 해고가 효과 없었음을 ‘인정’",
+      "url": "https://news.hada.io/topic?id=31099",
+      "commentsUrl": "https://news.hada.io/topic?id=31099",
+      "author": "xguru",
+      "publishedAt": "2026-07-03T23:20:27.000Z"
+    },
+    {
+      "id": "31098",
+      "source": "geeknews",
+      "title": "스위스는 왜 25Gbit 인터넷이 가능하고 미국은 아닌가",
+      "url": "https://news.hada.io/topic?id=31098",
+      "commentsUrl": "https://news.hada.io/topic?id=31098",
+      "author": "xguru",
+      "publishedAt": "2026-07-03T23:19:24.000Z"
+    },
+    {
+      "id": "31097",
+      "source": "geeknews",
+      "title": "Alibaba, 백도어 위험 우려해 사내에서 클로드 코드 사용 금지 조치 예정",
+      "url": "https://news.hada.io/topic?id=31097",
+      "commentsUrl": "https://news.hada.io/topic?id=31097",
+      "author": "xguru",
+      "publishedAt": "2026-07-03T23:17:45.000Z"
+    },
+    {
+      "id": "31096",
+      "source": "geeknews",
+      "title": "Half-Baked Product: 반쯤 구운 제품",
+      "url": "https://news.hada.io/topic?id=31096",
+      "commentsUrl": "https://news.hada.io/topic?id=31096",
+      "author": "xguru",
+      "publishedAt": "2026-07-03T23:16:12.000Z"
+    },
+    {
+      "id": "31095",
+      "source": "geeknews",
+      "title": "Valve, Steam Machine e-ink 전면을 오픈소스로 공개",
+      "url": "https://news.hada.io/topic?id=31095",
+      "commentsUrl": "https://news.hada.io/topic?id=31095",
+      "author": "xguru",
+      "publishedAt": "2026-07-03T23:15:57.000Z"
+    },
+    {
+      "id": "31094",
+      "source": "geeknews",
+      "title": "CarPlay는 부가적이다",
+      "url": "https://news.hada.io/topic?id=31094",
+      "commentsUrl": "https://news.hada.io/topic?id=31094",
+      "author": "xguru",
+      "publishedAt": "2026-07-03T23:13:27.000Z"
+    },
+    {
+      "id": "31093",
+      "source": "geeknews",
+      "title": "멘탈 모델을 전달하는 도구나 기법은?",
+      "url": "https://news.hada.io/topic?id=31093",
+      "commentsUrl": "https://news.hada.io/topic?id=31093",
+      "author": "neo",
+      "publishedAt": "2026-07-03T21:02:00.000Z"
+    },
+    {
+      "id": "31092",
+      "source": "geeknews",
+      "title": "로컬 인텔리전스에 대한 권리",
+      "url": "https://news.hada.io/topic?id=31092",
+      "commentsUrl": "https://news.hada.io/topic?id=31092",
+      "author": "neo",
+      "publishedAt": "2026-07-03T16:34:24.000Z"
+    },
+    {
+      "id": "31091",
+      "source": "geeknews",
+      "title": "jj v0.43.0 공개",
+      "url": "https://news.hada.io/topic?id=31091",
+      "commentsUrl": "https://news.hada.io/topic?id=31091",
+      "author": "neo",
+      "publishedAt": "2026-07-03T15:02:29.000Z"
+    },
     {
       "id": "31090",
       "source": "geeknews",
@@ -82,195 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31082",
       "author": "awbrg789",
       "publishedAt": "2026-07-03T06:42:25.000Z"
-    },
-    {
-      "id": "31081",
-      "source": "geeknews",
-      "title": "탈(脫)fedify – 떠나보니 알게 된 fedify의 좋은 점들",
-      "url": "https://news.hada.io/topic?id=31081",
-      "commentsUrl": "https://news.hada.io/topic?id=31081",
-      "author": "nyanrus",
-      "publishedAt": "2026-07-03T06:26:24.000Z"
-    },
-    {
-      "id": "31080",
-      "source": "geeknews",
-      "title": "Show GN: VHK - 모델·에이전트를 갈아타도 안 무너지는 풀사이클 AI 코딩 하네스",
-      "url": "https://news.hada.io/topic?id=31080",
-      "commentsUrl": "https://news.hada.io/topic?id=31080",
-      "author": "byh3071",
-      "publishedAt": "2026-07-03T05:46:34.000Z"
-    },
-    {
-      "id": "31079",
-      "source": "geeknews",
-      "title": "Show GN: ControllerTest.io - 브라우저에서 바로 쓰는 게임패드 테스트 툴",
-      "url": "https://news.hada.io/topic?id=31079",
-      "commentsUrl": "https://news.hada.io/topic?id=31079",
-      "author": "lukeio",
-      "publishedAt": "2026-07-03T03:41:37.000Z"
-    },
-    {
-      "id": "31077",
-      "source": "geeknews",
-      "title": "버지니아주, 위치정보 데이터 판매 금지",
-      "url": "https://news.hada.io/topic?id=31077",
-      "commentsUrl": "https://news.hada.io/topic?id=31077",
-      "author": "neo",
-      "publishedAt": "2026-07-03T01:34:39.000Z"
-    },
-    {
-      "id": "31076",
-      "source": "geeknews",
-      "title": "2026 상반기 말아먹었을 때 쓰는 글",
-      "url": "https://news.hada.io/topic?id=31076",
-      "commentsUrl": "https://news.hada.io/topic?id=31076",
-      "author": "ssowonny",
-      "publishedAt": "2026-07-03T01:06:54.000Z"
-    },
-    {
-      "id": "31075",
-      "source": "geeknews",
-      "title": "Senior SWE-Bench: 시니어 엔지니어급 에이전트 평가용 오픈소스 벤치마크",
-      "url": "https://news.hada.io/topic?id=31075",
-      "commentsUrl": "https://news.hada.io/topic?id=31075",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:41:21.000Z"
-    },
-    {
-      "id": "31074",
-      "source": "geeknews",
-      "title": "CursorBench 3.1 모델 평가 결과",
-      "url": "https://news.hada.io/topic?id=31074",
-      "commentsUrl": "https://news.hada.io/topic?id=31074",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:37:34.000Z"
-    },
-    {
-      "id": "31073",
-      "source": "geeknews",
-      "title": "Vite+ 베타 공개",
-      "url": "https://news.hada.io/topic?id=31073",
-      "commentsUrl": "https://news.hada.io/topic?id=31073",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:37:24.000Z"
-    },
-    {
-      "id": "31072",
-      "source": "geeknews",
-      "title": "스페인, 공공·국영 통제 기업에 Palantir 블랙리스트 지시",
-      "url": "https://news.hada.io/topic?id=31072",
-      "commentsUrl": "https://news.hada.io/topic?id=31072",
-      "author": "neo",
-      "publishedAt": "2026-07-03T00:34:38.000Z"
-    },
-    {
-      "id": "31071",
-      "source": "geeknews",
-      "title": "Weave Robotics, $7,999 가정용 로봇 Isaac 1 출시 (2026년 가을 배송 예정)",
-      "url": "https://news.hada.io/topic?id=31071",
-      "commentsUrl": "https://news.hada.io/topic?id=31071",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:32:42.000Z"
-    },
-    {
-      "id": "31070",
-      "source": "geeknews",
-      "title": "Podman v6.0.0 공개",
-      "url": "https://news.hada.io/topic?id=31070",
-      "commentsUrl": "https://news.hada.io/topic?id=31070",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:32:09.000Z"
-    },
-    {
-      "id": "31069",
-      "source": "geeknews",
-      "title": "databow - ADBC로 데이터베이스를 조회하는 CLI 도구",
-      "url": "https://news.hada.io/topic?id=31069",
-      "commentsUrl": "https://news.hada.io/topic?id=31069",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:31:02.000Z"
-    },
-    {
-      "id": "31068",
-      "source": "geeknews",
-      "title": "Google, 연령 확인용 영지식 증명(ZKP) 라이브러리 오픈소스 공개",
-      "url": "https://news.hada.io/topic?id=31068",
-      "commentsUrl": "https://news.hada.io/topic?id=31068",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:29:02.000Z"
-    },
-    {
-      "id": "31067",
-      "source": "geeknews",
-      "title": "코드 리뷰의 주된 목적은 유지보수하기 어려운 코드를 찾는 것",
-      "url": "https://news.hada.io/topic?id=31067",
-      "commentsUrl": "https://news.hada.io/topic?id=31067",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:23:19.000Z"
-    },
-    {
-      "id": "31066",
-      "source": "geeknews",
-      "title": "일본 최고재판소, AI는 특허 발명자로 기재될 수 없다고 판결",
-      "url": "https://news.hada.io/topic?id=31066",
-      "commentsUrl": "https://news.hada.io/topic?id=31066",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:21:14.000Z"
-    },
-    {
-      "id": "31065",
-      "source": "geeknews",
-      "title": "Wordgard 0.1 릴리스",
-      "url": "https://news.hada.io/topic?id=31065",
-      "commentsUrl": "https://news.hada.io/topic?id=31065",
-      "author": "neo",
-      "publishedAt": "2026-07-03T00:19:35.000Z"
-    },
-    {
-      "id": "31064",
-      "source": "geeknews",
-      "title": "Kimi K2.7 Code, GitHub Copilot에서 정식 제공",
-      "url": "https://news.hada.io/topic?id=31064",
-      "commentsUrl": "https://news.hada.io/topic?id=31064",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:19:30.000Z"
-    },
-    {
-      "id": "31063",
-      "source": "geeknews",
-      "title": "PeerTube - 무료 탈중앙화·연합형 비디오 플랫폼",
-      "url": "https://news.hada.io/topic?id=31063",
-      "commentsUrl": "https://news.hada.io/topic?id=31063",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:17:29.000Z"
-    },
-    {
-      "id": "31062",
-      "source": "geeknews",
-      "title": "AI와 함께한 모험",
-      "url": "https://news.hada.io/topic?id=31062",
-      "commentsUrl": "https://news.hada.io/topic?id=31062",
-      "author": "neo",
-      "publishedAt": "2026-07-03T00:16:34.000Z"
-    },
-    {
-      "id": "31061",
-      "source": "geeknews",
-      "title": "허접한 웹 포럼을 되살리자",
-      "url": "https://news.hada.io/topic?id=31061",
-      "commentsUrl": "https://news.hada.io/topic?id=31061",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:15:13.000Z"
-    },
-    {
-      "id": "31060",
-      "source": "geeknews",
-      "title": "Oomwoo - 직접 만드는 오픈소스 로봇 청소기",
-      "url": "https://news.hada.io/topic?id=31060",
-      "commentsUrl": "https://news.hada.io/topic?id=31060",
-      "author": "xguru",
-      "publishedAt": "2026-07-03T00:13:42.000Z"
     }
   ]
 }

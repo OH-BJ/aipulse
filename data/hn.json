@@ -1,106 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-03T13:48:52.195Z",
+  "fetchedAt": "2026-07-04T02:12:15.414Z",
   "items": [
     {
-      "id": "48774414",
+      "id": "48780056",
       "source": "hn",
-      "title": "Please stop the AI confidence theater",
-      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "score": 57,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48774414",
-      "author": "skadamat",
-      "publishedAt": "2026-07-03T12:51:17.000Z"
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "score": 47,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48780056",
+      "author": "cubefox",
+      "publishedAt": "2026-07-03T21:16:16.000Z"
     },
     {
-      "id": "48772443",
+      "id": "48780858",
       "source": "hn",
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-      "score": 204,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48772443",
-      "author": "nsoonhui",
-      "publishedAt": "2026-07-03T08:31:37.000Z"
+      "title": "Save Claude Code Tokens with Smart Routing",
+      "url": "https://github.com/regolo-ai/brick-SR1",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48780858",
+      "author": "FrancescoMassa",
+      "publishedAt": "2026-07-03T22:39:24.000Z"
+    },
+    {
+      "id": "48779352",
+      "source": "hn",
+      "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "url": "https://kagi.com/changelog#10959",
+      "score": 52,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48779352",
+      "author": "mroche",
+      "publishedAt": "2026-07-03T20:08:01.000Z"
+    },
+    {
+      "id": "48752948",
+      "source": "hn",
+      "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
+      "url": "https://github.com/clidey/deptrust",
+      "score": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48752948",
+      "author": "modelorona",
+      "publishedAt": "2026-07-01T20:51:47.000Z"
+    },
+    {
+      "id": "48768951",
+      "source": "hn",
+      "title": "Protect your right to run local AI",
+      "url": "https://righttointelligence.org/",
+      "score": 496,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48768951",
+      "author": "thoughtpeddler",
+      "publishedAt": "2026-07-02T23:54:03.000Z"
+    },
+    {
+      "id": "48778955",
+      "source": "hn",
+      "title": "Show HN: Kontext – Move an AI chat's full context to another AI in one click",
+      "url": "https://github.com/anuragmerndev/kontext-ai",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48778955",
+      "author": "anuragmerndev",
+      "publishedAt": "2026-07-03T19:27:04.000Z"
     },
     {
       "id": "48766026",
       "source": "hn",
       "title": "The short leash AI coding method for beating Fable",
       "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "score": 158,
+      "score": 187,
       "commentsUrl": "https://news.ycombinator.com/item?id=48766026",
       "author": "Riseed",
       "publishedAt": "2026-07-02T19:11:57.000Z"
+    },
+    {
+      "id": "48772443",
+      "source": "hn",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "score": 316,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48772443",
+      "author": "nsoonhui",
+      "publishedAt": "2026-07-03T08:31:37.000Z"
+    },
+    {
+      "id": "48781434",
+      "source": "hn",
+      "title": "Claude's Criminally Bad Electron Mac App Is an Inside Job",
+      "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48781434",
+      "author": "GavinAnderegg",
+      "publishedAt": "2026-07-04T00:01:23.000Z"
     },
     {
       "id": "48766005",
       "source": "hn",
       "title": "Claude-real-video － any LLM can watch a video",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "score": 147,
+      "score": 157,
       "commentsUrl": "https://news.ycombinator.com/item?id=48766005",
       "author": "cortexosmain",
       "publishedAt": "2026-07-02T19:10:12.000Z"
-    },
-    {
-      "id": "48774246",
-      "source": "hn",
-      "title": "AI Data Centers Use More Water Than Most Tech Giants Report",
-      "url": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
-      "score": 22,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48774246",
-      "author": "bradleyjg",
-      "publishedAt": "2026-07-03T12:33:20.000Z"
-    },
-    {
-      "id": "48761536",
-      "source": "hn",
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "score": 384,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48761536",
-      "author": "mushstory",
-      "publishedAt": "2026-07-02T13:43:41.000Z"
-    },
-    {
-      "id": "48774429",
-      "source": "hn",
-      "title": "Gemini Code Assist will be shut down on July 17",
-      "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48774429",
-      "author": "ushakov",
-      "publishedAt": "2026-07-03T12:52:48.000Z"
-    },
-    {
-      "id": "48740771",
-      "source": "hn",
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 965,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48740771",
-      "author": "Pragmata",
-      "publishedAt": "2026-06-30T23:55:12.000Z"
-    },
-    {
-      "id": "48734373",
-      "source": "hn",
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 2423,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48734373",
-      "author": "kirushik",
-      "publishedAt": "2026-06-30T15:44:24.000Z"
-    },
-    {
-      "id": "48745590",
-      "source": "hn",
-      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
-      "url": "https://github.com/emson/claudoro",
-      "score": 48,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48745590",
-      "author": "emson",
-      "publishedAt": "2026-07-01T12:25:29.000Z"
     }
   ]
 }
