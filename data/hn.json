@@ -1,76 +1,86 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-04T13:08:01.730Z",
+  "fetchedAt": "2026-07-05T02:28:12.906Z",
   "items": [
+    {
+      "id": "48789428",
+      "source": "hn",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "score": 152,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48789428",
+      "author": "maille",
+      "publishedAt": "2026-07-04T21:51:09.000Z"
+    },
+    {
+      "id": "48789986",
+      "source": "hn",
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48789986",
+      "author": "Buckwheat469",
+      "publishedAt": "2026-07-04T23:25:53.000Z"
+    },
+    {
+      "id": "48789325",
+      "source": "hn",
+      "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+      "score": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48789325",
+      "author": "ekinertac",
+      "publishedAt": "2026-07-04T21:35:30.000Z"
+    },
+    {
+      "id": "48789416",
+      "source": "hn",
+      "title": "Australian influencer Lily Jay's tangled web of AI manipulation",
+      "url": "https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422",
+      "score": 36,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48789416",
+      "author": "phs318u",
+      "publishedAt": "2026-07-04T21:50:14.000Z"
+    },
+    {
+      "id": "48790151",
+      "source": "hn",
+      "title": "Nvidia Has Become the Bank Behind the AI Boom",
+      "url": "https://startupfortune.com/nvidia-has-quietly-become-the-bank-behind-the-ai-boom/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48790151",
+      "author": "insanetechh",
+      "publishedAt": "2026-07-04T23:59:06.000Z"
+    },
     {
       "id": "48782890",
       "source": "hn",
       "title": "2026 Unslop AI-Written Fiction Contest Results",
       "url": "https://www.hyperstitionai.com/unslop-results",
-      "score": 26,
+      "score": 60,
       "commentsUrl": "https://news.ycombinator.com/item?id=48782890",
       "author": "networked",
       "publishedAt": "2026-07-04T05:37:25.000Z"
     },
     {
-      "id": "48780056",
+      "id": "48790160",
       "source": "hn",
-      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "score": 123,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48780056",
-      "author": "cubefox",
-      "publishedAt": "2026-07-03T21:16:16.000Z"
+      "title": "Damo Academy unveils an AI agent able to discover superconductors",
+      "url": "https://www.scmp.com/tech/big-tech/article/3359335/alibabas-elements-claw-ai-agent-unearths-four-new-superconductors",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48790160",
+      "author": "yogthos",
+      "publishedAt": "2026-07-05T00:00:43.000Z"
     },
     {
       "id": "48775499",
       "source": "hn",
       "title": "Instead of banning AI, I made a classroom contract with my students",
       "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
-      "score": 76,
+      "score": 90,
       "commentsUrl": "https://news.ycombinator.com/item?id=48775499",
       "author": "digital55",
       "publishedAt": "2026-07-03T14:28:33.000Z"
-    },
-    {
-      "id": "48768951",
-      "source": "hn",
-      "title": "Protect your right to run local AI",
-      "url": "https://righttointelligence.org/",
-      "score": 522,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48768951",
-      "author": "thoughtpeddler",
-      "publishedAt": "2026-07-02T23:54:03.000Z"
-    },
-    {
-      "id": "48784339",
-      "source": "hn",
-      "title": "Jersey Mike's IPO illustrates how bad the AI hype is",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jersey-mike-ipo-illustrates-bad-201159743.html",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48784339",
-      "author": "cybermango",
-      "publishedAt": "2026-07-04T10:30:09.000Z"
-    },
-    {
-      "id": "48766005",
-      "source": "hn",
-      "title": "Claude-real-video － any LLM can watch a video",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "score": 160,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48766005",
-      "author": "cortexosmain",
-      "publishedAt": "2026-07-02T19:10:12.000Z"
-    },
-    {
-      "id": "48752948",
-      "source": "hn",
-      "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
-      "url": "https://github.com/clidey/deptrust",
-      "score": 24,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48752948",
-      "author": "modelorona",
-      "publishedAt": "2026-07-01T20:51:47.000Z"
     }
   ]
 }
