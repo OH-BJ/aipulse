@@ -1,7 +1,43 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-05T02:28:13.331Z",
+  "fetchedAt": "2026-07-05T13:16:38.078Z",
   "items": [
+    {
+      "id": "31145",
+      "source": "geeknews",
+      "title": "Bad Epoll (CVE-2026-46242)",
+      "url": "https://news.hada.io/topic?id=31145",
+      "commentsUrl": "https://news.hada.io/topic?id=31145",
+      "author": "neo",
+      "publishedAt": "2026-07-05T13:02:16.000Z"
+    },
+    {
+      "id": "31144",
+      "source": "geeknews",
+      "title": "GPT-5.5 Codex의 추론 토큰 클러스터링이 성능 저하로 이어질 수 있음",
+      "url": "https://news.hada.io/topic?id=31144",
+      "commentsUrl": "https://news.hada.io/topic?id=31144",
+      "author": "neo",
+      "publishedAt": "2026-07-05T10:42:56.000Z"
+    },
+    {
+      "id": "31143",
+      "source": "geeknews",
+      "title": "워크스페이스 인스턴스 또는 소비자 계정 간 잠재적 세션/캐시 누출",
+      "url": "https://news.hada.io/topic?id=31143",
+      "commentsUrl": "https://news.hada.io/topic?id=31143",
+      "author": "neo",
+      "publishedAt": "2026-07-05T10:39:56.000Z"
+    },
+    {
+      "id": "31139",
+      "source": "geeknews",
+      "title": "Google Books 또는 유사한 전체 도서 스캔에 20만 달러 보상금 제시(2025)",
+      "url": "https://news.hada.io/topic?id=31139",
+      "commentsUrl": "https://news.hada.io/topic?id=31139",
+      "author": "neo",
+      "publishedAt": "2026-07-05T02:34:49.000Z"
+    },
     {
       "id": "31138",
       "source": "geeknews",
@@ -165,15 +201,6 @@
       "publishedAt": "2026-07-04T12:38:05.000Z"
     },
     {
-      "id": "31119",
-      "source": "geeknews",
-      "title": "PM의 채용 공고가 바뀌었다 (이력서 대신 60초 데모를 내는 시대)",
-      "url": "https://news.hada.io/topic?id=31119",
-      "commentsUrl": "https://news.hada.io/topic?id=31119",
-      "author": "pentaxzs",
-      "publishedAt": "2026-07-04T07:45:55.000Z"
-    },
-    {
       "id": "31117",
       "source": "geeknews",
       "title": "Show GN: 축구감독 공항 대탈출 게임",
@@ -244,33 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31107",
       "author": "neo",
       "publishedAt": "2026-07-04T01:03:02.000Z"
-    },
-    {
-      "id": "31106",
-      "source": "geeknews",
-      "title": "루프 엔지니어링의 미학 (The Art of Loop Engineering)",
-      "url": "https://news.hada.io/topic?id=31106",
-      "commentsUrl": "https://news.hada.io/topic?id=31106",
-      "author": "neo",
-      "publishedAt": "2026-07-04T00:36:02.000Z"
-    },
-    {
-      "id": "31105",
-      "source": "geeknews",
-      "title": "1인 창업자의 시대",
-      "url": "https://news.hada.io/topic?id=31105",
-      "commentsUrl": "https://news.hada.io/topic?id=31105",
-      "author": "neo",
-      "publishedAt": "2026-07-04T00:35:02.000Z"
-    },
-    {
-      "id": "31104",
-      "source": "geeknews",
-      "title": "epiq - Git 기반 분산형 로컬 CLI 네이티브 이슈 트래커",
-      "url": "https://news.hada.io/topic?id=31104",
-      "commentsUrl": "https://news.hada.io/topic?id=31104",
-      "author": "xguru",
-      "publishedAt": "2026-07-04T00:31:02.000Z"
     }
   ]
 }

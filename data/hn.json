@@ -1,86 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-05T02:28:12.906Z",
+  "fetchedAt": "2026-07-05T13:16:37.611Z",
   "items": [
+    {
+      "id": "48792399",
+      "source": "hn",
+      "title": "Claude Design System Prompt",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48792399",
+      "author": "handfuloflight",
+      "publishedAt": "2026-07-05T08:43:37.000Z"
+    },
     {
       "id": "48789428",
       "source": "hn",
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
       "url": "https://github.com/openai/codex/issues/30364",
-      "score": 152,
+      "score": 320,
       "commentsUrl": "https://news.ycombinator.com/item?id=48789428",
       "author": "maille",
       "publishedAt": "2026-07-04T21:51:09.000Z"
+    },
+    {
+      "id": "48792152",
+      "source": "hn",
+      "title": "SigMap: 97% token reduction for AI coding sessions",
+      "url": "https://sigmap.io/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48792152",
+      "author": "handfuloflight",
+      "publishedAt": "2026-07-05T07:52:55.000Z"
+    },
+    {
+      "id": "48792463",
+      "source": "hn",
+      "title": "Concentration of power in AI is a risk, by Andy Konwinski",
+      "url": "https://xcancel.com/i/article/2072830533739192560",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48792463",
+      "author": "alecco",
+      "publishedAt": "2026-07-05T08:55:45.000Z"
+    },
+    {
+      "id": "48791708",
+      "source": "hn",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "score": 56,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48791708",
+      "author": "ognyankulev",
+      "publishedAt": "2026-07-05T06:19:34.000Z"
+    },
+    {
+      "id": "48791380",
+      "source": "hn",
+      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://hic-ai.com",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48791380",
+      "author": "handfuloflight",
+      "publishedAt": "2026-07-05T05:01:14.000Z"
+    },
+    {
+      "id": "48792799",
+      "source": "hn",
+      "title": "Harvey AI started with a Reddit thread. Now it's worth $11B",
+      "url": "https://freemalta.com/hub/library/they-named-a-11-billion-company-after-harvey-specter-then-they-hired-the-actor-who-played-him",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48792799",
+      "author": "ilhaniremyuce",
+      "publishedAt": "2026-07-05T09:58:58.000Z"
     },
     {
       "id": "48789986",
       "source": "hn",
       "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
       "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-      "score": 10,
+      "score": 16,
       "commentsUrl": "https://news.ycombinator.com/item?id=48789986",
       "author": "Buckwheat469",
       "publishedAt": "2026-07-04T23:25:53.000Z"
     },
     {
-      "id": "48789325",
+      "id": "48791650",
       "source": "hn",
-      "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-      "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
-      "score": 27,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48789325",
-      "author": "ekinertac",
-      "publishedAt": "2026-07-04T21:35:30.000Z"
-    },
-    {
-      "id": "48789416",
-      "source": "hn",
-      "title": "Australian influencer Lily Jay's tangled web of AI manipulation",
-      "url": "https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422",
-      "score": 36,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48789416",
-      "author": "phs318u",
-      "publishedAt": "2026-07-04T21:50:14.000Z"
-    },
-    {
-      "id": "48790151",
-      "source": "hn",
-      "title": "Nvidia Has Become the Bank Behind the AI Boom",
-      "url": "https://startupfortune.com/nvidia-has-quietly-become-the-bank-behind-the-ai-boom/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48790151",
-      "author": "insanetechh",
-      "publishedAt": "2026-07-04T23:59:06.000Z"
-    },
-    {
-      "id": "48782890",
-      "source": "hn",
-      "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "url": "https://www.hyperstitionai.com/unslop-results",
-      "score": 60,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48782890",
-      "author": "networked",
-      "publishedAt": "2026-07-04T05:37:25.000Z"
-    },
-    {
-      "id": "48790160",
-      "source": "hn",
-      "title": "Damo Academy unveils an AI agent able to discover superconductors",
-      "url": "https://www.scmp.com/tech/big-tech/article/3359335/alibabas-elements-claw-ai-agent-unearths-four-new-superconductors",
+      "title": "LLM's as a Different Kind of Intelligence",
+      "url": "https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/",
       "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48790160",
-      "author": "yogthos",
-      "publishedAt": "2026-07-05T00:00:43.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=48791650",
+      "author": "RamtinJ95",
+      "publishedAt": "2026-07-05T06:07:35.000Z"
     },
     {
-      "id": "48775499",
+      "id": "48792841",
       "source": "hn",
-      "title": "Instead of banning AI, I made a classroom contract with my students",
-      "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
-      "score": 90,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48775499",
-      "author": "digital55",
-      "publishedAt": "2026-07-03T14:28:33.000Z"
+      "title": "If You Can Write Acceptance Criteria, You Can Write an AI Routing Policy",
+      "url": "https://age-of-product.com/ai-routing-policy/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48792841",
+      "author": "swolpers",
+      "publishedAt": "2026-07-05T10:07:39.000Z"
     }
   ]
 }
