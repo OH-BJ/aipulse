@@ -1,106 +1,96 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-06T02:32:42.051Z",
+  "fetchedAt": "2026-07-06T15:18:01.455Z",
   "items": [
+    {
+      "id": "48805624",
+      "source": "hn",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48805624",
+      "author": "LabsLucas",
+      "publishedAt": "2026-07-06T15:01:18.000Z"
+    },
+    {
+      "id": "48804182",
+      "source": "hn",
+      "title": "Show HN: Scan your AI agents for dangerous capabilities",
+      "url": "https://github.com/makerchecker/MakerChecker",
+      "score": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48804182",
+      "author": "smashini",
+      "publishedAt": "2026-07-06T13:17:27.000Z"
+    },
     {
       "id": "48799614",
       "source": "hn",
       "title": "GPT-5.6 Sol Ultra will be in Codex",
       "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "score": 61,
+      "score": 372,
       "commentsUrl": "https://news.ycombinator.com/item?id=48799614",
       "author": "mfiguiere",
       "publishedAt": "2026-07-06T01:04:03.000Z"
-    },
-    {
-      "id": "48799256",
-      "source": "hn",
-      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-      "score": 89,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48799256",
-      "author": "ClearwayLaw",
-      "publishedAt": "2026-07-06T00:04:48.000Z"
-    },
-    {
-      "id": "48796817",
-      "source": "hn",
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "score": 134,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48796817",
-      "author": "jonahbard",
-      "publishedAt": "2026-07-05T18:47:43.000Z"
     },
     {
       "id": "48767058",
       "source": "hn",
       "title": "Zuckerberg says AI agent development going slower than expected",
       "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "score": 99,
+      "score": 313,
       "commentsUrl": "https://news.ycombinator.com/item?id=48767058",
       "author": "cwwc",
       "publishedAt": "2026-07-02T20:38:06.000Z"
     },
     {
-      "id": "48798605",
+      "id": "48802156",
       "source": "hn",
-      "title": "The AI Compass Quiz",
-      "url": "https://bambamramfan.github.io/ai-compass/",
-      "score": 23,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48798605",
-      "author": "ai_critic",
-      "publishedAt": "2026-07-05T22:36:44.000Z"
+      "title": "The Hitchhiker's Guide to Agentic AI",
+      "url": "https://arxiv.org/abs/2606.24937",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48802156",
+      "author": "jonbaer",
+      "publishedAt": "2026-07-06T08:40:29.000Z"
     },
     {
-      "id": "48798330",
+      "id": "48803751",
       "source": "hn",
-      "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
-      "url": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48798330",
-      "author": "ninko",
-      "publishedAt": "2026-07-05T21:58:20.000Z"
+      "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
+      "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
+      "score": 208,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48803751",
+      "author": "raheelrjunaid",
+      "publishedAt": "2026-07-06T12:37:06.000Z"
     },
     {
-      "id": "48797529",
+      "id": "48796817",
       "source": "hn",
-      "title": "Tripadvisor AI summaries give glowing reviews to dangerous hotels",
-      "url": "https://www.euronews.com/travel/2026/07/03/tripadvisor-ai-summaries-give-glowing-reviews-to-dangerous-hotels-consumer-watchdog-finds",
-      "score": 29,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48797529",
-      "author": "jethronethro",
-      "publishedAt": "2026-07-05T20:09:34.000Z"
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "score": 173,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48796817",
+      "author": "jonahbard",
+      "publishedAt": "2026-07-05T18:47:43.000Z"
     },
     {
-      "id": "48789428",
+      "id": "48804762",
       "source": "hn",
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "score": 357,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48789428",
-      "author": "maille",
-      "publishedAt": "2026-07-04T21:51:09.000Z"
-    },
-    {
-      "id": "48797739",
-      "source": "hn",
-      "title": "Show HN: Sidenote – comment on your rendered blog, an LLM writes the Git diff",
-      "url": "https://github.com/bharadwaj-pendyala/sidenote",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48797739",
-      "author": "bharadwajp",
-      "publishedAt": "2026-07-05T20:39:11.000Z"
-    },
-    {
-      "id": "48798442",
-      "source": "hn",
-      "title": "Context graphs: how AI agents can store and use past decisions",
-      "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+      "title": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts",
+      "url": "https://www.reuters.com/business/world-at-work/microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-2026-07-06/",
       "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48798442",
-      "author": "vitaelabitur",
-      "publishedAt": "2026-07-05T22:16:31.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=48804762",
+      "author": "root-parent",
+      "publishedAt": "2026-07-06T14:03:51.000Z"
+    },
+    {
+      "id": "48799256",
+      "source": "hn",
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "score": 161,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48799256",
+      "author": "ClearwayLaw",
+      "publishedAt": "2026-07-06T00:04:48.000Z"
     }
   ]
 }

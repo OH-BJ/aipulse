@@ -1,7 +1,88 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-06T02:32:42.686Z",
+  "fetchedAt": "2026-07-06T15:18:02.405Z",
   "items": [
+    {
+      "id": "31180",
+      "source": "geeknews",
+      "title": "Show GN: HyperDesk - Hyper-V/RDP 세션들을 하나의 창에 임베딩하는 데스크톱 앱",
+      "url": "https://news.hada.io/topic?id=31180",
+      "commentsUrl": "https://news.hada.io/topic?id=31180",
+      "author": "qetqet910",
+      "publishedAt": "2026-07-06T13:56:01.000Z"
+    },
+    {
+      "id": "31179",
+      "source": "geeknews",
+      "title": "Starring the Computer: 화면 속 컴퓨터 출연 목록",
+      "url": "https://news.hada.io/topic?id=31179",
+      "commentsUrl": "https://news.hada.io/topic?id=31179",
+      "author": "neo",
+      "publishedAt": "2026-07-06T13:55:22.000Z"
+    },
+    {
+      "id": "31178",
+      "source": "geeknews",
+      "title": "Show GN: k-vote-cli : 한국 선거 공개 데이터를 API 키 없이 한 명령으로 받는 CLI",
+      "url": "https://news.hada.io/topic?id=31178",
+      "commentsUrl": "https://news.hada.io/topic?id=31178",
+      "author": "lucasghae",
+      "publishedAt": "2026-07-06T12:57:23.000Z"
+    },
+    {
+      "id": "31177",
+      "source": "geeknews",
+      "title": "Show GN: Fable5는 비싸지고, 로컬 GPU는 부족하다: LLM 하나를 Mac & CUDA로 나눠 돌리는 DRIFT",
+      "url": "https://news.hada.io/topic?id=31177",
+      "commentsUrl": "https://news.hada.io/topic?id=31177",
+      "author": "theoverstructure",
+      "publishedAt": "2026-07-06T12:28:41.000Z"
+    },
+    {
+      "id": "31176",
+      "source": "geeknews",
+      "title": "의미가 보이는 프로젝트를 작성하기",
+      "url": "https://news.hada.io/topic?id=31176",
+      "commentsUrl": "https://news.hada.io/topic?id=31176",
+      "author": "gg5823",
+      "publishedAt": "2026-07-06T11:35:15.000Z"
+    },
+    {
+      "id": "31175",
+      "source": "geeknews",
+      "title": "Rayfish: Iroh 기반 P2P VPN",
+      "url": "https://news.hada.io/topic?id=31175",
+      "commentsUrl": "https://news.hada.io/topic?id=31175",
+      "author": "neo",
+      "publishedAt": "2026-07-06T09:05:12.000Z"
+    },
+    {
+      "id": "31174",
+      "source": "geeknews",
+      "title": "Show GN: Jetendard 폰트 (JetBrains Mono Nerd Font + Pretendard)",
+      "url": "https://news.hada.io/topic?id=31174",
+      "commentsUrl": "https://news.hada.io/topic?id=31174",
+      "author": "kuskhan",
+      "publishedAt": "2026-07-06T08:36:26.000Z"
+    },
+    {
+      "id": "31173",
+      "source": "geeknews",
+      "title": "많이 조회되지 않은 콘텐츠",
+      "url": "https://news.hada.io/topic?id=31173",
+      "commentsUrl": "https://news.hada.io/topic?id=31173",
+      "author": "neo",
+      "publishedAt": "2026-07-06T08:33:49.000Z"
+    },
+    {
+      "id": "31172",
+      "source": "geeknews",
+      "title": "Flipper Zero 개발의 미래",
+      "url": "https://news.hada.io/topic?id=31172",
+      "commentsUrl": "https://news.hada.io/topic?id=31172",
+      "author": "neo",
+      "publishedAt": "2026-07-06T05:35:51.000Z"
+    },
     {
       "id": "31170",
       "source": "geeknews",
@@ -190,87 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31149",
       "author": "neo",
       "publishedAt": "2026-07-05T16:38:56.000Z"
-    },
-    {
-      "id": "31148",
-      "source": "geeknews",
-      "title": "더 나은 모델, 더 나빠진 도구",
-      "url": "https://news.hada.io/topic?id=31148",
-      "commentsUrl": "https://news.hada.io/topic?id=31148",
-      "author": "neo",
-      "publishedAt": "2026-07-05T16:04:54.000Z"
-    },
-    {
-      "id": "31147",
-      "source": "geeknews",
-      "title": "공장은 그저 방이다",
-      "url": "https://news.hada.io/topic?id=31147",
-      "commentsUrl": "https://news.hada.io/topic?id=31147",
-      "author": "neo",
-      "publishedAt": "2026-07-05T14:36:58.000Z"
-    },
-    {
-      "id": "31146",
-      "source": "geeknews",
-      "title": "사자, 마녀, 그리고 리크루터의 뻔뻔함",
-      "url": "https://news.hada.io/topic?id=31146",
-      "commentsUrl": "https://news.hada.io/topic?id=31146",
-      "author": "neo",
-      "publishedAt": "2026-07-05T14:04:52.000Z"
-    },
-    {
-      "id": "31145",
-      "source": "geeknews",
-      "title": "Bad Epoll (CVE-2026-46242)",
-      "url": "https://news.hada.io/topic?id=31145",
-      "commentsUrl": "https://news.hada.io/topic?id=31145",
-      "author": "neo",
-      "publishedAt": "2026-07-05T13:02:16.000Z"
-    },
-    {
-      "id": "31144",
-      "source": "geeknews",
-      "title": "GPT-5.5 Codex의 추론 토큰 클러스터링이 성능 저하로 이어질 수 있음",
-      "url": "https://news.hada.io/topic?id=31144",
-      "commentsUrl": "https://news.hada.io/topic?id=31144",
-      "author": "neo",
-      "publishedAt": "2026-07-05T10:42:56.000Z"
-    },
-    {
-      "id": "31143",
-      "source": "geeknews",
-      "title": "워크스페이스 인스턴스 또는 소비자 계정 간 잠재적 세션/캐시 누출",
-      "url": "https://news.hada.io/topic?id=31143",
-      "commentsUrl": "https://news.hada.io/topic?id=31143",
-      "author": "neo",
-      "publishedAt": "2026-07-05T10:39:56.000Z"
-    },
-    {
-      "id": "31139",
-      "source": "geeknews",
-      "title": "Google Books 또는 유사한 전체 도서 스캔에 20만 달러 보상금 제시(2025)",
-      "url": "https://news.hada.io/topic?id=31139",
-      "commentsUrl": "https://news.hada.io/topic?id=31139",
-      "author": "neo",
-      "publishedAt": "2026-07-05T02:34:49.000Z"
-    },
-    {
-      "id": "31138",
-      "source": "geeknews",
-      "title": "Command & Conquer Generals, Fable로 macOS·iPhone·iPad 네이티브 포팅",
-      "url": "https://news.hada.io/topic?id=31138",
-      "commentsUrl": "https://news.hada.io/topic?id=31138",
-      "author": "neo",
-      "publishedAt": "2026-07-05T01:36:10.000Z"
-    },
-    {
-      "id": "31136",
-      "source": "geeknews",
-      "title": "Linux htop/top 화면에 보이는 값들 해설 (2019)",
-      "url": "https://news.hada.io/topic?id=31136",
-      "commentsUrl": "https://news.hada.io/topic?id=31136",
-      "author": "neo",
-      "publishedAt": "2026-07-05T00:49:42.000Z"
     }
   ]
 }
