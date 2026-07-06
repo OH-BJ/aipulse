@@ -1,7 +1,223 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-05T13:16:38.078Z",
+  "fetchedAt": "2026-07-06T02:32:42.686Z",
   "items": [
+    {
+      "id": "31170",
+      "source": "geeknews",
+      "title": "덜한 것이 더 낫다, 대체로",
+      "url": "https://news.hada.io/topic?id=31170",
+      "commentsUrl": "https://news.hada.io/topic?id=31170",
+      "author": "neo",
+      "publishedAt": "2026-07-06T02:20:02.000Z"
+    },
+    {
+      "id": "31169",
+      "source": "geeknews",
+      "title": "AI 시대, Figma를 다시 생각하다",
+      "url": "https://news.hada.io/topic?id=31169",
+      "commentsUrl": "https://news.hada.io/topic?id=31169",
+      "author": "neo",
+      "publishedAt": "2026-07-06T02:05:02.000Z"
+    },
+    {
+      "id": "31168",
+      "source": "geeknews",
+      "title": "메모리 아끼면서 Cross Entropy Loss 계산하기",
+      "url": "https://news.hada.io/topic?id=31168",
+      "commentsUrl": "https://news.hada.io/topic?id=31168",
+      "author": "trillionlabs",
+      "publishedAt": "2026-07-06T01:42:39.000Z"
+    },
+    {
+      "id": "31167",
+      "source": "geeknews",
+      "title": "라이브 데이터를 공유 가능한 영상으로 자동 변환하는 방법",
+      "url": "https://news.hada.io/topic?id=31167",
+      "commentsUrl": "https://news.hada.io/topic?id=31167",
+      "author": "xguru",
+      "publishedAt": "2026-07-06T01:36:13.000Z"
+    },
+    {
+      "id": "31166",
+      "source": "geeknews",
+      "title": "Figma는 다음에 무엇을 할 것인가?",
+      "url": "https://news.hada.io/topic?id=31166",
+      "commentsUrl": "https://news.hada.io/topic?id=31166",
+      "author": "neo",
+      "publishedAt": "2026-07-06T01:25:01.000Z"
+    },
+    {
+      "id": "31165",
+      "source": "geeknews",
+      "title": "AI 코딩 시대의 개발자 역할 변화: 코딩 실행자에서 맥락·검증·제품화 설계자로",
+      "url": "https://news.hada.io/topic?id=31165",
+      "commentsUrl": "https://news.hada.io/topic?id=31165",
+      "author": "baeba",
+      "publishedAt": "2026-07-06T01:13:13.000Z"
+    },
+    {
+      "id": "31164",
+      "source": "geeknews",
+      "title": "컴파일러와 언어 설계 입문 교재 (2021)",
+      "url": "https://news.hada.io/topic?id=31164",
+      "commentsUrl": "https://news.hada.io/topic?id=31164",
+      "author": "neo",
+      "publishedAt": "2026-07-06T01:12:31.000Z"
+    },
+    {
+      "id": "31163",
+      "source": "geeknews",
+      "title": "Shadcn/UI가 Radix 대신 Base UI를 기본값으로 전환",
+      "url": "https://news.hada.io/topic?id=31163",
+      "commentsUrl": "https://news.hada.io/topic?id=31163",
+      "author": "neo",
+      "publishedAt": "2026-07-06T01:09:31.000Z"
+    },
+    {
+      "id": "31162",
+      "source": "geeknews",
+      "title": "물리 게임 vs 디지털 게임이 아니라, 소유권 문제다",
+      "url": "https://news.hada.io/topic?id=31162",
+      "commentsUrl": "https://news.hada.io/topic?id=31162",
+      "author": "neo",
+      "publishedAt": "2026-07-06T01:06:31.000Z"
+    },
+    {
+      "id": "31161",
+      "source": "geeknews",
+      "title": "OpenPrinter - 수리 가능한 컴팩트 오픈 프린터",
+      "url": "https://news.hada.io/topic?id=31161",
+      "commentsUrl": "https://news.hada.io/topic?id=31161",
+      "author": "neo",
+      "publishedAt": "2026-07-06T01:03:31.000Z"
+    },
+    {
+      "id": "31160",
+      "source": "geeknews",
+      "title": "EU 이사회가 신속 절차로 Chat Control을 밀어붙임",
+      "url": "https://news.hada.io/topic?id=31160",
+      "commentsUrl": "https://news.hada.io/topic?id=31160",
+      "author": "neo",
+      "publishedAt": "2026-07-06T01:00:30.000Z"
+    },
+    {
+      "id": "31159",
+      "source": "geeknews",
+      "title": "dbtrail - 모든 행 변경을 기억하고 되돌리기 가능한 MySQL용 타임머신",
+      "url": "https://news.hada.io/topic?id=31159",
+      "commentsUrl": "https://news.hada.io/topic?id=31159",
+      "author": "xguru",
+      "publishedAt": "2026-07-06T00:50:02.000Z"
+    },
+    {
+      "id": "31158",
+      "source": "geeknews",
+      "title": "OpenTag - Slack용 Claude Tag의 오픈소스 대안",
+      "url": "https://news.hada.io/topic?id=31158",
+      "commentsUrl": "https://news.hada.io/topic?id=31158",
+      "author": "xguru",
+      "publishedAt": "2026-07-06T00:35:02.000Z"
+    },
+    {
+      "id": "31157",
+      "source": "geeknews",
+      "title": "버튼이라면 할 일은 하나뿐",
+      "url": "https://news.hada.io/topic?id=31157",
+      "commentsUrl": "https://news.hada.io/topic?id=31157",
+      "author": "neo",
+      "publishedAt": "2026-07-06T00:02:51.000Z"
+    },
+    {
+      "id": "31155",
+      "source": "geeknews",
+      "title": "Show GN: 웹툰 작가의 페인포인트를 해결하는 '3D 스켈레톤(Bone) 기반 효과음/폰트 생성기",
+      "url": "https://news.hada.io/topic?id=31155",
+      "commentsUrl": "https://news.hada.io/topic?id=31155",
+      "author": "argo9",
+      "publishedAt": "2026-07-05T22:13:05.000Z"
+    },
+    {
+      "id": "31154",
+      "source": "geeknews",
+      "title": "Zig: 모든 패키지 관리 기능을 컴파일러에서 빌드 시스템으로 이동",
+      "url": "https://news.hada.io/topic?id=31154",
+      "commentsUrl": "https://news.hada.io/topic?id=31154",
+      "author": "neo",
+      "publishedAt": "2026-07-05T21:35:06.000Z"
+    },
+    {
+      "id": "31153",
+      "source": "geeknews",
+      "title": "다시 Zig로 돌아가기 - Zig → Rust → Zig",
+      "url": "https://news.hada.io/topic?id=31153",
+      "commentsUrl": "https://news.hada.io/topic?id=31153",
+      "author": "neo",
+      "publishedAt": "2026-07-05T21:03:50.000Z"
+    },
+    {
+      "id": "31152",
+      "source": "geeknews",
+      "title": "Meta 데이터센터 방류, Cheyenne 재생수 오염으로 중단",
+      "url": "https://news.hada.io/topic?id=31152",
+      "commentsUrl": "https://news.hada.io/topic?id=31152",
+      "author": "neo",
+      "publishedAt": "2026-07-05T19:34:55.000Z"
+    },
+    {
+      "id": "31151",
+      "source": "geeknews",
+      "title": "Odin, Wikipedia와 참여 유도형 분노 장사",
+      "url": "https://news.hada.io/topic?id=31151",
+      "commentsUrl": "https://news.hada.io/topic?id=31151",
+      "author": "neo",
+      "publishedAt": "2026-07-05T17:40:14.000Z"
+    },
+    {
+      "id": "31150",
+      "source": "geeknews",
+      "title": "구멍들 (Holes)",
+      "url": "https://news.hada.io/topic?id=31150",
+      "commentsUrl": "https://news.hada.io/topic?id=31150",
+      "author": "neo",
+      "publishedAt": "2026-07-05T16:41:56.000Z"
+    },
+    {
+      "id": "31149",
+      "source": "geeknews",
+      "title": "거대 열대 나무는 꼭대기 가지까지 물을 잘 끌어올린다는 새 연구",
+      "url": "https://news.hada.io/topic?id=31149",
+      "commentsUrl": "https://news.hada.io/topic?id=31149",
+      "author": "neo",
+      "publishedAt": "2026-07-05T16:38:56.000Z"
+    },
+    {
+      "id": "31148",
+      "source": "geeknews",
+      "title": "더 나은 모델, 더 나빠진 도구",
+      "url": "https://news.hada.io/topic?id=31148",
+      "commentsUrl": "https://news.hada.io/topic?id=31148",
+      "author": "neo",
+      "publishedAt": "2026-07-05T16:04:54.000Z"
+    },
+    {
+      "id": "31147",
+      "source": "geeknews",
+      "title": "공장은 그저 방이다",
+      "url": "https://news.hada.io/topic?id=31147",
+      "commentsUrl": "https://news.hada.io/topic?id=31147",
+      "author": "neo",
+      "publishedAt": "2026-07-05T14:36:58.000Z"
+    },
+    {
+      "id": "31146",
+      "source": "geeknews",
+      "title": "사자, 마녀, 그리고 리크루터의 뻔뻔함",
+      "url": "https://news.hada.io/topic?id=31146",
+      "commentsUrl": "https://news.hada.io/topic?id=31146",
+      "author": "neo",
+      "publishedAt": "2026-07-05T14:04:52.000Z"
+    },
     {
       "id": "31145",
       "source": "geeknews",
@@ -55,222 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31136",
       "author": "neo",
       "publishedAt": "2026-07-05T00:49:42.000Z"
-    },
-    {
-      "id": "31135",
-      "source": "geeknews",
-      "title": "YouTube 크리에이터의 비공개 영상 유출",
-      "url": "https://news.hada.io/topic?id=31135",
-      "commentsUrl": "https://news.hada.io/topic?id=31135",
-      "author": "neo",
-      "publishedAt": "2026-07-05T00:46:42.000Z"
-    },
-    {
-      "id": "31134",
-      "source": "geeknews",
-      "title": "MemNixFS - 리눅스 메모리 덤프를 파일시스템으로 변환해 조사하는 도구",
-      "url": "https://news.hada.io/topic?id=31134",
-      "commentsUrl": "https://news.hada.io/topic?id=31134",
-      "author": "xguru",
-      "publishedAt": "2026-07-05T00:31:02.000Z"
-    },
-    {
-      "id": "31133",
-      "source": "geeknews",
-      "title": "Show GN: Cluedoc: 코드베이스 이해를 돕는 문서 작성 에이전트 스킬",
-      "url": "https://news.hada.io/topic?id=31133",
-      "commentsUrl": "https://news.hada.io/topic?id=31133",
-      "author": "keunwoo",
-      "publishedAt": "2026-07-05T00:25:16.000Z"
-    },
-    {
-      "id": "31132",
-      "source": "geeknews",
-      "title": "개인 웹사이트는 무엇이어야 하는가?",
-      "url": "https://news.hada.io/topic?id=31132",
-      "commentsUrl": "https://news.hada.io/topic?id=31132",
-      "author": "neo",
-      "publishedAt": "2026-07-05T00:03:12.000Z"
-    },
-    {
-      "id": "31131",
-      "source": "geeknews",
-      "title": "웹 개발자를 위한 Safari MCP 서버",
-      "url": "https://news.hada.io/topic?id=31131",
-      "commentsUrl": "https://news.hada.io/topic?id=31131",
-      "author": "xguru",
-      "publishedAt": "2026-07-04T23:01:38.000Z"
-    },
-    {
-      "id": "31130",
-      "source": "geeknews",
-      "title": "회의 병목은 회의실 공기일지도 모름",
-      "url": "https://news.hada.io/topic?id=31130",
-      "commentsUrl": "https://news.hada.io/topic?id=31130",
-      "author": "xguru",
-      "publishedAt": "2026-07-04T22:58:31.000Z"
-    },
-    {
-      "id": "31129",
-      "source": "geeknews",
-      "title": "무언가를 배워보는 게 좋을지도 모름",
-      "url": "https://news.hada.io/topic?id=31129",
-      "commentsUrl": "https://news.hada.io/topic?id=31129",
-      "author": "xguru",
-      "publishedAt": "2026-07-04T22:57:55.000Z"
-    },
-    {
-      "id": "31128",
-      "source": "geeknews",
-      "title": "아프리카에서 Starlink 이용이 늘어나는 이유",
-      "url": "https://news.hada.io/topic?id=31128",
-      "commentsUrl": "https://news.hada.io/topic?id=31128",
-      "author": "xguru",
-      "publishedAt": "2026-07-04T22:57:24.000Z"
-    },
-    {
-      "id": "31127",
-      "source": "geeknews",
-      "title": "Fable 비용 60% 절감: 코드를 이미지로 변환하고 모델이 OCR하게 하기",
-      "url": "https://news.hada.io/topic?id=31127",
-      "commentsUrl": "https://news.hada.io/topic?id=31127",
-      "author": "neo",
-      "publishedAt": "2026-07-04T22:35:00.000Z"
-    },
-    {
-      "id": "31126",
-      "source": "geeknews",
-      "title": "내 Homelab은 유지보수하지 않는다",
-      "url": "https://news.hada.io/topic?id=31126",
-      "commentsUrl": "https://news.hada.io/topic?id=31126",
-      "author": "neo",
-      "publishedAt": "2026-07-04T21:02:28.000Z"
-    },
-    {
-      "id": "31125",
-      "source": "geeknews",
-      "title": "Wordgard: ProseMirror 제작자의 브라우저용 리치 텍스트 편집기",
-      "url": "https://news.hada.io/topic?id=31125",
-      "commentsUrl": "https://news.hada.io/topic?id=31125",
-      "author": "neo",
-      "publishedAt": "2026-07-04T20:34:48.000Z"
-    },
-    {
-      "id": "31124",
-      "source": "geeknews",
-      "title": "Leanstral 1.5: 모두를 위한 증명 풍요",
-      "url": "https://news.hada.io/topic?id=31124",
-      "commentsUrl": "https://news.hada.io/topic?id=31124",
-      "author": "neo",
-      "publishedAt": "2026-07-04T16:44:33.000Z"
-    },
-    {
-      "id": "31123",
-      "source": "geeknews",
-      "title": "달러당 성능이 더 빠르고 저렴해지고 있음",
-      "url": "https://news.hada.io/topic?id=31123",
-      "commentsUrl": "https://news.hada.io/topic?id=31123",
-      "author": "neo",
-      "publishedAt": "2026-07-04T16:41:33.000Z"
-    },
-    {
-      "id": "31122",
-      "source": "geeknews",
-      "title": "EXAPUNKS (2018)",
-      "url": "https://news.hada.io/topic?id=31122",
-      "commentsUrl": "https://news.hada.io/topic?id=31122",
-      "author": "neo",
-      "publishedAt": "2026-07-04T15:43:46.000Z"
-    },
-    {
-      "id": "31121",
-      "source": "geeknews",
-      "title": "최신 수준 LLM 로컬 실행 가이드",
-      "url": "https://news.hada.io/topic?id=31121",
-      "commentsUrl": "https://news.hada.io/topic?id=31121",
-      "author": "neo",
-      "publishedAt": "2026-07-04T15:40:46.000Z"
-    },
-    {
-      "id": "31120",
-      "source": "geeknews",
-      "title": "유럽의회 대상 스파이 활동: Pegasus 조사위원도 해킹됨",
-      "url": "https://news.hada.io/topic?id=31120",
-      "commentsUrl": "https://news.hada.io/topic?id=31120",
-      "author": "neo",
-      "publishedAt": "2026-07-04T12:38:05.000Z"
-    },
-    {
-      "id": "31117",
-      "source": "geeknews",
-      "title": "Show GN: 축구감독 공항 대탈출 게임",
-      "url": "https://news.hada.io/topic?id=31117",
-      "commentsUrl": "https://news.hada.io/topic?id=31117",
-      "author": "esc5221",
-      "publishedAt": "2026-07-04T05:24:14.000Z"
-    },
-    {
-      "id": "31116",
-      "source": "geeknews",
-      "title": "미국의 개인정보 비상사태",
-      "url": "https://news.hada.io/topic?id=31116",
-      "commentsUrl": "https://news.hada.io/topic?id=31116",
-      "author": "neo",
-      "publishedAt": "2026-07-04T04:37:40.000Z"
-    },
-    {
-      "id": "31115",
-      "source": "geeknews",
-      "title": "에이전트 자율성 수준",
-      "url": "https://news.hada.io/topic?id=31115",
-      "commentsUrl": "https://news.hada.io/topic?id=31115",
-      "author": "xguru",
-      "publishedAt": "2026-07-04T02:39:13.000Z"
-    },
-    {
-      "id": "31114",
-      "source": "geeknews",
-      "title": "Costco는 안티-Amazon이다",
-      "url": "https://news.hada.io/topic?id=31114",
-      "commentsUrl": "https://news.hada.io/topic?id=31114",
-      "author": "xguru",
-      "publishedAt": "2026-07-04T01:58:44.000Z"
-    },
-    {
-      "id": "31113",
-      "source": "geeknews",
-      "title": "Fable을 이기는 ‘짧은 목줄’ AI 코딩 방법",
-      "url": "https://news.hada.io/topic?id=31113",
-      "commentsUrl": "https://news.hada.io/topic?id=31113",
-      "author": "xguru",
-      "publishedAt": "2026-07-04T01:55:43.000Z"
-    },
-    {
-      "id": "31112",
-      "source": "geeknews",
-      "title": "세션 기록을 기억하는건 에이전트에 유용하지 않음",
-      "url": "https://news.hada.io/topic?id=31112",
-      "commentsUrl": "https://news.hada.io/topic?id=31112",
-      "author": "xguru",
-      "publishedAt": "2026-07-04T01:55:12.000Z"
-    },
-    {
-      "id": "31111",
-      "source": "geeknews",
-      "title": "Show GN: Retry-now, 지금 바로 윤회 - 완전 자율 루프 에이전트",
-      "url": "https://news.hada.io/topic?id=31111",
-      "commentsUrl": "https://news.hada.io/topic?id=31111",
-      "author": "owjs3901",
-      "publishedAt": "2026-07-04T01:50:23.000Z"
-    },
-    {
-      "id": "31107",
-      "source": "geeknews",
-      "title": "Fable 필드 가이드: 나의 미지(Unknowns) 찾기",
-      "url": "https://news.hada.io/topic?id=31107",
-      "commentsUrl": "https://news.hada.io/topic?id=31107",
-      "author": "neo",
-      "publishedAt": "2026-07-04T01:03:02.000Z"
     }
   ]
 }

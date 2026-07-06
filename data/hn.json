@@ -1,106 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-05T13:16:37.611Z",
+  "fetchedAt": "2026-07-06T02:32:42.051Z",
   "items": [
     {
-      "id": "48792399",
+      "id": "48799614",
       "source": "hn",
-      "title": "Claude Design System Prompt",
-      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "score": 57,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48792399",
-      "author": "handfuloflight",
-      "publishedAt": "2026-07-05T08:43:37.000Z"
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "score": 61,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48799614",
+      "author": "mfiguiere",
+      "publishedAt": "2026-07-06T01:04:03.000Z"
+    },
+    {
+      "id": "48799256",
+      "source": "hn",
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "score": 89,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48799256",
+      "author": "ClearwayLaw",
+      "publishedAt": "2026-07-06T00:04:48.000Z"
+    },
+    {
+      "id": "48796817",
+      "source": "hn",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "score": 134,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48796817",
+      "author": "jonahbard",
+      "publishedAt": "2026-07-05T18:47:43.000Z"
+    },
+    {
+      "id": "48767058",
+      "source": "hn",
+      "title": "Zuckerberg says AI agent development going slower than expected",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "score": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48767058",
+      "author": "cwwc",
+      "publishedAt": "2026-07-02T20:38:06.000Z"
+    },
+    {
+      "id": "48798605",
+      "source": "hn",
+      "title": "The AI Compass Quiz",
+      "url": "https://bambamramfan.github.io/ai-compass/",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48798605",
+      "author": "ai_critic",
+      "publishedAt": "2026-07-05T22:36:44.000Z"
+    },
+    {
+      "id": "48798330",
+      "source": "hn",
+      "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
+      "url": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
+      "score": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48798330",
+      "author": "ninko",
+      "publishedAt": "2026-07-05T21:58:20.000Z"
+    },
+    {
+      "id": "48797529",
+      "source": "hn",
+      "title": "Tripadvisor AI summaries give glowing reviews to dangerous hotels",
+      "url": "https://www.euronews.com/travel/2026/07/03/tripadvisor-ai-summaries-give-glowing-reviews-to-dangerous-hotels-consumer-watchdog-finds",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48797529",
+      "author": "jethronethro",
+      "publishedAt": "2026-07-05T20:09:34.000Z"
     },
     {
       "id": "48789428",
       "source": "hn",
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
       "url": "https://github.com/openai/codex/issues/30364",
-      "score": 320,
+      "score": 357,
       "commentsUrl": "https://news.ycombinator.com/item?id=48789428",
       "author": "maille",
       "publishedAt": "2026-07-04T21:51:09.000Z"
     },
     {
-      "id": "48792152",
+      "id": "48797739",
       "source": "hn",
-      "title": "SigMap: 97% token reduction for AI coding sessions",
-      "url": "https://sigmap.io/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48792152",
-      "author": "handfuloflight",
-      "publishedAt": "2026-07-05T07:52:55.000Z"
+      "title": "Show HN: Sidenote – comment on your rendered blog, an LLM writes the Git diff",
+      "url": "https://github.com/bharadwaj-pendyala/sidenote",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48797739",
+      "author": "bharadwajp",
+      "publishedAt": "2026-07-05T20:39:11.000Z"
     },
     {
-      "id": "48792463",
+      "id": "48798442",
       "source": "hn",
-      "title": "Concentration of power in AI is a risk, by Andy Konwinski",
-      "url": "https://xcancel.com/i/article/2072830533739192560",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48792463",
-      "author": "alecco",
-      "publishedAt": "2026-07-05T08:55:45.000Z"
-    },
-    {
-      "id": "48791708",
-      "source": "hn",
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-      "score": 56,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48791708",
-      "author": "ognyankulev",
-      "publishedAt": "2026-07-05T06:19:34.000Z"
-    },
-    {
-      "id": "48791380",
-      "source": "hn",
-      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
-      "url": "https://hic-ai.com",
-      "score": 37,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48791380",
-      "author": "handfuloflight",
-      "publishedAt": "2026-07-05T05:01:14.000Z"
-    },
-    {
-      "id": "48792799",
-      "source": "hn",
-      "title": "Harvey AI started with a Reddit thread. Now it's worth $11B",
-      "url": "https://freemalta.com/hub/library/they-named-a-11-billion-company-after-harvey-specter-then-they-hired-the-actor-who-played-him",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48792799",
-      "author": "ilhaniremyuce",
-      "publishedAt": "2026-07-05T09:58:58.000Z"
-    },
-    {
-      "id": "48789986",
-      "source": "hn",
-      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
-      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-      "score": 16,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48789986",
-      "author": "Buckwheat469",
-      "publishedAt": "2026-07-04T23:25:53.000Z"
-    },
-    {
-      "id": "48791650",
-      "source": "hn",
-      "title": "LLM's as a Different Kind of Intelligence",
-      "url": "https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48791650",
-      "author": "RamtinJ95",
-      "publishedAt": "2026-07-05T06:07:35.000Z"
-    },
-    {
-      "id": "48792841",
-      "source": "hn",
-      "title": "If You Can Write Acceptance Criteria, You Can Write an AI Routing Policy",
-      "url": "https://age-of-product.com/ai-routing-policy/",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48792841",
-      "author": "swolpers",
-      "publishedAt": "2026-07-05T10:07:39.000Z"
+      "title": "Context graphs: how AI agents can store and use past decisions",
+      "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48798442",
+      "author": "vitaelabitur",
+      "publishedAt": "2026-07-05T22:16:31.000Z"
     }
   ]
 }
