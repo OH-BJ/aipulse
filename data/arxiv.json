@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-07-07T02:28:21.025Z",
-  "items": []
+  "fetchedAt": "2026-07-07T14:14:11.427Z",
+  "items": [
+    {
+      "id": "2607.02338",
+      "source": "arxiv",
+      "title": "HNSW with Accuracy Guarantees Using Graph Spanners",
+      "url": "https://arxiv.org/abs/2607.02338",
+      "author": "Minghao Li, Raghav Mittal, Sanjivni Rana +3",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Hierarchical Navigable Small World (HNSW) graphs serve as the industry standard due to their logarithmic complexity and strong empirical performance. However, HNSW relies on greedy graph traversal, a…"
+    },
+    {
+      "id": "2607.02212",
+      "source": "arxiv",
+      "title": "An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility",
+      "url": "https://arxiv.org/abs/2607.02212",
+      "author": "Sampreeti Bhattacharya, Arkaprava Roy",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Aqueous solubility is a key property in early-stage drug discovery, but most predictive models merge physicochemical descriptors and molecular graph information into a single representation, obscuring…"
+    },
+    {
+      "id": "2607.01539",
+      "source": "arxiv",
+      "title": "MMAO-Cls: Metabolic Multi-Agent Optimization for Joint Feature Selection and Classifier Tuning",
+      "url": "https://arxiv.org/abs/2607.01539",
+      "author": "Jinliang Xu, Liping Ma",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "This paper studies whether the Metabolic Multi-Agent Optimizer (MMAO) can act as a credible outer-loop optimizer for classification model selection. We propose MMAO-Cls, a mixed-space realization in w…"
+    },
+    {
+      "id": "2607.01400",
+      "source": "arxiv",
+      "title": "A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps",
+      "url": "https://arxiv.org/abs/2607.01400",
+      "author": "Barada Sahu, Shivesh Pandey",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Deep multimodal brain-encoding models now predict fMRI responses to naturalistic video with high accuracy; whether their predicted neural signals also forecast behavioral engagement is unknown. We run…"
+    },
+    {
+      "id": "2606.30444",
+      "source": "arxiv",
+      "title": "SGD Provably Prioritizes a Shortcut Spurious Feature in the XOR Model",
+      "url": "https://arxiv.org/abs/2606.30444",
+      "author": "Tyler LaBonte, Vidya Muthukumar",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Neural networks are known to be susceptible to over-reliance on spurious correlations. However, the precise mechanism by which models exploit shortcut features is not fully understood, and algorithms…"
+    },
+    {
+      "id": "2606.29596",
+      "source": "arxiv",
+      "title": "Boundary Degree as a Node-level Feature for Epidemic Scenario Identification in Agent-based Cascade Simulations",
+      "url": "https://arxiv.org/abs/2606.29596",
+      "author": "Amro Alabsi Aljundi, Galen Harrison, Jiangzhuo Chen +3",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Characterizing the scenario underlying an epidemic from its disease cascade is an important task in simulation analytics. We propose boundary degree, the count of an infected node's contacts in the un…"
+    },
+    {
+      "id": "2606.26997",
+      "source": "arxiv",
+      "title": "RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.26997",
+      "author": "Rongjian Chen, Jianmin Hu, Kejiang Ye +1",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Large language model (LLM) post-training for reasoning increasingly relies on reinforcement learning with verifiable rewards (RLVR), where models learn from ground-truth feedback on mathematical, logi…"
+    },
+    {
+      "id": "2606.21185",
+      "source": "arxiv",
+      "title": "Two Layers of Instability in Causal Estimation",
+      "url": "https://arxiv.org/abs/2606.21185",
+      "author": "Alexis Bellot",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "There is a precise sense in which drawing causal inferences from observational data is hard, even when identifiability is assumed. In particular, Robins and Ritov (1997) and Robins et al. (2003) showe…"
+    },
+    {
+      "id": "2606.18218",
+      "source": "arxiv",
+      "title": "Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds",
+      "url": "https://arxiv.org/abs/2606.18218",
+      "author": "Hao Liang, Cheng Tang, Yunzong Xu",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "We study finite-horizon queue peaks in generalized switches, a standard stochastic-network model in which many queues share constrained service resources. Arrivals may be dependent, nonstationary, and…"
+    },
+    {
+      "id": "2606.13422",
+      "source": "arxiv",
+      "title": "Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos",
+      "url": "https://arxiv.org/abs/2606.13422",
+      "author": "Maida Wang, Xiao Xue, Minh Chung +1",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "We develop theoretical foundations for a practical quantum-advantage mechanism in quantum-informed machine learning for chaotic dynamical systems. A family of $k$-indexed higher-order quantum statisti…"
+    },
+    {
+      "id": "2606.12471",
+      "source": "arxiv",
+      "title": "Identifiability Without Gaussianity: Symbolic World Models and Near-Infinite Temporal Consistency",
+      "url": "https://arxiv.org/abs/2606.12471",
+      "author": "Seth Dobrin, {\\L}ukasz Chmiel",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Klindt, LeCun, and Balestriero (arXiv:2605.26379) proved that Joint-Embedding Predictive Architectures (JEPAs) achieve linear identifiability, the linear recovery of the world's true latent variables,…"
+    },
+    {
+      "id": "2606.10179",
+      "source": "arxiv",
+      "title": "Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization",
+      "url": "https://arxiv.org/abs/2606.10179",
+      "author": "Gennaro De Luca",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Quantum Circuit Born Machines (QCBMs) offer a natural approach to generative machine learning by leveraging the Born rule. Recent work has provided a method to classically train QCBMs with Instantaneo…"
+    },
+    {
+      "id": "2606.07334",
+      "source": "arxiv",
+      "title": "How Far Can Chord-Symbol Time-Series Adaptation Carry Genre Identity? Capabilities and Boundaries in Multi-Genre Chord-Symbol Modeling",
+      "url": "https://arxiv.org/abs/2606.07334",
+      "author": "Jinju Lee",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "This revision updates an 11-genre chord-symbol adaptation report. The main 165-cell result is unchanged: all methods improve over the frozen pure-pop base, with no decisive method winner. v3 adds the…"
+    },
+    {
+      "id": "2606.05242",
+      "source": "arxiv",
+      "title": "Deterministic Envelopes for Tamed SGLD: Decoupling Stochastic Gradient Noise and Localizing Taming",
+      "url": "https://arxiv.org/abs/2606.05242",
+      "author": "Yiwei Zhou, Ziheng Chen",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Stochastic gradient Langevin algorithms often use tamed denominators to stabilize superlinear drifts. This paper shows that when the denominator depends on the current stochastic gradient, the transfo…"
+    },
+    {
+      "id": "2605.27991",
+      "source": "arxiv",
+      "title": "Gradient-Flow Optimization as Dynamic Random-Effects Inference: Testing and Early Stopping with Applications to Deep Learning",
+      "url": "https://arxiv.org/abs/2605.27991",
+      "author": "Minhao Yao, Ruoyu Wang, Xihong Lin +2",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Gradient-flow optimization is usually viewed as an algorithmic procedure for minimizing empirical loss, with training duration selected by validation or heuristic early stopping rules. We develop a st…"
+    },
+    {
+      "id": "2605.12764",
+      "source": "arxiv",
+      "title": "Yield Curves Dynamics Using Variational Autoencoders Under No-arbitrage",
+      "url": "https://arxiv.org/abs/2605.12764",
+      "author": "Fusheng Luo, H'elyette Geman",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "This paper introduces a physics-informed generative framework that resolves the fundamental conflict between the statistical flexibility of deep learning and the rigorous theoretical constraints of fi…"
+    },
+    {
+      "id": "2605.12534",
+      "source": "arxiv",
+      "title": "BioSEN: A Bio-acoustic Signal Enhancement Network for Animal Vocalizations",
+      "url": "https://arxiv.org/abs/2605.12534",
+      "author": "Tianyu Song, Ton Viet Ta, Ngamta Thamwattana +2",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Most work in audio enhancement targets human speech, while bioacoustics is less studied due to noisy recordings and the distinct traits of animal sounds. To fill this gap, we adapt speech enhancement…"
+    },
+    {
+      "id": "2605.09030",
+      "source": "arxiv",
+      "title": "When Style Similarity Scores Fail: Diagnosing Raw CSD Cosine in Artist-Style Evaluation",
+      "url": "https://arxiv.org/abs/2605.09030",
+      "author": "J\\\"org Frochte",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Raw cosine in the 768-dimensional output space of the Contrastive Style Descriptor (CSD) is now widely read as an absolute, calibrated style-fidelity score for text-to-image and style-imitation evalua…"
+    },
+    {
+      "id": "2605.04998",
+      "source": "arxiv",
+      "title": "Empirical Study of Pop and Jazz Mix Ratios for Genre-Adaptive Chord Generation",
+      "url": "https://arxiv.org/abs/2605.04998",
+      "author": "Jinju Lee",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "This revision updates a pop-to-jazz chord-generation rehearsal study. Best-epoch metrics still show that modest pop rehearsal preserves pop accuracy while improving jazz prediction, but v2 corrects re…"
+    },
+    {
+      "id": "2604.17184",
+      "source": "arxiv",
+      "title": "SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair",
+      "url": "https://arxiv.org/abs/2604.17184",
+      "author": "Yifan Zhang, Jieyu Li, Kexin Pei +2",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Large Language Models (LLMs) can generate plausible code patches, but plausibility is not enough for automated repair: a patch must compile, pass tests, and remove the target vulnerability. We present…"
+    },
+    {
+      "id": "2604.16461",
+      "source": "arxiv",
+      "title": "Modelling Gas-Phase Reaction Kinetics with Guided Particle Diffusion Sampling",
+      "url": "https://arxiv.org/abs/2604.16461",
+      "author": "Andrew Millard, Zheng Zhao, Henrik Pedersen",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Physics-guided sampling with diffusion priors has recently shown strong performance in solving complex systems of partial differential equations (PDEs) from sparse observations. However, these methods…"
+    },
+    {
+      "id": "2604.11943",
+      "source": "arxiv",
+      "title": "ProbeLogits: Kernel-Level LLM Inference Primitives for AI-Native Operating Systems",
+      "url": "https://arxiv.org/abs/2604.11943",
+      "author": "Daeyeon Son",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "An OS kernel that runs LLM inference internally can read the model's own next-token logit distribution before any text is generated, and act on it as a governance primitive. I present ProbeLogits, a k…"
+    },
+    {
+      "id": "2604.11730",
+      "source": "arxiv",
+      "title": "Multimodal Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions",
+      "url": "https://arxiv.org/abs/2604.11730",
+      "author": "Manuela Gonz\\'alez-Gonz\\'alez, Soufiane Belharbi, Muhammad Osama Zeeshan +8",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Using behavioural science, health interventions focus on behaviour change by providing a framework to help patients acquire and maintain healthy habits that improve medical outcomes. In-person interve…"
+    },
+    {
+      "id": "2604.09938",
+      "source": "arxiv",
+      "title": "CableTract: A Co-Designed Cable-Driven Field Robot for Low-Compaction, Off-Grid Capable Agriculture",
+      "url": "https://arxiv.org/abs/2604.09938",
+      "author": "Ozgur Yilmaz",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Conventional field operations spend most of their energy moving the tractor body, not the implement. Yet feasibility studies for novel agricultural vehicles rarely tie mechanics, energy harvest, draft…"
+    },
+    {
+      "id": "2603.29499",
+      "source": "arxiv",
+      "title": "Model Predictive Path Integral PID Control for Learning-Based Path Following",
+      "url": "https://arxiv.org/abs/2603.29499",
+      "author": "Teruki Kato, Koshi Oishi, Seigo Ito",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Classical proportional--integral--derivative (PID) control remains widely used in industrial control systems, while model predictive control (MPC) is actively studied to achieve higher performance for…"
+    },
+    {
+      "id": "2603.24167",
+      "source": "arxiv",
+      "title": "Walma: Learning to See Memory Corruption in WebAssembly",
+      "url": "https://arxiv.org/abs/2603.24167",
+      "author": "Oussama Draissi, Mark G\\\"unzel, Ahmad-Reza Sadeghi +1",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "WebAssembly's (Wasm) monolithic linear memory turns a single memory-corruption bug into a bidirectional threat: a compromised module can attack its embedding host, and a malicious host can tamper with…"
+    },
+    {
+      "id": "2603.18482",
+      "source": "arxiv",
+      "title": "The Truncation Blind Spot: How Decoding Strategies Systematically Exclude Human-Like Token Choices",
+      "url": "https://arxiv.org/abs/2603.18482",
+      "author": "Esteban Garces Arias, Nurzhan Sapargali, Christian Heumann +1",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Standard decoding strategies for text generation, including top-$k$, nucleus sampling, and contrastive search, select tokens based on likelihood, restricting outputs to high-probability regions. In co…"
+    },
+    {
+      "id": "2603.17484",
+      "source": "arxiv",
+      "title": "Learning When to Attend: Conditional Memory Access for Long-Context LLMs",
+      "url": "https://arxiv.org/abs/2603.17484",
+      "author": "Sakshi Choudhary, Aditya Chattopadhyay, Luca Zancato +4",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Language models struggle to generalize beyond pretraining context lengths, limiting long-horizon reasoning and retrieval. Continued pretraining on long-context data can help but is expensive due to th…"
+    },
+    {
+      "id": "2603.13048",
+      "source": "arxiv",
+      "title": "Convergence Rate of a Functional Learning Method for Contextual Stochastic Optimization",
+      "url": "https://arxiv.org/abs/2603.13048",
+      "author": "Noel Smith, Andrzej Ruszczynski",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "We consider a stochastic optimization problem involving two random variables: a context variable $X$ and a dependent variable $Y$. The objective is to minimize the expected value of a nonlinear loss f…"
+    },
+    {
+      "id": "2603.10494",
+      "source": "arxiv",
+      "title": "Coverage-Controlled Preference Mining from Noisy Claim Verification for Evidence-Grounded Generation",
+      "url": "https://arxiv.org/abs/2603.10494",
+      "author": "Weixin Liu, Congning Ni, Qingyuan Song +4",
+      "publishedAt": "2026-07-07T04:00:00.000Z",
+      "summary": "Evidence-grounded generation produces summaries whose claims should be supported by supplied evidence, but claim-level verifiers provide noisy feedback and can reward models that simply say less. We s…"
+    }
+  ]
 }
