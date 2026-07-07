@@ -1,96 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-06T15:18:01.455Z",
+  "fetchedAt": "2026-07-07T02:28:21.514Z",
   "items": [
+    {
+      "id": "48809877",
+      "source": "hn",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 182,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48809877",
+      "author": "martinald",
+      "publishedAt": "2026-07-06T20:14:55.000Z"
+    },
+    {
+      "id": "48812055",
+      "source": "hn",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48812055",
+      "author": "sscaryterry",
+      "publishedAt": "2026-07-06T23:59:54.000Z"
+    },
     {
       "id": "48805624",
       "source": "hn",
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
       "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "score": 4,
+      "score": 280,
       "commentsUrl": "https://news.ycombinator.com/item?id=48805624",
       "author": "LabsLucas",
       "publishedAt": "2026-07-06T15:01:18.000Z"
     },
     {
-      "id": "48804182",
+      "id": "48807225",
       "source": "hn",
-      "title": "Show HN: Scan your AI agents for dangerous capabilities",
-      "url": "https://github.com/makerchecker/MakerChecker",
-      "score": 25,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48804182",
-      "author": "smashini",
-      "publishedAt": "2026-07-06T13:17:27.000Z"
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "score": 128,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48807225",
+      "author": "maxloh",
+      "publishedAt": "2026-07-06T16:47:44.000Z"
+    },
+    {
+      "id": "48810533",
+      "source": "hn",
+      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48810533",
+      "author": "u1hcw9nx",
+      "publishedAt": "2026-07-06T21:09:23.000Z"
+    },
+    {
+      "id": "48811403",
+      "source": "hn",
+      "title": "Not everything should cost a token: the case for deterministic AI",
+      "url": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48811403",
+      "author": "marwann",
+      "publishedAt": "2026-07-06T22:36:40.000Z"
+    },
+    {
+      "id": "48810528",
+      "source": "hn",
+      "title": "Show HN: Otari: your open-source LLM control plane",
+      "url": "https://github.com/mozilla-ai/otari",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48810528",
+      "author": "angpt",
+      "publishedAt": "2026-07-06T21:08:47.000Z"
+    },
+    {
+      "id": "48808498",
+      "source": "hn",
+      "title": "Companies hire more after AI adoption",
+      "url": "https://ramp.com/data/heavy-ai-adopters-hire-more",
+      "score": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48808498",
+      "author": "mooreds",
+      "publishedAt": "2026-07-06T18:24:11.000Z"
+    },
+    {
+      "id": "48811892",
+      "source": "hn",
+      "title": "Show HN: LLM Thought Visualization",
+      "url": "https://github.com/ninjahawk/Subtext",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48811892",
+      "author": "ninjahawk1",
+      "publishedAt": "2026-07-06T23:34:27.000Z"
+    },
+    {
+      "id": "48812424",
+      "source": "hn",
+      "title": "Claude Fable 5 Backlash Grows",
+      "url": "https://tech.yahoo.com/ai/claude/articles/claude-fable-5-backlash-grows-213000534.html",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48812424",
+      "author": "cybermango",
+      "publishedAt": "2026-07-07T00:56:07.000Z"
     },
     {
       "id": "48799614",
       "source": "hn",
       "title": "GPT-5.6 Sol Ultra will be in Codex",
       "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "score": 372,
+      "score": 403,
       "commentsUrl": "https://news.ycombinator.com/item?id=48799614",
       "author": "mfiguiere",
       "publishedAt": "2026-07-06T01:04:03.000Z"
     },
     {
-      "id": "48767058",
+      "id": "48811636",
       "source": "hn",
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "score": 313,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48767058",
-      "author": "cwwc",
-      "publishedAt": "2026-07-02T20:38:06.000Z"
+      "title": "Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma",
+      "url": "https://www.theregister.com/science/2026/07/06/boffins-bet-on-quantum-computers-ai-supers-to-solve-fusion-fuel-dilemma/5267199",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48811636",
+      "author": "Bender",
+      "publishedAt": "2026-07-06T23:05:45.000Z"
     },
     {
-      "id": "48802156",
+      "id": "48809084",
       "source": "hn",
-      "title": "The Hitchhiker's Guide to Agentic AI",
-      "url": "https://arxiv.org/abs/2606.24937",
-      "score": 33,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48802156",
-      "author": "jonbaer",
-      "publishedAt": "2026-07-06T08:40:29.000Z"
-    },
-    {
-      "id": "48803751",
-      "source": "hn",
-      "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
-      "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
-      "score": 208,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48803751",
-      "author": "raheelrjunaid",
-      "publishedAt": "2026-07-06T12:37:06.000Z"
-    },
-    {
-      "id": "48796817",
-      "source": "hn",
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "score": 173,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48796817",
-      "author": "jonahbard",
-      "publishedAt": "2026-07-05T18:47:43.000Z"
-    },
-    {
-      "id": "48804762",
-      "source": "hn",
-      "title": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts",
-      "url": "https://www.reuters.com/business/world-at-work/microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-2026-07-06/",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48804762",
-      "author": "root-parent",
-      "publishedAt": "2026-07-06T14:03:51.000Z"
-    },
-    {
-      "id": "48799256",
-      "source": "hn",
-      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-      "score": 161,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48799256",
-      "author": "ClearwayLaw",
-      "publishedAt": "2026-07-06T00:04:48.000Z"
+      "title": "What's slowing down the AI buildout",
+      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48809084",
+      "author": "gmays",
+      "publishedAt": "2026-07-06T19:07:07.000Z"
     }
   ]
 }
