@@ -1,116 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-07T14:14:11.918Z",
+  "fetchedAt": "2026-07-08T02:02:24.619Z",
   "items": [
     {
-      "id": "48809877",
+      "id": "48823359",
       "source": "hn",
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 569,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48809877",
-      "author": "martinald",
-      "publishedAt": "2026-07-06T20:14:55.000Z"
+      "title": "We charge $10k a week to delete AI-generated code",
+      "url": "https://odra.dev/slopfix/",
+      "score": 207,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48823359",
+      "author": "zie1ony",
+      "publishedAt": "2026-07-07T20:35:42.000Z"
+    },
+    {
+      "id": "48819808",
+      "source": "hn",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "score": 94,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48819808",
+      "author": "segmenta",
+      "publishedAt": "2026-07-07T16:10:44.000Z"
+    },
+    {
+      "id": "48821749",
+      "source": "hn",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "score": 80,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48821749",
+      "author": "duha",
+      "publishedAt": "2026-07-07T18:36:35.000Z"
+    },
+    {
+      "id": "48818937",
+      "source": "hn",
+      "title": "Automating AI Away",
+      "url": "https://replicated.live/blog/away",
+      "score": 103,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48818937",
+      "author": "gritzko",
+      "publishedAt": "2026-07-07T15:11:08.000Z"
+    },
+    {
+      "id": "48818098",
+      "source": "hn",
+      "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+      "url": "https://github.com/bkuan001/halo-record",
+      "score": 26,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48818098",
+      "author": "brian_kuan",
+      "publishedAt": "2026-07-07T14:07:08.000Z"
+    },
+    {
+      "id": "48825694",
+      "source": "hn",
+      "title": "Honey, We Bought an AI Story",
+      "url": "https://www.bona-books.com/news/we-bought-an-ai-story",
+      "score": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48825694",
+      "author": "bigiain",
+      "publishedAt": "2026-07-08T00:01:18.000Z"
+    },
+    {
+      "id": "48823772",
+      "source": "hn",
+      "title": "US manufacturers' energy costs soar because of AI data center demand",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48823772",
+      "author": "doener",
+      "publishedAt": "2026-07-07T21:07:29.000Z"
+    },
+    {
+      "id": "48826086",
+      "source": "hn",
+      "title": "Claude Fable extended to July 12",
+      "url": "https://www.forbes.com/sites/sandycarter/2026/07/07/claude-fable-5-extends-by-five-more-days-10-moves-to-make-now/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48826086",
+      "author": "alexkkoo93",
+      "publishedAt": "2026-07-08T00:54:12.000Z"
     },
     {
       "id": "48812055",
       "source": "hn",
       "title": "Small AI Models Gain Traction In places with unreliable networks",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "score": 202,
+      "score": 263,
       "commentsUrl": "https://news.ycombinator.com/item?id=48812055",
       "author": "sscaryterry",
       "publishedAt": "2026-07-06T23:59:54.000Z"
     },
     {
-      "id": "48805624",
+      "id": "48809877",
       "source": "hn",
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "score": 359,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48805624",
-      "author": "LabsLucas",
-      "publishedAt": "2026-07-06T15:01:18.000Z"
-    },
-    {
-      "id": "48807225",
-      "source": "hn",
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "score": 198,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48807225",
-      "author": "maxloh",
-      "publishedAt": "2026-07-06T16:47:44.000Z"
-    },
-    {
-      "id": "48814264",
-      "source": "hn",
-      "title": "The Making of Claude Code",
-      "url": "https://www.anthropic.com/features/making-of-claude-code",
-      "score": 17,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48814264",
-      "author": "kanamekun",
-      "publishedAt": "2026-07-07T06:19:20.000Z"
-    },
-    {
-      "id": "48817519",
-      "source": "hn",
-      "title": "A verification loop 4x'd DeepSeek's intelligence, matching Opus at 1/7 the cost",
-      "url": "https://ironbee.medium.com/what-a-verification-loop-adds-to-a-coding-agent-a-first-look-5049017e636e",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48817519",
-      "author": "sozal",
-      "publishedAt": "2026-07-07T13:28:25.000Z"
-    },
-    {
-      "id": "48808498",
-      "source": "hn",
-      "title": "Companies hire more after AI adoption",
-      "url": "https://ramp.com/data/heavy-ai-adopters-hire-more",
-      "score": 40,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48808498",
-      "author": "mooreds",
-      "publishedAt": "2026-07-06T18:24:11.000Z"
-    },
-    {
-      "id": "48799614",
-      "source": "hn",
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "score": 410,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48799614",
-      "author": "mfiguiere",
-      "publishedAt": "2026-07-06T01:04:03.000Z"
-    },
-    {
-      "id": "48811403",
-      "source": "hn",
-      "title": "Not everything should cost a token: the case for deterministic AI",
-      "url": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48811403",
-      "author": "marwann",
-      "publishedAt": "2026-07-06T22:36:40.000Z"
-    },
-    {
-      "id": "48810528",
-      "source": "hn",
-      "title": "Show HN: Otari: your open-source LLM control plane",
-      "url": "https://github.com/mozilla-ai/otari",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48810528",
-      "author": "angpt",
-      "publishedAt": "2026-07-06T21:08:47.000Z"
-    },
-    {
-      "id": "48767058",
-      "source": "hn",
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "score": 335,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48767058",
-      "author": "cwwc",
-      "publishedAt": "2026-07-02T20:38:06.000Z"
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 665,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48809877",
+      "author": "martinald",
+      "publishedAt": "2026-07-06T20:14:55.000Z"
     }
   ]
 }
