@@ -1,23 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-08T02:02:24.619Z",
+  "fetchedAt": "2026-07-08T13:47:35.889Z",
   "items": [
     {
-      "id": "48823359",
+      "id": "48827858",
       "source": "hn",
-      "title": "We charge $10k a week to delete AI-generated code",
-      "url": "https://odra.dev/slopfix/",
-      "score": 207,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48823359",
-      "author": "zie1ony",
-      "publishedAt": "2026-07-07T20:35:42.000Z"
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "score": 318,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48827858",
+      "author": "ColinEberhardt",
+      "publishedAt": "2026-07-08T05:25:35.000Z"
+    },
+    {
+      "id": "48829242",
+      "source": "hn",
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "score": 56,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48829242",
+      "author": "rzk",
+      "publishedAt": "2026-07-08T08:37:26.000Z"
     },
     {
       "id": "48819808",
       "source": "hn",
       "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
       "url": "https://github.com/rowboatlabs/rowboat",
-      "score": 94,
+      "score": 187,
       "commentsUrl": "https://news.ycombinator.com/item?id=48819808",
       "author": "segmenta",
       "publishedAt": "2026-07-07T16:10:44.000Z"
@@ -27,7 +37,7 @@
       "source": "hn",
       "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
       "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-      "score": 80,
+      "score": 110,
       "commentsUrl": "https://news.ycombinator.com/item?id=48821749",
       "author": "duha",
       "publishedAt": "2026-07-07T18:36:35.000Z"
@@ -37,70 +47,50 @@
       "source": "hn",
       "title": "Automating AI Away",
       "url": "https://replicated.live/blog/away",
-      "score": 103,
+      "score": 123,
       "commentsUrl": "https://news.ycombinator.com/item?id=48818937",
       "author": "gritzko",
       "publishedAt": "2026-07-07T15:11:08.000Z"
+    },
+    {
+      "id": "48827402",
+      "source": "hn",
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "score": 214,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48827402",
+      "author": "jfrbfbreudh",
+      "publishedAt": "2026-07-08T04:12:13.000Z"
+    },
+    {
+      "id": "48830790",
+      "source": "hn",
+      "title": "Let AI Burn",
+      "url": "https://www.wheresyoured.at/let-ai-burn/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48830790",
+      "author": "genericlemon24",
+      "publishedAt": "2026-07-08T11:59:46.000Z"
     },
     {
       "id": "48818098",
       "source": "hn",
       "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
       "url": "https://github.com/bkuan001/halo-record",
-      "score": 26,
+      "score": 37,
       "commentsUrl": "https://news.ycombinator.com/item?id=48818098",
       "author": "brian_kuan",
       "publishedAt": "2026-07-07T14:07:08.000Z"
-    },
-    {
-      "id": "48825694",
-      "source": "hn",
-      "title": "Honey, We Bought an AI Story",
-      "url": "https://www.bona-books.com/news/we-bought-an-ai-story",
-      "score": 27,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48825694",
-      "author": "bigiain",
-      "publishedAt": "2026-07-08T00:01:18.000Z"
-    },
-    {
-      "id": "48823772",
-      "source": "hn",
-      "title": "US manufacturers' energy costs soar because of AI data center demand",
-      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-      "score": 29,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48823772",
-      "author": "doener",
-      "publishedAt": "2026-07-07T21:07:29.000Z"
-    },
-    {
-      "id": "48826086",
-      "source": "hn",
-      "title": "Claude Fable extended to July 12",
-      "url": "https://www.forbes.com/sites/sandycarter/2026/07/07/claude-fable-5-extends-by-five-more-days-10-moves-to-make-now/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48826086",
-      "author": "alexkkoo93",
-      "publishedAt": "2026-07-08T00:54:12.000Z"
     },
     {
       "id": "48812055",
       "source": "hn",
       "title": "Small AI Models Gain Traction In places with unreliable networks",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "score": 263,
+      "score": 272,
       "commentsUrl": "https://news.ycombinator.com/item?id=48812055",
       "author": "sscaryterry",
       "publishedAt": "2026-07-06T23:59:54.000Z"
-    },
-    {
-      "id": "48809877",
-      "source": "hn",
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 665,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48809877",
-      "author": "martinald",
-      "publishedAt": "2026-07-06T20:14:55.000Z"
     }
   ]
 }

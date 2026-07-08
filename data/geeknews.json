@@ -1,7 +1,25 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-08T02:02:25.346Z",
+  "fetchedAt": "2026-07-08T13:47:36.346Z",
   "items": [
+    {
+      "id": "31239",
+      "source": "geeknews",
+      "title": "Kokoro로 로컬 CPU에서 고품질 TTS 실행하기",
+      "url": "https://news.hada.io/topic?id=31239",
+      "commentsUrl": "https://news.hada.io/topic?id=31239",
+      "author": "neo",
+      "publishedAt": "2026-07-08T10:33:28.000Z"
+    },
+    {
+      "id": "31238",
+      "source": "geeknews",
+      "title": "Trusted Publishing을 패키지 신뢰 신호로 보면 안 됨",
+      "url": "https://news.hada.io/topic?id=31238",
+      "commentsUrl": "https://news.hada.io/topic?id=31238",
+      "author": "neo",
+      "publishedAt": "2026-07-08T08:01:35.000Z"
+    },
     {
       "id": "31233",
       "source": "geeknews",
@@ -86,7 +104,7 @@
     {
       "id": "31224",
       "source": "geeknews",
-      "title": "일리야 서츠케버 추천 AI 핵심 논문 목록 요약",
+      "title": "30 Papers - 일리야 서츠케버 추천 AI 핵심 논문 목록 요약",
       "url": "https://news.hada.io/topic?id=31224",
       "commentsUrl": "https://news.hada.io/topic?id=31224",
       "author": "baeba",
@@ -253,24 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31201",
       "author": "xguru",
       "publishedAt": "2026-07-07T01:54:12.000Z"
-    },
-    {
-      "id": "31200",
-      "source": "geeknews",
-      "title": "CoMaps - 오픈소스 오프라인 지도",
-      "url": "https://news.hada.io/topic?id=31200",
-      "commentsUrl": "https://news.hada.io/topic?id=31200",
-      "author": "neo",
-      "publishedAt": "2026-07-07T01:33:12.000Z"
-    },
-    {
-      "id": "31199",
-      "source": "geeknews",
-      "title": "언어 모델 안의 글로벌 워크스페이스",
-      "url": "https://news.hada.io/topic?id=31199",
-      "commentsUrl": "https://news.hada.io/topic?id=31199",
-      "author": "xguru",
-      "publishedAt": "2026-07-07T01:18:06.000Z"
     }
   ]
 }
