@@ -1,7 +1,151 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-08T13:47:36.346Z",
+  "fetchedAt": "2026-07-09T02:14:28.043Z",
   "items": [
+    {
+      "id": "31256",
+      "source": "geeknews",
+      "title": "Grok 4.5 공개",
+      "url": "https://news.hada.io/topic?id=31256",
+      "commentsUrl": "https://news.hada.io/topic?id=31256",
+      "author": "neo",
+      "publishedAt": "2026-07-09T00:58:28.000Z"
+    },
+    {
+      "id": "31255",
+      "source": "geeknews",
+      "title": "GitLost: GitHub AI 에이전트를 속여 비공개 저장소 유출",
+      "url": "https://news.hada.io/topic?id=31255",
+      "commentsUrl": "https://news.hada.io/topic?id=31255",
+      "author": "neo",
+      "publishedAt": "2026-07-09T00:55:27.000Z"
+    },
+    {
+      "id": "31254",
+      "source": "geeknews",
+      "title": "OpenAI, GPT‑Live 공개",
+      "url": "https://news.hada.io/topic?id=31254",
+      "commentsUrl": "https://news.hada.io/topic?id=31254",
+      "author": "neo",
+      "publishedAt": "2026-07-09T00:52:27.000Z"
+    },
+    {
+      "id": "31253",
+      "source": "geeknews",
+      "title": "Chatto, 이제 오픈소스로 공개되어 셀프 호스팅 가능",
+      "url": "https://news.hada.io/topic?id=31253",
+      "commentsUrl": "https://news.hada.io/topic?id=31253",
+      "author": "neo",
+      "publishedAt": "2026-07-09T00:49:26.000Z"
+    },
+    {
+      "id": "31252",
+      "source": "geeknews",
+      "title": "Uniqlo 티셔츠의 난독화된 bash 스크립트 해독하기",
+      "url": "https://news.hada.io/topic?id=31252",
+      "commentsUrl": "https://news.hada.io/topic?id=31252",
+      "author": "neo",
+      "publishedAt": "2026-07-09T00:46:26.000Z"
+    },
+    {
+      "id": "31251",
+      "source": "geeknews",
+      "title": "Weave Router - 프롬프트마다 최적의 모델로 라우팅하는 에이전트용 모델 라우터",
+      "url": "https://news.hada.io/topic?id=31251",
+      "commentsUrl": "https://news.hada.io/topic?id=31251",
+      "author": "xguru",
+      "publishedAt": "2026-07-09T00:31:01.000Z"
+    },
+    {
+      "id": "31250",
+      "source": "geeknews",
+      "title": "왼손잡이 사용자에게만 영향을 준 WordPress 버그",
+      "url": "https://news.hada.io/topic?id=31250",
+      "commentsUrl": "https://news.hada.io/topic?id=31250",
+      "author": "neo",
+      "publishedAt": "2026-07-09T00:16:05.000Z"
+    },
+    {
+      "id": "31249",
+      "source": "geeknews",
+      "title": "TypeScript 7.0 발표",
+      "url": "https://news.hada.io/topic?id=31249",
+      "commentsUrl": "https://news.hada.io/topic?id=31249",
+      "author": "neo",
+      "publishedAt": "2026-07-09T00:13:05.000Z"
+    },
+    {
+      "id": "31248",
+      "source": "geeknews",
+      "title": "내가 좋아하는 소프트웨어 엔지니어링 인터뷰 질문: 중앙값 계산",
+      "url": "https://news.hada.io/topic?id=31248",
+      "commentsUrl": "https://news.hada.io/topic?id=31248",
+      "author": "neo",
+      "publishedAt": "2026-07-09T00:10:05.000Z"
+    },
+    {
+      "id": "31247",
+      "source": "geeknews",
+      "title": "TrueType QR Code 폰트 - 폰트만으로 QR코드 만들기",
+      "url": "https://news.hada.io/topic?id=31247",
+      "commentsUrl": "https://news.hada.io/topic?id=31247",
+      "author": "neo",
+      "publishedAt": "2026-07-09T00:07:05.000Z"
+    },
+    {
+      "id": "31246",
+      "source": "geeknews",
+      "title": "SICP 비디오 강의(1986)",
+      "url": "https://news.hada.io/topic?id=31246",
+      "commentsUrl": "https://news.hada.io/topic?id=31246",
+      "author": "neo",
+      "publishedAt": "2026-07-08T21:33:41.000Z"
+    },
+    {
+      "id": "31245",
+      "source": "geeknews",
+      "title": "중국, 3억2500만 달러 뇌물 수수 공무원에 사형 선고",
+      "url": "https://news.hada.io/topic?id=31245",
+      "commentsUrl": "https://news.hada.io/topic?id=31245",
+      "author": "neo",
+      "publishedAt": "2026-07-08T20:33:44.000Z"
+    },
+    {
+      "id": "31244",
+      "source": "geeknews",
+      "title": "Microsoft가 Windows Device ID로 사용자를 추적할 수 있음",
+      "url": "https://news.hada.io/topic?id=31244",
+      "commentsUrl": "https://news.hada.io/topic?id=31244",
+      "author": "neo",
+      "publishedAt": "2026-07-08T19:39:40.000Z"
+    },
+    {
+      "id": "31243",
+      "source": "geeknews",
+      "title": "Davit - Apple Containers용 네이티브 macOS UI",
+      "url": "https://news.hada.io/topic?id=31243",
+      "commentsUrl": "https://news.hada.io/topic?id=31243",
+      "author": "neo",
+      "publishedAt": "2026-07-08T19:36:40.000Z"
+    },
+    {
+      "id": "31242",
+      "source": "geeknews",
+      "title": "TypeScript v7 Released",
+      "url": "https://news.hada.io/topic?id=31242",
+      "commentsUrl": "https://news.hada.io/topic?id=31242",
+      "author": "cichol",
+      "publishedAt": "2026-07-08T17:28:31.000Z"
+    },
+    {
+      "id": "31240",
+      "source": "geeknews",
+      "title": "집에서 직접 DNA 시퀀싱하기",
+      "url": "https://news.hada.io/topic?id=31240",
+      "commentsUrl": "https://news.hada.io/topic?id=31240",
+      "author": "neo",
+      "publishedAt": "2026-07-08T15:35:13.000Z"
+    },
     {
       "id": "31239",
       "source": "geeknews",
@@ -14,7 +158,7 @@
     {
       "id": "31238",
       "source": "geeknews",
-      "title": "Trusted Publishing을 패키지 신뢰 신호로 보면 안 됨",
+      "title": "PyPI의 Trusted Publishing을 패키지 신뢰 신호로 보면 안 됨",
       "url": "https://news.hada.io/topic?id=31238",
       "commentsUrl": "https://news.hada.io/topic?id=31238",
       "author": "neo",
@@ -127,150 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31222",
       "author": "neo",
       "publishedAt": "2026-07-08T00:09:55.000Z"
-    },
-    {
-      "id": "31221",
-      "source": "geeknews",
-      "title": "Google, 기후를 위협하는 디지털 비대화의 지수적 경로",
-      "url": "https://news.hada.io/topic?id=31221",
-      "commentsUrl": "https://news.hada.io/topic?id=31221",
-      "author": "neo",
-      "publishedAt": "2026-07-08T00:06:55.000Z"
-    },
-    {
-      "id": "31220",
-      "source": "geeknews",
-      "title": "Odin 1.0, ‘Odin 2027’로 2027년 1월 출시 예정",
-      "url": "https://news.hada.io/topic?id=31220",
-      "commentsUrl": "https://news.hada.io/topic?id=31220",
-      "author": "neo",
-      "publishedAt": "2026-07-08T00:03:55.000Z"
-    },
-    {
-      "id": "31219",
-      "source": "geeknews",
-      "title": "코딩 배우기는 여전히 가치 있다",
-      "url": "https://news.hada.io/topic?id=31219",
-      "commentsUrl": "https://news.hada.io/topic?id=31219",
-      "author": "neo",
-      "publishedAt": "2026-07-07T22:34:37.000Z"
-    },
-    {
-      "id": "31218",
-      "source": "geeknews",
-      "title": "Ternlight - 브라우저(WASM)에서 실행되는 7MB 임베딩 모델",
-      "url": "https://news.hada.io/topic?id=31218",
-      "commentsUrl": "https://news.hada.io/topic?id=31218",
-      "author": "neo",
-      "publishedAt": "2026-07-07T19:33:20.000Z"
-    },
-    {
-      "id": "31217",
-      "source": "geeknews",
-      "title": "ReactOS “오픈소스 Windows” 프로젝트, Half-Life 2 실행 가능해짐",
-      "url": "https://news.hada.io/topic?id=31217",
-      "commentsUrl": "https://news.hada.io/topic?id=31217",
-      "author": "neo",
-      "publishedAt": "2026-07-07T17:02:01.000Z"
-    },
-    {
-      "id": "31216",
-      "source": "geeknews",
-      "title": "Show GN: gh-attach – CLI로 GitHub 이슈/PR에 이미지, 파일 첨부하기",
-      "url": "https://news.hada.io/topic?id=31216",
-      "commentsUrl": "https://news.hada.io/topic?id=31216",
-      "author": "sudosubin",
-      "publishedAt": "2026-07-07T15:59:46.000Z"
-    },
-    {
-      "id": "31214",
-      "source": "geeknews",
-      "title": "sneakerweb - 물리 저장 매체로 전파되는 병렬 웹",
-      "url": "https://news.hada.io/topic?id=31214",
-      "commentsUrl": "https://news.hada.io/topic?id=31214",
-      "author": "neo",
-      "publishedAt": "2026-07-07T14:01:06.000Z"
-    },
-    {
-      "id": "31213",
-      "source": "geeknews",
-      "title": "Gradle이 jj를 쓰지 못한 사소한 이유",
-      "url": "https://news.hada.io/topic?id=31213",
-      "commentsUrl": "https://news.hada.io/topic?id=31213",
-      "author": "neo",
-      "publishedAt": "2026-07-07T12:01:48.000Z"
-    },
-    {
-      "id": "31209",
-      "source": "geeknews",
-      "title": "GLM 5.2와 다가오는 AI 추론 마진 붕괴",
-      "url": "https://news.hada.io/topic?id=31209",
-      "commentsUrl": "https://news.hada.io/topic?id=31209",
-      "author": "neo",
-      "publishedAt": "2026-07-07T07:36:26.000Z"
-    },
-    {
-      "id": "31208",
-      "source": "geeknews",
-      "title": "Fable로 reMarkable을 해리 포터에 나오는 톰 리들의 일기장으로 바꾸기",
-      "url": "https://news.hada.io/topic?id=31208",
-      "commentsUrl": "https://news.hada.io/topic?id=31208",
-      "author": "neo",
-      "publishedAt": "2026-07-07T06:33:37.000Z"
-    },
-    {
-      "id": "31207",
-      "source": "geeknews",
-      "title": "AI 시대에 취미가 곧 비즈니스 기회가 되는 이유",
-      "url": "https://news.hada.io/topic?id=31207",
-      "commentsUrl": "https://news.hada.io/topic?id=31207",
-      "author": "hyeongjun",
-      "publishedAt": "2026-07-07T04:46:55.000Z"
-    },
-    {
-      "id": "31206",
-      "source": "geeknews",
-      "title": "Show GN: 파비콘을 만들어주는 간단한 zsh 커맨드",
-      "url": "https://news.hada.io/topic?id=31206",
-      "commentsUrl": "https://news.hada.io/topic?id=31206",
-      "author": "dodok8",
-      "publishedAt": "2026-07-07T04:09:05.000Z"
-    },
-    {
-      "id": "31204",
-      "source": "geeknews",
-      "title": "Amazon, Mechanical Turk 신규 고객 접수 중단 예정",
-      "url": "https://news.hada.io/topic?id=31204",
-      "commentsUrl": "https://news.hada.io/topic?id=31204",
-      "author": "xguru",
-      "publishedAt": "2026-07-07T02:01:50.000Z"
-    },
-    {
-      "id": "31203",
-      "source": "geeknews",
-      "title": "저커버그, \"AI 에이전트 기술이 기대보다 느리게 발전하고 있다\"",
-      "url": "https://news.hada.io/topic?id=31203",
-      "commentsUrl": "https://news.hada.io/topic?id=31203",
-      "author": "xguru",
-      "publishedAt": "2026-07-07T02:00:36.000Z"
-    },
-    {
-      "id": "31202",
-      "source": "geeknews",
-      "title": "AMD Ryzen AI Halo, $4000(약 600만원) AI 개발 키트",
-      "url": "https://news.hada.io/topic?id=31202",
-      "commentsUrl": "https://news.hada.io/topic?id=31202",
-      "author": "xguru",
-      "publishedAt": "2026-07-07T01:58:43.000Z"
-    },
-    {
-      "id": "31201",
-      "source": "geeknews",
-      "title": "Anthropic이 개발자 호감을 잃는 몇 가지 방법",
-      "url": "https://news.hada.io/topic?id=31201",
-      "commentsUrl": "https://news.hada.io/topic?id=31201",
-      "author": "xguru",
-      "publishedAt": "2026-07-07T01:54:12.000Z"
     }
   ]
 }
