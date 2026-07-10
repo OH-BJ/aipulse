@@ -1,116 +1,146 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-09T14:40:42.751Z",
+  "fetchedAt": "2026-07-10T02:14:36.036Z",
   "items": [
     {
-      "id": "48845422",
+      "id": "48849066",
       "source": "hn",
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "url": "https://github.com/ronak-create/FableCut",
-      "score": 48,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48845422",
-      "author": "ronak_parmar",
-      "publishedAt": "2026-07-09T13:23:10.000Z"
-    },
-    {
-      "id": "48845526",
-      "source": "hn",
-      "title": "A new way to reflect on how you use Claude",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48845526",
-      "author": "surprisetalk",
-      "publishedAt": "2026-07-09T13:30:33.000Z"
-    },
-    {
-      "id": "48834924",
-      "source": "hn",
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 329,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48834924",
-      "author": "chenglong-hn",
-      "publishedAt": "2026-07-08T17:46:12.000Z"
-    },
-    {
-      "id": "48846407",
-      "source": "hn",
-      "title": "Altman: GPT-5.6 is 54% more token efficient on agentic coding",
-      "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48846407",
-      "author": "Topfi",
-      "publishedAt": "2026-07-09T14:25:13.000Z"
-    },
-    {
-      "id": "48834405",
-      "source": "hn",
-      "title": "GPT‑Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 730,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48834405",
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "score": 1079,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48849066",
       "author": "logickkk1",
-      "publishedAt": "2026-07-08T17:03:19.000Z"
+      "publishedAt": "2026-07-09T17:04:14.000Z"
     },
     {
-      "id": "48832212",
+      "id": "48852199",
       "source": "hn",
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 472,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48832212",
-      "author": "ottomengis",
-      "publishedAt": "2026-07-08T14:09:17.000Z"
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "score": 44,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48852199",
+      "author": "catalinvoss",
+      "publishedAt": "2026-07-09T20:51:06.000Z"
     },
     {
-      "id": "48833866",
+      "id": "48847940",
       "source": "hn",
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "score": 268,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48833866",
-      "author": "mekpro",
-      "publishedAt": "2026-07-08T16:19:36.000Z"
+      "title": "AI content is everywhere on social media, especially LinkedIn",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "score": 195,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48847940",
+      "author": "mukmuk",
+      "publishedAt": "2026-07-09T15:50:09.000Z"
     },
     {
-      "id": "48829242",
+      "id": "48840620",
       "source": "hn",
-      "title": "Geosql: A Claude/Codex skill for geospatial data",
-      "url": "https://github.com/dekart-xyz/geosql",
-      "score": 133,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48829242",
-      "author": "rzk",
-      "publishedAt": "2026-07-08T08:37:26.000Z"
+      "title": "What's slowing down the AI buildout",
+      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+      "score": 64,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48840620",
+      "author": "droidjj",
+      "publishedAt": "2026-07-09T03:26:02.000Z"
+    },
+    {
+      "id": "48849618",
+      "source": "hn",
+      "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+      "url": "https://lucid.earthpilot.ai",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48849618",
+      "author": "ada1981",
+      "publishedAt": "2026-07-09T17:36:30.000Z"
     },
     {
       "id": "48816724",
       "source": "hn",
       "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
       "url": "https://github.com/Rodiun/frugon",
-      "score": 25,
+      "score": 29,
       "commentsUrl": "https://news.ycombinator.com/item?id=48816724",
       "author": "jarodrh",
       "publishedAt": "2026-07-07T12:20:54.000Z"
     },
     {
-      "id": "48827858",
+      "id": "48846708",
       "source": "hn",
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "score": 523,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48827858",
-      "author": "ColinEberhardt",
-      "publishedAt": "2026-07-08T05:25:35.000Z"
+      "title": "DeepSeek aims to make its own AI chip",
+      "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
+      "score": 45,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48846708",
+      "author": "FinnLobsien",
+      "publishedAt": "2026-07-09T14:42:21.000Z"
     },
     {
-      "id": "48837162",
+      "id": "48832797",
       "source": "hn",
-      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
-      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-      "score": 209,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48837162",
-      "author": "karrot-kake",
-      "publishedAt": "2026-07-08T20:41:33.000Z"
+      "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
+      "url": "https://abralo.com/",
+      "score": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48832797",
+      "author": "cwbuilds",
+      "publishedAt": "2026-07-08T14:54:59.000Z"
+    },
+    {
+      "id": "48845422",
+      "source": "hn",
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "url": "https://github.com/ronak-create/FableCut",
+      "score": 85,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48845422",
+      "author": "ronak_parmar",
+      "publishedAt": "2026-07-09T13:23:10.000Z"
+    },
+    {
+      "id": "48846842",
+      "source": "hn",
+      "title": "The next era of AI is about infrastructure, not just models",
+      "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
+      "score": 44,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48846842",
+      "author": "royapakzad",
+      "publishedAt": "2026-07-09T14:50:01.000Z"
+    },
+    {
+      "id": "48847526",
+      "source": "hn",
+      "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
+      "url": "https://kastra.ai/",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48847526",
+      "author": "carlosjimenez1",
+      "publishedAt": "2026-07-09T15:26:24.000Z"
+    },
+    {
+      "id": "48854599",
+      "source": "hn",
+      "title": "Fidji Simo Leaves OpenAI",
+      "url": "https://twitter.com/fidjissimo/status/2075353170927304861",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48854599",
+      "author": "doppp",
+      "publishedAt": "2026-07-10T01:13:50.000Z"
+    },
+    {
+      "id": "48850831",
+      "source": "hn",
+      "title": "OpenAI faked inability to search training data, hid billions of logs, NYT says",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+      "score": 50,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48850831",
+      "author": "cdrnsf",
+      "publishedAt": "2026-07-09T19:01:43.000Z"
+    },
+    {
+      "id": "48841446",
+      "source": "hn",
+      "title": "AI changes the economics of software rewrites",
+      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+      "score": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48841446",
+      "author": "cinooo",
+      "publishedAt": "2026-07-09T05:46:50.000Z"
     }
   ]
 }
