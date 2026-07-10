@@ -1,23 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-10T02:14:36.036Z",
+  "fetchedAt": "2026-07-10T14:06:41.537Z",
   "items": [
     {
       "id": "48849066",
       "source": "hn",
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1079,
+      "score": 1408,
       "commentsUrl": "https://news.ycombinator.com/item?id=48849066",
       "author": "logickkk1",
       "publishedAt": "2026-07-09T17:04:14.000Z"
+    },
+    {
+      "id": "48859439",
+      "source": "hn",
+      "title": "How do you use Vim in the era of AI?",
+      "url": "https://news.ycombinator.com/item?id=48859439",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48859439",
+      "author": "rstagi",
+      "publishedAt": "2026-07-10T13:11:30.000Z"
+    },
+    {
+      "id": "48805598",
+      "source": "hn",
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "score": 129,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48805598",
+      "author": "tosh",
+      "publishedAt": "2026-07-06T14:59:21.000Z"
+    },
+    {
+      "id": "48856904",
+      "source": "hn",
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "score": 146,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48856904",
+      "author": "smusamashah",
+      "publishedAt": "2026-07-10T07:39:11.000Z"
     },
     {
       "id": "48852199",
       "source": "hn",
       "title": "Building a real-time AI tutor for 5-year-olds",
       "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-      "score": 44,
+      "score": 112,
       "commentsUrl": "https://news.ycombinator.com/item?id=48852199",
       "author": "catalinvoss",
       "publishedAt": "2026-07-09T20:51:06.000Z"
@@ -27,7 +57,7 @@
       "source": "hn",
       "title": "AI content is everywhere on social media, especially LinkedIn",
       "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "score": 195,
+      "score": 226,
       "commentsUrl": "https://news.ycombinator.com/item?id=48847940",
       "author": "mukmuk",
       "publishedAt": "2026-07-09T15:50:09.000Z"
@@ -37,110 +67,80 @@
       "source": "hn",
       "title": "What's slowing down the AI buildout",
       "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "score": 64,
+      "score": 75,
       "commentsUrl": "https://news.ycombinator.com/item?id=48840620",
       "author": "droidjj",
       "publishedAt": "2026-07-09T03:26:02.000Z"
-    },
-    {
-      "id": "48849618",
-      "source": "hn",
-      "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
-      "url": "https://lucid.earthpilot.ai",
-      "score": 23,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48849618",
-      "author": "ada1981",
-      "publishedAt": "2026-07-09T17:36:30.000Z"
-    },
-    {
-      "id": "48816724",
-      "source": "hn",
-      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-      "url": "https://github.com/Rodiun/frugon",
-      "score": 29,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48816724",
-      "author": "jarodrh",
-      "publishedAt": "2026-07-07T12:20:54.000Z"
     },
     {
       "id": "48846708",
       "source": "hn",
       "title": "DeepSeek aims to make its own AI chip",
       "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
-      "score": 45,
+      "score": 62,
       "commentsUrl": "https://news.ycombinator.com/item?id=48846708",
       "author": "FinnLobsien",
       "publishedAt": "2026-07-09T14:42:21.000Z"
     },
     {
-      "id": "48832797",
+      "id": "48816724",
       "source": "hn",
-      "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
-      "url": "https://abralo.com/",
-      "score": 22,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48832797",
-      "author": "cwbuilds",
-      "publishedAt": "2026-07-08T14:54:59.000Z"
+      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+      "url": "https://github.com/Rodiun/frugon",
+      "score": 36,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48816724",
+      "author": "jarodrh",
+      "publishedAt": "2026-07-07T12:20:54.000Z"
+    },
+    {
+      "id": "48855112",
+      "source": "hn",
+      "title": "Ben Bernanke Joins Anthropic Oversight Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "score": 68,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48855112",
+      "author": "Jimmc414",
+      "publishedAt": "2026-07-10T02:39:07.000Z"
+    },
+    {
+      "id": "48849618",
+      "source": "hn",
+      "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+      "url": "https://lucid.earthpilot.ai",
+      "score": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48849618",
+      "author": "ada1981",
+      "publishedAt": "2026-07-09T17:36:30.000Z"
     },
     {
       "id": "48845422",
       "source": "hn",
       "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
       "url": "https://github.com/ronak-create/FableCut",
-      "score": 85,
+      "score": 94,
       "commentsUrl": "https://news.ycombinator.com/item?id=48845422",
       "author": "ronak_parmar",
       "publishedAt": "2026-07-09T13:23:10.000Z"
     },
     {
-      "id": "48846842",
+      "id": "48832797",
       "source": "hn",
-      "title": "The next era of AI is about infrastructure, not just models",
-      "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
-      "score": 44,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48846842",
-      "author": "royapakzad",
-      "publishedAt": "2026-07-09T14:50:01.000Z"
+      "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
+      "url": "https://abralo.com/",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48832797",
+      "author": "cwbuilds",
+      "publishedAt": "2026-07-08T14:54:59.000Z"
     },
     {
-      "id": "48847526",
+      "id": "48858522",
       "source": "hn",
-      "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
-      "url": "https://kastra.ai/",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48847526",
-      "author": "carlosjimenez1",
-      "publishedAt": "2026-07-09T15:26:24.000Z"
-    },
-    {
-      "id": "48854599",
-      "source": "hn",
-      "title": "Fidji Simo Leaves OpenAI",
-      "url": "https://twitter.com/fidjissimo/status/2075353170927304861",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48854599",
-      "author": "doppp",
-      "publishedAt": "2026-07-10T01:13:50.000Z"
-    },
-    {
-      "id": "48850831",
-      "source": "hn",
-      "title": "OpenAI faked inability to search training data, hid billions of logs, NYT says",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-      "score": 50,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48850831",
-      "author": "cdrnsf",
-      "publishedAt": "2026-07-09T19:01:43.000Z"
-    },
-    {
-      "id": "48841446",
-      "source": "hn",
-      "title": "AI changes the economics of software rewrites",
-      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
-      "score": 99,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48841446",
-      "author": "cinooo",
-      "publishedAt": "2026-07-09T05:46:50.000Z"
+      "title": "A staggering class divide now separates how Americans experience AI",
+      "url": "https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48858522",
+      "author": "giuliomagnifico",
+      "publishedAt": "2026-07-10T11:34:24.000Z"
     }
   ]
 }
