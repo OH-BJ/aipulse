@@ -1,146 +1,206 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-10T14:06:41.537Z",
+  "fetchedAt": "2026-07-11T02:00:07.101Z",
   "items": [
     {
-      "id": "48849066",
+      "id": "48865019",
       "source": "hn",
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1408,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48849066",
-      "author": "logickkk1",
-      "publishedAt": "2026-07-09T17:04:14.000Z"
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 537,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48865019",
+      "author": "stock_toaster",
+      "publishedAt": "2026-07-10T20:47:09.000Z"
     },
     {
-      "id": "48859439",
+      "id": "48867233",
       "source": "hn",
-      "title": "How do you use Vim in the era of AI?",
-      "url": "https://news.ycombinator.com/item?id=48859439",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
       "score": 17,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48859439",
-      "author": "rstagi",
-      "publishedAt": "2026-07-10T13:11:30.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=48867233",
+      "author": "cdrnsf",
+      "publishedAt": "2026-07-11T00:40:36.000Z"
     },
     {
-      "id": "48805598",
+      "id": "48863490",
       "source": "hn",
-      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "score": 129,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48805598",
-      "author": "tosh",
-      "publishedAt": "2026-07-06T14:59:21.000Z"
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "score": 353,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48863490",
+      "author": "scrlk",
+      "publishedAt": "2026-07-10T18:29:19.000Z"
     },
     {
-      "id": "48856904",
+      "id": "48867261",
       "source": "hn",
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "url": "https://nevo-project.epfl.ch/",
-      "score": 146,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48856904",
-      "author": "smusamashah",
-      "publishedAt": "2026-07-10T07:39:11.000Z"
+      "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
+      "url": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48867261",
+      "author": "eigenBasis",
+      "publishedAt": "2026-07-11T00:43:39.000Z"
     },
     {
-      "id": "48852199",
+      "id": "48848425",
       "source": "hn",
-      "title": "Building a real-time AI tutor for 5-year-olds",
-      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-      "score": 112,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48852199",
-      "author": "catalinvoss",
-      "publishedAt": "2026-07-09T20:51:06.000Z"
+      "title": "AI 2040: Plan A",
+      "url": "https://ai-2040.com/",
+      "score": 150,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48848425",
+      "author": "kschaul",
+      "publishedAt": "2026-07-09T16:21:44.000Z"
     },
     {
-      "id": "48847940",
+      "id": "48863707",
       "source": "hn",
-      "title": "AI content is everywhere on social media, especially LinkedIn",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "score": 226,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48847940",
-      "author": "mukmuk",
-      "publishedAt": "2026-07-09T15:50:09.000Z"
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "score": 181,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48863707",
+      "author": "imustachyou",
+      "publishedAt": "2026-07-10T18:49:26.000Z"
     },
     {
-      "id": "48840620",
+      "id": "48851476",
       "source": "hn",
-      "title": "What's slowing down the AI buildout",
-      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "score": 75,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48840620",
-      "author": "droidjj",
-      "publishedAt": "2026-07-09T03:26:02.000Z"
-    },
-    {
-      "id": "48846708",
-      "source": "hn",
-      "title": "DeepSeek aims to make its own AI chip",
-      "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
-      "score": 62,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48846708",
-      "author": "FinnLobsien",
-      "publishedAt": "2026-07-09T14:42:21.000Z"
+      "title": "Show HN: Reviving my 2001 college band with AI",
+      "url": "https://www.fadingmaize.com",
+      "score": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48851476",
+      "author": "jacobgraf",
+      "publishedAt": "2026-07-09T19:49:37.000Z"
     },
     {
       "id": "48816724",
       "source": "hn",
       "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
       "url": "https://github.com/Rodiun/frugon",
-      "score": 36,
+      "score": 55,
       "commentsUrl": "https://news.ycombinator.com/item?id=48816724",
       "author": "jarodrh",
       "publishedAt": "2026-07-07T12:20:54.000Z"
     },
     {
-      "id": "48855112",
+      "id": "48864507",
       "source": "hn",
-      "title": "Ben Bernanke Joins Anthropic Oversight Trust",
-      "url": "https://www.anthropic.com/news/ben-bernanke",
-      "score": 68,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48855112",
-      "author": "Jimmc414",
-      "publishedAt": "2026-07-10T02:39:07.000Z"
+      "title": "Please don't discontinue Gemini 2.5 Flash",
+      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+      "score": 112,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48864507",
+      "author": "NickDob",
+      "publishedAt": "2026-07-10T20:00:28.000Z"
     },
     {
-      "id": "48849618",
+      "id": "48849066",
       "source": "hn",
-      "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
-      "url": "https://lucid.earthpilot.ai",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48849618",
-      "author": "ada1981",
-      "publishedAt": "2026-07-09T17:36:30.000Z"
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "score": 1520,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48849066",
+      "author": "logickkk1",
+      "publishedAt": "2026-07-09T17:04:14.000Z"
     },
     {
-      "id": "48845422",
+      "id": "48805598",
       "source": "hn",
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "url": "https://github.com/ronak-create/FableCut",
-      "score": 94,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48845422",
-      "author": "ronak_parmar",
-      "publishedAt": "2026-07-09T13:23:10.000Z"
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "score": 196,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48805598",
+      "author": "tosh",
+      "publishedAt": "2026-07-06T14:59:21.000Z"
+    },
+    {
+      "id": "48865093",
+      "source": "hn",
+      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "score": 137,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48865093",
+      "author": "hershyb_",
+      "publishedAt": "2026-07-10T20:52:28.000Z"
     },
     {
       "id": "48832797",
       "source": "hn",
       "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
       "url": "https://abralo.com/",
-      "score": 29,
+      "score": 31,
       "commentsUrl": "https://news.ycombinator.com/item?id=48832797",
       "author": "cwbuilds",
       "publishedAt": "2026-07-08T14:54:59.000Z"
     },
     {
-      "id": "48858522",
+      "id": "48856904",
       "source": "hn",
-      "title": "A staggering class divide now separates how Americans experience AI",
-      "url": "https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48858522",
-      "author": "giuliomagnifico",
-      "publishedAt": "2026-07-10T11:34:24.000Z"
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "score": 267,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48856904",
+      "author": "smusamashah",
+      "publishedAt": "2026-07-10T07:39:11.000Z"
+    },
+    {
+      "id": "48867021",
+      "source": "hn",
+      "title": "One Wikipedia page costs your AI agent 68,000 tokens",
+      "url": "https://news.ycombinator.com/item?id=48867021",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48867021",
+      "author": "arhamislam5766",
+      "publishedAt": "2026-07-11T00:12:26.000Z"
+    },
+    {
+      "id": "48865717",
+      "source": "hn",
+      "title": "China's Open AI Models Are Advancing Its Global Soft Power",
+      "url": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power/",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48865717",
+      "author": "Gooblebrai",
+      "publishedAt": "2026-07-10T21:45:16.000Z"
+    },
+    {
+      "id": "48852199",
+      "source": "hn",
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "score": 138,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48852199",
+      "author": "catalinvoss",
+      "publishedAt": "2026-07-09T20:51:06.000Z"
+    },
+    {
+      "id": "48859439",
+      "source": "hn",
+      "title": "Ask HN: How do you use Vim in the era of AI?",
+      "url": "https://news.ycombinator.com/item?id=48859439",
+      "score": 34,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48859439",
+      "author": "rstagi",
+      "publishedAt": "2026-07-10T13:11:30.000Z"
+    },
+    {
+      "id": "48864390",
+      "source": "hn",
+      "title": "Guy is banned by OpenAI for cyber abuse, his AI appeals, another AI approves it",
+      "url": "https://twitter.com/endpointarena/status/2075245286339846145",
+      "score": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48864390",
+      "author": "binyu",
+      "publishedAt": "2026-07-10T19:50:27.000Z"
+    },
+    {
+      "id": "48840620",
+      "source": "hn",
+      "title": "What's slowing down the AI buildout",
+      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+      "score": 80,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48840620",
+      "author": "droidjj",
+      "publishedAt": "2026-07-09T03:26:02.000Z"
     }
   ]
 }
