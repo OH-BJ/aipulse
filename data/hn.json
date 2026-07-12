@@ -1,196 +1,156 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-11T13:02:53.493Z",
+  "fetchedAt": "2026-07-12T02:03:26.601Z",
   "items": [
+    {
+      "id": "48876505",
+      "source": "hn",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "score": 91,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48876505",
+      "author": "tionis",
+      "publishedAt": "2026-07-11T22:38:57.000Z"
+    },
+    {
+      "id": "48875342",
+      "source": "hn",
+      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "url": "https://github.com/sqlsure/sqlsure",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48875342",
+      "author": "tejusarora",
+      "publishedAt": "2026-07-11T20:03:42.000Z"
+    },
+    {
+      "id": "48875371",
+      "source": "hn",
+      "title": "Wealthy AI workers send San Francisco house prices soaring",
+      "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48875371",
+      "author": "root-parent",
+      "publishedAt": "2026-07-11T20:06:38.000Z"
+    },
+    {
+      "id": "48876441",
+      "source": "hn",
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "score": 162,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48876441",
+      "author": "theorchid",
+      "publishedAt": "2026-07-11T22:28:48.000Z"
+    },
+    {
+      "id": "48873855",
+      "source": "hn",
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "score": 92,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48873855",
+      "author": "jason_s",
+      "publishedAt": "2026-07-11T17:23:52.000Z"
+    },
+    {
+      "id": "48865903",
+      "source": "hn",
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "score": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48865903",
+      "author": "msephton",
+      "publishedAt": "2026-07-10T22:04:45.000Z"
+    },
+    {
+      "id": "48870381",
+      "source": "hn",
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "url": "https://www.mixfont.com/ghost-font",
+      "score": 194,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48870381",
+      "author": "justswim",
+      "publishedAt": "2026-07-11T09:36:53.000Z"
+    },
+    {
+      "id": "48874200",
+      "source": "hn",
+      "title": "AI 2040 and the cult of intelligence",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "score": 181,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48874200",
+      "author": "rvz",
+      "publishedAt": "2026-07-11T18:04:01.000Z"
+    },
     {
       "id": "48865019",
       "source": "hn",
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 1208,
+      "score": 1577,
       "commentsUrl": "https://news.ycombinator.com/item?id=48865019",
       "author": "stock_toaster",
       "publishedAt": "2026-07-10T20:47:09.000Z"
-    },
-    {
-      "id": "48848425",
-      "source": "hn",
-      "title": "AI 2040: Plan A",
-      "url": "https://ai-2040.com/",
-      "score": 302,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48848425",
-      "author": "kschaul",
-      "publishedAt": "2026-07-09T16:21:44.000Z"
-    },
-    {
-      "id": "48863490",
-      "source": "hn",
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 479,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48863490",
-      "author": "scrlk",
-      "publishedAt": "2026-07-10T18:29:19.000Z"
     },
     {
       "id": "48849066",
       "source": "hn",
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1527,
+      "score": 1542,
       "commentsUrl": "https://news.ycombinator.com/item?id=48849066",
       "author": "logickkk1",
       "publishedAt": "2026-07-09T17:04:14.000Z"
     },
     {
-      "id": "48870229",
+      "id": "48863490",
       "source": "hn",
-      "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
-      "url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48870229",
-      "author": "pjmlp",
-      "publishedAt": "2026-07-11T09:10:45.000Z"
-    },
-    {
-      "id": "48816724",
-      "source": "hn",
-      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-      "url": "https://github.com/Rodiun/frugon",
-      "score": 61,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48816724",
-      "author": "jarodrh",
-      "publishedAt": "2026-07-07T12:20:54.000Z"
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "score": 510,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48863490",
+      "author": "scrlk",
+      "publishedAt": "2026-07-10T18:29:19.000Z"
     },
     {
       "id": "48805598",
       "source": "hn",
       "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
       "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "score": 206,
+      "score": 214,
       "commentsUrl": "https://news.ycombinator.com/item?id=48805598",
       "author": "tosh",
       "publishedAt": "2026-07-06T14:59:21.000Z"
     },
     {
-      "id": "48863707",
+      "id": "48848425",
       "source": "hn",
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "score": 212,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48863707",
-      "author": "imustachyou",
-      "publishedAt": "2026-07-10T18:49:26.000Z"
+      "title": "AI 2040: Plan A",
+      "url": "https://ai-2040.com/",
+      "score": 379,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48848425",
+      "author": "kschaul",
+      "publishedAt": "2026-07-09T16:21:44.000Z"
     },
     {
-      "id": "48851476",
+      "id": "48816724",
       "source": "hn",
-      "title": "Show HN: Reviving my 2001 college band with AI",
-      "url": "https://www.fadingmaize.com",
-      "score": 53,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48851476",
-      "author": "jacobgraf",
-      "publishedAt": "2026-07-09T19:49:37.000Z"
+      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+      "url": "https://github.com/Rodiun/frugon",
+      "score": 65,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48816724",
+      "author": "jarodrh",
+      "publishedAt": "2026-07-07T12:20:54.000Z"
     },
     {
-      "id": "48870035",
+      "id": "48876037",
       "source": "hn",
-      "title": "Companies are scrambling to curtail soaring AI costs",
-      "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
-      "score": 36,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48870035",
-      "author": "nlpnerd",
-      "publishedAt": "2026-07-11T08:29:43.000Z"
-    },
-    {
-      "id": "48861833",
-      "source": "hn",
-      "title": "Hands-On with the AMD Ryzen AI Halo",
-      "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
-      "score": 50,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48861833",
-      "author": "bdcravens",
-      "publishedAt": "2026-07-10T16:06:38.000Z"
-    },
-    {
-      "id": "48870381",
-      "source": "hn",
-      "title": "A font that humans can read but AI cannot",
-      "url": "https://www.mixfont.com/ghost-font",
-      "score": 68,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48870381",
-      "author": "justswim",
-      "publishedAt": "2026-07-11T09:36:53.000Z"
-    },
-    {
-      "id": "48832797",
-      "source": "hn",
-      "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
-      "url": "https://abralo.com/",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48832797",
-      "author": "cwbuilds",
-      "publishedAt": "2026-07-08T14:54:59.000Z"
-    },
-    {
-      "id": "48852199",
-      "source": "hn",
-      "title": "Building a real-time AI tutor for 5-year-olds",
-      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-      "score": 143,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48852199",
-      "author": "catalinvoss",
-      "publishedAt": "2026-07-09T20:51:06.000Z"
-    },
-    {
-      "id": "48856904",
-      "source": "hn",
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "url": "https://nevo-project.epfl.ch/",
-      "score": 279,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48856904",
-      "author": "smusamashah",
-      "publishedAt": "2026-07-10T07:39:11.000Z"
-    },
-    {
-      "id": "48864507",
-      "source": "hn",
-      "title": "Please don't discontinue Gemini 2.5 Flash",
-      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-      "score": 124,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48864507",
-      "author": "NickDob",
-      "publishedAt": "2026-07-10T20:00:28.000Z"
-    },
-    {
-      "id": "48859439",
-      "source": "hn",
-      "title": "Ask HN: How do you use Vim in the era of AI?",
-      "url": "https://news.ycombinator.com/item?id=48859439",
-      "score": 39,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48859439",
-      "author": "rstagi",
-      "publishedAt": "2026-07-10T13:11:30.000Z"
-    },
-    {
-      "id": "48840620",
-      "source": "hn",
-      "title": "What's slowing down the AI buildout",
-      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "score": 80,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48840620",
-      "author": "droidjj",
-      "publishedAt": "2026-07-09T03:26:02.000Z"
-    },
-    {
-      "id": "48847940",
-      "source": "hn",
-      "title": "AI content is everywhere on social media, especially LinkedIn",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "score": 242,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48847940",
-      "author": "mukmuk",
-      "publishedAt": "2026-07-09T15:50:09.000Z"
+      "title": "Secret Claude tracker surprises users after Anthropic's anti-surveillance stance",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48876037",
+      "author": "gnabgib",
+      "publishedAt": "2026-07-11T21:27:07.000Z"
     }
   ]
 }
