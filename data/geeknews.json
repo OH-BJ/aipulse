@@ -1,7 +1,61 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-12T02:03:27.219Z",
+  "fetchedAt": "2026-07-12T13:03:36.218Z",
   "items": [
+    {
+      "id": "31351",
+      "source": "geeknews",
+      "title": "Mesh LLM - iroh 기반 분산 AI 컴퓨팅",
+      "url": "https://news.hada.io/topic?id=31351",
+      "commentsUrl": "https://news.hada.io/topic?id=31351",
+      "author": "neo",
+      "publishedAt": "2026-07-12T12:33:54.000Z"
+    },
+    {
+      "id": "31350",
+      "source": "geeknews",
+      "title": "Show GN: AirPods 노이즈 캔슬링 중 이름 호출을 놓치지 않게 해주는 macOS 앱",
+      "url": "https://news.hada.io/topic?id=31350",
+      "commentsUrl": "https://news.hada.io/topic?id=31350",
+      "author": "hsyudjes1",
+      "publishedAt": "2026-07-12T10:05:10.000Z"
+    },
+    {
+      "id": "31349",
+      "source": "geeknews",
+      "title": "NVIDIA·CoreWeave·Nebius가 만든 GPU 붐의 순환 금융 구조",
+      "url": "https://news.hada.io/topic?id=31349",
+      "commentsUrl": "https://news.hada.io/topic?id=31349",
+      "author": "neo",
+      "publishedAt": "2026-07-12T09:40:12.000Z"
+    },
+    {
+      "id": "31348",
+      "source": "geeknews",
+      "title": "Ant, 경량 JavaScript 런타임과 생태계",
+      "url": "https://news.hada.io/topic?id=31348",
+      "commentsUrl": "https://news.hada.io/topic?id=31348",
+      "author": "neo",
+      "publishedAt": "2026-07-12T09:37:11.000Z"
+    },
+    {
+      "id": "31345",
+      "source": "geeknews",
+      "title": "Show GN: 어느 사이트든 헬스체크 & 소유자 공지 및 댓글 소통 가능한 상태페이지",
+      "url": "https://news.hada.io/topic?id=31345",
+      "commentsUrl": "https://news.hada.io/topic?id=31345",
+      "author": "jic5760",
+      "publishedAt": "2026-07-12T07:09:23.000Z"
+    },
+    {
+      "id": "31344",
+      "source": "geeknews",
+      "title": "SQLite에서는 STRICT 테이블을 우선 사용하라",
+      "url": "https://news.hada.io/topic?id=31344",
+      "commentsUrl": "https://news.hada.io/topic?id=31344",
+      "author": "neo",
+      "publishedAt": "2026-07-12T06:34:08.000Z"
+    },
     {
       "id": "31343",
       "source": "geeknews",
@@ -217,60 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31316",
       "author": "neo",
       "publishedAt": "2026-07-11T00:39:31.000Z"
-    },
-    {
-      "id": "31315",
-      "source": "geeknews",
-      "title": "fenic - 사람과 에이전트를 위한 시맨틱 데이터프레임(Semantic DataFrames)",
-      "url": "https://news.hada.io/topic?id=31315",
-      "commentsUrl": "https://news.hada.io/topic?id=31315",
-      "author": "xguru",
-      "publishedAt": "2026-07-11T00:31:02.000Z"
-    },
-    {
-      "id": "31314",
-      "source": "geeknews",
-      "title": "Cpp2Rust: C++를 안전한 Rust로 자동 번역",
-      "url": "https://news.hada.io/topic?id=31314",
-      "commentsUrl": "https://news.hada.io/topic?id=31314",
-      "author": "neo",
-      "publishedAt": "2026-07-11T00:01:09.000Z"
-    },
-    {
-      "id": "31313",
-      "source": "geeknews",
-      "title": "Show GN: 대한민국 제도 100개를 한장씩 체계도로 만들었습니다.",
-      "url": "https://news.hada.io/topic?id=31313",
-      "commentsUrl": "https://news.hada.io/topic?id=31313",
-      "author": "hosungseo2026",
-      "publishedAt": "2026-07-10T23:47:34.000Z"
-    },
-    {
-      "id": "31312",
-      "source": "geeknews",
-      "title": "Bonnie Tyler, 75세로 사망",
-      "url": "https://news.hada.io/topic?id=31312",
-      "commentsUrl": "https://news.hada.io/topic?id=31312",
-      "author": "neo",
-      "publishedAt": "2026-07-10T23:33:57.000Z"
-    },
-    {
-      "id": "31311",
-      "source": "geeknews",
-      "title": "Meta, 맞춤형 CXL 브리지 칩으로 구형 RAM을 새 서버에서 재사용",
-      "url": "https://news.hada.io/topic?id=31311",
-      "commentsUrl": "https://news.hada.io/topic?id=31311",
-      "author": "xguru",
-      "publishedAt": "2026-07-10T21:36:23.000Z"
-    },
-    {
-      "id": "31310",
-      "source": "geeknews",
-      "title": "Lisp로 가는 길: 왜 Lisp인가",
-      "url": "https://news.hada.io/topic?id=31310",
-      "commentsUrl": "https://news.hada.io/topic?id=31310",
-      "author": "xguru",
-      "publishedAt": "2026-07-10T21:33:34.000Z"
     }
   ]
 }

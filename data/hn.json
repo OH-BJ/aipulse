@@ -1,13 +1,13 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-12T02:03:26.601Z",
+  "fetchedAt": "2026-07-12T13:03:35.569Z",
   "items": [
     {
       "id": "48876505",
       "source": "hn",
       "title": "Mesh LLM: distributed AI computing on iroh",
       "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 91,
+      "score": 281,
       "commentsUrl": "https://news.ycombinator.com/item?id=48876505",
       "author": "tionis",
       "publishedAt": "2026-07-11T22:38:57.000Z"
@@ -17,140 +17,110 @@
       "source": "hn",
       "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
       "url": "https://github.com/sqlsure/sqlsure",
-      "score": 13,
+      "score": 35,
       "commentsUrl": "https://news.ycombinator.com/item?id=48875342",
       "author": "tejusarora",
       "publishedAt": "2026-07-11T20:03:42.000Z"
-    },
-    {
-      "id": "48875371",
-      "source": "hn",
-      "title": "Wealthy AI workers send San Francisco house prices soaring",
-      "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48875371",
-      "author": "root-parent",
-      "publishedAt": "2026-07-11T20:06:38.000Z"
-    },
-    {
-      "id": "48876441",
-      "source": "hn",
-      "title": "Stop Telling Me to Ask an LLM",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-      "score": 162,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48876441",
-      "author": "theorchid",
-      "publishedAt": "2026-07-11T22:28:48.000Z"
-    },
-    {
-      "id": "48873855",
-      "source": "hn",
-      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-      "score": 92,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48873855",
-      "author": "jason_s",
-      "publishedAt": "2026-07-11T17:23:52.000Z"
-    },
-    {
-      "id": "48865903",
-      "source": "hn",
-      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
-      "score": 51,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48865903",
-      "author": "msephton",
-      "publishedAt": "2026-07-10T22:04:45.000Z"
     },
     {
       "id": "48870381",
       "source": "hn",
       "title": "Ghost Font: A font that humans can read but AI cannot",
       "url": "https://www.mixfont.com/ghost-font",
-      "score": 194,
+      "score": 223,
       "commentsUrl": "https://news.ycombinator.com/item?id=48870381",
       "author": "justswim",
       "publishedAt": "2026-07-11T09:36:53.000Z"
-    },
-    {
-      "id": "48874200",
-      "source": "hn",
-      "title": "AI 2040 and the cult of intelligence",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "score": 181,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48874200",
-      "author": "rvz",
-      "publishedAt": "2026-07-11T18:04:01.000Z"
-    },
-    {
-      "id": "48865019",
-      "source": "hn",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 1577,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48865019",
-      "author": "stock_toaster",
-      "publishedAt": "2026-07-10T20:47:09.000Z"
     },
     {
       "id": "48849066",
       "source": "hn",
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1542,
+      "score": 1546,
       "commentsUrl": "https://news.ycombinator.com/item?id=48849066",
       "author": "logickkk1",
       "publishedAt": "2026-07-09T17:04:14.000Z"
     },
     {
-      "id": "48863490",
+      "id": "48875678",
       "source": "hn",
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 510,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48863490",
-      "author": "scrlk",
-      "publishedAt": "2026-07-10T18:29:19.000Z"
+      "title": "I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",
+      "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService",
+      "score": 26,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48875678",
+      "author": "mrhustlex",
+      "publishedAt": "2026-07-11T20:45:06.000Z"
+    },
+    {
+      "id": "48865019",
+      "source": "hn",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 1611,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48865019",
+      "author": "stock_toaster",
+      "publishedAt": "2026-07-10T20:47:09.000Z"
+    },
+    {
+      "id": "48879571",
+      "source": "hn",
+      "title": "The Hard-Line Activists Ramping Up for the War with AI",
+      "url": "https://www.wsj.com/tech/ai/anti-ai-activists-disappearance-sam-kirchner-6872879f",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48879571",
+      "author": "thm",
+      "publishedAt": "2026-07-12T09:08:15.000Z"
+    },
+    {
+      "id": "48877650",
+      "source": "hn",
+      "title": "Show HN: Confessor – replay what private info Claude Code accessed on your PC",
+      "url": "https://github.com/ninjahawk/Confessor",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48877650",
+      "author": "ninjahawk1",
+      "publishedAt": "2026-07-12T02:09:58.000Z"
+    },
+    {
+      "id": "48873855",
+      "source": "hn",
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "score": 107,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48873855",
+      "author": "jason_s",
+      "publishedAt": "2026-07-11T17:23:52.000Z"
     },
     {
       "id": "48805598",
       "source": "hn",
       "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
       "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "score": 214,
+      "score": 218,
       "commentsUrl": "https://news.ycombinator.com/item?id=48805598",
       "author": "tosh",
       "publishedAt": "2026-07-06T14:59:21.000Z"
     },
     {
-      "id": "48848425",
+      "id": "48863490",
       "source": "hn",
-      "title": "AI 2040: Plan A",
-      "url": "https://ai-2040.com/",
-      "score": 379,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48848425",
-      "author": "kschaul",
-      "publishedAt": "2026-07-09T16:21:44.000Z"
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "score": 522,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48863490",
+      "author": "scrlk",
+      "publishedAt": "2026-07-10T18:29:19.000Z"
     },
     {
-      "id": "48816724",
+      "id": "48865903",
       "source": "hn",
-      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-      "url": "https://github.com/Rodiun/frugon",
-      "score": 65,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48816724",
-      "author": "jarodrh",
-      "publishedAt": "2026-07-07T12:20:54.000Z"
-    },
-    {
-      "id": "48876037",
-      "source": "hn",
-      "title": "Secret Claude tracker surprises users after Anthropic's anti-surveillance stance",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48876037",
-      "author": "gnabgib",
-      "publishedAt": "2026-07-11T21:27:07.000Z"
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "score": 52,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48865903",
+      "author": "msephton",
+      "publishedAt": "2026-07-10T22:04:45.000Z"
     }
   ]
 }
