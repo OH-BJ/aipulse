@@ -1,13 +1,23 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-13T02:05:30.986Z",
+  "fetchedAt": "2026-07-13T14:16:57.719Z",
   "items": [
+    {
+      "id": "48889637",
+      "source": "hn",
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "score": 864,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48889637",
+      "author": "crowdhailer",
+      "publishedAt": "2026-07-13T08:39:39.000Z"
+    },
     {
       "id": "48886741",
       "source": "hn",
       "title": "Ask HN: Add flag for AI-generated articles",
       "url": "https://news.ycombinator.com/item?id=48886741",
-      "score": 39,
+      "score": 833,
       "commentsUrl": "https://news.ycombinator.com/item?id=48886741",
       "author": "levkk",
       "publishedAt": "2026-07-13T01:24:20.000Z"
@@ -17,7 +27,7 @@
       "source": "hn",
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
       "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "score": 143,
+      "score": 230,
       "commentsUrl": "https://news.ycombinator.com/item?id=48882716",
       "author": "brryant",
       "publishedAt": "2026-07-12T17:13:07.000Z"
@@ -27,17 +37,27 @@
       "source": "hn",
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 469,
+      "score": 657,
       "commentsUrl": "https://news.ycombinator.com/item?id=48883275",
       "author": "systima",
       "publishedAt": "2026-07-12T18:25:51.000Z"
+    },
+    {
+      "id": "48876441",
+      "source": "hn",
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "score": 220,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48876441",
+      "author": "theorchid",
+      "publishedAt": "2026-07-11T22:28:48.000Z"
     },
     {
       "id": "48883415",
       "source": "hn",
       "title": "The One-Step Trap (In AI Research)",
       "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "score": 45,
+      "score": 51,
       "commentsUrl": "https://news.ycombinator.com/item?id=48883415",
       "author": "jxmorris12",
       "publishedAt": "2026-07-12T18:41:15.000Z"
@@ -47,7 +67,7 @@
       "source": "hn",
       "title": "AI boosts research careers but narrow the span of ideas explored: study",
       "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "score": 137,
+      "score": 151,
       "commentsUrl": "https://news.ycombinator.com/item?id=48881043",
       "author": "zaikunzhang",
       "publishedAt": "2026-07-12T13:26:13.000Z"
@@ -57,70 +77,20 @@
       "source": "hn",
       "title": "Autoresearch, Claude and Constrained Optimization",
       "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-      "score": 28,
+      "score": 32,
       "commentsUrl": "https://news.ycombinator.com/item?id=48881498",
       "author": "gmays",
       "publishedAt": "2026-07-12T14:32:00.000Z"
-    },
-    {
-      "id": "48876441",
-      "source": "hn",
-      "title": "Stop Telling Me to Ask an LLM",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-      "score": 192,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48876441",
-      "author": "theorchid",
-      "publishedAt": "2026-07-11T22:28:48.000Z"
-    },
-    {
-      "id": "48886262",
-      "source": "hn",
-      "title": "Apple's \"Thermonuclear\" Response to OpenAI's Threat",
-      "url": "https://www.wsj.com/tech/ai/apples-thermonuclear-response-to-the-openai-threat-8d51c814",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48886262",
-      "author": "mful",
-      "publishedAt": "2026-07-13T00:10:50.000Z"
-    },
-    {
-      "id": "48886098",
-      "source": "hn",
-      "title": "AI's Biggest Unlock Isn't Productivity. It's Access to Expertise",
-      "url": "https://diviv.substack.com/p/ais-biggest-unlock-isnt-productivity",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48886098",
-      "author": "divi_vijay",
-      "publishedAt": "2026-07-12T23:49:25.000Z"
-    },
-    {
-      "id": "48885853",
-      "source": "hn",
-      "title": "AI agent startup uses agent to lead 100M round",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48885853",
-      "author": "noashavit",
-      "publishedAt": "2026-07-12T23:15:33.000Z"
     },
     {
       "id": "48876505",
       "source": "hn",
       "title": "Mesh LLM: distributed AI computing on iroh",
       "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 336,
+      "score": 341,
       "commentsUrl": "https://news.ycombinator.com/item?id=48876505",
       "author": "tionis",
       "publishedAt": "2026-07-11T22:38:57.000Z"
-    },
-    {
-      "id": "48886105",
-      "source": "hn",
-      "title": "Australia Tops Claude Usage",
-      "url": "https://www.forbes.com.au/news/innovation/australia-is-the-worlds-biggest-claude-user-now-anthropic-wants-more/",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48886105",
-      "author": "ishanz",
-      "publishedAt": "2026-07-12T23:50:12.000Z"
     }
   ]
 }
