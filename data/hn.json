@@ -1,136 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-14T01:51:24.175Z",
+  "fetchedAt": "2026-07-14T13:17:17.524Z",
   "items": [
-    {
-      "id": "48900319",
-      "source": "hn",
-      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48900319",
-      "author": "detkin",
-      "publishedAt": "2026-07-13T23:26:52.000Z"
-    },
     {
       "id": "48894630",
       "source": "hn",
       "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
       "url": "https://github.com/jbwinters/jacquard-lang",
-      "score": 49,
+      "score": 92,
       "commentsUrl": "https://news.ycombinator.com/item?id=48894630",
       "author": "jbwinters",
       "publishedAt": "2026-07-13T15:56:02.000Z"
+    },
+    {
+      "id": "48901275",
+      "source": "hn",
+      "title": "Building Food Metadata with LLM Juries",
+      "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "score": 43,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48901275",
+      "author": "tie-in",
+      "publishedAt": "2026-07-14T01:41:49.000Z"
+    },
+    {
+      "id": "48905989",
+      "source": "hn",
+      "title": "DOGE Used AI for Housing Policy. The Government Won't Say How",
+      "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48905989",
+      "author": "speckx",
+      "publishedAt": "2026-07-14T12:46:34.000Z"
+    },
+    {
+      "id": "48900319",
+      "source": "hn",
+      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+      "score": 40,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48900319",
+      "author": "detkin",
+      "publishedAt": "2026-07-13T23:26:52.000Z"
     },
     {
       "id": "48899321",
       "source": "hn",
       "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
       "url": "https://arxiv.org/abs/2607.01418",
-      "score": 27,
+      "score": 63,
       "commentsUrl": "https://news.ycombinator.com/item?id=48899321",
       "author": "softwaredoug",
       "publishedAt": "2026-07-13T21:43:51.000Z"
-    },
-    {
-      "id": "48897991",
-      "source": "hn",
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "url": "https://neow.in/cWsyMTV3",
-      "score": 273,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48897991",
-      "author": "bundie",
-      "publishedAt": "2026-07-13T20:01:43.000Z"
-    },
-    {
-      "id": "48900288",
-      "source": "hn",
-      "title": "Show HN: ContextVault – Shared memory layer for your AI and your team",
-      "url": "https://www.contextvault.dev/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48900288",
-      "author": "Repeater22746",
-      "publishedAt": "2026-07-13T23:22:18.000Z"
-    },
-    {
-      "id": "48896599",
-      "source": "hn",
-      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "url": "https://github.com/morganwilliscloud/billai-bass",
-      "score": 57,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48896599",
-      "author": "mtw14",
-      "publishedAt": "2026-07-13T18:18:23.000Z"
     },
     {
       "id": "48900231",
       "source": "hn",
       "title": "The AI Whale Fall and Open Source",
       "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
-      "score": 10,
+      "score": 35,
       "commentsUrl": "https://news.ycombinator.com/item?id=48900231",
       "author": "ai_critic",
       "publishedAt": "2026-07-13T23:16:42.000Z"
     },
     {
-      "id": "48900140",
+      "id": "48903102",
       "source": "hn",
-      "title": "Cdbx.ai – AI-powered browser IDE to describe, build, and publish apps",
-      "url": "https://cdbx.ai/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48900140",
-      "author": "chbutler",
-      "publishedAt": "2026-07-13T23:07:16.000Z"
+      "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
+      "url": "https://agent-benchmarks.com/software-factory/",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48903102",
+      "author": "adamgold7",
+      "publishedAt": "2026-07-14T06:48:47.000Z"
     },
     {
-      "id": "48899529",
+      "id": "48897991",
       "source": "hn",
-      "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
-      "url": "https://github.com/thephw/claude-meseeks",
-      "score": 117,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48899529",
-      "author": "patrickwiseman",
-      "publishedAt": "2026-07-13T22:03:54.000Z"
+      "title": "Samsung Health app threatens data deletion if users opt out AI training",
+      "url": "https://neow.in/cWsyMTV3",
+      "score": 333,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48897991",
+      "author": "bundie",
+      "publishedAt": "2026-07-13T20:01:43.000Z"
     },
     {
-      "id": "48899454",
+      "id": "48896599",
       "source": "hn",
-      "title": "$65K to work at Anthropic? Debate ensues amid IPO wave",
-      "url": "https://missionlocal.org/2026/07/anthropic-sf-affordability-ipo-housing-evictions-rent/",
-      "score": 23,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48899454",
-      "author": "gcheong",
-      "publishedAt": "2026-07-13T21:56:52.000Z"
+      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "url": "https://github.com/morganwilliscloud/billai-bass",
+      "score": 70,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48896599",
+      "author": "mtw14",
+      "publishedAt": "2026-07-13T18:18:23.000Z"
     },
     {
-      "id": "48889637",
+      "id": "48900681",
       "source": "hn",
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "score": 1410,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48889637",
-      "author": "crowdhailer",
-      "publishedAt": "2026-07-13T08:39:39.000Z"
-    },
-    {
-      "id": "48896651",
-      "source": "hn",
-      "title": "AI agents write Ruby but can't navigate it: a 5-model, 13-codebase benchmark",
-      "url": "https://github.com/luuuc/sense/blob/main/bench/verticals/ruby-rails/report-for-humans.md",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48896651",
-      "author": "luuuc",
-      "publishedAt": "2026-07-13T18:21:35.000Z"
-    },
-    {
-      "id": "48886741",
-      "source": "hn",
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "url": "https://news.ycombinator.com/item?id=48886741",
-      "score": 1010,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48886741",
-      "author": "levkk",
-      "publishedAt": "2026-07-13T01:24:20.000Z"
+      "title": "Scams Were Awful. Then They Got AI",
+      "url": "https://www.rstreet.org/commentary/scams-were-already-awful-then-they-got-ai/",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48900681",
+      "author": "antondd",
+      "publishedAt": "2026-07-14T00:09:32.000Z"
     }
   ]
 }
