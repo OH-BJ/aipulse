@@ -1,96 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-13T14:16:57.719Z",
+  "fetchedAt": "2026-07-14T01:51:24.175Z",
   "items": [
+    {
+      "id": "48900319",
+      "source": "hn",
+      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48900319",
+      "author": "detkin",
+      "publishedAt": "2026-07-13T23:26:52.000Z"
+    },
+    {
+      "id": "48894630",
+      "source": "hn",
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "url": "https://github.com/jbwinters/jacquard-lang",
+      "score": 49,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48894630",
+      "author": "jbwinters",
+      "publishedAt": "2026-07-13T15:56:02.000Z"
+    },
+    {
+      "id": "48899321",
+      "source": "hn",
+      "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+      "url": "https://arxiv.org/abs/2607.01418",
+      "score": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48899321",
+      "author": "softwaredoug",
+      "publishedAt": "2026-07-13T21:43:51.000Z"
+    },
+    {
+      "id": "48897991",
+      "source": "hn",
+      "title": "Samsung Health app threatens data deletion if users opt out AI training",
+      "url": "https://neow.in/cWsyMTV3",
+      "score": 273,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48897991",
+      "author": "bundie",
+      "publishedAt": "2026-07-13T20:01:43.000Z"
+    },
+    {
+      "id": "48900288",
+      "source": "hn",
+      "title": "Show HN: ContextVault – Shared memory layer for your AI and your team",
+      "url": "https://www.contextvault.dev/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48900288",
+      "author": "Repeater22746",
+      "publishedAt": "2026-07-13T23:22:18.000Z"
+    },
+    {
+      "id": "48896599",
+      "source": "hn",
+      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "url": "https://github.com/morganwilliscloud/billai-bass",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48896599",
+      "author": "mtw14",
+      "publishedAt": "2026-07-13T18:18:23.000Z"
+    },
+    {
+      "id": "48900231",
+      "source": "hn",
+      "title": "The AI Whale Fall and Open Source",
+      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48900231",
+      "author": "ai_critic",
+      "publishedAt": "2026-07-13T23:16:42.000Z"
+    },
+    {
+      "id": "48900140",
+      "source": "hn",
+      "title": "Cdbx.ai – AI-powered browser IDE to describe, build, and publish apps",
+      "url": "https://cdbx.ai/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48900140",
+      "author": "chbutler",
+      "publishedAt": "2026-07-13T23:07:16.000Z"
+    },
+    {
+      "id": "48899529",
+      "source": "hn",
+      "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
+      "url": "https://github.com/thephw/claude-meseeks",
+      "score": 117,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48899529",
+      "author": "patrickwiseman",
+      "publishedAt": "2026-07-13T22:03:54.000Z"
+    },
+    {
+      "id": "48899454",
+      "source": "hn",
+      "title": "$65K to work at Anthropic? Debate ensues amid IPO wave",
+      "url": "https://missionlocal.org/2026/07/anthropic-sf-affordability-ipo-housing-evictions-rent/",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48899454",
+      "author": "gcheong",
+      "publishedAt": "2026-07-13T21:56:52.000Z"
+    },
     {
       "id": "48889637",
       "source": "hn",
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
       "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "score": 864,
+      "score": 1410,
       "commentsUrl": "https://news.ycombinator.com/item?id=48889637",
       "author": "crowdhailer",
       "publishedAt": "2026-07-13T08:39:39.000Z"
+    },
+    {
+      "id": "48896651",
+      "source": "hn",
+      "title": "AI agents write Ruby but can't navigate it: a 5-model, 13-codebase benchmark",
+      "url": "https://github.com/luuuc/sense/blob/main/bench/verticals/ruby-rails/report-for-humans.md",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48896651",
+      "author": "luuuc",
+      "publishedAt": "2026-07-13T18:21:35.000Z"
     },
     {
       "id": "48886741",
       "source": "hn",
       "title": "Ask HN: Add flag for AI-generated articles",
       "url": "https://news.ycombinator.com/item?id=48886741",
-      "score": 833,
+      "score": 1010,
       "commentsUrl": "https://news.ycombinator.com/item?id=48886741",
       "author": "levkk",
       "publishedAt": "2026-07-13T01:24:20.000Z"
-    },
-    {
-      "id": "48882716",
-      "source": "hn",
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "score": 230,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48882716",
-      "author": "brryant",
-      "publishedAt": "2026-07-12T17:13:07.000Z"
-    },
-    {
-      "id": "48883275",
-      "source": "hn",
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 657,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48883275",
-      "author": "systima",
-      "publishedAt": "2026-07-12T18:25:51.000Z"
-    },
-    {
-      "id": "48876441",
-      "source": "hn",
-      "title": "Stop Telling Me to Ask an LLM",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-      "score": 220,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48876441",
-      "author": "theorchid",
-      "publishedAt": "2026-07-11T22:28:48.000Z"
-    },
-    {
-      "id": "48883415",
-      "source": "hn",
-      "title": "The One-Step Trap (In AI Research)",
-      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "score": 51,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48883415",
-      "author": "jxmorris12",
-      "publishedAt": "2026-07-12T18:41:15.000Z"
-    },
-    {
-      "id": "48881043",
-      "source": "hn",
-      "title": "AI boosts research careers but narrow the span of ideas explored: study",
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "score": 151,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48881043",
-      "author": "zaikunzhang",
-      "publishedAt": "2026-07-12T13:26:13.000Z"
-    },
-    {
-      "id": "48881498",
-      "source": "hn",
-      "title": "Autoresearch, Claude and Constrained Optimization",
-      "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-      "score": 32,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48881498",
-      "author": "gmays",
-      "publishedAt": "2026-07-12T14:32:00.000Z"
-    },
-    {
-      "id": "48876505",
-      "source": "hn",
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 341,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48876505",
-      "author": "tionis",
-      "publishedAt": "2026-07-11T22:38:57.000Z"
     }
   ]
 }
