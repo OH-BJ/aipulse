@@ -1,106 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-14T13:17:17.524Z",
+  "fetchedAt": "2026-07-15T01:47:39.014Z",
   "items": [
     {
-      "id": "48894630",
+      "id": "48913443",
       "source": "hn",
-      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-      "url": "https://github.com/jbwinters/jacquard-lang",
-      "score": 92,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48894630",
-      "author": "jbwinters",
-      "publishedAt": "2026-07-13T15:56:02.000Z"
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "score": 86,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48913443",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-07-14T21:58:36.000Z"
     },
     {
-      "id": "48901275",
+      "id": "48905248",
       "source": "hn",
-      "title": "Building Food Metadata with LLM Juries",
-      "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
-      "score": 43,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48901275",
-      "author": "tie-in",
-      "publishedAt": "2026-07-14T01:41:49.000Z"
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "score": 434,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48905248",
+      "author": "shintoist",
+      "publishedAt": "2026-07-14T11:46:02.000Z"
     },
     {
-      "id": "48905989",
+      "id": "48906041",
       "source": "hn",
-      "title": "DOGE Used AI for Housing Policy. The Government Won't Say How",
-      "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "url": "https://gwern.net/guardian-angel",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48906041",
+      "author": "andsoitis",
+      "publishedAt": "2026-07-14T12:50:29.000Z"
+    },
+    {
+      "id": "48908178",
+      "source": "hn",
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 379,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48908178",
+      "author": "yenniejun111",
+      "publishedAt": "2026-07-14T15:18:13.000Z"
+    },
+    {
+      "id": "48908950",
+      "source": "hn",
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "score": 46,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48908950",
+      "author": "laalshaitaan",
+      "publishedAt": "2026-07-14T16:06:18.000Z"
+    },
+    {
+      "id": "48904095",
+      "source": "hn",
+      "title": "Demis Hassabis has a plan to harness AI safely",
+      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+      "score": 135,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48904095",
+      "author": "asiergoni",
+      "publishedAt": "2026-07-14T09:20:07.000Z"
+    },
+    {
+      "id": "48914472",
+      "source": "hn",
+      "title": "Legal AI, not a coding agent with scaffolding",
+      "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
       "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48905989",
-      "author": "speckx",
-      "publishedAt": "2026-07-14T12:46:34.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=48914472",
+      "author": "alansaber",
+      "publishedAt": "2026-07-14T23:51:57.000Z"
     },
     {
-      "id": "48900319",
+      "id": "48914439",
       "source": "hn",
-      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-      "score": 40,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48900319",
-      "author": "detkin",
-      "publishedAt": "2026-07-13T23:26:52.000Z"
+      "title": "Why organizing knowledge in the age of AI sucks, and how I solve it",
+      "url": "https://jordangreen.bearblog.dev/why-organizing-knowledge-in-the-age-of-ai-sucks-and-what-i-built/",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48914439",
+      "author": "enteigss",
+      "publishedAt": "2026-07-14T23:47:53.000Z"
     },
     {
-      "id": "48899321",
+      "id": "48887276",
       "source": "hn",
-      "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-      "url": "https://arxiv.org/abs/2607.01418",
-      "score": 63,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48899321",
-      "author": "softwaredoug",
-      "publishedAt": "2026-07-13T21:43:51.000Z"
+      "title": "Show HN: Self-hosted voice AI agent for Asterisk/FreePBX",
+      "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+      "score": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48887276",
+      "author": "hkjarral",
+      "publishedAt": "2026-07-13T02:51:34.000Z"
     },
     {
-      "id": "48900231",
+      "id": "48913540",
       "source": "hn",
-      "title": "The AI Whale Fall and Open Source",
-      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
-      "score": 35,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48900231",
-      "author": "ai_critic",
-      "publishedAt": "2026-07-13T23:16:42.000Z"
+      "title": "OpenAI's first hardware device will be a portable desktop robot",
+      "url": "https://www.machinesociety.ai/p/open-ais-first-hardware-device-will",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48913540",
+      "author": "mikelgan",
+      "publishedAt": "2026-07-14T22:09:22.000Z"
     },
     {
-      "id": "48903102",
+      "id": "48913338",
       "source": "hn",
-      "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-      "url": "https://agent-benchmarks.com/software-factory/",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48903102",
-      "author": "adamgold7",
-      "publishedAt": "2026-07-14T06:48:47.000Z"
-    },
-    {
-      "id": "48897991",
-      "source": "hn",
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "url": "https://neow.in/cWsyMTV3",
-      "score": 333,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48897991",
-      "author": "bundie",
-      "publishedAt": "2026-07-13T20:01:43.000Z"
-    },
-    {
-      "id": "48896599",
-      "source": "hn",
-      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "url": "https://github.com/morganwilliscloud/billai-bass",
-      "score": 70,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48896599",
-      "author": "mtw14",
-      "publishedAt": "2026-07-13T18:18:23.000Z"
-    },
-    {
-      "id": "48900681",
-      "source": "hn",
-      "title": "Scams Were Awful. Then They Got AI",
-      "url": "https://www.rstreet.org/commentary/scams-were-already-awful-then-they-got-ai/",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48900681",
-      "author": "antondd",
-      "publishedAt": "2026-07-14T00:09:32.000Z"
+      "title": "Online vs. Offline AI Evals: When to Use Each",
+      "url": "https://www.inngest.com/blog/online-vs-offline-ai-evals-when-to-use-each",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48913338",
+      "author": "aldersondev",
+      "publishedAt": "2026-07-14T21:47:42.000Z"
     }
   ]
 }
