@@ -1,7 +1,88 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-16T01:58:21.064Z",
+  "fetchedAt": "2026-07-16T13:27:34.284Z",
   "items": [
+    {
+      "id": "31496",
+      "source": "geeknews",
+      "title": "내가 Google DeepMind를 떠난 이유",
+      "url": "https://news.hada.io/topic?id=31496",
+      "commentsUrl": "https://news.hada.io/topic?id=31496",
+      "author": "neo",
+      "publishedAt": "2026-07-16T12:38:23.000Z"
+    },
+    {
+      "id": "31495",
+      "source": "geeknews",
+      "title": "Show GN: 온디바이스 벡터 데이터베이스를 C로 만들었습니다 (LSM-tree + HNSW)",
+      "url": "https://news.hada.io/topic?id=31495",
+      "commentsUrl": "https://news.hada.io/topic?id=31495",
+      "author": "credible",
+      "publishedAt": "2026-07-16T09:36:51.000Z"
+    },
+    {
+      "id": "31494",
+      "source": "geeknews",
+      "title": "Microsoft, 끌 수 없는 Windows GDID 기기 식별자 확인… FBI 사건 서류에 기록",
+      "url": "https://news.hada.io/topic?id=31494",
+      "commentsUrl": "https://news.hada.io/topic?id=31494",
+      "author": "neo",
+      "publishedAt": "2026-07-16T09:01:54.000Z"
+    },
+    {
+      "id": "31493",
+      "source": "geeknews",
+      "title": "FreeBSD 16, 기본 시스템에서 마지막 GPL 코드 제거",
+      "url": "https://news.hada.io/topic?id=31493",
+      "commentsUrl": "https://news.hada.io/topic?id=31493",
+      "author": "neo",
+      "publishedAt": "2026-07-16T08:01:20.000Z"
+    },
+    {
+      "id": "31492",
+      "source": "geeknews",
+      "title": "Grok Build가 오픈 소스로 공개됨",
+      "url": "https://news.hada.io/topic?id=31492",
+      "commentsUrl": "https://news.hada.io/topic?id=31492",
+      "author": "neo",
+      "publishedAt": "2026-07-16T06:34:05.000Z"
+    },
+    {
+      "id": "31491",
+      "source": "geeknews",
+      "title": "Hackney 라이딩 서비스 비교 앱",
+      "url": "https://news.hada.io/topic?id=31491",
+      "commentsUrl": "https://news.hada.io/topic?id=31491",
+      "author": "sungchi",
+      "publishedAt": "2026-07-16T04:07:45.000Z"
+    },
+    {
+      "id": "31490",
+      "source": "geeknews",
+      "title": "앤트로픽·블랙스톤, 15억 달러 규모 'AI 구현' 합작사 Ode 출범",
+      "url": "https://news.hada.io/topic?id=31490",
+      "commentsUrl": "https://news.hada.io/topic?id=31490",
+      "author": "humblebee",
+      "publishedAt": "2026-07-16T04:07:41.000Z"
+    },
+    {
+      "id": "31489",
+      "source": "geeknews",
+      "title": "Databricks가 자체 코딩 AI 벤치마크를 만든 방법과 결과",
+      "url": "https://news.hada.io/topic?id=31489",
+      "commentsUrl": "https://news.hada.io/topic?id=31489",
+      "author": "sungchi",
+      "publishedAt": "2026-07-16T03:51:39.000Z"
+    },
+    {
+      "id": "31488",
+      "source": "geeknews",
+      "title": "Vancouver 경찰 웹사이트의 Quick Escape 버튼, 방문 기록에서도 흔적을 지움",
+      "url": "https://news.hada.io/topic?id=31488",
+      "commentsUrl": "https://news.hada.io/topic?id=31488",
+      "author": "neo",
+      "publishedAt": "2026-07-16T03:33:53.000Z"
+    },
     {
       "id": "31485",
       "source": "geeknews",
@@ -23,7 +104,7 @@
     {
       "id": "31483",
       "source": "geeknews",
-      "title": "Stripe·Advent의 PayPal 인수 공동 제안…소식통",
+      "title": "Stripe와 Advent, PayPal을 530억 달러 이상에 공동 인수 제안",
       "url": "https://news.hada.io/topic?id=31483",
       "commentsUrl": "https://news.hada.io/topic?id=31483",
       "author": "xguru",
@@ -190,87 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31464",
       "author": "gg5823",
       "publishedAt": "2026-07-15T15:28:23.000Z"
-    },
-    {
-      "id": "31461",
-      "source": "geeknews",
-      "title": "Cursor 제로데이: 완전 공개만이 남은 보호 수단이 된 이유",
-      "url": "https://news.hada.io/topic?id=31461",
-      "commentsUrl": "https://news.hada.io/topic?id=31461",
-      "author": "neo",
-      "publishedAt": "2026-07-15T12:35:12.000Z"
-    },
-    {
-      "id": "31460",
-      "source": "geeknews",
-      "title": "DID에 관해 너무 많은 이야기",
-      "url": "https://news.hada.io/topic?id=31460",
-      "commentsUrl": "https://news.hada.io/topic?id=31460",
-      "author": "neo",
-      "publishedAt": "2026-07-15T11:02:10.000Z"
-    },
-    {
-      "id": "31459",
-      "source": "geeknews",
-      "title": "스마트 가전을 점검해봐야 할지도 모른다",
-      "url": "https://news.hada.io/topic?id=31459",
-      "commentsUrl": "https://news.hada.io/topic?id=31459",
-      "author": "neo",
-      "publishedAt": "2026-07-15T07:01:56.000Z"
-    },
-    {
-      "id": "31458",
-      "source": "geeknews",
-      "title": "우리는 너무 많은 생각을 AI에 떠넘기고 있는가?",
-      "url": "https://news.hada.io/topic?id=31458",
-      "commentsUrl": "https://news.hada.io/topic?id=31458",
-      "author": "neo",
-      "publishedAt": "2026-07-15T05:35:08.000Z"
-    },
-    {
-      "id": "31457",
-      "source": "geeknews",
-      "title": "코드를 거의 보지 않고 만든 70배 빠른 SQL 파서",
-      "url": "https://news.hada.io/topic?id=31457",
-      "commentsUrl": "https://news.hada.io/topic?id=31457",
-      "author": "xguru",
-      "publishedAt": "2026-07-15T02:19:05.000Z"
-    },
-    {
-      "id": "31456",
-      "source": "geeknews",
-      "title": "Physical AI의 머니볼",
-      "url": "https://news.hada.io/topic?id=31456",
-      "commentsUrl": "https://news.hada.io/topic?id=31456",
-      "author": "xguru",
-      "publishedAt": "2026-07-15T02:17:01.000Z"
-    },
-    {
-      "id": "31455",
-      "source": "geeknews",
-      "title": "예측 불가능한 천재를 감싸는 법",
-      "url": "https://news.hada.io/topic?id=31455",
-      "commentsUrl": "https://news.hada.io/topic?id=31455",
-      "author": "xguru",
-      "publishedAt": "2026-07-15T02:12:49.000Z"
-    },
-    {
-      "id": "31454",
-      "source": "geeknews",
-      "title": "소프트웨어가 세상을 먹어 치웠고, 이제 하드웨어가 소프트웨어를 먹고 있다",
-      "url": "https://news.hada.io/topic?id=31454",
-      "commentsUrl": "https://news.hada.io/topic?id=31454",
-      "author": "xguru",
-      "publishedAt": "2026-07-15T02:10:43.000Z"
-    },
-    {
-      "id": "31453",
-      "source": "geeknews",
-      "title": "나는 USB-C 맥시멀리스트다",
-      "url": "https://news.hada.io/topic?id=31453",
-      "commentsUrl": "https://news.hada.io/topic?id=31453",
-      "author": "xguru",
-      "publishedAt": "2026-07-15T02:07:15.000Z"
     }
   ]
 }
