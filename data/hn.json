@@ -1,86 +1,146 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-15T13:21:04.954Z",
+  "fetchedAt": "2026-07-16T01:58:20.854Z",
   "items": [
     {
-      "id": "48918956",
+      "id": "48927095",
       "source": "hn",
-      "title": "Societal Impacts: Claude's values across models and languages",
-      "url": "https://www.anthropic.com/research/claude-values-models-languages",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48918956",
-      "author": "taubek",
-      "publishedAt": "2026-07-15T10:56:33.000Z"
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "score": 88,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48927095",
+      "author": "bilsbie",
+      "publishedAt": "2026-07-15T21:16:36.000Z"
     },
     {
-      "id": "48916975",
+      "id": "48927915",
       "source": "hn",
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "score": 461,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48916975",
-      "author": "macleginn",
-      "publishedAt": "2026-07-15T06:28:00.000Z"
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "score": 47,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48927915",
+      "author": "gregsadetsky",
+      "publishedAt": "2026-07-15T22:23:27.000Z"
     },
     {
-      "id": "48905248",
+      "id": "48926085",
       "source": "hn",
-      "title": "How to stop Claude from saying load-bearing",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 566,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48905248",
-      "author": "shintoist",
-      "publishedAt": "2026-07-14T11:46:02.000Z"
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "url": "https://brainless.swerdlow.dev",
+      "score": 91,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48926085",
+      "author": "benswerd",
+      "publishedAt": "2026-07-15T19:42:53.000Z"
     },
     {
-      "id": "48908950",
+      "id": "48907681",
       "source": "hn",
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "score": 79,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48908950",
-      "author": "laalshaitaan",
-      "publishedAt": "2026-07-14T16:06:18.000Z"
+      "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+      "url": "https://github.com/projectargus-cc/libargus.cc",
+      "score": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48907681",
+      "author": "KingJoker",
+      "publishedAt": "2026-07-14T14:40:46.000Z"
     },
     {
-      "id": "48908178",
+      "id": "48928002",
       "source": "hn",
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 491,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48908178",
-      "author": "yenniejun111",
-      "publishedAt": "2026-07-14T15:18:13.000Z"
+      "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+      "url": "https://github.com/1ay1/agentty",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48928002",
+      "author": "tfeayush",
+      "publishedAt": "2026-07-15T22:30:24.000Z"
     },
     {
-      "id": "48906041",
+      "id": "48927999",
       "source": "hn",
-      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "url": "https://gwern.net/guardian-angel",
-      "score": 89,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48906041",
-      "author": "andsoitis",
-      "publishedAt": "2026-07-14T12:50:29.000Z"
+      "title": "Fuse – an open source MCP/CLI tool to speed up Claude Code on C# codebases",
+      "url": "https://github.com/Litenova-Solutions/Fuse",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48927999",
+      "author": "litenova",
+      "publishedAt": "2026-07-15T22:30:13.000Z"
     },
     {
-      "id": "48904095",
+      "id": "48921461",
       "source": "hn",
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-      "score": 151,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48904095",
-      "author": "asiergoni",
-      "publishedAt": "2026-07-14T09:20:07.000Z"
+      "title": "OpenAI loses trademark dispute at EU court",
+      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "score": 215,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48921461",
+      "author": "hermanzegerman",
+      "publishedAt": "2026-07-15T14:32:36.000Z"
     },
     {
-      "id": "48913443",
+      "id": "48920432",
       "source": "hn",
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "score": 163,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48913443",
-      "author": "1vuio0pswjnm7",
-      "publishedAt": "2026-07-14T21:58:36.000Z"
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "score": 164,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48920432",
+      "author": "dxs",
+      "publishedAt": "2026-07-15T13:18:15.000Z"
+    },
+    {
+      "id": "48925342",
+      "source": "hn",
+      "title": "Three governments agree on something the AI industry doesn't want to hear",
+      "url": "https://www.theattachmenteconomy.com/p/three-governments-agree-on-something",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48925342",
+      "author": "mikelgan",
+      "publishedAt": "2026-07-15T18:46:27.000Z"
+    },
+    {
+      "id": "48928324",
+      "source": "hn",
+      "title": "Can AI Do RCA?",
+      "url": "https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48928324",
+      "author": "ekiauhce",
+      "publishedAt": "2026-07-15T23:01:46.000Z"
+    },
+    {
+      "id": "48924453",
+      "source": "hn",
+      "title": "GPT‑Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "score": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48924453",
+      "author": "alvis",
+      "publishedAt": "2026-07-15T17:41:46.000Z"
+    },
+    {
+      "id": "48927373",
+      "source": "hn",
+      "title": "We don't use AI in any of our design or production processes",
+      "url": "https://mass-driver.com/article/from-human-hands",
+      "score": 92,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48927373",
+      "author": "tony_cannistra",
+      "publishedAt": "2026-07-15T21:36:49.000Z"
+    },
+    {
+      "id": "48927409",
+      "source": "hn",
+      "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
+      "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+      "score": 48,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48927409",
+      "author": "johnbarron",
+      "publishedAt": "2026-07-15T21:39:21.000Z"
+    },
+    {
+      "id": "48928912",
+      "source": "hn",
+      "title": "OpenAI is everything it promised not to be: closed-Source and for-profit (2023)",
+      "url": "https://www.vice.com/en/article/openai-is-now-everything-it-promised-not-to-be-corporate-closed-source-and-for-profit/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48928912",
+      "author": "maxloh",
+      "publishedAt": "2026-07-16T00:12:12.000Z"
     }
   ]
 }
