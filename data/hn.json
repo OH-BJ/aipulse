@@ -1,33 +1,133 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-16T13:27:35.796Z",
+  "fetchedAt": "2026-07-17T02:02:03.727Z",
   "items": [
     {
-      "id": "48931588",
+      "id": "48939662",
       "source": "hn",
-      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-      "url": "https://joinedanthropic.com",
-      "score": 134,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48931588",
-      "author": "ohong",
-      "publishedAt": "2026-07-16T08:03:35.000Z"
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "score": 161,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48939662",
+      "author": "minimaxir",
+      "publishedAt": "2026-07-16T20:18:15.000Z"
+    },
+    {
+      "id": "48939524",
+      "source": "hn",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "score": 133,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48939524",
+      "author": "hershyb_",
+      "publishedAt": "2026-07-16T20:03:23.000Z"
+    },
+    {
+      "id": "48936451",
+      "source": "hn",
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "score": 241,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48936451",
+      "author": "xnx",
+      "publishedAt": "2026-07-16T16:08:13.000Z"
+    },
+    {
+      "id": "48936880",
+      "source": "hn",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "score": 158,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48936880",
+      "author": "uneven9434",
+      "publishedAt": "2026-07-16T16:41:37.000Z"
+    },
+    {
+      "id": "48937020",
+      "source": "hn",
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "url": "https://news.ycombinator.com/item?id=48937020",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48937020",
+      "author": "XiaHua",
+      "publishedAt": "2026-07-16T16:52:16.000Z"
+    },
+    {
+      "id": "48935687",
+      "source": "hn",
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "score": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48935687",
+      "author": "zhinit",
+      "publishedAt": "2026-07-16T15:13:00.000Z"
+    },
+    {
+      "id": "48939764",
+      "source": "hn",
+      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+      "url": "https://timelinescan.com/",
+      "score": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48939764",
+      "author": "HoserHoser",
+      "publishedAt": "2026-07-16T20:25:47.000Z"
     },
     {
       "id": "48933310",
       "source": "hn",
       "title": "The LLM Critics Are Right. I Use LLMs Anyway",
       "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "score": 64,
+      "score": 188,
       "commentsUrl": "https://news.ycombinator.com/item?id=48933310",
       "author": "JeremyTheo",
       "publishedAt": "2026-07-16T11:59:01.000Z"
+    },
+    {
+      "id": "48937756",
+      "source": "hn",
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "score": 124,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48937756",
+      "author": "amai",
+      "publishedAt": "2026-07-16T17:44:46.000Z"
+    },
+    {
+      "id": "48936049",
+      "source": "hn",
+      "title": "Yann LeCun on AMI Labs, JEPA, and the AI World of 2030",
+      "url": "https://nebius.science/stories/meet-yann-lecuns-lab-and-the-ai-world-of-2030?shem=rimspwouohc,",
+      "score": 21,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48936049",
+      "author": "natali_gray",
+      "publishedAt": "2026-07-16T15:39:17.000Z"
+    },
+    {
+      "id": "48941583",
+      "source": "hn",
+      "title": "AI Data Centers and the Concentration of Wealth",
+      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48941583",
+      "author": "birdculture",
+      "publishedAt": "2026-07-16T23:22:36.000Z"
+    },
+    {
+      "id": "48940335",
+      "source": "hn",
+      "title": "Skyportal SRE – an open-source AI infrastructure engineer",
+      "url": "https://github.com/SkyportalAi/skyportalai",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48940335",
+      "author": "mattskyportal",
+      "publishedAt": "2026-07-16T21:13:34.000Z"
     },
     {
       "id": "48927095",
       "source": "hn",
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "score": 239,
+      "score": 288,
       "commentsUrl": "https://news.ycombinator.com/item?id=48927095",
       "author": "bilsbie",
       "publishedAt": "2026-07-15T21:16:36.000Z"
@@ -37,90 +137,10 @@
       "source": "hn",
       "title": "LLM Networking with MikroTik",
       "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "score": 96,
+      "score": 102,
       "commentsUrl": "https://news.ycombinator.com/item?id=48927915",
       "author": "gregsadetsky",
       "publishedAt": "2026-07-15T22:23:27.000Z"
-    },
-    {
-      "id": "48926085",
-      "source": "hn",
-      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "url": "https://brainless.swerdlow.dev",
-      "score": 124,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48926085",
-      "author": "benswerd",
-      "publishedAt": "2026-07-15T19:42:53.000Z"
-    },
-    {
-      "id": "48928002",
-      "source": "hn",
-      "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
-      "url": "https://github.com/1ay1/agentty",
-      "score": 40,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48928002",
-      "author": "tfeayush",
-      "publishedAt": "2026-07-15T22:30:24.000Z"
-    },
-    {
-      "id": "48921461",
-      "source": "hn",
-      "title": "OpenAI loses trademark dispute at EU court",
-      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
-      "score": 250,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48921461",
-      "author": "hermanzegerman",
-      "publishedAt": "2026-07-15T14:32:36.000Z"
-    },
-    {
-      "id": "48920432",
-      "source": "hn",
-      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "score": 177,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48920432",
-      "author": "dxs",
-      "publishedAt": "2026-07-15T13:18:15.000Z"
-    },
-    {
-      "id": "48907681",
-      "source": "hn",
-      "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
-      "url": "https://github.com/projectargus-cc/libargus.cc",
-      "score": 38,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48907681",
-      "author": "KingJoker",
-      "publishedAt": "2026-07-14T14:40:46.000Z"
-    },
-    {
-      "id": "48925342",
-      "source": "hn",
-      "title": "Three governments agree on something the AI industry doesn't want to hear",
-      "url": "https://www.theattachmenteconomy.com/p/three-governments-agree-on-something",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48925342",
-      "author": "mikelgan",
-      "publishedAt": "2026-07-15T18:46:27.000Z"
-    },
-    {
-      "id": "48927999",
-      "source": "hn",
-      "title": "Fuse – an open source MCP/CLI tool to speed up Claude Code on C# codebases",
-      "url": "https://github.com/Litenova-Solutions/Fuse",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48927999",
-      "author": "litenova",
-      "publishedAt": "2026-07-15T22:30:13.000Z"
-    },
-    {
-      "id": "48924453",
-      "source": "hn",
-      "title": "GPT‑Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red/",
-      "score": 29,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48924453",
-      "author": "alvis",
-      "publishedAt": "2026-07-15T17:41:46.000Z"
     }
   ]
 }
