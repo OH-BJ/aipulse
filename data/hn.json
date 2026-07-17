@@ -1,13 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-17T02:02:03.727Z",
+  "fetchedAt": "2026-07-17T13:12:38.177Z",
   "items": [
+    {
+      "id": "48946010",
+      "source": "hn",
+      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "score": 228,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48946010",
+      "author": "twerkmeister",
+      "publishedAt": "2026-07-17T11:30:00.000Z"
+    },
+    {
+      "id": "48946303",
+      "source": "hn",
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "score": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48946303",
+      "author": "merksittich",
+      "publishedAt": "2026-07-17T12:02:39.000Z"
+    },
     {
       "id": "48939662",
       "source": "hn",
       "title": "LM Studio Bionic: the AI agent for open models",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 161,
+      "score": 283,
       "commentsUrl": "https://news.ycombinator.com/item?id=48939662",
       "author": "minimaxir",
       "publishedAt": "2026-07-16T20:18:15.000Z"
@@ -17,7 +37,7 @@
       "source": "hn",
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "score": 133,
+      "score": 310,
       "commentsUrl": "https://news.ycombinator.com/item?id=48939524",
       "author": "hershyb_",
       "publishedAt": "2026-07-16T20:03:23.000Z"
@@ -27,7 +47,7 @@
       "source": "hn",
       "title": "NotebookLM is now Gemini Notebook",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 241,
+      "score": 332,
       "commentsUrl": "https://news.ycombinator.com/item?id=48936451",
       "author": "xnx",
       "publishedAt": "2026-07-16T16:08:13.000Z"
@@ -37,110 +57,90 @@
       "source": "hn",
       "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "score": 158,
+      "score": 214,
       "commentsUrl": "https://news.ycombinator.com/item?id=48936880",
       "author": "uneven9434",
       "publishedAt": "2026-07-16T16:41:37.000Z"
-    },
-    {
-      "id": "48937020",
-      "source": "hn",
-      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
-      "url": "https://news.ycombinator.com/item?id=48937020",
-      "score": 37,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48937020",
-      "author": "XiaHua",
-      "publishedAt": "2026-07-16T16:52:16.000Z"
-    },
-    {
-      "id": "48935687",
-      "source": "hn",
-      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "score": 99,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48935687",
-      "author": "zhinit",
-      "publishedAt": "2026-07-16T15:13:00.000Z"
-    },
-    {
-      "id": "48939764",
-      "source": "hn",
-      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
-      "url": "https://timelinescan.com/",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48939764",
-      "author": "HoserHoser",
-      "publishedAt": "2026-07-16T20:25:47.000Z"
     },
     {
       "id": "48933310",
       "source": "hn",
       "title": "The LLM Critics Are Right. I Use LLMs Anyway",
       "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "score": 188,
+      "score": 257,
       "commentsUrl": "https://news.ycombinator.com/item?id=48933310",
       "author": "JeremyTheo",
       "publishedAt": "2026-07-16T11:59:01.000Z"
+    },
+    {
+      "id": "48935687",
+      "source": "hn",
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "score": 148,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48935687",
+      "author": "zhinit",
+      "publishedAt": "2026-07-16T15:13:00.000Z"
+    },
+    {
+      "id": "48942721",
+      "source": "hn",
+      "title": "UIUC AI Teaching Assistant",
+      "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+      "score": 26,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48942721",
+      "author": "teleforce",
+      "publishedAt": "2026-07-17T02:23:18.000Z"
+    },
+    {
+      "id": "48937020",
+      "source": "hn",
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "url": "https://news.ycombinator.com/item?id=48937020",
+      "score": 42,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48937020",
+      "author": "XiaHua",
+      "publishedAt": "2026-07-16T16:52:16.000Z"
+    },
+    {
+      "id": "48939764",
+      "source": "hn",
+      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+      "url": "https://timelinescan.com/",
+      "score": 32,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48939764",
+      "author": "HoserHoser",
+      "publishedAt": "2026-07-16T20:25:47.000Z"
     },
     {
       "id": "48937756",
       "source": "hn",
       "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
       "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-      "score": 124,
+      "score": 140,
       "commentsUrl": "https://news.ycombinator.com/item?id=48937756",
       "author": "amai",
       "publishedAt": "2026-07-16T17:44:46.000Z"
     },
     {
-      "id": "48936049",
+      "id": "48942554",
       "source": "hn",
-      "title": "Yann LeCun on AMI Labs, JEPA, and the AI World of 2030",
-      "url": "https://nebius.science/stories/meet-yann-lecuns-lab-and-the-ai-world-of-2030?shem=rimspwouohc,",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48936049",
-      "author": "natali_gray",
-      "publishedAt": "2026-07-16T15:39:17.000Z"
-    },
-    {
-      "id": "48941583",
-      "source": "hn",
-      "title": "AI Data Centers and the Concentration of Wealth",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48941583",
-      "author": "birdculture",
-      "publishedAt": "2026-07-16T23:22:36.000Z"
-    },
-    {
-      "id": "48940335",
-      "source": "hn",
-      "title": "Skyportal SRE – an open-source AI infrastructure engineer",
-      "url": "https://github.com/SkyportalAi/skyportalai",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48940335",
-      "author": "mattskyportal",
-      "publishedAt": "2026-07-16T21:13:34.000Z"
+      "title": "Boris Cherny: Steps of AI Adoption",
+      "url": "https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48942554",
+      "author": "shenli3514",
+      "publishedAt": "2026-07-17T01:53:48.000Z"
     },
     {
       "id": "48927095",
       "source": "hn",
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "score": 288,
+      "score": 290,
       "commentsUrl": "https://news.ycombinator.com/item?id=48927095",
       "author": "bilsbie",
       "publishedAt": "2026-07-15T21:16:36.000Z"
-    },
-    {
-      "id": "48927915",
-      "source": "hn",
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "score": 102,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48927915",
-      "author": "gregsadetsky",
-      "publishedAt": "2026-07-15T22:23:27.000Z"
     }
   ]
 }
