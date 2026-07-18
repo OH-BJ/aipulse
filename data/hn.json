@@ -1,146 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-18T01:50:52.043Z",
+  "fetchedAt": "2026-07-18T12:58:33.872Z",
   "items": [
     {
-      "id": "48952880",
+      "id": "48956879",
       "source": "hn",
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 270,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48952880",
-      "author": "gnabgib",
-      "publishedAt": "2026-07-17T22:26:30.000Z"
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "score": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48956879",
+      "author": "couAUIA",
+      "publishedAt": "2026-07-18T11:00:29.000Z"
     },
     {
-      "id": "48953924",
+      "id": "48956949",
       "source": "hn",
-      "title": "A grumpy screed about AI in software engineering",
-      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48953924",
-      "author": "ssutch3",
-      "publishedAt": "2026-07-18T00:40:08.000Z"
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "score": 81,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48956949",
+      "author": "secretslol",
+      "publishedAt": "2026-07-18T11:12:46.000Z"
+    },
+    {
+      "id": "48956924",
+      "source": "hn",
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "score": 261,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48956924",
+      "author": "miniBill",
+      "publishedAt": "2026-07-18T11:06:50.000Z"
     },
     {
       "id": "48947825",
       "source": "hn",
       "title": "The state of open source AI",
       "url": "https://stateofopensource.ai/",
-      "score": 371,
+      "score": 458,
       "commentsUrl": "https://news.ycombinator.com/item?id=48947825",
       "author": "rellem",
       "publishedAt": "2026-07-17T14:31:10.000Z"
+    },
+    {
+      "id": "48952880",
+      "source": "hn",
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 524,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48952880",
+      "author": "gnabgib",
+      "publishedAt": "2026-07-17T22:26:30.000Z"
     },
     {
       "id": "48947714",
       "source": "hn",
       "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
       "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-      "score": 84,
+      "score": 97,
       "commentsUrl": "https://news.ycombinator.com/item?id=48947714",
       "author": "duha",
       "publishedAt": "2026-07-17T14:21:35.000Z"
-    },
-    {
-      "id": "48953857",
-      "source": "hn",
-      "title": "Nadella Blasts AI Industry's Double Standard",
-      "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48953857",
-      "author": "nittanymount",
-      "publishedAt": "2026-07-18T00:28:46.000Z"
     },
     {
       "id": "48946303",
       "source": "hn",
       "title": "Apple targets dozens of OpenAI employees with legal letters",
       "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "score": 374,
+      "score": 395,
       "commentsUrl": "https://news.ycombinator.com/item?id=48946303",
       "author": "merksittich",
       "publishedAt": "2026-07-17T12:02:39.000Z"
     },
     {
-      "id": "48954209",
+      "id": "48956153",
       "source": "hn",
-      "title": "Anthropic in early talks with Meta to acquire compute power",
-      "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48954209",
-      "author": "gslin",
-      "publishedAt": "2026-07-18T01:24:48.000Z"
-    },
-    {
-      "id": "48954189",
-      "source": "hn",
-      "title": "AI hasn't shifted the bottleneck from coding to code review",
-      "url": "https://thenewstack.io/ai-code-bottleneck-myth/",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48954189",
-      "author": "Brajeshwar",
-      "publishedAt": "2026-07-18T01:20:44.000Z"
-    },
-    {
-      "id": "48946692",
-      "source": "hn",
-      "title": "VulnHunter: Capital One's agentic AI code security tool",
-      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-      "score": 60,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48946692",
-      "author": "medina",
-      "publishedAt": "2026-07-17T12:42:12.000Z"
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48956153",
+      "author": "bertman",
+      "publishedAt": "2026-07-18T08:14:05.000Z"
     },
     {
       "id": "48933310",
       "source": "hn",
       "title": "The LLM Critics Are Right. I Use LLMs Anyway",
       "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "score": 288,
+      "score": 298,
       "commentsUrl": "https://news.ycombinator.com/item?id=48933310",
       "author": "JeremyTheo",
       "publishedAt": "2026-07-16T11:59:01.000Z"
+    },
+    {
+      "id": "48946692",
+      "source": "hn",
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "score": 73,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48946692",
+      "author": "medina",
+      "publishedAt": "2026-07-17T12:42:12.000Z"
+    },
+    {
+      "id": "48953519",
+      "source": "hn",
+      "title": "Claude Code(Fable) refused my slow down instruction",
+      "url": "https://qusaisuwan.github.io/cc-incident/index.html",
+      "score": 26,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48953519",
+      "author": "qusaisuwan",
+      "publishedAt": "2026-07-17T23:39:56.000Z"
     },
     {
       "id": "48935687",
       "source": "hn",
       "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
       "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "score": 154,
+      "score": 158,
       "commentsUrl": "https://news.ycombinator.com/item?id=48935687",
       "author": "zhinit",
       "publishedAt": "2026-07-16T15:13:00.000Z"
-    },
-    {
-      "id": "48950477",
-      "source": "hn",
-      "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
-      "url": "https://news.ycombinator.com/item?id=48950477",
-      "score": 86,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48950477",
-      "author": "cromka",
-      "publishedAt": "2026-07-17T18:18:23.000Z"
     },
     {
       "id": "48939524",
       "source": "hn",
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "score": 382,
+      "score": 391,
       "commentsUrl": "https://news.ycombinator.com/item?id=48939524",
       "author": "hershyb_",
       "publishedAt": "2026-07-16T20:03:23.000Z"
-    },
-    {
-      "id": "48936451",
-      "source": "hn",
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 363,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48936451",
-      "author": "xnx",
-      "publishedAt": "2026-07-16T16:08:13.000Z"
     }
   ]
 }
