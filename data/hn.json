@@ -1,146 +1,126 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-19T13:01:47.784Z",
+  "fetchedAt": "2026-07-20T02:22:32.365Z",
   "items": [
     {
-      "id": "48966190",
+      "id": "48966569",
       "source": "hn",
-      "title": "Qwen 3.8 Max Preview",
-      "url": "https://www.qwencloud.com/pricing/token-plan",
-      "score": 130,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48966190",
-      "author": "lebovic",
-      "publishedAt": "2026-07-19T08:57:31.000Z"
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 397,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48966569",
+      "author": "tosh",
+      "publishedAt": "2026-07-19T10:03:23.000Z"
     },
     {
       "id": "48965850",
       "source": "hn",
       "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
       "url": "https://github.com/openai/codex/pull/33972/files",
-      "score": 63,
+      "score": 321,
       "commentsUrl": "https://news.ycombinator.com/item?id=48965850",
       "author": "AmazingTurtle",
       "publishedAt": "2026-07-19T07:54:39.000Z"
     },
     {
-      "id": "48966569",
+      "id": "48966120",
       "source": "hn",
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 120,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48966569",
-      "author": "tosh",
-      "publishedAt": "2026-07-19T10:03:23.000Z"
+      "title": "Qwen 3.8",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "score": 792,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48966120",
+      "author": "nh43215rgb",
+      "publishedAt": "2026-07-19T08:44:57.000Z"
     },
     {
-      "id": "48962983",
+      "id": "48971738",
       "source": "hn",
-      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "score": 499,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48962983",
-      "author": "gnabgib",
-      "publishedAt": "2026-07-18T22:13:39.000Z"
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "score": 281,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48971738",
+      "author": "rbanffy",
+      "publishedAt": "2026-07-19T21:18:10.000Z"
     },
     {
-      "id": "48964185",
+      "id": "48969291",
       "source": "hn",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "score": 269,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48964185",
-      "author": "subset",
-      "publishedAt": "2026-07-19T01:29:19.000Z"
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "score": 228,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48969291",
+      "author": "serialx",
+      "publishedAt": "2026-07-19T16:02:25.000Z"
+    },
+    {
+      "id": "48972858",
+      "source": "hn",
+      "title": "Ask HN: What are your favorite blogs not about AI?",
+      "url": "https://news.ycombinator.com/item?id=48972858",
+      "score": 59,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48972858",
+      "author": "azhenley",
+      "publishedAt": "2026-07-19T23:58:12.000Z"
     },
     {
       "id": "48957779",
       "source": "hn",
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 572,
+      "score": 584,
       "commentsUrl": "https://news.ycombinator.com/item?id=48957779",
       "author": "mbustamanter",
       "publishedAt": "2026-07-18T13:00:52.000Z"
+    },
+    {
+      "id": "48966044",
+      "source": "hn",
+      "title": "Anthropic runs large-scale code migrations with Claude Code",
+      "url": "https://claude.com/blog/ai-code-migration",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48966044",
+      "author": "vinhnx",
+      "publishedAt": "2026-07-19T08:31:15.000Z"
+    },
+    {
+      "id": "48964185",
+      "source": "hn",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "score": 385,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48964185",
+      "author": "subset",
+      "publishedAt": "2026-07-19T01:29:19.000Z"
     },
     {
       "id": "48956949",
       "source": "hn",
       "title": "What AI did to stackoverflow in a graph",
       "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "score": 413,
+      "score": 448,
       "commentsUrl": "https://news.ycombinator.com/item?id=48956949",
       "author": "secretslol",
       "publishedAt": "2026-07-18T11:12:46.000Z"
+    },
+    {
+      "id": "48967807",
+      "source": "hn",
+      "title": "Claude Code skill for searching royalty-free stock photos via the Pexels API",
+      "url": "https://github.com/amalshehu/pexels-skill",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48967807",
+      "author": "amalshehu",
+      "publishedAt": "2026-07-19T12:55:11.000Z"
     },
     {
       "id": "48959392",
       "source": "hn",
       "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
       "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "score": 235,
+      "score": 244,
       "commentsUrl": "https://news.ycombinator.com/item?id=48959392",
       "author": "ykev",
       "publishedAt": "2026-07-18T16:12:08.000Z"
-    },
-    {
-      "id": "48965687",
-      "source": "hn",
-      "title": "Show HN: PilotCite – Get your brand cited by ChatGPT, Gemini, and more",
-      "url": "https://www.pilotcite.com",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48965687",
-      "author": "standew",
-      "publishedAt": "2026-07-19T07:17:50.000Z"
-    },
-    {
-      "id": "48964585",
-      "source": "hn",
-      "title": "LLM-Integrated Multivariable Calculus Course",
-      "url": "https://calculus.academa.ai/",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48964585",
-      "author": "sinaatalay",
-      "publishedAt": "2026-07-19T02:55:43.000Z"
-    },
-    {
-      "id": "48956879",
-      "source": "hn",
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "score": 245,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48956879",
-      "author": "couAUIA",
-      "publishedAt": "2026-07-18T11:00:29.000Z"
-    },
-    {
-      "id": "48966582",
-      "source": "hn",
-      "title": "San Francisco Demands Apple and Google Delete AI 'Nudify' Apps from App Stores",
-      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48966582",
-      "author": "nyku",
-      "publishedAt": "2026-07-19T10:06:10.000Z"
-    },
-    {
-      "id": "48966016",
-      "source": "hn",
-      "title": "DeepSeek routes your request to Fable5",
-      "url": "https://twitter.com/synthwavedd/status/2078514339552628880",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48966016",
-      "author": "lijialjun",
-      "publishedAt": "2026-07-19T08:25:30.000Z"
-    },
-    {
-      "id": "48965886",
-      "source": "hn",
-      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-      "score": 47,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48965886",
-      "author": "TZubiri",
-      "publishedAt": "2026-07-19T08:00:24.000Z"
     }
   ]
 }
