@@ -1,23 +1,103 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-20T13:52:47.833Z",
+  "fetchedAt": "2026-07-21T02:00:27.470Z",
   "items": [
     {
-      "id": "48966569",
+      "id": "48979269",
       "source": "hn",
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 571,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48966569",
-      "author": "tosh",
-      "publishedAt": "2026-07-19T10:03:23.000Z"
+      "title": "China’s open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "score": 985,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48979269",
+      "author": "benwerd",
+      "publishedAt": "2026-07-20T14:21:47.000Z"
+    },
+    {
+      "id": "48981136",
+      "source": "hn",
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "url": "https://news.ycombinator.com/item?id=48981136",
+      "score": 60,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48981136",
+      "author": "alexsouthmayd",
+      "publishedAt": "2026-07-20T16:32:10.000Z"
+    },
+    {
+      "id": "48981206",
+      "source": "hn",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "score": 194,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48981206",
+      "author": "dopamine_daddy",
+      "publishedAt": "2026-07-20T16:36:36.000Z"
+    },
+    {
+      "id": "48980019",
+      "source": "hn",
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+      "score": 292,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48980019",
+      "author": "cl42",
+      "publishedAt": "2026-07-20T15:13:42.000Z"
+    },
+    {
+      "id": "48973869",
+      "source": "hn",
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "score": 677,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48973869",
+      "author": "loubbrad",
+      "publishedAt": "2026-07-20T02:51:16.000Z"
+    },
+    {
+      "id": "48980238",
+      "source": "hn",
+      "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
+      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+      "score": 61,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48980238",
+      "author": "simonebrunozzi",
+      "publishedAt": "2026-07-20T15:28:32.000Z"
+    },
+    {
+      "id": "48986003",
+      "source": "hn",
+      "title": "Americans hate AI so much that politicians are losing their jobs over it",
+      "url": "https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48986003",
+      "author": "arto",
+      "publishedAt": "2026-07-20T23:06:09.000Z"
+    },
+    {
+      "id": "48983890",
+      "source": "hn",
+      "title": "Cue AI",
+      "url": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48983890",
+      "author": "logickkk1",
+      "publishedAt": "2026-07-20T19:41:44.000Z"
+    },
+    {
+      "id": "48982411",
+      "source": "hn",
+      "title": "AI, Vim, and the Illusion of Flow",
+      "url": "https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48982411",
+      "author": "speckx",
+      "publishedAt": "2026-07-20T17:59:42.000Z"
     },
     {
       "id": "48936994",
       "source": "hn",
       "title": "1-Bit LLM in the Browser",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-      "score": 74,
+      "score": 112,
       "commentsUrl": "https://news.ycombinator.com/item?id=48936994",
       "author": "simonebrunozzi",
       "publishedAt": "2026-07-16T16:50:32.000Z"
@@ -27,110 +107,30 @@
       "source": "hn",
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 916,
+      "score": 946,
       "commentsUrl": "https://news.ycombinator.com/item?id=48966120",
       "author": "nh43215rgb",
       "publishedAt": "2026-07-19T08:44:57.000Z"
     },
     {
-      "id": "48973869",
+      "id": "48986639",
       "source": "hn",
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "score": 528,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48973869",
-      "author": "loubbrad",
-      "publishedAt": "2026-07-20T02:51:16.000Z"
+      "title": "OpenAI Says Model Broke Out of Sandbox",
+      "url": "https://twitter.com/kimmonismus/status/2079276434586210745",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48986639",
+      "author": "derangedHorse",
+      "publishedAt": "2026-07-21T00:18:42.000Z"
     },
     {
-      "id": "48965850",
+      "id": "48966569",
       "source": "hn",
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "score": 353,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48965850",
-      "author": "AmazingTurtle",
-      "publishedAt": "2026-07-19T07:54:39.000Z"
-    },
-    {
-      "id": "48969291",
-      "source": "hn",
-      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "score": 271,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48969291",
-      "author": "serialx",
-      "publishedAt": "2026-07-19T16:02:25.000Z"
-    },
-    {
-      "id": "48971738",
-      "source": "hn",
-      "title": "AI advice made people less accurate but more confident – sudy",
-      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "score": 348,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48971738",
-      "author": "rbanffy",
-      "publishedAt": "2026-07-19T21:18:10.000Z"
-    },
-    {
-      "id": "48973847",
-      "source": "hn",
-      "title": "Tech Workers Face Evaporating Financial Security as AI Transforms Industry",
-      "url": "https://www.adn.com/nation-world/2026/07/19/the-biggest-winners-of-the-american-economy-fear-theyre-sinking-fast/",
-      "score": 40,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48973847",
-      "author": "nlpnerd",
-      "publishedAt": "2026-07-20T02:45:14.000Z"
-    },
-    {
-      "id": "48957779",
-      "source": "hn",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 593,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48957779",
-      "author": "mbustamanter",
-      "publishedAt": "2026-07-18T13:00:52.000Z"
-    },
-    {
-      "id": "48975783",
-      "source": "hn",
-      "title": "Apple probably won't add Jony Ive to OpenAI trade secret theft suit",
-      "url": "https://appleinsider.com/articles/26/07/19/apple-probably-wont-add-jony-ive-to-openai-trade-secret-theft-suit",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48975783",
-      "author": "01-_-",
-      "publishedAt": "2026-07-20T08:26:35.000Z"
-    },
-    {
-      "id": "48966044",
-      "source": "hn",
-      "title": "Anthropic runs large-scale code migrations with Claude Code",
-      "url": "https://claude.com/blog/ai-code-migration",
-      "score": 35,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48966044",
-      "author": "vinhnx",
-      "publishedAt": "2026-07-19T08:31:15.000Z"
-    },
-    {
-      "id": "48956949",
-      "source": "hn",
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "score": 471,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48956949",
-      "author": "secretslol",
-      "publishedAt": "2026-07-18T11:12:46.000Z"
-    },
-    {
-      "id": "48964185",
-      "source": "hn",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "score": 416,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48964185",
-      "author": "subset",
-      "publishedAt": "2026-07-19T01:29:19.000Z"
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 594,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48966569",
+      "author": "tosh",
+      "publishedAt": "2026-07-19T10:03:23.000Z"
     }
   ]
 }
