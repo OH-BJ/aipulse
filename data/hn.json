@@ -1,156 +1,166 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-21T13:22:51.765Z",
+  "fetchedAt": "2026-07-22T01:59:26.018Z",
   "items": [
+    {
+      "id": "48997548",
+      "source": "hn",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "score": 722,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48997548",
+      "author": "mfiguiere",
+      "publishedAt": "2026-07-21T20:09:52.000Z"
+    },
+    {
+      "id": "48993414",
+      "source": "hn",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "score": 620,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48993414",
+      "author": "logickkk1",
+      "publishedAt": "2026-07-21T15:17:16.000Z"
+    },
+    {
+      "id": "48998404",
+      "source": "hn",
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "score": 111,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48998404",
+      "author": "hershyb_",
+      "publishedAt": "2026-07-21T21:13:20.000Z"
+    },
+    {
+      "id": "48995213",
+      "source": "hn",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "score": 245,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48995213",
+      "author": "ryanmerket",
+      "publishedAt": "2026-07-21T17:14:06.000Z"
+    },
+    {
+      "id": "48996652",
+      "source": "hn",
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "score": 122,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48996652",
+      "author": "BeetleB",
+      "publishedAt": "2026-07-21T19:04:39.000Z"
+    },
+    {
+      "id": "48998606",
+      "source": "hn",
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48998606",
+      "author": "greatgib",
+      "publishedAt": "2026-07-21T21:27:54.000Z"
+    },
+    {
+      "id": "49000429",
+      "source": "hn",
+      "title": "How an AI Anime Is Created",
+      "url": "https://www.aventos.dev/our-process?view=blog",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49000429",
+      "author": "JimsonYang",
+      "publishedAt": "2026-07-22T00:53:00.000Z"
+    },
+    {
+      "id": "48996236",
+      "source": "hn",
+      "title": "AI Agent – TRMNL",
+      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+      "score": 44,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48996236",
+      "author": "joeyespo",
+      "publishedAt": "2026-07-21T18:32:21.000Z"
+    },
     {
       "id": "48989701",
       "source": "hn",
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "score": 267,
+      "score": 547,
       "commentsUrl": "https://news.ycombinator.com/item?id=48989701",
       "author": "ilreb",
       "publishedAt": "2026-07-21T08:44:23.000Z"
     },
     {
-      "id": "48979269",
+      "id": "48995074",
       "source": "hn",
-      "title": "China’s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 1154,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48979269",
-      "author": "benwerd",
-      "publishedAt": "2026-07-20T14:21:47.000Z"
+      "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "score": 91,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48995074",
+      "author": "surprisetalk",
+      "publishedAt": "2026-07-21T17:03:18.000Z"
     },
     {
-      "id": "48981136",
+      "id": "48999841",
       "source": "hn",
-      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-      "url": "https://news.ycombinator.com/item?id=48981136",
-      "score": 92,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48981136",
-      "author": "alexsouthmayd",
-      "publishedAt": "2026-07-20T16:32:10.000Z"
+      "title": "Headroom - compress AI agent input for reduced token usage w/out harming output",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48999841",
+      "author": "andsoitis",
+      "publishedAt": "2026-07-21T23:36:06.000Z"
     },
     {
-      "id": "48981206",
+      "id": "48997822",
       "source": "hn",
-      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "score": 229,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48981206",
-      "author": "dopamine_daddy",
-      "publishedAt": "2026-07-20T16:36:36.000Z"
+      "title": "OpenAI announces models hacked Hugging Face during an eval",
+      "url": "https://runtimewire.com/article/openai-announces-models-hacked-hugging-face-during-an-eval",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48997822",
+      "author": "ryanmerket",
+      "publishedAt": "2026-07-21T20:30:04.000Z"
     },
     {
-      "id": "48990789",
+      "id": "48996760",
       "source": "hn",
-      "title": "LLM spambots liked my Show HN post more than real people did",
-      "url": "https://sgnt.ai/p/show-hn-llm-spam/",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48990789",
-      "author": "petesergeant",
-      "publishedAt": "2026-07-21T11:22:30.000Z"
+      "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
+      "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
+      "score": 69,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48996760",
+      "author": "arto",
+      "publishedAt": "2026-07-21T19:11:27.000Z"
     },
     {
-      "id": "48980019",
+      "id": "48999489",
       "source": "hn",
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "score": 346,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48980019",
-      "author": "cl42",
-      "publishedAt": "2026-07-20T15:13:42.000Z"
+      "title": "Show HN: Superserve – Firecracker microVM sandboxes for long-running AI agents",
+      "url": "https://www.superserve.ai/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48999489",
+      "author": "pavitrabhalla",
+      "publishedAt": "2026-07-21T22:59:06.000Z"
     },
     {
-      "id": "48980238",
+      "id": "48999357",
       "source": "hn",
-      "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
-      "score": 73,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48980238",
-      "author": "simonebrunozzi",
-      "publishedAt": "2026-07-20T15:28:32.000Z"
+      "title": "White House to Redirect Billions in Research Funds Toward AI, Away from Colleges",
+      "url": "https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48999357",
+      "author": "softwaredoug",
+      "publishedAt": "2026-07-21T22:43:07.000Z"
     },
     {
-      "id": "48973869",
+      "id": "49000117",
       "source": "hn",
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "score": 771,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48973869",
-      "author": "loubbrad",
-      "publishedAt": "2026-07-20T02:51:16.000Z"
-    },
-    {
-      "id": "48982411",
-      "source": "hn",
-      "title": "AI, Vim, and the Illusion of Flow",
-      "url": "https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/",
-      "score": 41,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48982411",
-      "author": "speckx",
-      "publishedAt": "2026-07-20T17:59:42.000Z"
-    },
-    {
-      "id": "48966120",
-      "source": "hn",
-      "title": "Qwen 3.8",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 953,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48966120",
-      "author": "nh43215rgb",
-      "publishedAt": "2026-07-19T08:44:57.000Z"
-    },
-    {
-      "id": "48983890",
-      "source": "hn",
-      "title": "Cue AI",
-      "url": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48983890",
-      "author": "logickkk1",
-      "publishedAt": "2026-07-20T19:41:44.000Z"
-    },
-    {
-      "id": "48936994",
-      "source": "hn",
-      "title": "1-Bit LLM in the Browser",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-      "score": 117,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48936994",
-      "author": "simonebrunozzi",
-      "publishedAt": "2026-07-16T16:50:32.000Z"
-    },
-    {
-      "id": "48987863",
-      "source": "hn",
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "score": 310,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48987863",
-      "author": "NordStreamYacht",
-      "publishedAt": "2026-07-21T03:56:03.000Z"
-    },
-    {
-      "id": "48966569",
-      "source": "hn",
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 597,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48966569",
-      "author": "tosh",
-      "publishedAt": "2026-07-19T10:03:23.000Z"
-    },
-    {
-      "id": "48989357",
-      "source": "hn",
-      "title": "Ask HN: Claude Code or Codex?",
-      "url": "https://news.ycombinator.com/item?id=48989357",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48989357",
-      "author": "czeizel",
-      "publishedAt": "2026-07-21T07:51:39.000Z"
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49000117",
+      "author": "mikelgan",
+      "publishedAt": "2026-07-22T00:09:18.000Z"
     }
   ]
 }
