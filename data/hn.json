@@ -1,156 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-22T13:27:08.520Z",
+  "fetchedAt": "2026-07-23T02:06:38.737Z",
   "items": [
     {
-      "id": "48997548",
+      "id": "49007247",
       "source": "hn",
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "score": 1355,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48997548",
-      "author": "mfiguiere",
-      "publishedAt": "2026-07-21T20:09:52.000Z"
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "score": 165,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49007247",
+      "author": "benbreen",
+      "publishedAt": "2026-07-22T14:18:05.000Z"
+    },
+    {
+      "id": "49010129",
+      "source": "hn",
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "score": 400,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49010129",
+      "author": "dcastm",
+      "publishedAt": "2026-07-22T17:17:54.000Z"
     },
     {
       "id": "49005973",
       "source": "hn",
       "title": "Businesses with ugly AI menu redesigns",
       "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "score": 15,
+      "score": 185,
       "commentsUrl": "https://news.ycombinator.com/item?id=49005973",
       "author": "speckx",
       "publishedAt": "2026-07-22T12:49:45.000Z"
+    },
+    {
+      "id": "49014537",
+      "source": "hn",
+      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "url": "https://arxiv.org/abs/2607.18250",
+      "score": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49014537",
+      "author": "StatsAreFun",
+      "publishedAt": "2026-07-22T22:49:58.000Z"
+    },
+    {
+      "id": "48997548",
+      "source": "hn",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "score": 1548,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48997548",
+      "author": "mfiguiere",
+      "publishedAt": "2026-07-21T20:09:52.000Z"
+    },
+    {
+      "id": "49015872",
+      "source": "hn",
+      "title": "Goodbye Data, Hello AI: My Biggest Takeaway from Snowflake Summit 2026",
+      "url": "https://apacheseatunnel.medium.com/goodbye-data-hello-ai-my-biggest-takeaway-from-snowflake-summit-2026-8c3dd82b208e",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49015872",
+      "author": "DSOfficial",
+      "publishedAt": "2026-07-23T01:57:24.000Z"
+    },
+    {
+      "id": "49014796",
+      "source": "hn",
+      "title": "Some AI Systems Differentially Downplay Their Creators' Controversies",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49014796",
+      "author": "JumpCrisscross",
+      "publishedAt": "2026-07-22T23:17:53.000Z"
+    },
+    {
+      "id": "49013862",
+      "source": "hn",
+      "title": "NotchAgent – native macOS notch control for AI agents running under herdr",
+      "url": "https://github.com/ykushch/agsig",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49013862",
+      "author": "ykushch",
+      "publishedAt": "2026-07-22T21:43:42.000Z"
+    },
+    {
+      "id": "49007525",
+      "source": "hn",
+      "title": "Most Americans say \"not in my backyard\" to AI data centers",
+      "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+      "score": 130,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49007525",
+      "author": "toomuchtodo",
+      "publishedAt": "2026-07-22T14:34:27.000Z"
     },
     {
       "id": "48996652",
       "source": "hn",
       "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
       "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "score": 448,
+      "score": 547,
       "commentsUrl": "https://news.ycombinator.com/item?id=48996652",
       "author": "BeetleB",
       "publishedAt": "2026-07-21T19:04:39.000Z"
-    },
-    {
-      "id": "48993414",
-      "source": "hn",
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 721,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48993414",
-      "author": "logickkk1",
-      "publishedAt": "2026-07-21T15:17:16.000Z"
-    },
-    {
-      "id": "48998404",
-      "source": "hn",
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "score": 226,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48998404",
-      "author": "hershyb_",
-      "publishedAt": "2026-07-21T21:13:20.000Z"
-    },
-    {
-      "id": "48995213",
-      "source": "hn",
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "score": 344,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48995213",
-      "author": "ryanmerket",
-      "publishedAt": "2026-07-21T17:14:06.000Z"
-    },
-    {
-      "id": "49005398",
-      "source": "hn",
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
-      "score": 55,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49005398",
-      "author": "vinni2",
-      "publishedAt": "2026-07-22T12:03:32.000Z"
     },
     {
       "id": "48998606",
       "source": "hn",
       "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
       "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "score": 109,
+      "score": 127,
       "commentsUrl": "https://news.ycombinator.com/item?id=48998606",
       "author": "greatgib",
       "publishedAt": "2026-07-21T21:27:54.000Z"
     },
     {
-      "id": "49006300",
+      "id": "48993414",
       "source": "hn",
-      "title": "Can Chinese AI (Kimi K3) file American tax returns (TaxCalcBench)?",
-      "url": "https://github.com/column-tax/tax-calc-bench/pull/93",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49006300",
-      "author": "michaelrbock",
-      "publishedAt": "2026-07-22T13:17:42.000Z"
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "score": 742,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48993414",
+      "author": "logickkk1",
+      "publishedAt": "2026-07-21T15:17:16.000Z"
     },
     {
-      "id": "49003810",
+      "id": "49012330",
       "source": "hn",
-      "title": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
-      "url": "https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral",
-      "score": 25,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49003810",
-      "author": "taubek",
-      "publishedAt": "2026-07-22T09:12:58.000Z"
-    },
-    {
-      "id": "48989701",
-      "source": "hn",
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "score": 559,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48989701",
-      "author": "ilreb",
-      "publishedAt": "2026-07-21T08:44:23.000Z"
-    },
-    {
-      "id": "48979269",
-      "source": "hn",
-      "title": "China’s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 1225,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48979269",
-      "author": "benwerd",
-      "publishedAt": "2026-07-20T14:21:47.000Z"
-    },
-    {
-      "id": "49002170",
-      "source": "hn",
-      "title": "Samsung in talks to invest in Mistral at €20B valuation",
-      "url": "https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49002170",
-      "author": "petethomas",
-      "publishedAt": "2026-07-22T05:19:17.000Z"
-    },
-    {
-      "id": "48981136",
-      "source": "hn",
-      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-      "url": "https://news.ycombinator.com/item?id=48981136",
-      "score": 99,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48981136",
-      "author": "alexsouthmayd",
-      "publishedAt": "2026-07-20T16:32:10.000Z"
-    },
-    {
-      "id": "48996236",
-      "source": "hn",
-      "title": "AI Agent – TRMNL",
-      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
-      "score": 50,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48996236",
-      "author": "joeyespo",
-      "publishedAt": "2026-07-21T18:32:21.000Z"
+      "title": "Proxy for OpenAI Codex and Claude Code, use any LLM with those apps",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49012330",
+      "author": "dandaka",
+      "publishedAt": "2026-07-22T19:42:08.000Z"
     }
   ]
 }
