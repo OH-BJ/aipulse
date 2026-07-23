@@ -1,13 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-23T02:06:38.737Z",
+  "fetchedAt": "2026-07-23T13:39:59.061Z",
   "items": [
+    {
+      "id": "49021006",
+      "source": "hn",
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "score": 69,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49021006",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-07-23T13:10:02.000Z"
+    },
+    {
+      "id": "49020868",
+      "source": "hn",
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "score": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49020868",
+      "author": "yogthos",
+      "publishedAt": "2026-07-23T13:00:03.000Z"
+    },
     {
       "id": "49007247",
       "source": "hn",
       "title": "Quality non-fiction books are the antithesis of AI slop",
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 165,
+      "score": 424,
       "commentsUrl": "https://news.ycombinator.com/item?id=49007247",
       "author": "benbreen",
       "publishedAt": "2026-07-22T14:18:05.000Z"
@@ -15,99 +35,119 @@
     {
       "id": "49010129",
       "source": "hn",
-      "title": "Are AI Labs Pelicanmaxxing?",
+      "title": "Are AI labs pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 400,
+      "score": 600,
       "commentsUrl": "https://news.ycombinator.com/item?id=49010129",
       "author": "dcastm",
       "publishedAt": "2026-07-22T17:17:54.000Z"
+    },
+    {
+      "id": "48989006",
+      "source": "hn",
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "score": 36,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48989006",
+      "author": "xgpyc2qp",
+      "publishedAt": "2026-07-21T07:01:24.000Z"
     },
     {
       "id": "49005973",
       "source": "hn",
       "title": "Businesses with ugly AI menu redesigns",
       "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "score": 185,
+      "score": 336,
       "commentsUrl": "https://news.ycombinator.com/item?id=49005973",
       "author": "speckx",
       "publishedAt": "2026-07-22T12:49:45.000Z"
     },
     {
-      "id": "49014537",
+      "id": "49019694",
       "source": "hn",
-      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
-      "url": "https://arxiv.org/abs/2607.18250",
-      "score": 25,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49014537",
-      "author": "StatsAreFun",
-      "publishedAt": "2026-07-22T22:49:58.000Z"
+      "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
+      "url": "https://frame.work/desktop?tab=192gb-coming-soon",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49019694",
+      "author": "PhilippGille",
+      "publishedAt": "2026-07-23T11:09:48.000Z"
     },
     {
       "id": "48997548",
       "source": "hn",
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "score": 1548,
+      "score": 1589,
       "commentsUrl": "https://news.ycombinator.com/item?id=48997548",
       "author": "mfiguiere",
       "publishedAt": "2026-07-21T20:09:52.000Z"
     },
     {
-      "id": "49015872",
+      "id": "49020335",
       "source": "hn",
-      "title": "Goodbye Data, Hello AI: My Biggest Takeaway from Snowflake Summit 2026",
-      "url": "https://apacheseatunnel.medium.com/goodbye-data-hello-ai-my-biggest-takeaway-from-snowflake-summit-2026-8c3dd82b208e",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49015872",
-      "author": "DSOfficial",
-      "publishedAt": "2026-07-23T01:57:24.000Z"
+      "title": "Understanding the AI Economy",
+      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
+      "score": 66,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49020335",
+      "author": "swolpers",
+      "publishedAt": "2026-07-23T12:11:05.000Z"
     },
     {
-      "id": "49014796",
+      "id": "49019663",
       "source": "hn",
-      "title": "Some AI Systems Differentially Downplay Their Creators' Controversies",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49014796",
-      "author": "JumpCrisscross",
-      "publishedAt": "2026-07-22T23:17:53.000Z"
-    },
-    {
-      "id": "49013862",
-      "source": "hn",
-      "title": "NotchAgent – native macOS notch control for AI agents running under herdr",
-      "url": "https://github.com/ykushch/agsig",
+      "title": "Ask HN: If OpenAI hacked HuggingFace, why aren't OpenAI prosecuted?",
+      "url": "https://news.ycombinator.com/item?id=49019663",
       "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49013862",
-      "author": "ykushch",
-      "publishedAt": "2026-07-22T21:43:42.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=49019663",
+      "author": "sam_lowry_",
+      "publishedAt": "2026-07-23T11:06:57.000Z"
     },
     {
-      "id": "49007525",
+      "id": "49018380",
       "source": "hn",
-      "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
-      "score": 130,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49007525",
-      "author": "toomuchtodo",
-      "publishedAt": "2026-07-22T14:34:27.000Z"
+      "title": "AI Slop: Why Philosophy Journals Should Reject AI-Written Prose",
+      "url": "http://schwitzsplinters.blogspot.com/2026/07/ai-slop-and-evidence-about-evidence-why.html",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49018380",
+      "author": "Alien1Being",
+      "publishedAt": "2026-07-23T08:18:00.000Z"
+    },
+    {
+      "id": "49014537",
+      "source": "hn",
+      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "url": "https://arxiv.org/abs/2607.18250",
+      "score": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49014537",
+      "author": "StatsAreFun",
+      "publishedAt": "2026-07-22T22:49:58.000Z"
     },
     {
       "id": "48996652",
       "source": "hn",
       "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
       "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "score": 547,
+      "score": 554,
       "commentsUrl": "https://news.ycombinator.com/item?id=48996652",
       "author": "BeetleB",
       "publishedAt": "2026-07-21T19:04:39.000Z"
+    },
+    {
+      "id": "49014798",
+      "source": "hn",
+      "title": "Why I'm building a note taking app without AI",
+      "url": "https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49014798",
+      "author": "davnicwil",
+      "publishedAt": "2026-07-22T23:18:10.000Z"
     },
     {
       "id": "48998606",
       "source": "hn",
       "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
       "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "score": 127,
+      "score": 132,
       "commentsUrl": "https://news.ycombinator.com/item?id=48998606",
       "author": "greatgib",
       "publishedAt": "2026-07-21T21:27:54.000Z"
@@ -117,20 +157,10 @@
       "source": "hn",
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 742,
+      "score": 746,
       "commentsUrl": "https://news.ycombinator.com/item?id=48993414",
       "author": "logickkk1",
       "publishedAt": "2026-07-21T15:17:16.000Z"
-    },
-    {
-      "id": "49012330",
-      "source": "hn",
-      "title": "Proxy for OpenAI Codex and Claude Code, use any LLM with those apps",
-      "url": "https://github.com/lidge-jun/opencodex",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49012330",
-      "author": "dandaka",
-      "publishedAt": "2026-07-22T19:42:08.000Z"
     }
   ]
 }
