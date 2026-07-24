@@ -1,6 +1,6 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-07-23T13:39:56.801Z",
+  "fetchedAt": "2026-07-24T02:01:53.387Z",
   "items": [
     {
       "id": "2607.18865",
@@ -66,15 +66,6 @@
       "summary": "Image forgery detection is a critical task in digital forensics, yet many deep-learning localization approaches are typically GPU-accelerated and computationally heavier than handcrafted screening met…"
     },
     {
-      "id": "2606.28445",
-      "source": "arxiv",
-      "title": "LoRA-Tuned Large Language Models for Dementia Detection via Multi-View Speech-Derived Features",
-      "url": "https://arxiv.org/abs/2606.28445",
-      "author": "Jonghyeon Park, Olivier Jiyoun Jung, Myungwoo Oh",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "Early detection of dementia enables timely intervention, and reflecting cognitive impairment, spontaneous speech offers a non-invasive screening modality. Conventional approaches often focus on a sing…"
-    },
-    {
       "id": "2606.27396",
       "source": "arxiv",
       "title": "Test-Input Generation for Tensor Programs: What Actually Finds Kernel Bugs",
@@ -82,15 +73,6 @@
       "author": "Dipankar Sarkar",
       "publishedAt": "2026-07-23T04:00:00.000Z",
       "summary": "Test-input generation for tensor kernels is folkloric. Most projects pick a representative shape and dtype, run a fixed-shape allclose-style check, and ship. We make the choices explicit and measure t…"
-    },
-    {
-      "id": "2606.20785",
-      "source": "arxiv",
-      "title": "Fara-1.5: Scalable Learning Environments for Computer Use Agents",
-      "url": "https://arxiv.org/abs/2606.20785",
-      "author": "Ahmed Awadallah, Sahil Gupta, Yash Lara +12",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "Collecting computer use data from human demonstrations is expensive and slow, motivating the need for scalable generation strategies. This requires two key ingredients: environments in which agents ca…"
     },
     {
       "id": "2605.31119",
@@ -271,6 +253,24 @@
       "author": "Rong Fu, Jia Yee Tan, Chunlei Meng +5",
       "publishedAt": "2026-07-23T04:00:00.000Z",
       "summary": "As the burgeoning power requirements of sophisticated neural architectures escalate, the information retrieval community has recognized ecological sustainability as a pivotal priority that necessitate…"
+    },
+    {
+      "id": "2601.21026",
+      "source": "arxiv",
+      "title": "Diffusion-based Annealed Boltzmann Generators : benefits, pitfalls and hopes",
+      "url": "https://arxiv.org/abs/2601.21026",
+      "author": "Louis Grenioux, Maxence Noble",
+      "publishedAt": "2026-07-23T04:00:00.000Z",
+      "summary": "Sampling configurations at thermodynamic equilibrium is a central challenge in statistical physics. Boltzmann Generators (BGs) tackle it by combining a generative model with a Monte Carlo (MC) correct…"
+    },
+    {
+      "id": "2512.05462",
+      "source": "arxiv",
+      "title": "Model Gateway: Management Platform for Model-Driven Drug Discovery",
+      "url": "https://arxiv.org/abs/2512.05462",
+      "author": "Yan-Shiun Wu, Sai Mahit Vaddadi, Zachary A. Rollins +1",
+      "publishedAt": "2026-07-23T04:00:00.000Z",
+      "summary": "Pharmaceutical drug discovery demands machine learning (ML) infrastructure that goes beyond general-purpose Machine Learning Operations (MLOps): inference-time composition of multiple models for multi…"
     }
   ]
 }
