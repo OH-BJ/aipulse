@@ -1,146 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-24T13:22:51.689Z",
+  "fetchedAt": "2026-07-25T02:01:39.307Z",
   "items": [
     {
-      "id": "49034342",
+      "id": "49038433",
       "source": "hn",
-      "title": "I Tried Building a Real App with AI. It Took a Year",
-      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49034342",
-      "author": "surprisetalk",
-      "publishedAt": "2026-07-24T12:00:17.000Z"
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "score": 1313,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49038433",
+      "author": "alvis",
+      "publishedAt": "2026-07-24T16:57:41.000Z"
+    },
+    {
+      "id": "49038060",
+      "source": "hn",
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "score": 423,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49038060",
+      "author": "rwmj",
+      "publishedAt": "2026-07-24T16:33:31.000Z"
+    },
+    {
+      "id": "49041347",
+      "source": "hn",
+      "title": "AMD and Cerebras Launch AI Inference Solution",
+      "url": "https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49041347",
+      "author": "rbanffy",
+      "publishedAt": "2026-07-24T20:44:05.000Z"
     },
     {
       "id": "49031409",
       "source": "hn",
       "title": "Claude Cookbook",
       "url": "https://platform.claude.com/cookbook/",
-      "score": 154,
+      "score": 289,
       "commentsUrl": "https://news.ycombinator.com/item?id=49031409",
       "author": "saikatsg",
       "publishedAt": "2026-07-24T05:09:15.000Z"
     },
     {
-      "id": "49033087",
+      "id": "49042436",
       "source": "hn",
-      "title": "Hetzner is working on LLM Inference",
-      "url": "https://sliplane.io/blog/hetzner-inference",
-      "score": 79,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49033087",
-      "author": "jonas_scholz",
-      "publishedAt": "2026-07-24T09:24:44.000Z"
+      "title": "Benchmarking Qwen 3.6 35B MoE (3B active) on an RTX 3090",
+      "url": "https://www.gilesthomas.com/2026/07/benchmarking-qwen-3-6-35b-moe-rtx-3090",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49042436",
+      "author": "gpjt",
+      "publishedAt": "2026-07-24T22:33:55.000Z"
+    },
+    {
+      "id": "49034342",
+      "source": "hn",
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+      "score": 87,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49034342",
+      "author": "surprisetalk",
+      "publishedAt": "2026-07-24T12:00:17.000Z"
+    },
+    {
+      "id": "49042653",
+      "source": "hn",
+      "title": "Show HN: How well do you use Claude Code?",
+      "url": "https://news.ycombinator.com/item?id=49042653",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49042653",
+      "author": "Paarthmj",
+      "publishedAt": "2026-07-24T23:00:38.000Z"
     },
     {
       "id": "49023016",
       "source": "hn",
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 1001,
+      "score": 1038,
       "commentsUrl": "https://news.ycombinator.com/item?id=49023016",
       "author": "theanonymousone",
       "publishedAt": "2026-07-23T15:18:40.000Z"
     },
     {
-      "id": "49034854",
+      "id": "49040821",
       "source": "hn",
-      "title": "Why hasn't AI increased unemployment?",
-      "url": "https://twitter.com/PeterMcCrory/status/2079979321607745905",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49034854",
-      "author": "gk1",
-      "publishedAt": "2026-07-24T12:52:27.000Z"
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49040821",
+      "author": "opwizardx",
+      "publishedAt": "2026-07-24T19:52:38.000Z"
+    },
+    {
+      "id": "49043192",
+      "source": "hn",
+      "title": "OpenAI did not notice Hugging Face hack for a week",
+      "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49043192",
+      "author": "himaraya",
+      "publishedAt": "2026-07-25T00:14:44.000Z"
     },
     {
       "id": "49022911",
       "source": "hn",
       "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
       "url": "https://github.com/palmier-io/palmier-pro",
-      "score": 176,
+      "score": 185,
       "commentsUrl": "https://news.ycombinator.com/item?id=49022911",
       "author": "harrisontin",
       "publishedAt": "2026-07-23T15:11:37.000Z"
     },
     {
-      "id": "49031963",
+      "id": "49042884",
       "source": "hn",
-      "title": "Japanese AI Robots Used to Replicate Skilled Confectioners' Abilities",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49031963",
-      "author": "mushstory",
-      "publishedAt": "2026-07-24T06:44:13.000Z"
+      "title": "Open Weights and American AI Leadership",
+      "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49042884",
+      "author": "haritha1313",
+      "publishedAt": "2026-07-24T23:29:30.000Z"
     },
     {
-      "id": "49024643",
+      "id": "49042870",
       "source": "hn",
-      "title": "The arguments against open source AI are bad",
-      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "score": 290,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49024643",
-      "author": "jjfoooo4",
-      "publishedAt": "2026-07-23T16:49:57.000Z"
-    },
-    {
-      "id": "49023427",
-      "source": "hn",
-      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-      "url": "https://github.com/onecli/onecli",
-      "score": 101,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49023427",
-      "author": "Jonathanfishner",
-      "publishedAt": "2026-07-23T15:42:40.000Z"
-    },
-    {
-      "id": "49020999",
-      "source": "hn",
-      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "score": 660,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49020999",
-      "author": "technewssss",
-      "publishedAt": "2026-07-23T13:09:10.000Z"
-    },
-    {
-      "id": "49024882",
-      "source": "hn",
-      "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "score": 104,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49024882",
-      "author": "s0ck_r4w",
-      "publishedAt": "2026-07-23T17:06:22.000Z"
-    },
-    {
-      "id": "49021597",
-      "source": "hn",
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "score": 257,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49021597",
-      "author": "r2sk5t",
-      "publishedAt": "2026-07-23T13:51:36.000Z"
-    },
-    {
-      "id": "49015639",
-      "source": "hn",
-      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "score": 546,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49015639",
-      "author": "abhisek",
-      "publishedAt": "2026-07-23T01:16:14.000Z"
-    },
-    {
-      "id": "49034006",
-      "source": "hn",
-      "title": "Orwell on AI",
-      "url": "https://hegemon.substack.com/p/orwell-on-ai",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49034006",
-      "author": "aa_is_op",
-      "publishedAt": "2026-07-24T11:25:24.000Z"
+      "title": "Amazon cracks down on use of AI images by sellers after New York law",
+      "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49042870",
+      "author": "baranul",
+      "publishedAt": "2026-07-24T23:28:18.000Z"
     }
   ]
 }
