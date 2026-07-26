@@ -1,96 +1,146 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-25T13:08:10.459Z",
+  "fetchedAt": "2026-07-26T02:06:02.955Z",
   "items": [
+    {
+      "id": "49052564",
+      "source": "hn",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49052564",
+      "author": "alphabetatango",
+      "publishedAt": "2026-07-25T22:50:49.000Z"
+    },
+    {
+      "id": "49051361",
+      "source": "hn",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "score": 166,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49051361",
+      "author": "mellosouls",
+      "publishedAt": "2026-07-25T20:42:35.000Z"
+    },
+    {
+      "id": "49052912",
+      "source": "hn",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "score": 80,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49052912",
+      "author": "oliculipolicula",
+      "publishedAt": "2026-07-25T23:32:50.000Z"
+    },
+    {
+      "id": "49050859",
+      "source": "hn",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "score": 77,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49050859",
+      "author": "zdw",
+      "publishedAt": "2026-07-25T19:44:39.000Z"
+    },
+    {
+      "id": "49050512",
+      "source": "hn",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "score": 77,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49050512",
+      "author": "boveyking",
+      "publishedAt": "2026-07-25T18:59:50.000Z"
+    },
+    {
+      "id": "49048034",
+      "source": "hn",
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "score": 312,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49048034",
+      "author": "tknaup",
+      "publishedAt": "2026-07-25T14:49:49.000Z"
+    },
+    {
+      "id": "49024980",
+      "source": "hn",
+      "title": "Rethinking Legal Education in the AI Era",
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49024980",
+      "author": "jjwiseman",
+      "publishedAt": "2026-07-23T17:12:48.000Z"
+    },
+    {
+      "id": "49051707",
+      "source": "hn",
+      "title": "Becoming a Research Engineer at a Big LLM Lab",
+      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49051707",
+      "author": "felixdoerp",
+      "publishedAt": "2026-07-25T21:19:42.000Z"
+    },
+    {
+      "id": "49008434",
+      "source": "hn",
+      "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
+      "url": "https://github.com/sktkkoo/Yorishiro",
+      "score": 38,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49008434",
+      "author": "hakumei",
+      "publishedAt": "2026-07-22T15:33:16.000Z"
+    },
+    {
+      "id": "49052570",
+      "source": "hn",
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "score": 55,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49052570",
+      "author": "pod_krad",
+      "publishedAt": "2026-07-25T22:51:10.000Z"
+    },
+    {
+      "id": "49047526",
+      "source": "hn",
+      "title": "The AI Productivity Illusion",
+      "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
+      "score": 34,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49047526",
+      "author": "quick_brown_fox",
+      "publishedAt": "2026-07-25T13:43:33.000Z"
+    },
     {
       "id": "49038433",
       "source": "hn",
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1643,
+      "score": 1739,
       "commentsUrl": "https://news.ycombinator.com/item?id=49038433",
       "author": "alvis",
       "publishedAt": "2026-07-24T16:57:41.000Z"
+    },
+    {
+      "id": "49051692",
+      "source": "hn",
+      "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+      "score": 50,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49051692",
+      "author": "robenkleene",
+      "publishedAt": "2026-07-25T21:18:06.000Z"
     },
     {
       "id": "49031409",
       "source": "hn",
       "title": "Claude Cookbook",
       "url": "https://platform.claude.com/cookbook/",
-      "score": 317,
+      "score": 330,
       "commentsUrl": "https://news.ycombinator.com/item?id=49031409",
       "author": "saikatsg",
       "publishedAt": "2026-07-24T05:09:15.000Z"
-    },
-    {
-      "id": "49038060",
-      "source": "hn",
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 500,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49038060",
-      "author": "rwmj",
-      "publishedAt": "2026-07-24T16:33:31.000Z"
-    },
-    {
-      "id": "49023016",
-      "source": "hn",
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 1051,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49023016",
-      "author": "theanonymousone",
-      "publishedAt": "2026-07-23T15:18:40.000Z"
-    },
-    {
-      "id": "49034342",
-      "source": "hn",
-      "title": "I Tried Building a Real App with AI. It Took a Year",
-      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-      "score": 102,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49034342",
-      "author": "surprisetalk",
-      "publishedAt": "2026-07-24T12:00:17.000Z"
-    },
-    {
-      "id": "49041347",
-      "source": "hn",
-      "title": "AMD and Cerebras Launch AI Inference Solution",
-      "url": "https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference",
-      "score": 23,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49041347",
-      "author": "rbanffy",
-      "publishedAt": "2026-07-24T20:44:05.000Z"
-    },
-    {
-      "id": "49046514",
-      "source": "hn",
-      "title": "The OpenAI Models That Hacked Hugging Face Were 'Active on the Internet' for Da",
-      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49046514",
-      "author": "joozio",
-      "publishedAt": "2026-07-25T11:02:02.000Z"
-    },
-    {
-      "id": "49022911",
-      "source": "hn",
-      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "score": 186,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49022911",
-      "author": "harrisontin",
-      "publishedAt": "2026-07-23T15:11:37.000Z"
-    },
-    {
-      "id": "49042653",
-      "source": "hn",
-      "title": "Show HN: How well do you use Claude Code?",
-      "url": "https://news.ycombinator.com/item?id=49042653",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49042653",
-      "author": "Paarthmj",
-      "publishedAt": "2026-07-24T23:00:38.000Z"
     }
   ]
 }

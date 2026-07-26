@@ -1,7 +1,115 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-25T13:08:11.046Z",
+  "fetchedAt": "2026-07-26T02:06:03.650Z",
   "items": [
+    {
+      "id": "31819",
+      "source": "geeknews",
+      "title": "하드 드라이브가 늘 가득 차는 이유",
+      "url": "https://news.hada.io/topic?id=31819",
+      "commentsUrl": "https://news.hada.io/topic?id=31819",
+      "author": "neo",
+      "publishedAt": "2026-07-26T01:01:18.000Z"
+    },
+    {
+      "id": "31818",
+      "source": "geeknews",
+      "title": "인터페이스가 화면을 벗어나고 있다 - 채팅, 음성, 에이전트형 AI가 바꾸는 UX",
+      "url": "https://news.hada.io/topic?id=31818",
+      "commentsUrl": "https://news.hada.io/topic?id=31818",
+      "author": "neo",
+      "publishedAt": "2026-07-26T00:50:02.000Z"
+    },
+    {
+      "id": "31817",
+      "source": "geeknews",
+      "title": "Hannah Fry, 2026년 수학 대중화 공로로 Leelavati Prize 수상",
+      "url": "https://news.hada.io/topic?id=31817",
+      "commentsUrl": "https://news.hada.io/topic?id=31817",
+      "author": "neo",
+      "publishedAt": "2026-07-26T00:33:34.000Z"
+    },
+    {
+      "id": "31816",
+      "source": "geeknews",
+      "title": "neko-master - 네트워크 트래픽 시각화 및 분석용 대시보드",
+      "url": "https://news.hada.io/topic?id=31816",
+      "commentsUrl": "https://news.hada.io/topic?id=31816",
+      "author": "xguru",
+      "publishedAt": "2026-07-26T00:31:02.000Z"
+    },
+    {
+      "id": "31815",
+      "source": "geeknews",
+      "title": "stinkpot - SQLite 기반 Bash 셸 히스토리 검색기",
+      "url": "https://news.hada.io/topic?id=31815",
+      "commentsUrl": "https://news.hada.io/topic?id=31815",
+      "author": "neo",
+      "publishedAt": "2026-07-26T00:05:35.000Z"
+    },
+    {
+      "id": "31814",
+      "source": "geeknews",
+      "title": "셸의 콜론은 아무것도 하지 않는다. 그래도 사용하라",
+      "url": "https://news.hada.io/topic?id=31814",
+      "commentsUrl": "https://news.hada.io/topic?id=31814",
+      "author": "neo",
+      "publishedAt": "2026-07-26T00:02:34.000Z"
+    },
+    {
+      "id": "31813",
+      "source": "geeknews",
+      "title": "Android가 기기 내 ADB를 곧 제한할 수 있음",
+      "url": "https://news.hada.io/topic?id=31813",
+      "commentsUrl": "https://news.hada.io/topic?id=31813",
+      "author": "xguru",
+      "publishedAt": "2026-07-25T23:30:12.000Z"
+    },
+    {
+      "id": "31812",
+      "source": "geeknews",
+      "title": "오픈 웨이트 AI가 Kubernetes의 순간을 맞고 있음",
+      "url": "https://news.hada.io/topic?id=31812",
+      "commentsUrl": "https://news.hada.io/topic?id=31812",
+      "author": "xguru",
+      "publishedAt": "2026-07-25T23:27:29.000Z"
+    },
+    {
+      "id": "31811",
+      "source": "geeknews",
+      "title": "Half-Life 2가 HaikuOS에서 네이티브로 실행됨",
+      "url": "https://news.hada.io/topic?id=31811",
+      "commentsUrl": "https://news.hada.io/topic?id=31811",
+      "author": "neo",
+      "publishedAt": "2026-07-25T22:33:15.000Z"
+    },
+    {
+      "id": "31809",
+      "source": "geeknews",
+      "title": "IRGC, 바레인의 Amazon 데이터 센터를 파괴했다고 주장",
+      "url": "https://news.hada.io/topic?id=31809",
+      "commentsUrl": "https://news.hada.io/topic?id=31809",
+      "author": "neo",
+      "publishedAt": "2026-07-25T20:35:21.000Z"
+    },
+    {
+      "id": "31808",
+      "source": "geeknews",
+      "title": "Postgres LISTEN/NOTIFY는 실제로 확장 가능함",
+      "url": "https://news.hada.io/topic?id=31808",
+      "commentsUrl": "https://news.hada.io/topic?id=31808",
+      "author": "neo",
+      "publishedAt": "2026-07-25T18:34:47.000Z"
+    },
+    {
+      "id": "31807",
+      "source": "geeknews",
+      "title": "Claude Opus 5, Artificial Analysis 지능 리더보드 1위",
+      "url": "https://news.hada.io/topic?id=31807",
+      "commentsUrl": "https://news.hada.io/topic?id=31807",
+      "author": "neo",
+      "publishedAt": "2026-07-25T16:34:50.000Z"
+    },
     {
       "id": "31806",
       "source": "geeknews",
@@ -163,114 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31786",
       "author": "xguru",
       "publishedAt": "2026-07-24T23:04:12.000Z"
-    },
-    {
-      "id": "31785",
-      "source": "geeknews",
-      "title": "인도 최초의 민간 개발 로켓, 데뷔 발사에서 궤도 진입 성공",
-      "url": "https://news.hada.io/topic?id=31785",
-      "commentsUrl": "https://news.hada.io/topic?id=31785",
-      "author": "xguru",
-      "publishedAt": "2026-07-24T23:02:15.000Z"
-    },
-    {
-      "id": "31784",
-      "source": "geeknews",
-      "title": "한화비전 보안 카메라의 웹 UI 로그인 페이지에 GitHub 관리자 토큰이 포함돼 출하됨",
-      "url": "https://news.hada.io/topic?id=31784",
-      "commentsUrl": "https://news.hada.io/topic?id=31784",
-      "author": "xguru",
-      "publishedAt": "2026-07-24T23:00:04.000Z"
-    },
-    {
-      "id": "31783",
-      "source": "geeknews",
-      "title": "Anthropic Opus 5 출시",
-      "url": "https://news.hada.io/topic?id=31783",
-      "commentsUrl": "https://news.hada.io/topic?id=31783",
-      "author": "dunward",
-      "publishedAt": "2026-07-24T22:48:13.000Z"
-    },
-    {
-      "id": "31782",
-      "source": "geeknews",
-      "title": "Claude 5 모델을 위한 새로운 컨텍스트 엔지니어링 규칙",
-      "url": "https://news.hada.io/topic?id=31782",
-      "commentsUrl": "https://news.hada.io/topic?id=31782",
-      "author": "xguru",
-      "publishedAt": "2026-07-24T22:46:42.000Z"
-    },
-    {
-      "id": "31781",
-      "source": "geeknews",
-      "title": "OpenAI와 Anthropic, 자사 수익을 위협하는 오픈 웨이트 AI에 공동 대응",
-      "url": "https://news.hada.io/topic?id=31781",
-      "commentsUrl": "https://news.hada.io/topic?id=31781",
-      "author": "neo",
-      "publishedAt": "2026-07-24T22:34:05.000Z"
-    },
-    {
-      "id": "31780",
-      "source": "geeknews",
-      "title": "순수 C++ 500줄로 구현하는 소프트웨어 렌더러",
-      "url": "https://news.hada.io/topic?id=31780",
-      "commentsUrl": "https://news.hada.io/topic?id=31780",
-      "author": "neo",
-      "publishedAt": "2026-07-24T20:33:51.000Z"
-    },
-    {
-      "id": "31779",
-      "source": "geeknews",
-      "title": "오픈소스 AI에 반대하는 논거가 설득력 없는 이유",
-      "url": "https://news.hada.io/topic?id=31779",
-      "commentsUrl": "https://news.hada.io/topic?id=31779",
-      "author": "neo",
-      "publishedAt": "2026-07-24T19:45:45.000Z"
-    },
-    {
-      "id": "31778",
-      "source": "geeknews",
-      "title": "13억원을 들인 딸의 유전자 편집 치료, 투여 7일 뒤 사망",
-      "url": "https://news.hada.io/topic?id=31778",
-      "commentsUrl": "https://news.hada.io/topic?id=31778",
-      "author": "neo",
-      "publishedAt": "2026-07-24T19:42:45.000Z"
-    },
-    {
-      "id": "31777",
-      "source": "geeknews",
-      "title": "Codeberg, 암호화폐 프로젝트 금지 정책 채택",
-      "url": "https://news.hada.io/topic?id=31777",
-      "commentsUrl": "https://news.hada.io/topic?id=31777",
-      "author": "neo",
-      "publishedAt": "2026-07-24T18:44:11.000Z"
-    },
-    {
-      "id": "31776",
-      "source": "geeknews",
-      "title": "소프트웨어 팩토리가 실패하는 이유: 하네스 엔지니어링만으로는 부족함",
-      "url": "https://news.hada.io/topic?id=31776",
-      "commentsUrl": "https://news.hada.io/topic?id=31776",
-      "author": "neo",
-      "publishedAt": "2026-07-24T18:41:11.000Z"
-    },
-    {
-      "id": "31775",
-      "source": "geeknews",
-      "title": "TheNumbers.com에 무슨 일이 일어났나",
-      "url": "https://news.hada.io/topic?id=31775",
-      "commentsUrl": "https://news.hada.io/topic?id=31775",
-      "author": "neo",
-      "publishedAt": "2026-07-24T17:36:00.000Z"
-    },
-    {
-      "id": "31774",
-      "source": "geeknews",
-      "title": "Show HN: Echo — 오픈 가중치 모델로 Fable 수준 결과를 3분의 1 비용에 달성",
-      "url": "https://news.hada.io/topic?id=31774",
-      "commentsUrl": "https://news.hada.io/topic?id=31774",
-      "author": "neo",
-      "publishedAt": "2026-07-24T16:33:55.000Z"
     }
   ]
 }
