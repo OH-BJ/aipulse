@@ -1,7 +1,124 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-27T02:13:28.203Z",
+  "fetchedAt": "2026-07-27T14:15:42.332Z",
   "items": [
+    {
+      "id": "31878",
+      "source": "geeknews",
+      "title": "디자인은 타협이다",
+      "url": "https://news.hada.io/topic?id=31878",
+      "commentsUrl": "https://news.hada.io/topic?id=31878",
+      "author": "neo",
+      "publishedAt": "2026-07-27T13:33:16.000Z"
+    },
+    {
+      "id": "31876",
+      "source": "geeknews",
+      "title": "Show GN: 크롬 원격 데스크탑에서 언어 변경이 불편할 때 - LangToggle",
+      "url": "https://news.hada.io/topic?id=31876",
+      "commentsUrl": "https://news.hada.io/topic?id=31876",
+      "author": "simsan00",
+      "publishedAt": "2026-07-27T11:22:56.000Z"
+    },
+    {
+      "id": "31875",
+      "source": "geeknews",
+      "title": "GitHub 보안팀은 도대체 어떤 일을 하는가?",
+      "url": "https://news.hada.io/topic?id=31875",
+      "commentsUrl": "https://news.hada.io/topic?id=31875",
+      "author": "neorchid",
+      "publishedAt": "2026-07-27T09:50:55.000Z"
+    },
+    {
+      "id": "31873",
+      "source": "geeknews",
+      "title": "Show GN: 에이전트를 22개까지 늘렸다가 17개로 줄인 이야기",
+      "url": "https://news.hada.io/topic?id=31873",
+      "commentsUrl": "https://news.hada.io/topic?id=31873",
+      "author": "menjkl",
+      "publishedAt": "2026-07-27T08:47:41.000Z"
+    },
+    {
+      "id": "31869",
+      "source": "geeknews",
+      "title": "Show GN: [직접 공부하면서 만들었습니다.] 사주 판정은 코드로, 풀이는 LLM으로 하는 사주 서비스, 방울당",
+      "url": "https://news.hada.io/topic?id=31869",
+      "commentsUrl": "https://news.hada.io/topic?id=31869",
+      "author": "shqmfpdlzm",
+      "publishedAt": "2026-07-27T08:18:41.000Z"
+    },
+    {
+      "id": "31868",
+      "source": "geeknews",
+      "title": "Show GN: 브라우저에서 동작하는 벡터 애니메이션 엔진 데모 (ThorVG 1.1)",
+      "url": "https://news.hada.io/topic?id=31868",
+      "commentsUrl": "https://news.hada.io/topic?id=31868",
+      "author": "wuming84",
+      "publishedAt": "2026-07-27T07:52:19.000Z"
+    },
+    {
+      "id": "31867",
+      "source": "geeknews",
+      "title": "Show GN: Solar Open 2 Technical Report를 초심자도 이해할 수 있는 인터랙티브 강의로 만들었습니다",
+      "url": "https://news.hada.io/topic?id=31867",
+      "commentsUrl": "https://news.hada.io/topic?id=31867",
+      "author": "rivolt2022",
+      "publishedAt": "2026-07-27T07:31:07.000Z"
+    },
+    {
+      "id": "31865",
+      "source": "geeknews",
+      "title": "Show GN: 브라우저 작업을 사용자 설명서로 자동 변환하는 AI 매뉴얼 생성기",
+      "url": "https://news.hada.io/topic?id=31865",
+      "commentsUrl": "https://news.hada.io/topic?id=31865",
+      "author": "belhyun",
+      "publishedAt": "2026-07-27T07:20:03.000Z"
+    },
+    {
+      "id": "31864",
+      "source": "geeknews",
+      "title": "프랑스 소방관들이 처음 마주한 ‘화재적운’",
+      "url": "https://news.hada.io/topic?id=31864",
+      "commentsUrl": "https://news.hada.io/topic?id=31864",
+      "author": "neo",
+      "publishedAt": "2026-07-27T06:33:38.000Z"
+    },
+    {
+      "id": "31863",
+      "source": "geeknews",
+      "title": "Decker — HyperCard와 클래식 macOS의 유산을 잇는 대화형 문서 플랫폼",
+      "url": "https://news.hada.io/topic?id=31863",
+      "commentsUrl": "https://news.hada.io/topic?id=31863",
+      "author": "neo",
+      "publishedAt": "2026-07-27T05:34:03.000Z"
+    },
+    {
+      "id": "31861",
+      "source": "geeknews",
+      "title": "ESP32로 만든 책상용 항공기 레이더",
+      "url": "https://news.hada.io/topic?id=31861",
+      "commentsUrl": "https://news.hada.io/topic?id=31861",
+      "author": "neo",
+      "publishedAt": "2026-07-27T04:33:10.000Z"
+    },
+    {
+      "id": "31860",
+      "source": "geeknews",
+      "title": "공항 수색 중 GrapheneOS 휴대폰이 초기화돼 기소된 미국 시민",
+      "url": "https://news.hada.io/topic?id=31860",
+      "commentsUrl": "https://news.hada.io/topic?id=31860",
+      "author": "neo",
+      "publishedAt": "2026-07-27T03:33:47.000Z"
+    },
+    {
+      "id": "31859",
+      "source": "geeknews",
+      "title": "Show GN: comux - AI 코딩 에이전트를 위한 tmux",
+      "url": "https://news.hada.io/topic?id=31859",
+      "commentsUrl": "https://news.hada.io/topic?id=31859",
+      "author": "marshallku",
+      "publishedAt": "2026-07-27T03:17:24.000Z"
+    },
     {
       "id": "31857",
       "source": "geeknews",
@@ -154,123 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31836",
       "author": "neo",
       "publishedAt": "2026-07-26T19:01:41.000Z"
-    },
-    {
-      "id": "31835",
-      "source": "geeknews",
-      "title": "낯선 변화를 마주하며: Fly.io의 Sprites 전환",
-      "url": "https://news.hada.io/topic?id=31835",
-      "commentsUrl": "https://news.hada.io/topic?id=31835",
-      "author": "neo",
-      "publishedAt": "2026-07-26T18:43:01.000Z"
-    },
-    {
-      "id": "31834",
-      "source": "geeknews",
-      "title": "Brolly - 날씨 예보를 평문으로 보여주는 사이트",
-      "url": "https://news.hada.io/topic?id=31834",
-      "commentsUrl": "https://news.hada.io/topic?id=31834",
-      "author": "neo",
-      "publishedAt": "2026-07-26T18:40:01.000Z"
-    },
-    {
-      "id": "31833",
-      "source": "geeknews",
-      "title": "DeepSeek, 미중 AI 격차 관련 발언 유출후 투자 유치 중단 (녹취록)",
-      "url": "https://news.hada.io/topic?id=31833",
-      "commentsUrl": "https://news.hada.io/topic?id=31833",
-      "author": "neo",
-      "publishedAt": "2026-07-26T18:37:01.000Z"
-    },
-    {
-      "id": "31832",
-      "source": "geeknews",
-      "title": "8달러짜리 마이크로컨트롤러에서 2,890만 매개변수 LLM 실행하기",
-      "url": "https://news.hada.io/topic?id=31832",
-      "commentsUrl": "https://news.hada.io/topic?id=31832",
-      "author": "neo",
-      "publishedAt": "2026-07-26T15:32:54.000Z"
-    },
-    {
-      "id": "31831",
-      "source": "geeknews",
-      "title": "Bitchat이 Radicle에 공개됨",
-      "url": "https://news.hada.io/topic?id=31831",
-      "commentsUrl": "https://news.hada.io/topic?id=31831",
-      "author": "neo",
-      "publishedAt": "2026-07-26T14:38:51.000Z"
-    },
-    {
-      "id": "31830",
-      "source": "geeknews",
-      "title": "Flock 감시 카메라를 무력화하는 자경단 운동의 확산",
-      "url": "https://news.hada.io/topic?id=31830",
-      "commentsUrl": "https://news.hada.io/topic?id=31830",
-      "author": "neo",
-      "publishedAt": "2026-07-26T14:35:51.000Z"
-    },
-    {
-      "id": "31828",
-      "source": "geeknews",
-      "title": "재능이라는 허상",
-      "url": "https://news.hada.io/topic?id=31828",
-      "commentsUrl": "https://news.hada.io/topic?id=31828",
-      "author": "kwjo0228",
-      "publishedAt": "2026-07-26T12:47:14.000Z"
-    },
-    {
-      "id": "31827",
-      "source": "geeknews",
-      "title": "Show GN: 엄랭으로 틱택토 AI를 만들어 봤습니다.",
-      "url": "https://news.hada.io/topic?id=31827",
-      "commentsUrl": "https://news.hada.io/topic?id=31827",
-      "author": "arcoding",
-      "publishedAt": "2026-07-26T11:39:14.000Z"
-    },
-    {
-      "id": "31826",
-      "source": "geeknews",
-      "title": "Taylor Farms, 사이클로스포라 리콜 발표 연기 위해 백악관에 연락",
-      "url": "https://news.hada.io/topic?id=31826",
-      "commentsUrl": "https://news.hada.io/topic?id=31826",
-      "author": "neo",
-      "publishedAt": "2026-07-26T11:33:06.000Z"
-    },
-    {
-      "id": "31824",
-      "source": "geeknews",
-      "title": "젠슨황의 Open Weights and American AI Leadership에 담긴 의미",
-      "url": "https://news.hada.io/topic?id=31824",
-      "commentsUrl": "https://news.hada.io/topic?id=31824",
-      "author": "hotuna",
-      "publishedAt": "2026-07-26T07:35:10.000Z"
-    },
-    {
-      "id": "31822",
-      "source": "geeknews",
-      "title": "메모리 안전성 절대주의자들",
-      "url": "https://news.hada.io/topic?id=31822",
-      "commentsUrl": "https://news.hada.io/topic?id=31822",
-      "author": "neo",
-      "publishedAt": "2026-07-26T06:02:03.000Z"
-    },
-    {
-      "id": "31821",
-      "source": "geeknews",
-      "title": "면접 후 연락이 끊겼나요?",
-      "url": "https://news.hada.io/topic?id=31821",
-      "commentsUrl": "https://news.hada.io/topic?id=31821",
-      "author": "neo",
-      "publishedAt": "2026-07-26T05:33:06.000Z"
-    },
-    {
-      "id": "31819",
-      "source": "geeknews",
-      "title": "하드 드라이브가 늘 가득 차는 이유",
-      "url": "https://news.hada.io/topic?id=31819",
-      "commentsUrl": "https://news.hada.io/topic?id=31819",
-      "author": "neo",
-      "publishedAt": "2026-07-26T01:01:18.000Z"
     }
   ]
 }
