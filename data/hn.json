@@ -1,96 +1,176 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-28T01:54:34.259Z",
+  "fetchedAt": "2026-07-28T13:47:36.941Z",
   "items": [
     {
-      "id": "49075639",
+      "id": "49083239",
       "source": "hn",
-      "title": "AMD Advancing AI 2026: Talking CDNA5 with AMD's Alan Smith",
-      "url": "https://chipsandcheese.com/p/amd-advancing-ai-2026-talking-cdna5",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49075639",
-      "author": "rbanffy",
-      "publishedAt": "2026-07-27T21:17:44.000Z"
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "score": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49083239",
+      "author": "permute",
+      "publishedAt": "2026-07-28T13:07:14.000Z"
+    },
+    {
+      "id": "49081644",
+      "source": "hn",
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "score": 55,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49081644",
+      "author": "jordigg",
+      "publishedAt": "2026-07-28T09:59:13.000Z"
+    },
+    {
+      "id": "49083132",
+      "source": "hn",
+      "title": "What AI developers could learn from Charles Bukowski?",
+      "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49083132",
+      "author": "sedovsek",
+      "publishedAt": "2026-07-28T13:00:12.000Z"
+    },
+    {
+      "id": "49082550",
+      "source": "hn",
+      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49082550",
+      "author": "882542F3884314B",
+      "publishedAt": "2026-07-28T12:02:57.000Z"
+    },
+    {
+      "id": "49082779",
+      "source": "hn",
+      "title": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
+      "url": "https://segue.ai/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49082779",
+      "author": "csaguiar",
+      "publishedAt": "2026-07-28T12:27:05.000Z"
+    },
+    {
+      "id": "49077443",
+      "source": "hn",
+      "title": "Don't ask an LLM for a confidence score",
+      "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+      "score": 63,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49077443",
+      "author": "pamplemeese",
+      "publishedAt": "2026-07-28T00:06:53.000Z"
+    },
+    {
+      "id": "49080905",
+      "source": "hn",
+      "title": "If AI Writes All the Code, What Do the Programmers Do?",
+      "url": "https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49080905",
+      "author": "ingve",
+      "publishedAt": "2026-07-28T08:17:58.000Z"
+    },
+    {
+      "id": "49081241",
+      "source": "hn",
+      "title": "Show HN: BrowserAct: Browser Layer for Your AI Agent",
+      "url": "https://github.com/browser-act/skills",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49081241",
+      "author": "aanthonymax",
+      "publishedAt": "2026-07-28T09:04:39.000Z"
+    },
+    {
+      "id": "49080775",
+      "source": "hn",
+      "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
+      "url": "https://news.ycombinator.com/item?id=49080775",
+      "score": 35,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49080775",
+      "author": "KellyCriterion",
+      "publishedAt": "2026-07-28T08:00:19.000Z"
+    },
+    {
+      "id": "49082338",
+      "source": "hn",
+      "title": "Unless Its Governance Changes, Anthropic Is Untrustworthy",
+      "url": "https://www.lesswrong.com/posts/5aKRshJzhojqfbRyo/unless-its-governance-changes-anthropic-is-untrustworthy",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49082338",
+      "author": "thepasch",
+      "publishedAt": "2026-07-28T11:36:08.000Z"
+    },
+    {
+      "id": "49076176",
+      "source": "hn",
+      "title": "OpenAI's rogue model attack is just the beginning",
+      "url": "https://blog.peterwildeford.com/p/openais-rogue-model-attack-is-just",
+      "score": 35,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49076176",
+      "author": "radicaldreamer",
+      "publishedAt": "2026-07-27T22:17:08.000Z"
+    },
+    {
+      "id": "49082706",
+      "source": "hn",
+      "title": "AI revenues are growing fast, but not fast enough",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49082706",
+      "author": "vinni2",
+      "publishedAt": "2026-07-28T12:19:54.000Z"
+    },
+    {
+      "id": "49081705",
+      "source": "hn",
+      "title": "AI sell-off intensifies as investors ditch chip stocks",
+      "url": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49081705",
+      "author": "lilerjee",
+      "publishedAt": "2026-07-28T10:08:46.000Z"
+    },
+    {
+      "id": "49080345",
+      "source": "hn",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49080345",
+      "author": "joozio",
+      "publishedAt": "2026-07-28T07:02:33.000Z"
+    },
+    {
+      "id": "49077193",
+      "source": "hn",
+      "title": "Measured LLM inference speeds on Apple Silicon, with raw data (CC BY 4.0)",
+      "url": "https://macyou.co/benchmarks",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49077193",
+      "author": "bagdaerdev",
+      "publishedAt": "2026-07-27T23:45:05.000Z"
     },
     {
       "id": "49068029",
       "source": "hn",
       "title": "Elevated errors on Claude Opus 5",
       "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-      "score": 98,
+      "score": 101,
       "commentsUrl": "https://news.ycombinator.com/item?id=49068029",
       "author": "croemer",
       "publishedAt": "2026-07-27T11:32:32.000Z"
     },
     {
-      "id": "49075115",
+      "id": "49082086",
       "source": "hn",
-      "title": "Claude shared chats and Artifacts may have ended up on Google",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "score": 22,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49075115",
-      "author": "speckx",
-      "publishedAt": "2026-07-27T20:28:07.000Z"
-    },
-    {
-      "id": "49069939",
-      "source": "hn",
-      "title": "AI companies spend record sums on Washington lobbying",
-      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-      "score": 256,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49069939",
-      "author": "1vuio0pswjnm7",
-      "publishedAt": "2026-07-27T14:07:48.000Z"
-    },
-    {
-      "id": "49074680",
-      "source": "hn",
-      "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-      "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-      "score": 89,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49074680",
-      "author": "leephillips",
-      "publishedAt": "2026-07-27T19:46:05.000Z"
-    },
-    {
-      "id": "49056620",
-      "source": "hn",
-      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-      "score": 155,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49056620",
-      "author": "Anon84",
-      "publishedAt": "2026-07-26T10:32:35.000Z"
-    },
-    {
-      "id": "49052570",
-      "source": "hn",
-      "title": "What is happening to jobs? Separating AI hype from reality",
-      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-      "score": 291,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49052570",
-      "author": "pod_krad",
-      "publishedAt": "2026-07-25T22:51:10.000Z"
-    },
-    {
-      "id": "49068738",
-      "source": "hn",
-      "title": "AI companies are shredding rare books",
-      "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
-      "score": 739,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49068738",
-      "author": "anon373839",
-      "publishedAt": "2026-07-27T12:32:12.000Z"
-    },
-    {
-      "id": "49066591",
-      "source": "hn",
-      "title": "Elevated errors on Claude Opus 5",
-      "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-      "score": 50,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49066591",
-      "author": "flyaway123",
-      "publishedAt": "2026-07-27T08:20:06.000Z"
+      "title": "Building the enterprise environment for agentic AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49082086",
+      "author": "joozio",
+      "publishedAt": "2026-07-28T11:01:20.000Z"
     }
   ]
 }
