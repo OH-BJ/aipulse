@@ -1,136 +1,156 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-29T01:57:36.517Z",
+  "fetchedAt": "2026-07-29T13:52:56.270Z",
   "items": [
+    {
+      "id": "49096953",
+      "source": "hn",
+      "title": "After the AI Crash",
+      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+      "score": 34,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49096953",
+      "author": "sysoleg",
+      "publishedAt": "2026-07-29T13:00:39.000Z"
+    },
+    {
+      "id": "49096188",
+      "source": "hn",
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "score": 132,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49096188",
+      "author": "Canopy9560",
+      "publishedAt": "2026-07-29T11:44:33.000Z"
+    },
+    {
+      "id": "49096767",
+      "source": "hn",
+      "title": "Show HN: Echologue – the private AI voice journal I built for myself",
+      "url": "https://echologue.com/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49096767",
+      "author": "arisAlexis",
+      "publishedAt": "2026-07-29T12:43:36.000Z"
+    },
+    {
+      "id": "49095143",
+      "source": "hn",
+      "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+      "url": "https://vimgolf.ai",
+      "score": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49095143",
+      "author": "nickandbro",
+      "publishedAt": "2026-07-29T09:26:52.000Z"
+    },
+    {
+      "id": "49092499",
+      "source": "hn",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
+      "score": 231,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49092499",
+      "author": "ajhai",
+      "publishedAt": "2026-07-29T01:49:19.000Z"
+    },
     {
       "id": "49087091",
       "source": "hn",
       "title": "Discovering Cryptographic Weaknesses with Claude",
       "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "score": 181,
+      "score": 222,
       "commentsUrl": "https://news.ycombinator.com/item?id=49087091",
       "author": "gslin",
       "publishedAt": "2026-07-28T17:22:16.000Z"
     },
     {
-      "id": "49069033",
+      "id": "49094932",
       "source": "hn",
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "title": "CodeCrucible: A blueprint for LLM-driven SAST",
+      "url": "https://engineering.block.xyz/blog/codecrucible-a-blueprint-for-llm-driven-sast",
       "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49069033",
-      "author": "abelaer",
-      "publishedAt": "2026-07-27T12:56:36.000Z"
-    },
-    {
-      "id": "49091183",
-      "source": "hn",
-      "title": "AE Studio recruiting pirates to recover treasure located by AI",
-      "url": "https://ae.studio/jobs/pirate",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49091183",
-      "author": "adtse",
-      "publishedAt": "2026-07-28T23:03:12.000Z"
-    },
-    {
-      "id": "49088595",
-      "source": "hn",
-      "title": "What if useful AI is a fantasy?",
-      "url": "https://lzon.ca/posts/other/llm-fantasy/",
-      "score": 26,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49088595",
-      "author": "jpmitchell",
-      "publishedAt": "2026-07-28T19:17:37.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=49094932",
+      "author": "handfuloflight",
+      "publishedAt": "2026-07-29T08:53:51.000Z"
     },
     {
       "id": "49081644",
       "source": "hn",
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
       "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "score": 143,
+      "score": 152,
       "commentsUrl": "https://news.ycombinator.com/item?id=49081644",
       "author": "jordigg",
       "publishedAt": "2026-07-28T09:59:13.000Z"
     },
     {
-      "id": "49091206",
+      "id": "49092730",
       "source": "hn",
-      "title": "Oxide Joins Anthropic's Project Glasswing",
-      "url": "https://oxide.computer/blog/oxide-anthropic-project-glasswing",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49091206",
-      "author": "lwhsiao",
-      "publishedAt": "2026-07-28T23:05:28.000Z"
+      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+      "url": "https://github.com/jagg-ix/zil-lean",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49092730",
+      "author": "kbradero",
+      "publishedAt": "2026-07-29T02:22:04.000Z"
+    },
+    {
+      "id": "49092549",
+      "source": "hn",
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+      "score": 62,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49092549",
+      "author": "yogthos",
+      "publishedAt": "2026-07-29T01:56:00.000Z"
+    },
+    {
+      "id": "49069033",
+      "source": "hn",
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "score": 106,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49069033",
+      "author": "abelaer",
+      "publishedAt": "2026-07-27T12:56:36.000Z"
+    },
+    {
+      "id": "49096301",
+      "source": "hn",
+      "title": "AI-found bugs aren't proving any easier to exploit despite the hype",
+      "url": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49096301",
+      "author": "Tomte",
+      "publishedAt": "2026-07-29T11:57:18.000Z"
+    },
+    {
+      "id": "49096584",
+      "source": "hn",
+      "title": "When physicians and AI work together, who is accountable?",
+      "url": "https://www.nature.com/articles/d41586-026-02315-9",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49096584",
+      "author": "sohkamyung",
+      "publishedAt": "2026-07-29T12:27:09.000Z"
+    },
+    {
+      "id": "49095834",
+      "source": "hn",
+      "title": "The AI Hype Index: Unsexy AI",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49095834",
+      "author": "joozio",
+      "publishedAt": "2026-07-29T11:01:14.000Z"
     },
     {
       "id": "49083239",
       "source": "hn",
       "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
       "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "score": 106,
+      "score": 110,
       "commentsUrl": "https://news.ycombinator.com/item?id=49083239",
       "author": "permute",
       "publishedAt": "2026-07-28T13:07:14.000Z"
-    },
-    {
-      "id": "49089626",
-      "source": "hn",
-      "title": "OpenReviewer: A Specialized LLM for Generating Critical Scientific Paper Reviews",
-      "url": "https://aclanthology.org/2025.naacl-demo.44/",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49089626",
-      "author": "Anon84",
-      "publishedAt": "2026-07-28T20:39:05.000Z"
-    },
-    {
-      "id": "49090597",
-      "source": "hn",
-      "title": "I Asked Gemini to Read 300-Year-Old Portuguese Parish Records",
-      "url": "https://mariofilho.com/gemini-portuguese-parish-records/",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49090597",
-      "author": "mariofilho",
-      "publishedAt": "2026-07-28T22:08:46.000Z"
-    },
-    {
-      "id": "49082550",
-      "source": "hn",
-      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-      "score": 53,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49082550",
-      "author": "882542F3884314B",
-      "publishedAt": "2026-07-28T12:02:57.000Z"
-    },
-    {
-      "id": "49091512",
-      "source": "hn",
-      "title": "Apple becomes second $5T company as investors flee AI stocks",
-      "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49091512",
-      "author": "devonnull",
-      "publishedAt": "2026-07-28T23:41:59.000Z"
-    },
-    {
-      "id": "49083132",
-      "source": "hn",
-      "title": "What AI developers could learn from Charles Bukowski?",
-      "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-      "score": 66,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49083132",
-      "author": "sedovsek",
-      "publishedAt": "2026-07-28T13:00:12.000Z"
-    },
-    {
-      "id": "49091635",
-      "source": "hn",
-      "title": "The Actual Reason Why Google \"Fell Out\" of the AI Race Changes Everything",
-      "url": "https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49091635",
-      "author": "ai2027",
-      "publishedAt": "2026-07-28T23:58:43.000Z"
     }
   ]
 }
