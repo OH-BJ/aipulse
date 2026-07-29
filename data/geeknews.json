@@ -1,7 +1,178 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-28T13:47:37.198Z",
+  "fetchedAt": "2026-07-29T01:57:36.878Z",
   "items": [
+    {
+      "id": "31934",
+      "source": "geeknews",
+      "title": "업그레이드된 Go-To-Market 플레이북",
+      "url": "https://news.hada.io/topic?id=31934",
+      "commentsUrl": "https://news.hada.io/topic?id=31934",
+      "author": "neo",
+      "publishedAt": "2026-07-29T01:03:02.000Z"
+    },
+    {
+      "id": "31933",
+      "source": "geeknews",
+      "title": "오픈 소스 c++라이브러리 목록",
+      "url": "https://news.hada.io/topic?id=31933",
+      "commentsUrl": "https://news.hada.io/topic?id=31933",
+      "author": "baeba",
+      "publishedAt": "2026-07-29T00:42:52.000Z"
+    },
+    {
+      "id": "31932",
+      "source": "geeknews",
+      "title": "기업은 왜 자신도 모르게 제품-시장 적합성을 잃게 될까",
+      "url": "https://news.hada.io/topic?id=31932",
+      "commentsUrl": "https://news.hada.io/topic?id=31932",
+      "author": "neo",
+      "publishedAt": "2026-07-29T00:41:01.000Z"
+    },
+    {
+      "id": "31931",
+      "source": "geeknews",
+      "title": "프론티어 AI가 반도체 산업을 닮아가는 이유",
+      "url": "https://news.hada.io/topic?id=31931",
+      "commentsUrl": "https://news.hada.io/topic?id=31931",
+      "author": "neo",
+      "publishedAt": "2026-07-29T00:34:02.000Z"
+    },
+    {
+      "id": "31930",
+      "source": "geeknews",
+      "title": "Openship - 내장 CI/CD를 갖춘 셀프 호스팅 배포 플랫폼",
+      "url": "https://news.hada.io/topic?id=31930",
+      "commentsUrl": "https://news.hada.io/topic?id=31930",
+      "author": "xguru",
+      "publishedAt": "2026-07-29T00:31:02.000Z"
+    },
+    {
+      "id": "31929",
+      "source": "geeknews",
+      "title": "Firefox Nightly에서 차세대 디자인 시험하기",
+      "url": "https://news.hada.io/topic?id=31929",
+      "commentsUrl": "https://news.hada.io/topic?id=31929",
+      "author": "neo",
+      "publishedAt": "2026-07-29T00:23:35.000Z"
+    },
+    {
+      "id": "31928",
+      "source": "geeknews",
+      "title": "Tcl/Tk로 크로스 플랫폼 CLI·GUI 도구 개발하기",
+      "url": "https://news.hada.io/topic?id=31928",
+      "commentsUrl": "https://news.hada.io/topic?id=31928",
+      "author": "neo",
+      "publishedAt": "2026-07-29T00:20:35.000Z"
+    },
+    {
+      "id": "31927",
+      "source": "geeknews",
+      "title": "Framework 13 Pro 리뷰: 배터리는 훨씬 좋아졌지만 가격은 훨씬 비싸짐",
+      "url": "https://news.hada.io/topic?id=31927",
+      "commentsUrl": "https://news.hada.io/topic?id=31927",
+      "author": "neo",
+      "publishedAt": "2026-07-29T00:17:35.000Z"
+    },
+    {
+      "id": "31926",
+      "source": "geeknews",
+      "title": "Hey 구독을 취소한 이유",
+      "url": "https://news.hada.io/topic?id=31926",
+      "commentsUrl": "https://news.hada.io/topic?id=31926",
+      "author": "neo",
+      "publishedAt": "2026-07-28T23:39:40.000Z"
+    },
+    {
+      "id": "31925",
+      "source": "geeknews",
+      "title": "DeltaNet 계열 선형 어텐션 변형 살펴보기",
+      "url": "https://news.hada.io/topic?id=31925",
+      "commentsUrl": "https://news.hada.io/topic?id=31925",
+      "author": "neo",
+      "publishedAt": "2026-07-28T23:36:40.000Z"
+    },
+    {
+      "id": "31924",
+      "source": "geeknews",
+      "title": "Show GN: DevClip – 클립보드 매니저를 24일간 클로드코드로 만들어 출시하기까지",
+      "url": "https://news.hada.io/topic?id=31924",
+      "commentsUrl": "https://news.hada.io/topic?id=31924",
+      "author": "jaren82",
+      "publishedAt": "2026-07-28T23:06:33.000Z"
+    },
+    {
+      "id": "31923",
+      "source": "geeknews",
+      "title": "500달러로 미세조정한 9B 오픈 모델, 카탈로그 검수에서 프런티어 모델 능가",
+      "url": "https://news.hada.io/topic?id=31923",
+      "commentsUrl": "https://news.hada.io/topic?id=31923",
+      "author": "xguru",
+      "publishedAt": "2026-07-28T22:45:11.000Z"
+    },
+    {
+      "id": "31922",
+      "source": "geeknews",
+      "title": "Kimi K3 아키텍처 개요와 설계 노트",
+      "url": "https://news.hada.io/topic?id=31922",
+      "commentsUrl": "https://news.hada.io/topic?id=31922",
+      "author": "xguru",
+      "publishedAt": "2026-07-28T22:40:13.000Z"
+    },
+    {
+      "id": "31921",
+      "source": "geeknews",
+      "title": "OpenAI가 Codex Security를 오픈소스로 공개함",
+      "url": "https://news.hada.io/topic?id=31921",
+      "commentsUrl": "https://news.hada.io/topic?id=31921",
+      "author": "xguru",
+      "publishedAt": "2026-07-28T22:38:33.000Z"
+    },
+    {
+      "id": "31920",
+      "source": "geeknews",
+      "title": "Substack 작가도 독립 웹사이트가 필요함",
+      "url": "https://news.hada.io/topic?id=31920",
+      "commentsUrl": "https://news.hada.io/topic?id=31920",
+      "author": "neo",
+      "publishedAt": "2026-07-28T22:32:34.000Z"
+    },
+    {
+      "id": "31919",
+      "source": "geeknews",
+      "title": "Paged Out! 제9호",
+      "url": "https://news.hada.io/topic?id=31919",
+      "commentsUrl": "https://news.hada.io/topic?id=31919",
+      "author": "neo",
+      "publishedAt": "2026-07-28T22:00:32.000Z"
+    },
+    {
+      "id": "31918",
+      "source": "geeknews",
+      "title": "인터넷을 죽이지 말라: 디지털 ID와 연령 확인 반대",
+      "url": "https://news.hada.io/topic?id=31918",
+      "commentsUrl": "https://news.hada.io/topic?id=31918",
+      "author": "neo",
+      "publishedAt": "2026-07-28T20:31:22.000Z"
+    },
+    {
+      "id": "31917",
+      "source": "geeknews",
+      "title": "오픈 모델이 예상 밖의 해방감을 준 이유",
+      "url": "https://news.hada.io/topic?id=31917",
+      "commentsUrl": "https://news.hada.io/topic?id=31917",
+      "author": "neo",
+      "publishedAt": "2026-07-28T19:31:44.000Z"
+    },
+    {
+      "id": "31916",
+      "source": "geeknews",
+      "title": "새 HIV 백신, 전임상 연구에서 전례 없는 성과",
+      "url": "https://news.hada.io/topic?id=31916",
+      "commentsUrl": "https://news.hada.io/topic?id=31916",
+      "author": "neo",
+      "publishedAt": "2026-07-28T17:32:36.000Z"
+    },
     {
       "id": "31913",
       "source": "geeknews",
@@ -28,6 +199,15 @@
       "commentsUrl": "https://news.hada.io/topic?id=31911",
       "author": "neo",
       "publishedAt": "2026-07-28T11:32:13.000Z"
+    },
+    {
+      "id": "31910",
+      "source": "geeknews",
+      "title": "Show GN: faster-enhancer.c – 안정적인 온디바이스 실시간 음성 잡음제거 C 라이브러리",
+      "url": "https://news.hada.io/topic?id=31910",
+      "commentsUrl": "https://news.hada.io/topic?id=31910",
+      "author": "kdrkdrkdr",
+      "publishedAt": "2026-07-28T09:47:42.000Z"
     },
     {
       "id": "31909",
@@ -91,186 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31900",
       "author": "neo",
       "publishedAt": "2026-07-28T01:10:03.000Z"
-    },
-    {
-      "id": "31899",
-      "source": "geeknews",
-      "title": "개발자를 위한 데이터 도구 지형 가이드",
-      "url": "https://news.hada.io/topic?id=31899",
-      "commentsUrl": "https://news.hada.io/topic?id=31899",
-      "author": "neo",
-      "publishedAt": "2026-07-28T01:08:01.000Z"
-    },
-    {
-      "id": "31898",
-      "source": "geeknews",
-      "title": "Kimi-K3 기술 보고서 [PDF]",
-      "url": "https://news.hada.io/topic?id=31898",
-      "commentsUrl": "https://news.hada.io/topic?id=31898",
-      "author": "neo",
-      "publishedAt": "2026-07-28T01:07:03.000Z"
-    },
-    {
-      "id": "31897",
-      "source": "geeknews",
-      "title": "Bun의 Rust 재작성은 어떻게 진행되고 있나?",
-      "url": "https://news.hada.io/topic?id=31897",
-      "commentsUrl": "https://news.hada.io/topic?id=31897",
-      "author": "neo",
-      "publishedAt": "2026-07-28T01:04:03.000Z"
-    },
-    {
-      "id": "31896",
-      "source": "geeknews",
-      "title": "AI 기업들이 희귀 서적을 파쇄하고 있다",
-      "url": "https://news.hada.io/topic?id=31896",
-      "commentsUrl": "https://news.hada.io/topic?id=31896",
-      "author": "neo",
-      "publishedAt": "2026-07-28T01:01:03.000Z"
-    },
-    {
-      "id": "31895",
-      "source": "geeknews",
-      "title": "PGSimCity - PostgreSQL의 작동 방식을 탐험 가능한 3D 도시로 시각화",
-      "url": "https://news.hada.io/topic?id=31895",
-      "commentsUrl": "https://news.hada.io/topic?id=31895",
-      "author": "neo",
-      "publishedAt": "2026-07-28T00:58:03.000Z"
-    },
-    {
-      "id": "31894",
-      "source": "geeknews",
-      "title": "세계에서 가장 작은 나라가 AI 논쟁에 어떤 영향을 미치고 있는가",
-      "url": "https://news.hada.io/topic?id=31894",
-      "commentsUrl": "https://news.hada.io/topic?id=31894",
-      "author": "neo",
-      "publishedAt": "2026-07-28T00:56:01.000Z"
-    },
-    {
-      "id": "31893",
-      "source": "geeknews",
-      "title": "Hugging Face에 공개된 Kimi-K3",
-      "url": "https://news.hada.io/topic?id=31893",
-      "commentsUrl": "https://news.hada.io/topic?id=31893",
-      "author": "neo",
-      "publishedAt": "2026-07-28T00:55:02.000Z"
-    },
-    {
-      "id": "31892",
-      "source": "geeknews",
-      "title": "데이터 그리드 구축의 10단계",
-      "url": "https://news.hada.io/topic?id=31892",
-      "commentsUrl": "https://news.hada.io/topic?id=31892",
-      "author": "neo",
-      "publishedAt": "2026-07-28T00:41:02.000Z"
-    },
-    {
-      "id": "31891",
-      "source": "geeknews",
-      "title": "Topcoat - Rust를 위한 풀스택 웹 프레임워크",
-      "url": "https://news.hada.io/topic?id=31891",
-      "commentsUrl": "https://news.hada.io/topic?id=31891",
-      "author": "xguru",
-      "publishedAt": "2026-07-28T00:31:02.000Z"
-    },
-    {
-      "id": "31890",
-      "source": "geeknews",
-      "title": "AI로 11일 만에 끝낸 Bun의 Zig→Rust 재작성에서 배울 점",
-      "url": "https://news.hada.io/topic?id=31890",
-      "commentsUrl": "https://news.hada.io/topic?id=31890",
-      "author": "neo",
-      "publishedAt": "2026-07-28T00:27:01.000Z"
-    },
-    {
-      "id": "31888",
-      "source": "geeknews",
-      "title": "생산성이라는 신기루",
-      "url": "https://news.hada.io/topic?id=31888",
-      "commentsUrl": "https://news.hada.io/topic?id=31888",
-      "author": "neo",
-      "publishedAt": "2026-07-28T00:09:38.000Z"
-    },
-    {
-      "id": "31887",
-      "source": "geeknews",
-      "title": "대부분의 Googlebot은 가짜다",
-      "url": "https://news.hada.io/topic?id=31887",
-      "commentsUrl": "https://news.hada.io/topic?id=31887",
-      "author": "neo",
-      "publishedAt": "2026-07-28T00:06:38.000Z"
-    },
-    {
-      "id": "31886",
-      "source": "geeknews",
-      "title": "AI에 관하여",
-      "url": "https://news.hada.io/topic?id=31886",
-      "commentsUrl": "https://news.hada.io/topic?id=31886",
-      "author": "neo",
-      "publishedAt": "2026-07-28T00:03:38.000Z"
-    },
-    {
-      "id": "31885",
-      "source": "geeknews",
-      "title": "JetZero",
-      "url": "https://news.hada.io/topic?id=31885",
-      "commentsUrl": "https://news.hada.io/topic?id=31885",
-      "author": "neo",
-      "publishedAt": "2026-07-27T22:34:08.000Z"
-    },
-    {
-      "id": "31884",
-      "source": "geeknews",
-      "title": "Vercel의 Scriptc - 바이너리에 JavaScript 엔진을 포함하지 않는 TypeScript 네이티브 컴파일러",
-      "url": "https://news.hada.io/topic?id=31884",
-      "commentsUrl": "https://news.hada.io/topic?id=31884",
-      "author": "neo",
-      "publishedAt": "2026-07-27T21:33:27.000Z"
-    },
-    {
-      "id": "31883",
-      "source": "geeknews",
-      "title": "아이들에게 Forth를 가르쳐 본 경험",
-      "url": "https://news.hada.io/topic?id=31883",
-      "commentsUrl": "https://news.hada.io/topic?id=31883",
-      "author": "neo",
-      "publishedAt": "2026-07-27T17:02:01.000Z"
-    },
-    {
-      "id": "31882",
-      "source": "geeknews",
-      "title": "관측 사상 가장 강력한 엘니뇨",
-      "url": "https://news.hada.io/topic?id=31882",
-      "commentsUrl": "https://news.hada.io/topic?id=31882",
-      "author": "neo",
-      "publishedAt": "2026-07-27T16:34:51.000Z"
-    },
-    {
-      "id": "31880",
-      "source": "geeknews",
-      "title": "Kimi K3 weight 공개",
-      "url": "https://news.hada.io/topic?id=31880",
-      "commentsUrl": "https://news.hada.io/topic?id=31880",
-      "author": "unsure4000",
-      "publishedAt": "2026-07-27T15:14:05.000Z"
-    },
-    {
-      "id": "31878",
-      "source": "geeknews",
-      "title": "디자인은 타협이다",
-      "url": "https://news.hada.io/topic?id=31878",
-      "commentsUrl": "https://news.hada.io/topic?id=31878",
-      "author": "neo",
-      "publishedAt": "2026-07-27T13:33:16.000Z"
-    },
-    {
-      "id": "31876",
-      "source": "geeknews",
-      "title": "Show GN: 크롬 원격 데스크탑에서 언어 변경이 불편할 때 - LangToggle",
-      "url": "https://news.hada.io/topic?id=31876",
-      "commentsUrl": "https://news.hada.io/topic?id=31876",
-      "author": "simsan00",
-      "publishedAt": "2026-07-27T11:22:56.000Z"
     }
   ]
 }

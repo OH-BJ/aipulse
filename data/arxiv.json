@@ -1,16 +1,7 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-07-28T13:47:36.931Z",
+  "fetchedAt": "2026-07-29T01:57:36.355Z",
   "items": [
-    {
-      "id": "2607.20771",
-      "source": "arxiv",
-      "title": "Emergent Compositional Skills in Mixture-of-Experts VLAs",
-      "url": "https://arxiv.org/abs/2607.20771",
-      "author": "Shlok Shah, Rhiaan Jhaveri, Tharun Kumar Tiruppali Kalidoss +3",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "We consider the problem of learning compositional robot policies end-to-end from expert demonstrations, without any pre-specified notion of task decomposition or hierarchy. We ask whether a VLA traine…"
-    },
     {
       "id": "2607.20171",
       "source": "arxiv",
@@ -21,15 +12,6 @@
       "summary": "Learned solvers for compressible flow are usually compared to classical methods at equal mesh resolution rather than at equal computational cost, and they typically offer no guarantee that their solut…"
     },
     {
-      "id": "2607.19691",
-      "source": "arxiv",
-      "title": "SLPO: Scaling Latent Reasoning via a Surrogate Policy",
-      "url": "https://arxiv.org/abs/2607.19691",
-      "author": "Runyang You, Zhiyuan Liu, Yongqi Li +1",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally c…"
-    },
-    {
       "id": "2607.17327",
       "source": "arxiv",
       "title": "Interpreting Quantum Learning Models via Stochastic Processes",
@@ -37,15 +19,6 @@
       "author": "Johannes Fankhauser, Lukas J. Fiderer, Hans J. Briegel",
       "publishedAt": "2026-07-28T04:00:00.000Z",
       "summary": "Quantum machine learning models define probabilistic input--output maps through coherent quantum evolution and measurement. While such models can exhibit computational advantages, their internal funct…"
-    },
-    {
-      "id": "2607.13408",
-      "source": "arxiv",
-      "title": "Improving Text-to-Audio Instruction Following via Fine-Grained Feedback from Audio-Aware Large Language Models",
-      "url": "https://arxiv.org/abs/2607.13408",
-      "author": "Chun-Yi Kuan, Siwon Kim, Byeonggeun Kim +7",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "Recent text-to-audio models generate high-quality audio, but often fail to follow instructions involving multiple sound events and temporal order. This gap arises because existing evaluation and train…"
     },
     {
       "id": "2607.06883",
@@ -102,51 +75,6 @@
       "summary": "The Traveling Salesperson Problem (TSP) has long served as a benchmark for evaluating the strength of optimization techniques in the classical theory of algorithms. In recent efforts to apply ML to al…"
     },
     {
-      "id": "2607.00341",
-      "source": "arxiv",
-      "title": "DiscoLoop: Looping Discrete Embeddings and Continuous Hidden States for Multi-hop Reasoning",
-      "url": "https://arxiv.org/abs/2607.00341",
-      "author": "Hengyu Fu, Tianyu Guo, Zixuan Wang +5",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "Large language models achieve strong performance on many reasoning tasks when allowed to externalize intermediate steps as Chain-of-Thought (CoT). However, many questions require the model to internal…"
-    },
-    {
-      "id": "2606.30219",
-      "source": "arxiv",
-      "title": "EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures",
-      "url": "https://arxiv.org/abs/2606.30219",
-      "author": "Bu\\u{g}ra Alperen Ulu{\\i}rmak, Rifat Kurban",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "This paper presents a systematic survey and conceptual synthesis of the shared measurement problem underlying large language model (LLM) evaluation and AI safety: benchmark scores, reward signals, and…"
-    },
-    {
-      "id": "2606.24937",
-      "source": "arxiv",
-      "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
-      "url": "https://arxiv.org/abs/2606.24937",
-      "author": "Haggai Roitman",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "The Hitchhiker's Guide to Agentic AI is a comprehensive practitioner's reference for building autonomous AI systems. The book covers the full stack from first principles to production deployment, orga…"
-    },
-    {
-      "id": "2606.12260",
-      "source": "arxiv",
-      "title": "Market Design for AI: Beyond the Copyright Binary",
-      "url": "https://arxiv.org/abs/2606.12260",
-      "author": "Yan Dai, Maryam Farboodi, Negin Golrezaei +1",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "How can we design a market of human-generated content for use in training AI models that both enables technological progress and preserves individual incentives for high-quality content creation? Exis…"
-    },
-    {
-      "id": "2606.08728",
-      "source": "arxiv",
-      "title": "Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery",
-      "url": "https://arxiv.org/abs/2606.08728",
-      "author": "Syed Rifat Raiyan, Mohsinul Kabir, Hasan Mahmud +2",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "Mathematical reasoning has long served as a stringent test of machine intelligence; over the past decade, it has moved from a niche problem within NLP to one of the most consequential AI frontiers. Th…"
-    },
-    {
       "id": "2606.02101",
       "source": "arxiv",
       "title": "It does what it says on the tin: safe synthetic data from coarsened margins",
@@ -154,24 +82,6 @@
       "author": "Gillian M Raab",
       "publishedAt": "2026-07-28T04:00:00.000Z",
       "summary": "This paper proposes a method of creating synthetic data (SD) that will have two important advantages for the user compared to other methods currently available. The first is transparency; unlike other…"
-    },
-    {
-      "id": "2606.00754",
-      "source": "arxiv",
-      "title": "Causal Density Functions",
-      "url": "https://arxiv.org/abs/2606.00754",
-      "author": "Sridhar Mahadevan",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "We study the full density ratio between a specified intervention regime $P_a$ and an observational regime $P_0$, $\\rho_a=dP_a/dP_0$, under the prerequisite $P_a\\ll P_0$. We call the regime-indexed rat…"
-    },
-    {
-      "id": "2605.26908",
-      "source": "arxiv",
-      "title": "On the Detection of Commutative Factors in Factor Graphs: Necessary and Sufficient Conditions",
-      "url": "https://arxiv.org/abs/2605.26908",
-      "author": "Malte Luttermann, Ralf M\\\"oller, Marcel Gehrke",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "Exploiting the indistinguishability of objects in a probabilistic graphical model such as a factor graph is key to lifted probabilistic inference algorithms and allows for tractable probabilistic infe…"
     },
     {
       "id": "2605.21916",
@@ -192,15 +102,6 @@
       "summary": "Augmented analytics has transformed how Business Intelligence (BI) systems support decision-making, shifting non-technical managers from manual analysis toward dependence on automated insights. Curren…"
     },
     {
-      "id": "2605.14108",
-      "source": "arxiv",
-      "title": "A Cascaded Edge-Cloud Architecture for Automated Diabetic Retinopathy Screening",
-      "url": "https://arxiv.org/abs/2605.14108",
-      "author": "Nishi Doshi, Shrey Shah",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "Diabetic Retinopathy (DR) is one of the leading causes of preventable blindness, and automated screening can help extend specialist capacity in resource-constrained clinical workflows. Cloud-based dee…"
-    },
-    {
       "id": "2605.09239",
       "source": "arxiv",
       "title": "Repeated-Token Counting Reveals a Dissociation Between Representations and Outputs",
@@ -208,15 +109,6 @@
       "author": "Sohan Venkatesh",
       "publishedAt": "2026-07-28T04:00:00.000Z",
       "summary": "Large language models fail at counting how many times a word repeats in a list, even though they perform well on far harder reasoning tasks. These failures are commonly attributed to limitations in in…"
-    },
-    {
-      "id": "2605.02050",
-      "source": "arxiv",
-      "title": "Principles and Guidelines for Randomized Controlled Trials in AI Evaluation",
-      "url": "https://arxiv.org/abs/2605.02050",
-      "author": "Christopher Kelly, Angelica Chowdhury, Alexandra Campili +5",
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "This work establishes a framework for standardizing AI evaluation RCTs (sometimes called human uplift studies). Drawing on established practices from disciplines with established RCT traditions, inclu…"
     },
     {
       "id": "2604.25897",
@@ -255,22 +147,130 @@
       "summary": "Mechanistic understanding and rational design of complex chemical systems depend on fast and accurate predictions of electronic structures beyond individual building blocks. However, if the system exc…"
     },
     {
-      "id": "2603.28963",
+      "id": "2603.25629",
       "source": "arxiv",
-      "title": "AutoWorld: Learning Multi-Agent Traffic Simulation with Self-Supervised World Models",
-      "url": "https://arxiv.org/abs/2603.28963",
-      "author": "Mozhgan Pourkeshavarz, Tianran Liu, Nicholas Rhinehart",
+      "title": "LanteRn: Latent Visual Structured Reasoning",
+      "url": "https://arxiv.org/abs/2603.25629",
+      "author": "Andr\\'e G. Viveiros, Nuno Gon\\c{c}alves, Matthias Lindemann +1",
       "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "Simulation with realistic traffic agents is essential for validating autonomous driving systems. Existing data-driven simulators learn agent behavior from higher-level abstractions such as 3D bounding…"
+      "summary": "While language reasoning models excel in many tasks, visual reasoning remains challenging for current large multimodal models (LMMs). As a result, most LMMs default to verbalizing perceptual content i…"
     },
     {
-      "id": "2603.27476",
+      "id": "2603.15553",
       "source": "arxiv",
-      "title": "PeopleSearchBench: A Multi-Dimensional Benchmark for Evaluating AI-Powered People Search Platforms",
-      "url": "https://arxiv.org/abs/2603.27476",
-      "author": "Wei Wang, Tianyu Shi, Shuai Zhang +9",
+      "title": "Self-Distillation of Hidden Layers for Self-Supervised Representation Learning",
+      "url": "https://arxiv.org/abs/2603.15553",
+      "author": "Scott C. Lowe, Anthony Fuller, Sageev Oore +2",
       "publishedAt": "2026-07-28T04:00:00.000Z",
-      "summary": "AI-powered people search platforms are increasingly used in recruiting, sales prospecting, and professional networking, yet no widely accepted benchmark exists for evaluating their performance. We int…"
+      "summary": "The landscape of self-supervised learning (SSL) is currently dominated by generative approaches (e.g. MAE) that reconstruct raw low-level data, and predictive approaches (e.g. I-JEPA) that predict hig…"
+    },
+    {
+      "id": "2602.14947",
+      "source": "arxiv",
+      "title": "Gradient Networks for Universal Magnetic Modeling of Synchronous Machines",
+      "url": "https://arxiv.org/abs/2602.14947",
+      "author": "Junyi Li, Tim Foissner, Floran Martin +2",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "This paper presents a physics-constrained neural network framework for dynamic modeling of saturable synchronous machines, including spatial harmonics. The proposed architecture embeds gradient networ…"
+    },
+    {
+      "id": "2602.05387",
+      "source": "arxiv",
+      "title": "Parallel Swin Transformer-Enhanced 3D MRI-to-CT Synthesis for MRI-Only Radiotherapy Planning",
+      "url": "https://arxiv.org/abs/2602.05387",
+      "author": "Zolnamar Dorjsembe, Hung-Yi Chen, Furen Xiao +1",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "MRI provides superior soft tissue contrast without ionizing radiation; however, the absence of electron density information limits its direct use for dose calculation. As a result, current radiotherap…"
+    },
+    {
+      "id": "2602.04266",
+      "source": "arxiv",
+      "title": "Aortic Valve Disease Screening from PPG via Physiology-Guided Self-Supervised Learning",
+      "url": "https://arxiv.org/abs/2602.04266",
+      "author": "Jiaze Wang, Qinghao Zhao, Zizheng Chen +4",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "Aortic valve disease (AVD) represents a major public health burden, while its diagnosis relies on echocardiography, which is limited by cost and specialist expertise, restricting scalable screening an…"
+    },
+    {
+      "id": "2602.01348",
+      "source": "arxiv",
+      "title": "Does Faithfulness-Guided Alignment Hurt Accuracy? Unlocking Accurate and Faithful Post-Retrieval Reasoning",
+      "url": "https://arxiv.org/abs/2602.01348",
+      "author": "Yu Liu, Wenxiao Zhang, Diandian Guo +6",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "Retrieval-augmented generation (RAG) can achieve strong answer accuracy on multi-hop questions, but outcome-level rewards often leave reasoning traces weakly grounded and difficult to audit. Under noi…"
+    },
+    {
+      "id": "2602.00115",
+      "source": "arxiv",
+      "title": "Event Driven Clustering Algorithm",
+      "url": "https://arxiv.org/abs/2602.00115",
+      "author": "David El-Chai Ben-Ezra, Adar Tal, Daniel Brisk",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "This paper introduces a novel asynchronous, event-driven algorithm for real-time detection of small event clusters in event camera data. Similar to hierarchical agglomerative clustering methods, the p…"
+    },
+    {
+      "id": "2601.16041",
+      "source": "arxiv",
+      "title": "Risk reversal for least squares estimators under nested convex constraints",
+      "url": "https://arxiv.org/abs/2601.16041",
+      "author": "Omar Al-Ghattas",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "In constrained stochastic optimization, one expects that restricting the feasible set, provided it still contains the true parameter, should not increase the statistical risk of the corresponding proj…"
+    },
+    {
+      "id": "2601.08001",
+      "source": "arxiv",
+      "title": "Operator learning for models of tear film breakup",
+      "url": "https://arxiv.org/abs/2601.08001",
+      "author": "Qinying Chen, Arnab Roy, Tobin A. Driscoll",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "Tear film (TF) breakup is a key driver of understanding dry eye disease, yet estimating TF thickness and osmolarity from fluorescence (FL) imaging typically requires solving computationally expensive…"
+    },
+    {
+      "id": "2512.22262",
+      "source": "arxiv",
+      "title": "INSIGHT: Spatially resolved survival modelling from routine histology crosslinked with molecular profiling reveals prognostic epithelial-immune axes in stage II/III colorectal cancer",
+      "url": "https://arxiv.org/abs/2512.22262",
+      "author": "Piotr Keller, Mark Eastwood, Zedong Hu +15",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "Routine histology contains rich prognostic information in stage II/III colorectal cancer, much of which is embedded in complex spatial tissue organisation. We present INSIGHT, a graph neural network t…"
+    },
+    {
+      "id": "2512.12713",
+      "source": "arxiv",
+      "title": "Self-Motivated Growing Neural Network for Adaptive Architecture via Local Structural Plasticity",
+      "url": "https://arxiv.org/abs/2512.12713",
+      "author": "Yiyang Jia, Chengxu Zhou",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "Control policies are often implemented with fixed-capacity multilayer perceptrons trained by backpropagation, which require architecture selection in advance and cannot adapt their capacity during lea…"
+    },
+    {
+      "id": "2509.15357",
+      "source": "arxiv",
+      "title": "MaskAttn-SDXL: Controllable Region-Level Text-To-Image Generation",
+      "url": "https://arxiv.org/abs/2509.15357",
+      "author": "Yu Chang, Jiahao Chen, Anzhe Cheng +1",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "Diffusion models have achieved strong results in text-to-image generation, but important limitations remain as prompts become more structured and multi-object. On the architecture side, U-Net backbone…"
+    },
+    {
+      "id": "2509.06108",
+      "source": "arxiv",
+      "title": "Using Reinforcement Learning to Optimize the Global and Local Crossing Number",
+      "url": "https://arxiv.org/abs/2509.06108",
+      "author": "Timo Brand, Henry F\\\"orster, Stephen Kobourov +4",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "Graph drawing concerns the algorithmic visualization of graphs. A good drawing of a graph is easy to read and facilitates solving tasks on the graph. Several properties have been identified to occur i…"
+    },
+    {
+      "id": "2508.10120",
+      "source": "arxiv",
+      "title": "Machine Learning for Cloud Detection in IASI Measurements: A Data-Driven SVM Approach with Physical Constraints",
+      "url": "https://arxiv.org/abs/2508.10120",
+      "author": "Chiara Zugarini, Cristina Sgattoni, Luca Sgheri",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "summary": "Cloud detection is fundamental for the interpretation and operational exploitation of hyperspectral infrared sounders, yet the capability of infrared radiances alone to provide reliable cloud informat…"
     }
   ]
 }
