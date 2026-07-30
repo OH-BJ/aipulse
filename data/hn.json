@@ -1,156 +1,156 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-30T01:48:51.754Z",
+  "fetchedAt": "2026-07-30T13:43:06.123Z",
   "items": [
+    {
+      "id": "49109165",
+      "source": "hn",
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "url": "https://openjdk.org/legal/ai",
+      "score": 34,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49109165",
+      "author": "blenderob",
+      "publishedAt": "2026-07-30T12:36:38.000Z"
+    },
+    {
+      "id": "49108840",
+      "source": "hn",
+      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49108840",
+      "author": "chitianhao",
+      "publishedAt": "2026-07-30T12:01:05.000Z"
+    },
     {
       "id": "49103285",
       "source": "hn",
       "title": "AI's top startups are barely publishing their research",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 199,
+      "score": 549,
       "commentsUrl": "https://news.ycombinator.com/item?id=49103285",
       "author": "YeGoblynQueenne",
       "publishedAt": "2026-07-29T21:25:40.000Z"
+    },
+    {
+      "id": "49107749",
+      "source": "hn",
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "score": 53,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49107749",
+      "author": "yoanwaidev",
+      "publishedAt": "2026-07-30T09:34:27.000Z"
     },
     {
       "id": "49104117",
       "source": "hn",
       "title": "LLM Honeypot",
       "url": "https://llm2human.pages.dev/",
-      "score": 51,
+      "score": 334,
       "commentsUrl": "https://news.ycombinator.com/item?id=49104117",
       "author": "8thom",
       "publishedAt": "2026-07-29T22:51:03.000Z"
     },
     {
-      "id": "49104747",
+      "id": "49108685",
       "source": "hn",
-      "title": "Show HN: A local merge queue for parallel Claude Code agents",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49104747",
-      "author": "funador",
-      "publishedAt": "2026-07-30T00:20:16.000Z"
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "score": 126,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49108685",
+      "author": "arto",
+      "publishedAt": "2026-07-30T11:45:44.000Z"
     },
     {
-      "id": "49105190",
+      "id": "49108778",
       "source": "hn",
-      "title": "A pharmacy chain in Vermont implemented AI for efficiency",
-      "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49105190",
-      "author": "omerhj",
-      "publishedAt": "2026-07-30T01:35:10.000Z"
-    },
-    {
-      "id": "49096188",
-      "source": "hn",
-      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "score": 346,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49096188",
-      "author": "Canopy9560",
-      "publishedAt": "2026-07-29T11:44:33.000Z"
-    },
-    {
-      "id": "49101529",
-      "source": "hn",
-      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-      "score": 59,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49101529",
-      "author": "cl42",
-      "publishedAt": "2026-07-29T18:57:10.000Z"
+      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "url": "https://github.com/grafana/ai-sdk",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49108778",
+      "author": "matryer",
+      "publishedAt": "2026-07-30T11:55:39.000Z"
     },
     {
       "id": "49099804",
       "source": "hn",
       "title": "Some thoughts about Anthropic's new cryptanalysis results",
       "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "score": 106,
+      "score": 177,
       "commentsUrl": "https://news.ycombinator.com/item?id=49099804",
       "author": "supermatou",
       "publishedAt": "2026-07-29T16:42:20.000Z"
+    },
+    {
+      "id": "49108480",
+      "source": "hn",
+      "title": "'My life's screwed': Korean investors stress out after AI bubble bursts",
+      "url": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1",
+      "score": 20,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49108480",
+      "author": "scrlk",
+      "publishedAt": "2026-07-30T11:22:19.000Z"
+    },
+    {
+      "id": "49107232",
+      "source": "hn",
+      "title": "Sam Altman is now talking to the White House about decelerating AI",
+      "url": "https://twitter.com/AISafetyMemes/status/2082569026929394008",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49107232",
+      "author": "abhishekdev",
+      "publishedAt": "2026-07-30T08:08:05.000Z"
+    },
+    {
+      "id": "49104747",
+      "source": "hn",
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "score": 39,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49104747",
+      "author": "funador",
+      "publishedAt": "2026-07-30T00:20:16.000Z"
     },
     {
       "id": "49098388",
       "source": "hn",
       "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
       "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-      "score": 86,
+      "score": 98,
       "commentsUrl": "https://news.ycombinator.com/item?id=49098388",
       "author": "mbauman",
       "publishedAt": "2026-07-29T14:56:28.000Z"
+    },
+    {
+      "id": "49096188",
+      "source": "hn",
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "score": 372,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49096188",
+      "author": "Canopy9560",
+      "publishedAt": "2026-07-29T11:44:33.000Z"
     },
     {
       "id": "49098260",
       "source": "hn",
       "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
       "url": "https://github.com/VladUZH/qwen-scribe",
-      "score": 74,
+      "score": 89,
       "commentsUrl": "https://news.ycombinator.com/item?id=49098260",
       "author": "sidclaw",
       "publishedAt": "2026-07-29T14:47:22.000Z"
     },
     {
-      "id": "49102936",
+      "id": "49108838",
       "source": "hn",
-      "title": "The way GPT-5.6 fuses frontier intelligence with frontier efficiency – OpenAI",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49102936",
-      "author": "smokeeaasd",
-      "publishedAt": "2026-07-29T20:52:48.000Z"
-    },
-    {
-      "id": "49102150",
-      "source": "hn",
-      "title": "Claude: Elevated errors across all models – Resolved",
-      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-      "score": 259,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49102150",
-      "author": "gregsadetsky",
-      "publishedAt": "2026-07-29T19:50:42.000Z"
-    },
-    {
-      "id": "49096953",
-      "source": "hn",
-      "title": "After the AI Crash",
-      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
-      "score": 110,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49096953",
-      "author": "sysoleg",
-      "publishedAt": "2026-07-29T13:00:39.000Z"
-    },
-    {
-      "id": "49104052",
-      "source": "hn",
-      "title": "Microsoft keeps capex unchanged, the only datacenter giants to hold AI spending",
-      "url": "https://www.businessinsider.com/microsoft-ai-capex-unchanged-data-centers-spending-tech-giants-2026-7",
-      "score": 13,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49104052",
-      "author": "mapping365",
-      "publishedAt": "2026-07-29T22:43:22.000Z"
-    },
-    {
-      "id": "49103002",
-      "source": "hn",
-      "title": "My Local LLM Scored 6/6. It Was Wrong Every Time",
-      "url": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49103002",
-      "author": "jacquesm",
-      "publishedAt": "2026-07-29T20:59:08.000Z"
-    },
-    {
-      "id": "49092499",
-      "source": "hn",
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "url": "https://learnvector.ai/",
-      "score": 257,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49092499",
-      "author": "ajhai",
-      "publishedAt": "2026-07-29T01:49:19.000Z"
+      "title": "Meta's AI spending reduces quarterly free cash flow by 91%",
+      "url": "https://www.reuters.com/business/retail-consumer/metas-ai-splurge-lays-bare-its-compute-conundrum-2026-07-30/",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49108838",
+      "author": "johnbarron",
+      "publishedAt": "2026-07-30T12:00:52.000Z"
     }
   ]
 }
