@@ -1,156 +1,156 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-29T13:52:56.270Z",
+  "fetchedAt": "2026-07-30T01:48:51.754Z",
   "items": [
     {
-      "id": "49096953",
+      "id": "49103285",
       "source": "hn",
-      "title": "After the AI Crash",
-      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49096953",
-      "author": "sysoleg",
-      "publishedAt": "2026-07-29T13:00:39.000Z"
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "score": 199,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49103285",
+      "author": "YeGoblynQueenne",
+      "publishedAt": "2026-07-29T21:25:40.000Z"
+    },
+    {
+      "id": "49104117",
+      "source": "hn",
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "score": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49104117",
+      "author": "8thom",
+      "publishedAt": "2026-07-29T22:51:03.000Z"
+    },
+    {
+      "id": "49104747",
+      "source": "hn",
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49104747",
+      "author": "funador",
+      "publishedAt": "2026-07-30T00:20:16.000Z"
+    },
+    {
+      "id": "49105190",
+      "source": "hn",
+      "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+      "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49105190",
+      "author": "omerhj",
+      "publishedAt": "2026-07-30T01:35:10.000Z"
     },
     {
       "id": "49096188",
       "source": "hn",
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
       "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "score": 132,
+      "score": 346,
       "commentsUrl": "https://news.ycombinator.com/item?id=49096188",
       "author": "Canopy9560",
       "publishedAt": "2026-07-29T11:44:33.000Z"
     },
     {
-      "id": "49096767",
+      "id": "49101529",
       "source": "hn",
-      "title": "Show HN: Echologue – the private AI voice journal I built for myself",
-      "url": "https://echologue.com/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49096767",
-      "author": "arisAlexis",
-      "publishedAt": "2026-07-29T12:43:36.000Z"
+      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+      "score": 59,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49101529",
+      "author": "cl42",
+      "publishedAt": "2026-07-29T18:57:10.000Z"
     },
     {
-      "id": "49095143",
+      "id": "49099804",
       "source": "hn",
-      "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
-      "url": "https://vimgolf.ai",
-      "score": 24,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49095143",
-      "author": "nickandbro",
-      "publishedAt": "2026-07-29T09:26:52.000Z"
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "score": 106,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49099804",
+      "author": "supermatou",
+      "publishedAt": "2026-07-29T16:42:20.000Z"
+    },
+    {
+      "id": "49098388",
+      "source": "hn",
+      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+      "score": 86,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49098388",
+      "author": "mbauman",
+      "publishedAt": "2026-07-29T14:56:28.000Z"
+    },
+    {
+      "id": "49098260",
+      "source": "hn",
+      "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+      "url": "https://github.com/VladUZH/qwen-scribe",
+      "score": 74,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49098260",
+      "author": "sidclaw",
+      "publishedAt": "2026-07-29T14:47:22.000Z"
+    },
+    {
+      "id": "49102936",
+      "source": "hn",
+      "title": "The way GPT-5.6 fuses frontier intelligence with frontier efficiency – OpenAI",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49102936",
+      "author": "smokeeaasd",
+      "publishedAt": "2026-07-29T20:52:48.000Z"
+    },
+    {
+      "id": "49102150",
+      "source": "hn",
+      "title": "Claude: Elevated errors across all models – Resolved",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+      "score": 259,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49102150",
+      "author": "gregsadetsky",
+      "publishedAt": "2026-07-29T19:50:42.000Z"
+    },
+    {
+      "id": "49096953",
+      "source": "hn",
+      "title": "After the AI Crash",
+      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+      "score": 110,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49096953",
+      "author": "sysoleg",
+      "publishedAt": "2026-07-29T13:00:39.000Z"
+    },
+    {
+      "id": "49104052",
+      "source": "hn",
+      "title": "Microsoft keeps capex unchanged, the only datacenter giants to hold AI spending",
+      "url": "https://www.businessinsider.com/microsoft-ai-capex-unchanged-data-centers-spending-tech-giants-2026-7",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49104052",
+      "author": "mapping365",
+      "publishedAt": "2026-07-29T22:43:22.000Z"
+    },
+    {
+      "id": "49103002",
+      "source": "hn",
+      "title": "My Local LLM Scored 6/6. It Was Wrong Every Time",
+      "url": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49103002",
+      "author": "jacquesm",
+      "publishedAt": "2026-07-29T20:59:08.000Z"
     },
     {
       "id": "49092499",
       "source": "hn",
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
       "url": "https://learnvector.ai/",
-      "score": 231,
+      "score": 257,
       "commentsUrl": "https://news.ycombinator.com/item?id=49092499",
       "author": "ajhai",
       "publishedAt": "2026-07-29T01:49:19.000Z"
-    },
-    {
-      "id": "49087091",
-      "source": "hn",
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "score": 222,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49087091",
-      "author": "gslin",
-      "publishedAt": "2026-07-28T17:22:16.000Z"
-    },
-    {
-      "id": "49094932",
-      "source": "hn",
-      "title": "CodeCrucible: A blueprint for LLM-driven SAST",
-      "url": "https://engineering.block.xyz/blog/codecrucible-a-blueprint-for-llm-driven-sast",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49094932",
-      "author": "handfuloflight",
-      "publishedAt": "2026-07-29T08:53:51.000Z"
-    },
-    {
-      "id": "49081644",
-      "source": "hn",
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "score": 152,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49081644",
-      "author": "jordigg",
-      "publishedAt": "2026-07-28T09:59:13.000Z"
-    },
-    {
-      "id": "49092730",
-      "source": "hn",
-      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
-      "url": "https://github.com/jagg-ix/zil-lean",
-      "score": 17,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49092730",
-      "author": "kbradero",
-      "publishedAt": "2026-07-29T02:22:04.000Z"
-    },
-    {
-      "id": "49092549",
-      "source": "hn",
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "url": "https://www.bbc.com/news/articles/cly8zng43npo",
-      "score": 62,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49092549",
-      "author": "yogthos",
-      "publishedAt": "2026-07-29T01:56:00.000Z"
-    },
-    {
-      "id": "49069033",
-      "source": "hn",
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-      "score": 106,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49069033",
-      "author": "abelaer",
-      "publishedAt": "2026-07-27T12:56:36.000Z"
-    },
-    {
-      "id": "49096301",
-      "source": "hn",
-      "title": "AI-found bugs aren't proving any easier to exploit despite the hype",
-      "url": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49096301",
-      "author": "Tomte",
-      "publishedAt": "2026-07-29T11:57:18.000Z"
-    },
-    {
-      "id": "49096584",
-      "source": "hn",
-      "title": "When physicians and AI work together, who is accountable?",
-      "url": "https://www.nature.com/articles/d41586-026-02315-9",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49096584",
-      "author": "sohkamyung",
-      "publishedAt": "2026-07-29T12:27:09.000Z"
-    },
-    {
-      "id": "49095834",
-      "source": "hn",
-      "title": "The AI Hype Index: Unsexy AI",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49095834",
-      "author": "joozio",
-      "publishedAt": "2026-07-29T11:01:14.000Z"
-    },
-    {
-      "id": "49083239",
-      "source": "hn",
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "score": 110,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49083239",
-      "author": "permute",
-      "publishedAt": "2026-07-28T13:07:14.000Z"
     }
   ]
 }
