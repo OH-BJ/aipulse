@@ -1,33 +1,113 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-07-30T13:43:06.123Z",
+  "fetchedAt": "2026-07-31T02:06:46.079Z",
   "items": [
+    {
+      "id": "49117099",
+      "source": "hn",
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "score": 114,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49117099",
+      "author": "montroser",
+      "publishedAt": "2026-07-30T23:22:16.000Z"
+    },
+    {
+      "id": "49111237",
+      "source": "hn",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 478,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49111237",
+      "author": "ai2027",
+      "publishedAt": "2026-07-30T15:15:48.000Z"
+    },
+    {
+      "id": "49112867",
+      "source": "hn",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "score": 497,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49112867",
+      "author": "tedsanders",
+      "publishedAt": "2026-07-30T17:15:51.000Z"
+    },
+    {
+      "id": "49113599",
+      "source": "hn",
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "score": 85,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49113599",
+      "author": "cgorlla",
+      "publishedAt": "2026-07-30T18:13:06.000Z"
+    },
+    {
+      "id": "49108685",
+      "source": "hn",
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "score": 242,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49108685",
+      "author": "arto",
+      "publishedAt": "2026-07-30T11:45:44.000Z"
+    },
+    {
+      "id": "49113059",
+      "source": "hn",
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "score": 299,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49113059",
+      "author": "Areibman",
+      "publishedAt": "2026-07-30T17:31:07.000Z"
+    },
+    {
+      "id": "49117486",
+      "source": "hn",
+      "title": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/judge-voices-doubt-us-has-justified-its-ban-on-anthropic-ai",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49117486",
+      "author": "sbulaev",
+      "publishedAt": "2026-07-31T00:07:06.000Z"
+    },
+    {
+      "id": "49113543",
+      "source": "hn",
+      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+      "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49113543",
+      "author": "yashmahajan10",
+      "publishedAt": "2026-07-30T18:08:48.000Z"
+    },
     {
       "id": "49109165",
       "source": "hn",
       "title": "OpenJDK Interim Policy on Generative AI",
       "url": "https://openjdk.org/legal/ai",
-      "score": 34,
+      "score": 65,
       "commentsUrl": "https://news.ycombinator.com/item?id=49109165",
       "author": "blenderob",
       "publishedAt": "2026-07-30T12:36:38.000Z"
     },
     {
-      "id": "49108840",
+      "id": "49111019",
       "source": "hn",
-      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
-      "score": 1,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49108840",
-      "author": "chitianhao",
-      "publishedAt": "2026-07-30T12:01:05.000Z"
+      "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
+      "url": "https://github.com/hamzarehmandeveloper/claude-account",
+      "score": 47,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49111019",
+      "author": "hamza_rehman",
+      "publishedAt": "2026-07-30T14:58:59.000Z"
     },
     {
       "id": "49103285",
       "source": "hn",
       "title": "AI's top startups are barely publishing their research",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 549,
+      "score": 593,
       "commentsUrl": "https://news.ycombinator.com/item?id=49103285",
       "author": "YeGoblynQueenne",
       "publishedAt": "2026-07-29T21:25:40.000Z"
@@ -37,120 +117,70 @@
       "source": "hn",
       "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
       "url": "https://github.com/YoanWai/agent-manager",
-      "score": 53,
+      "score": 95,
       "commentsUrl": "https://news.ycombinator.com/item?id=49107749",
       "author": "yoanwaidev",
       "publishedAt": "2026-07-30T09:34:27.000Z"
     },
     {
-      "id": "49104117",
+      "id": "49117124",
       "source": "hn",
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "score": 334,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49104117",
-      "author": "8thom",
-      "publishedAt": "2026-07-29T22:51:03.000Z"
-    },
-    {
-      "id": "49108685",
-      "source": "hn",
-      "title": "GCC steering committee announces AI policy",
-      "url": "https://lwn.net/Articles/1086041/",
-      "score": 126,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49108685",
-      "author": "arto",
-      "publishedAt": "2026-07-30T11:45:44.000Z"
+      "title": "Anthropic AI Models Hacked Three Companies During Tests",
+      "url": "https://www.wsj.com/tech/ai/anthropic-ai-models-hacked-three-companies-during-tests-bd752c86",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49117124",
+      "author": "bmulholland",
+      "publishedAt": "2026-07-30T23:24:34.000Z"
     },
     {
       "id": "49108778",
       "source": "hn",
       "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
       "url": "https://github.com/grafana/ai-sdk",
-      "score": 14,
+      "score": 56,
       "commentsUrl": "https://news.ycombinator.com/item?id=49108778",
       "author": "matryer",
       "publishedAt": "2026-07-30T11:55:39.000Z"
     },
     {
-      "id": "49099804",
+      "id": "49117602",
       "source": "hn",
-      "title": "Some thoughts about Anthropic's new cryptanalysis results",
-      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "score": 177,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49099804",
-      "author": "supermatou",
-      "publishedAt": "2026-07-29T16:42:20.000Z"
+      "title": "Anthropic says Claude hacked three companies during tests",
+      "url": "https://www.reuters.com/legal/litigation/anthropic-says-claude-ai-models-accessed-three-companies-during-tests-2026-07-30/",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49117602",
+      "author": "nerder92",
+      "publishedAt": "2026-07-31T00:23:44.000Z"
     },
     {
-      "id": "49108480",
+      "id": "49113601",
       "source": "hn",
-      "title": "'My life's screwed': Korean investors stress out after AI bubble bursts",
-      "url": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49108480",
-      "author": "scrlk",
-      "publishedAt": "2026-07-30T11:22:19.000Z"
+      "title": "Why do OpenAI's GPT-2 weights beat mine? Part two: the bugfix",
+      "url": "https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-2-the-bugfix",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49113601",
+      "author": "gpjt",
+      "publishedAt": "2026-07-30T18:13:31.000Z"
     },
     {
-      "id": "49107232",
+      "id": "49112695",
       "source": "hn",
-      "title": "Sam Altman is now talking to the White House about decelerating AI",
-      "url": "https://twitter.com/AISafetyMemes/status/2082569026929394008",
-      "score": 33,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49107232",
-      "author": "abhishekdev",
-      "publishedAt": "2026-07-30T08:08:05.000Z"
+      "title": "I asked Claude to reimplement Apple's LZRAVEN codec in C, conformance-tested",
+      "url": "https://github.com/anat0m1a/liblzraven",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49112695",
+      "author": "anat0m1a",
+      "publishedAt": "2026-07-30T17:01:09.000Z"
     },
     {
-      "id": "49104747",
+      "id": "49113814",
       "source": "hn",
-      "title": "Show HN: A local merge queue for parallel Claude Code agents",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "score": 39,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49104747",
-      "author": "funador",
-      "publishedAt": "2026-07-30T00:20:16.000Z"
-    },
-    {
-      "id": "49098388",
-      "source": "hn",
-      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-      "score": 98,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49098388",
-      "author": "mbauman",
-      "publishedAt": "2026-07-29T14:56:28.000Z"
-    },
-    {
-      "id": "49096188",
-      "source": "hn",
-      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "score": 372,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49096188",
-      "author": "Canopy9560",
-      "publishedAt": "2026-07-29T11:44:33.000Z"
-    },
-    {
-      "id": "49098260",
-      "source": "hn",
-      "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
-      "url": "https://github.com/VladUZH/qwen-scribe",
-      "score": 89,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49098260",
-      "author": "sidclaw",
-      "publishedAt": "2026-07-29T14:47:22.000Z"
-    },
-    {
-      "id": "49108838",
-      "source": "hn",
-      "title": "Meta's AI spending reduces quarterly free cash flow by 91%",
-      "url": "https://www.reuters.com/business/retail-consumer/metas-ai-splurge-lays-bare-its-compute-conundrum-2026-07-30/",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49108838",
-      "author": "johnbarron",
-      "publishedAt": "2026-07-30T12:00:52.000Z"
+      "title": "The Zeno's Paradox of AI",
+      "url": "https://negativezone.github.io/2026/07/29/zeno.html",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49113814",
+      "author": "negativezone",
+      "publishedAt": "2026-07-30T18:32:08.000Z"
     }
   ]
 }
