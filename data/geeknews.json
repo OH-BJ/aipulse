@@ -1,11 +1,119 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-07-31T13:47:42.263Z",
+  "fetchedAt": "2026-08-01T02:08:11.947Z",
   "items": [
+    {
+      "id": "32029",
+      "source": "geeknews",
+      "title": "리팩터링이 만드는 경제적 이점",
+      "url": "https://news.hada.io/topic?id=32029",
+      "commentsUrl": "https://news.hada.io/topic?id=32029",
+      "author": "neo",
+      "publishedAt": "2026-08-01T00:33:42.000Z"
+    },
+    {
+      "id": "32028",
+      "source": "geeknews",
+      "title": "shirei - 실용적인 Go 기반 GUI 프레임워크",
+      "url": "https://news.hada.io/topic?id=32028",
+      "commentsUrl": "https://news.hada.io/topic?id=32028",
+      "author": "xguru",
+      "publishedAt": "2026-08-01T00:31:02.000Z"
+    },
+    {
+      "id": "32027",
+      "source": "geeknews",
+      "title": "더 작고 일관된 난수 API를 위해 rand를 포크한 이유",
+      "url": "https://news.hada.io/topic?id=32027",
+      "commentsUrl": "https://news.hada.io/topic?id=32027",
+      "author": "neo",
+      "publishedAt": "2026-08-01T00:07:13.000Z"
+    },
+    {
+      "id": "32026",
+      "source": "geeknews",
+      "title": "Go 1.27 대화형 투어",
+      "url": "https://news.hada.io/topic?id=32026",
+      "commentsUrl": "https://news.hada.io/topic?id=32026",
+      "author": "neo",
+      "publishedAt": "2026-08-01T00:04:13.000Z"
+    },
+    {
+      "id": "32025",
+      "source": "geeknews",
+      "title": "Tailscale은 Hugging Face 침입을 막지 못했다",
+      "url": "https://news.hada.io/topic?id=32025",
+      "commentsUrl": "https://news.hada.io/topic?id=32025",
+      "author": "neo",
+      "publishedAt": "2026-07-31T23:32:24.000Z"
+    },
+    {
+      "id": "32024",
+      "source": "geeknews",
+      "title": "ASD-STE100 간소화 기술 영어로 문서 작성을 강제하는 Agent Skill",
+      "url": "https://news.hada.io/topic?id=32024",
+      "commentsUrl": "https://news.hada.io/topic?id=32024",
+      "author": "neo",
+      "publishedAt": "2026-07-31T22:36:23.000Z"
+    },
+    {
+      "id": "32023",
+      "source": "geeknews",
+      "title": "qm - 협업을 위한 멀티플레이어 에이전트 하네스",
+      "url": "https://news.hada.io/topic?id=32023",
+      "commentsUrl": "https://news.hada.io/topic?id=32023",
+      "author": "neo",
+      "publishedAt": "2026-07-31T22:33:23.000Z"
+    },
+    {
+      "id": "32022",
+      "source": "geeknews",
+      "title": "한 시대의 종말",
+      "url": "https://news.hada.io/topic?id=32022",
+      "commentsUrl": "https://news.hada.io/topic?id=32022",
+      "author": "neo",
+      "publishedAt": "2026-07-31T19:38:25.000Z"
+    },
+    {
+      "id": "32021",
+      "source": "geeknews",
+      "title": "엘리베이터 배차 알고리듬",
+      "url": "https://news.hada.io/topic?id=32021",
+      "commentsUrl": "https://news.hada.io/topic?id=32021",
+      "author": "neo",
+      "publishedAt": "2026-07-31T19:35:25.000Z"
+    },
+    {
+      "id": "32020",
+      "source": "geeknews",
+      "title": "DeepSeek V4 Flash 0731의 지능·성능·가격 분석",
+      "url": "https://news.hada.io/topic?id=32020",
+      "commentsUrl": "https://news.hada.io/topic?id=32020",
+      "author": "neo",
+      "publishedAt": "2026-07-31T16:31:18.000Z"
+    },
+    {
+      "id": "32019",
+      "source": "geeknews",
+      "title": "Google, AI로 6월에 지난 2년치보다 많은 Chrome 버그 수정",
+      "url": "https://news.hada.io/topic?id=32019",
+      "commentsUrl": "https://news.hada.io/topic?id=32019",
+      "author": "neo",
+      "publishedAt": "2026-07-31T15:34:54.000Z"
+    },
+    {
+      "id": "32018",
+      "source": "geeknews",
+      "title": "GCC 운영위원회, AI 정책 발표",
+      "url": "https://news.hada.io/topic?id=32018",
+      "commentsUrl": "https://news.hada.io/topic?id=32018",
+      "author": "neo",
+      "publishedAt": "2026-07-31T14:31:53.000Z"
+    },
     {
       "id": "32016",
       "source": "geeknews",
-      "title": "DeepSeek-V4-Flash 업데이트",
+      "title": "DeepSeek-V4-Flash 모델 공개",
       "url": "https://news.hada.io/topic?id=32016",
       "commentsUrl": "https://news.hada.io/topic?id=32016",
       "author": "neo",
@@ -163,114 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=31998",
       "author": "neo",
       "publishedAt": "2026-07-30T20:34:19.000Z"
-    },
-    {
-      "id": "31997",
-      "source": "geeknews",
-      "title": "Gemini Robotics 2, 로봇에 전신 지능을 제공",
-      "url": "https://news.hada.io/topic?id=31997",
-      "commentsUrl": "https://news.hada.io/topic?id=31997",
-      "author": "neo",
-      "publishedAt": "2026-07-30T19:33:03.000Z"
-    },
-    {
-      "id": "31996",
-      "source": "geeknews",
-      "title": "AI 기업들이 전기기사와 목수를 수천 명씩 채용 중",
-      "url": "https://news.hada.io/topic?id=31996",
-      "commentsUrl": "https://news.hada.io/topic?id=31996",
-      "author": "neo",
-      "publishedAt": "2026-07-30T18:31:26.000Z"
-    },
-    {
-      "id": "31995",
-      "source": "geeknews",
-      "title": "Anthropic의 새로운 AI 암호분석 결과에 대한 평가",
-      "url": "https://news.hada.io/topic?id=31995",
-      "commentsUrl": "https://news.hada.io/topic?id=31995",
-      "author": "neo",
-      "publishedAt": "2026-07-30T18:02:34.000Z"
-    },
-    {
-      "id": "31994",
-      "source": "geeknews",
-      "title": "HANDBOOK.md: 긴 정책 문서만으로는 에이전트를 안정적으로 통제할 수 없음",
-      "url": "https://news.hada.io/topic?id=31994",
-      "commentsUrl": "https://news.hada.io/topic?id=31994",
-      "author": "neo",
-      "publishedAt": "2026-07-30T17:32:35.000Z"
-    },
-    {
-      "id": "31991",
-      "source": "geeknews",
-      "title": "EU 법원, 저작권 판결에서 “VPN은 합법적인 기술 도구”라고 판단",
-      "url": "https://news.hada.io/topic?id=31991",
-      "commentsUrl": "https://news.hada.io/topic?id=31991",
-      "author": "neo",
-      "publishedAt": "2026-07-30T15:31:26.000Z"
-    },
-    {
-      "id": "31990",
-      "source": "geeknews",
-      "title": "Show GN: 프로필없는 SNS 익명 웹 ‘blank’",
-      "url": "https://news.hada.io/topic?id=31990",
-      "commentsUrl": "https://news.hada.io/topic?id=31990",
-      "author": "geekbini",
-      "publishedAt": "2026-07-30T15:16:40.000Z"
-    },
-    {
-      "id": "31989",
-      "source": "geeknews",
-      "title": "Show GN: 뉴스레터 읽은 기록을 돌아볼 수 있게 봄봄에 리캡을 추가했습니다",
-      "url": "https://news.hada.io/topic?id=31989",
-      "commentsUrl": "https://news.hada.io/topic?id=31989",
-      "author": "adong0808",
-      "publishedAt": "2026-07-30T15:09:11.000Z"
-    },
-    {
-      "id": "31987",
-      "source": "geeknews",
-      "title": "LLM 허니팟",
-      "url": "https://news.hada.io/topic?id=31987",
-      "commentsUrl": "https://news.hada.io/topic?id=31987",
-      "author": "neo",
-      "publishedAt": "2026-07-30T13:31:24.000Z"
-    },
-    {
-      "id": "31985",
-      "source": "geeknews",
-      "title": "Show GN: UFO - 누워있거나 식사할 때도 개발하려고 만든 슬랙 비슷한 무언가",
-      "url": "https://news.hada.io/topic?id=31985",
-      "commentsUrl": "https://news.hada.io/topic?id=31985",
-      "author": "wayne",
-      "publishedAt": "2026-07-30T10:04:35.000Z"
-    },
-    {
-      "id": "31984",
-      "source": "geeknews",
-      "title": "Show GN: prewire - 런타임 컨테이너 없이 빌드 타임에 연결하는 TypeScript 프론트엔드 DI",
-      "url": "https://news.hada.io/topic?id=31984",
-      "commentsUrl": "https://news.hada.io/topic?id=31984",
-      "author": "abcdkh1209",
-      "publishedAt": "2026-07-30T09:29:54.000Z"
-    },
-    {
-      "id": "31981",
-      "source": "geeknews",
-      "title": "최상위 AI 스타트업들은 연구 성과를 거의 발표하지 않는다",
-      "url": "https://news.hada.io/topic?id=31981",
-      "commentsUrl": "https://news.hada.io/topic?id=31981",
-      "author": "neo",
-      "publishedAt": "2026-07-30T06:31:57.000Z"
-    },
-    {
-      "id": "31977",
-      "source": "geeknews",
-      "title": "Keychron, 최초의 게이밍 마우스용 오픈소스 펌웨어 발표",
-      "url": "https://news.hada.io/topic?id=31977",
-      "commentsUrl": "https://news.hada.io/topic?id=31977",
-      "author": "neo",
-      "publishedAt": "2026-07-30T04:32:15.000Z"
     }
   ]
 }
