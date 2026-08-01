@@ -1,23 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-01T02:08:11.409Z",
+  "fetchedAt": "2026-08-01T13:03:23.500Z",
   "items": [
     {
-      "id": "49127874",
+      "id": "49130604",
       "source": "hn",
-      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-      "score": 29,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49127874",
-      "author": "shreybirmiwal",
-      "publishedAt": "2026-07-31T19:55:41.000Z"
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "score": 154,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49130604",
+      "author": "vinhnx",
+      "publishedAt": "2026-08-01T02:45:09.000Z"
+    },
+    {
+      "id": "49132130",
+      "source": "hn",
+      "title": "AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "score": 203,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49132130",
+      "author": "smckk",
+      "publishedAt": "2026-08-01T07:52:10.000Z"
     },
     {
       "id": "49124358",
       "source": "hn",
       "title": "Is AI reasoning right for the wrong reasons?",
       "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "score": 121,
+      "score": 172,
       "commentsUrl": "https://news.ycombinator.com/item?id=49124358",
       "author": "retupmoc01",
       "publishedAt": "2026-07-31T15:29:39.000Z"
@@ -27,17 +37,27 @@
       "source": "hn",
       "title": "Everyone is building LLM routers, we deprecated ours",
       "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "score": 95,
+      "score": 121,
       "commentsUrl": "https://news.ycombinator.com/item?id=49126630",
       "author": "brunaxLorax",
       "publishedAt": "2026-07-31T18:06:39.000Z"
+    },
+    {
+      "id": "49120097",
+      "source": "hn",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "score": 540,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49120097",
+      "author": "Garbage",
+      "publishedAt": "2026-07-31T07:29:22.000Z"
     },
     {
       "id": "49120299",
       "source": "hn",
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "score": 535,
+      "score": 562,
       "commentsUrl": "https://news.ycombinator.com/item?id=49120299",
       "author": "theanonymousone",
       "publishedAt": "2026-07-31T07:59:11.000Z"
@@ -47,87 +67,47 @@
       "source": "hn",
       "title": "DeepSeek-V4-Flash Update",
       "url": "https://api-docs.deepseek.com/updates/",
-      "score": 675,
+      "score": 707,
       "commentsUrl": "https://news.ycombinator.com/item?id=49119559",
       "author": "dnhkng",
       "publishedAt": "2026-07-31T06:08:36.000Z"
-    },
-    {
-      "id": "49120097",
-      "source": "hn",
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "score": 484,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49120097",
-      "author": "Garbage",
-      "publishedAt": "2026-07-31T07:29:22.000Z"
     },
     {
       "id": "49119274",
       "source": "hn",
       "title": "Show HN: What should the GUI for AI agents look like?",
       "url": "https://marbleos.com/demo",
-      "score": 107,
+      "score": 119,
       "commentsUrl": "https://news.ycombinator.com/item?id=49119274",
       "author": "akbabu",
       "publishedAt": "2026-07-31T05:17:29.000Z"
     },
     {
-      "id": "49129678",
+      "id": "49127874",
       "source": "hn",
-      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
-      "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-      "score": 13,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49129678",
-      "author": "Bender",
-      "publishedAt": "2026-07-31T23:31:39.000Z"
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "score": 39,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49127874",
+      "author": "shreybirmiwal",
+      "publishedAt": "2026-07-31T19:55:41.000Z"
     },
     {
       "id": "49121868",
       "source": "hn",
       "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
       "url": "https://arxiv.org/abs/2607.27197",
-      "score": 139,
+      "score": 152,
       "commentsUrl": "https://news.ycombinator.com/item?id=49121868",
       "author": "rahen",
       "publishedAt": "2026-07-31T11:37:12.000Z"
-    },
-    {
-      "id": "49125140",
-      "source": "hn",
-      "title": "Hygon Reveals 512-Thread CPU and AI GPU to Rival Intel Xeon and Nvidia",
-      "url": "https://www.ubergizmo.com/2026/06/hygon-512-thread-cpu/",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49125140",
-      "author": "rbanffy",
-      "publishedAt": "2026-07-31T16:21:11.000Z"
-    },
-    {
-      "id": "49122994",
-      "source": "hn",
-      "title": "Situational Awareness down 67% in July in AI stock rout",
-      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-      "score": 141,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49122994",
-      "author": "pondsider",
-      "publishedAt": "2026-07-31T13:37:36.000Z"
-    },
-    {
-      "id": "49127726",
-      "source": "hn",
-      "title": "OpenAI serves more than one billion active users",
-      "url": "https://openai.com/index/building-abundant-intelligence/",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49127726",
-      "author": "hallvard",
-      "publishedAt": "2026-07-31T19:42:35.000Z"
     },
     {
       "id": "49113599",
       "source": "hn",
       "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
       "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "score": 163,
+      "score": 165,
       "commentsUrl": "https://news.ycombinator.com/item?id=49113599",
       "author": "cgorlla",
       "publishedAt": "2026-07-30T18:13:06.000Z"
@@ -137,20 +117,10 @@
       "source": "hn",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 609,
+      "score": 610,
       "commentsUrl": "https://news.ycombinator.com/item?id=49111237",
       "author": "ai2027",
       "publishedAt": "2026-07-30T15:15:48.000Z"
-    },
-    {
-      "id": "49126209",
-      "source": "hn",
-      "title": "AI Is Getting Way Too Expensive",
-      "url": "https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/",
-      "score": 42,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49126209",
-      "author": "speckx",
-      "publishedAt": "2026-07-31T17:34:04.000Z"
     }
   ]
 }
