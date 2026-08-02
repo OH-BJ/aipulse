@@ -1,166 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-02T02:04:59.484Z",
+  "fetchedAt": "2026-08-02T13:05:20.246Z",
   "items": [
+    {
+      "id": "49143630",
+      "source": "hn",
+      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+      "url": "https://website-auditor.io/ai-visibility-index",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49143630",
+      "author": "SpikeyCoder",
+      "publishedAt": "2026-08-02T11:53:52.000Z"
+    },
+    {
+      "id": "49095763",
+      "source": "hn",
+      "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+      "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49095763",
+      "author": "throw0101a",
+      "publishedAt": "2026-07-29T10:54:07.000Z"
+    },
+    {
+      "id": "49143688",
+      "source": "hn",
+      "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+      "score": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49143688",
+      "author": "wa5ina",
+      "publishedAt": "2026-08-02T12:01:37.000Z"
+    },
     {
       "id": "49139102",
       "source": "hn",
       "title": "AI financial advice is surprisingly good, especially if you ask right questions",
       "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 162,
+      "score": 312,
       "commentsUrl": "https://news.ycombinator.com/item?id=49139102",
       "author": "foxtrot8672",
       "publishedAt": "2026-08-01T22:25:12.000Z"
-    },
-    {
-      "id": "49140080",
-      "source": "hn",
-      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
-      "url": "https://zenodo.org/records/21753002",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49140080",
-      "author": "yusuke_esaka",
-      "publishedAt": "2026-08-02T01:01:45.000Z"
-    },
-    {
-      "id": "49139826",
-      "source": "hn",
-      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-      "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49139826",
-      "author": "aaronbrethorst",
-      "publishedAt": "2026-08-02T00:06:25.000Z"
     },
     {
       "id": "49139232",
       "source": "hn",
       "title": "AI opens new era in cognitive studies of wild primates",
       "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
-      "score": 5,
+      "score": 23,
       "commentsUrl": "https://news.ycombinator.com/item?id=49139232",
       "author": "hhs",
       "publishedAt": "2026-08-01T22:40:22.000Z"
     },
     {
-      "id": "49139461",
+      "id": "49141627",
       "source": "hn",
-      "title": "Show HN: Symbio self fine-tuning AI loop",
-      "url": "https://github.com/huyedits/Symbio",
+      "title": "Agent-Browser – Browser Automation for AI",
+      "url": "https://agent-browser.dev/",
       "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49139461",
-      "author": "huyedit",
-      "publishedAt": "2026-08-01T23:06:26.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=49141627",
+      "author": "Garbage",
+      "publishedAt": "2026-08-02T06:15:23.000Z"
     },
     {
-      "id": "49139370",
+      "id": "49141408",
       "source": "hn",
-      "title": "Show HN: Wage Against the Machine – MacWages Index for AI Tasks",
-      "url": "https://watm.ddyo.dev/",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49139370",
-      "author": "danr4",
-      "publishedAt": "2026-08-01T22:54:32.000Z"
+      "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
+      "url": "https://github.com/ANIRudH-lab-life/job-radar",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49141408",
+      "author": "anirudhshivam",
+      "publishedAt": "2026-08-02T05:30:33.000Z"
     },
     {
-      "id": "49138483",
+      "id": "49139826",
       "source": "hn",
-      "title": "AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
-      "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49138483",
-      "author": "theanonymousone",
-      "publishedAt": "2026-08-01T21:05:00.000Z"
-    },
-    {
-      "id": "49137268",
-      "source": "hn",
-      "title": "Google cancels AI Studio app after 800k preorders",
-      "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
-      "score": 36,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49137268",
-      "author": "BlueBerry2001",
-      "publishedAt": "2026-08-01T18:55:13.000Z"
-    },
-    {
-      "id": "49130604",
-      "source": "hn",
-      "title": "Flint: A Visualization Language for the AI Era",
-      "url": "https://microsoft.github.io/flint-chart/",
-      "score": 255,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49130604",
-      "author": "vinhnx",
-      "publishedAt": "2026-08-01T02:45:09.000Z"
+      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+      "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49139826",
+      "author": "aaronbrethorst",
+      "publishedAt": "2026-08-02T00:06:25.000Z"
     },
     {
       "id": "49124358",
       "source": "hn",
       "title": "Is AI reasoning right for the wrong reasons?",
       "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "score": 200,
+      "score": 208,
       "commentsUrl": "https://news.ycombinator.com/item?id=49124358",
       "author": "retupmoc01",
       "publishedAt": "2026-07-31T15:29:39.000Z"
     },
     {
-      "id": "49133851",
+      "id": "49143010",
       "source": "hn",
-      "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
-      "url": "https://github.com/pochenai/nano-llm-posttraining",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49133851",
-      "author": "popopanda",
-      "publishedAt": "2026-08-01T12:30:32.000Z"
+      "title": "Stock market turmoil sheds stark light on the opaque AI economy",
+      "url": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49143010",
+      "author": "beardyw",
+      "publishedAt": "2026-08-02T10:19:43.000Z"
+    },
+    {
+      "id": "49143289",
+      "source": "hn",
+      "title": "Generative AI floods and dilutes the market for books",
+      "url": "https://arxiv.org/abs/2607.20349",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49143289",
+      "author": "theanonymousone",
+      "publishedAt": "2026-08-02T11:06:07.000Z"
+    },
+    {
+      "id": "49130604",
+      "source": "hn",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "score": 265,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49130604",
+      "author": "vinhnx",
+      "publishedAt": "2026-08-01T02:45:09.000Z"
     },
     {
       "id": "49120097",
       "source": "hn",
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
       "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "score": 556,
+      "score": 565,
       "commentsUrl": "https://news.ycombinator.com/item?id=49120097",
       "author": "Garbage",
       "publishedAt": "2026-07-31T07:29:22.000Z"
-    },
-    {
-      "id": "49119559",
-      "source": "hn",
-      "title": "DeepSeek-V4-Flash Update",
-      "url": "https://api-docs.deepseek.com/updates/",
-      "score": 728,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49119559",
-      "author": "dnhkng",
-      "publishedAt": "2026-07-31T06:08:36.000Z"
-    },
-    {
-      "id": "49120299",
-      "source": "hn",
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "score": 580,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49120299",
-      "author": "theanonymousone",
-      "publishedAt": "2026-07-31T07:59:11.000Z"
-    },
-    {
-      "id": "49119274",
-      "source": "hn",
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "url": "https://marbleos.com/demo",
-      "score": 131,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49119274",
-      "author": "akbabu",
-      "publishedAt": "2026-07-31T05:17:29.000Z"
-    },
-    {
-      "id": "49139325",
-      "source": "hn",
-      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-      "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-      "score": 43,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49139325",
-      "author": "tcp_handshaker",
-      "publishedAt": "2026-08-01T22:50:30.000Z"
     }
   ]
 }
