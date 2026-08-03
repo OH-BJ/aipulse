@@ -1,136 +1,86 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-03T02:07:09.264Z",
+  "fetchedAt": "2026-08-03T14:23:02.042Z",
   "items": [
+    {
+      "id": "49153374",
+      "source": "hn",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "score": 190,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49153374",
+      "author": "mpweiher",
+      "publishedAt": "2026-08-03T09:32:07.000Z"
+    },
+    {
+      "id": "49154127",
+      "source": "hn",
+      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "url": "https://github.com/garagehq/nightcrawler/",
+      "score": 47,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49154127",
+      "author": "NickySlicks",
+      "publishedAt": "2026-08-03T11:06:15.000Z"
+    },
+    {
+      "id": "49153029",
+      "source": "hn",
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49153029",
+      "author": "mohamed_am83",
+      "publishedAt": "2026-08-03T08:54:00.000Z"
+    },
+    {
+      "id": "49152222",
+      "source": "hn",
+      "title": "The AI Productivity Gap",
+      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+      "score": 76,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49152222",
+      "author": "kiyanwang",
+      "publishedAt": "2026-08-03T07:07:20.000Z"
+    },
+    {
+      "id": "49153481",
+      "source": "hn",
+      "title": "EU enforces labeling AI generated content",
+      "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
+      "score": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49153481",
+      "author": "nucatus",
+      "publishedAt": "2026-08-03T09:46:26.000Z"
+    },
     {
       "id": "49147622",
       "source": "hn",
-      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
       "url": "https://frogs.vaguespac.es/",
-      "score": 104,
+      "score": 145,
       "commentsUrl": "https://news.ycombinator.com/item?id=49147622",
       "author": "thebigship",
       "publishedAt": "2026-08-02T19:42:08.000Z"
     },
     {
-      "id": "49149800",
+      "id": "49150773",
       "source": "hn",
-      "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
-      "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49149800",
-      "author": "robenkleene",
-      "publishedAt": "2026-08-03T00:22:55.000Z"
+      "title": "AI migrated legacy COBOL programs to Java, bugs included",
+      "url": "https://arxiv.org/abs/2607.28271",
+      "score": 81,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49150773",
+      "author": "felineflock",
+      "publishedAt": "2026-08-03T03:06:12.000Z"
     },
     {
-      "id": "49149628",
+      "id": "49152668",
       "source": "hn",
-      "title": "Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof",
-      "url": "https://philarchive.org/rec/NIEWTC",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49149628",
-      "author": "gone35",
-      "publishedAt": "2026-08-02T23:56:59.000Z"
-    },
-    {
-      "id": "49147842",
-      "source": "hn",
-      "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-      "url": "https://github.com/paoloanzn/microcodex",
-      "score": 16,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49147842",
-      "author": "paoloanzn",
-      "publishedAt": "2026-08-02T20:11:35.000Z"
-    },
-    {
-      "id": "49148735",
-      "source": "hn",
-      "title": "Show HN: Alfa. Killing AI hallucinations with resonance",
-      "url": "https://github.com/ConsciousGroupMind/SKYNET-800---Collective-Intelligence-Forecasting-System",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49148735",
-      "author": "SKYNET800",
-      "publishedAt": "2026-08-02T21:51:09.000Z"
-    },
-    {
-      "id": "49149188",
-      "source": "hn",
-      "title": "AI poster wins Ohio State Fair contest",
-      "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-      "score": 114,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49149188",
-      "author": "AlexAplin",
-      "publishedAt": "2026-08-02T22:43:47.000Z"
-    },
-    {
-      "id": "49148959",
-      "source": "hn",
-      "title": "OpenAI’s amazing — but vastly oversold — new model Astra",
-      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49148959",
-      "author": "champagnepapi",
-      "publishedAt": "2026-08-02T22:13:30.000Z"
-    },
-    {
-      "id": "49149429",
-      "source": "hn",
-      "title": "The diabolical world of convincing AI thirst traps",
-      "url": "https://www.vox.com/culture/492604/ai-deepfake-gay-influencers-tiktok-thirst-traps",
+      "title": "1 in 4 people in Japan believes AI could replace friends and family: poll",
+      "url": "https://www.japantimes.co.jp/news/2026/08/02/japan/poll-ai-replace-friends-family/",
       "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49149429",
-      "author": "nabbed",
-      "publishedAt": "2026-08-02T23:24:09.000Z"
-    },
-    {
-      "id": "49148708",
-      "source": "hn",
-      "title": "How much AI can a maintainer get away with using without losing their humanity?",
-      "url": "https://www.jvt.me/posts/2026/08/02/ai-maintainer/",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49148708",
-      "author": "zdw",
-      "publishedAt": "2026-08-02T21:47:45.000Z"
-    },
-    {
-      "id": "49148630",
-      "source": "hn",
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49148630",
-      "author": "gmays",
-      "publishedAt": "2026-08-02T21:40:11.000Z"
-    },
-    {
-      "id": "49147192",
-      "source": "hn",
-      "title": "AI-assisted analytics now 10x cheaper",
-      "url": "https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49147192",
-      "author": "ryguyrg",
-      "publishedAt": "2026-08-02T18:49:59.000Z"
-    },
-    {
-      "id": "49146991",
-      "source": "hn",
-      "title": "Nanocodex: Building blocks for frontier OpenAI agents in Rust",
-      "url": "https://github.com/gakonst/nanocodex",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49146991",
-      "author": "sygma",
-      "publishedAt": "2026-08-02T18:25:19.000Z"
-    },
-    {
-      "id": "49145463",
-      "source": "hn",
-      "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
-      "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy/",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49145463",
-      "author": "flashblaze",
-      "publishedAt": "2026-08-02T15:23:59.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=49152668",
+      "author": "01-_-",
+      "publishedAt": "2026-08-03T08:08:16.000Z"
     }
   ]
 }
