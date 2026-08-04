@@ -1,86 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-03T14:23:02.042Z",
+  "fetchedAt": "2026-08-04T01:52:56.051Z",
   "items": [
     {
       "id": "49153374",
       "source": "hn",
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "score": 190,
+      "score": 384,
       "commentsUrl": "https://news.ycombinator.com/item?id=49153374",
       "author": "mpweiher",
       "publishedAt": "2026-08-03T09:32:07.000Z"
     },
     {
-      "id": "49154127",
+      "id": "49157786",
       "source": "hn",
-      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "url": "https://github.com/garagehq/nightcrawler/",
-      "score": 47,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49154127",
-      "author": "NickySlicks",
-      "publishedAt": "2026-08-03T11:06:15.000Z"
+      "title": "What's the largest software project AI can complete on its own?",
+      "url": "https://epoch.ai/MirrorCode",
+      "score": 66,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49157786",
+      "author": "yusufozkan",
+      "publishedAt": "2026-08-03T16:16:40.000Z"
     },
     {
-      "id": "49153029",
+      "id": "49154332",
       "source": "hn",
-      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-      "score": 17,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49153029",
-      "author": "mohamed_am83",
-      "publishedAt": "2026-08-03T08:54:00.000Z"
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "score": 699,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49154332",
+      "author": "ymir_e",
+      "publishedAt": "2026-08-03T11:28:54.000Z"
     },
     {
       "id": "49152222",
       "source": "hn",
       "title": "The AI Productivity Gap",
       "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-      "score": 76,
+      "score": 107,
       "commentsUrl": "https://news.ycombinator.com/item?id=49152222",
       "author": "kiyanwang",
       "publishedAt": "2026-08-03T07:07:20.000Z"
     },
     {
-      "id": "49153481",
+      "id": "49154127",
       "source": "hn",
-      "title": "EU enforces labeling AI generated content",
-      "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49153481",
-      "author": "nucatus",
-      "publishedAt": "2026-08-03T09:46:26.000Z"
-    },
-    {
-      "id": "49147622",
-      "source": "hn",
-      "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "url": "https://frogs.vaguespac.es/",
-      "score": 145,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49147622",
-      "author": "thebigship",
-      "publishedAt": "2026-08-02T19:42:08.000Z"
+      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "url": "https://github.com/garagehq/nightcrawler/",
+      "score": 103,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49154127",
+      "author": "NickySlicks",
+      "publishedAt": "2026-08-03T11:06:15.000Z"
     },
     {
       "id": "49150773",
       "source": "hn",
       "title": "AI migrated legacy COBOL programs to Java, bugs included",
       "url": "https://arxiv.org/abs/2607.28271",
-      "score": 81,
+      "score": 87,
       "commentsUrl": "https://news.ycombinator.com/item?id=49150773",
       "author": "felineflock",
       "publishedAt": "2026-08-03T03:06:12.000Z"
     },
     {
-      "id": "49152668",
+      "id": "49161394",
       "source": "hn",
-      "title": "1 in 4 people in Japan believes AI could replace friends and family: poll",
-      "url": "https://www.japantimes.co.jp/news/2026/08/02/japan/poll-ai-replace-friends-family/",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49152668",
-      "author": "01-_-",
-      "publishedAt": "2026-08-03T08:08:16.000Z"
+      "title": "A Claude Skill that runs a skeptical-VC teardown on your startup idea",
+      "url": "https://github.com/zszendro/vc-teardown",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49161394",
+      "author": "zszendro",
+      "publishedAt": "2026-08-03T21:02:44.000Z"
+    },
+    {
+      "id": "49162105",
+      "source": "hn",
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49162105",
+      "author": "sbulaev",
+      "publishedAt": "2026-08-03T22:07:07.000Z"
+    },
+    {
+      "id": "49159902",
+      "source": "hn",
+      "title": "The AI Bailout Could Be Baked into the AI Bubble",
+      "url": "https://prospect.org/2026/08/03/ai-bailout-could-be-baked-into-bubble-private-equity-life-insurers-loans/",
+      "score": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49159902",
+      "author": "Ambolia",
+      "publishedAt": "2026-08-03T18:51:23.000Z"
+    },
+    {
+      "id": "49160699",
+      "source": "hn",
+      "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+      "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+      "score": 114,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49160699",
+      "author": "mapping365",
+      "publishedAt": "2026-08-03T20:02:21.000Z"
     }
   ]
 }
