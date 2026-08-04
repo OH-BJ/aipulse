@@ -1,7 +1,79 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-04T01:52:56.603Z",
+  "fetchedAt": "2026-08-04T13:53:44.991Z",
   "items": [
+    {
+      "id": "32142",
+      "source": "geeknews",
+      "title": "AI 생성 이미지 때문에 당신의 블로그를 읽기 싫어진다",
+      "url": "https://news.hada.io/topic?id=32142",
+      "commentsUrl": "https://news.hada.io/topic?id=32142",
+      "author": "neo",
+      "publishedAt": "2026-08-04T13:31:24.000Z"
+    },
+    {
+      "id": "32141",
+      "source": "geeknews",
+      "title": "FFmpeg 9.0 - 코드명 “Lei”",
+      "url": "https://news.hada.io/topic?id=32141",
+      "commentsUrl": "https://news.hada.io/topic?id=32141",
+      "author": "neo",
+      "publishedAt": "2026-08-04T12:31:01.000Z"
+    },
+    {
+      "id": "32139",
+      "source": "geeknews",
+      "title": "Show GN: 그루스 인 코믹: Zork 텍스트 어드벤처를 Comic Chat 만화로 플레이하는 브라우저 게임",
+      "url": "https://news.hada.io/topic?id=32139",
+      "commentsUrl": "https://news.hada.io/topic?id=32139",
+      "author": "slowmo",
+      "publishedAt": "2026-08-04T09:40:31.000Z"
+    },
+    {
+      "id": "32138",
+      "source": "geeknews",
+      "title": "Pandoc 20년: Haskell 학습 프로젝트에서 범용 문서 변환기로",
+      "url": "https://news.hada.io/topic?id=32138",
+      "commentsUrl": "https://news.hada.io/topic?id=32138",
+      "author": "neo",
+      "publishedAt": "2026-08-04T09:34:18.000Z"
+    },
+    {
+      "id": "32137",
+      "source": "geeknews",
+      "title": "블랙 필을 먹지 마라",
+      "url": "https://news.hada.io/topic?id=32137",
+      "commentsUrl": "https://news.hada.io/topic?id=32137",
+      "author": "neo",
+      "publishedAt": "2026-08-04T06:03:46.000Z"
+    },
+    {
+      "id": "32136",
+      "source": "geeknews",
+      "title": "ICE, 2025년 어린이 포함 약 100만 명의 DNA 수집",
+      "url": "https://news.hada.io/topic?id=32136",
+      "commentsUrl": "https://news.hada.io/topic?id=32136",
+      "author": "neo",
+      "publishedAt": "2026-08-04T05:32:36.000Z"
+    },
+    {
+      "id": "32134",
+      "source": "geeknews",
+      "title": "Show GN: 코딩 에이전트에 엮어서 진화하는 코드베이스 위키를 만들어봤습니다.",
+      "url": "https://news.hada.io/topic?id=32134",
+      "commentsUrl": "https://news.hada.io/topic?id=32134",
+      "author": "goddessana",
+      "publishedAt": "2026-08-04T05:20:27.000Z"
+    },
+    {
+      "id": "32132",
+      "source": "geeknews",
+      "title": "Rust 프로젝트 목표: 이동 불가 타입과 소멸자 실행 보장",
+      "url": "https://news.hada.io/topic?id=32132",
+      "commentsUrl": "https://news.hada.io/topic?id=32132",
+      "author": "neo",
+      "publishedAt": "2026-08-04T05:02:15.000Z"
+    },
     {
       "id": "32129",
       "source": "geeknews",
@@ -199,78 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32107",
       "author": "mym0404",
       "publishedAt": "2026-08-03T14:58:21.000Z"
-    },
-    {
-      "id": "32106",
-      "source": "geeknews",
-      "title": "Kakehashi - Linux ARM에서 macOS CLI 바이너리를 실행하는 변환 계층",
-      "url": "https://news.hada.io/topic?id=32106",
-      "commentsUrl": "https://news.hada.io/topic?id=32106",
-      "author": "neo",
-      "publishedAt": "2026-08-03T14:31:41.000Z"
-    },
-    {
-      "id": "32105",
-      "source": "geeknews",
-      "title": "환각으로 생성된 SQLite 취약점에 Critical CVE가 발급됨",
-      "url": "https://news.hada.io/topic?id=32105",
-      "commentsUrl": "https://news.hada.io/topic?id=32105",
-      "author": "neo",
-      "publishedAt": "2026-08-03T13:32:28.000Z"
-    },
-    {
-      "id": "32104",
-      "source": "geeknews",
-      "title": "GitHub의 대안은 있지만 대체재는 없다",
-      "url": "https://news.hada.io/topic?id=32104",
-      "commentsUrl": "https://news.hada.io/topic?id=32104",
-      "author": "xguru",
-      "publishedAt": "2026-08-03T13:28:18.000Z"
-    },
-    {
-      "id": "32103",
-      "source": "geeknews",
-      "title": "Show GN: Figma Tools로 레트로 사다리타기 플러그인을 만들어봤습니다.",
-      "url": "https://news.hada.io/topic?id=32103",
-      "commentsUrl": "https://news.hada.io/topic?id=32103",
-      "author": "pentaxzs",
-      "publishedAt": "2026-08-03T12:50:30.000Z"
-    },
-    {
-      "id": "32100",
-      "source": "geeknews",
-      "title": "Isopolis - 샌프란시스코를 담은 등각 투영 픽셀 지도",
-      "url": "https://news.hada.io/topic?id=32100",
-      "commentsUrl": "https://news.hada.io/topic?id=32100",
-      "author": "neo",
-      "publishedAt": "2026-08-03T10:31:18.000Z"
-    },
-    {
-      "id": "32097",
-      "source": "geeknews",
-      "title": "많은 독일인보다 더 독일인답게",
-      "url": "https://news.hada.io/topic?id=32097",
-      "commentsUrl": "https://news.hada.io/topic?id=32097",
-      "author": "neo",
-      "publishedAt": "2026-08-03T09:35:33.000Z"
-    },
-    {
-      "id": "32096",
-      "source": "geeknews",
-      "title": "Show GN: VODAM Motion API: 운동 영상을 업로드하면 PINN 기반으로 자세 분석/가이드 비교를 해주는 API",
-      "url": "https://news.hada.io/topic?id=32096",
-      "commentsUrl": "https://news.hada.io/topic?id=32096",
-      "author": "sungbinjoo",
-      "publishedAt": "2026-08-03T08:43:32.000Z"
-    },
-    {
-      "id": "32094",
-      "source": "geeknews",
-      "title": "‘고기 프록시’가 되지 마라",
-      "url": "https://news.hada.io/topic?id=32094",
-      "commentsUrl": "https://news.hada.io/topic?id=32094",
-      "author": "neo",
-      "publishedAt": "2026-08-03T08:31:22.000Z"
     }
   ]
 }
