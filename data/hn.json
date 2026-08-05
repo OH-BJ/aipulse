@@ -1,96 +1,166 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-04T13:53:44.409Z",
+  "fetchedAt": "2026-08-05T01:52:59.078Z",
   "items": [
+    {
+      "id": "49171268",
+      "source": "hn",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "score": 307,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49171268",
+      "author": "riadsila",
+      "publishedAt": "2026-08-04T16:36:05.000Z"
+    },
+    {
+      "id": "49175826",
+      "source": "hn",
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "score": 140,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49175826",
+      "author": "bookofjoe",
+      "publishedAt": "2026-08-04T22:01:41.000Z"
+    },
+    {
+      "id": "49175248",
+      "source": "hn",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49175248",
+      "author": "glub",
+      "publishedAt": "2026-08-04T21:14:19.000Z"
+    },
+    {
+      "id": "49170915",
+      "source": "hn",
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "score": 81,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49170915",
+      "author": "doppp",
+      "publishedAt": "2026-08-04T16:10:39.000Z"
+    },
+    {
+      "id": "49170479",
+      "source": "hn",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "score": 334,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49170479",
+      "author": "thewebguyd",
+      "publishedAt": "2026-08-04T15:37:42.000Z"
+    },
     {
       "id": "49166386",
       "source": "hn",
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "score": 156,
+      "score": 366,
       "commentsUrl": "https://news.ycombinator.com/item?id=49166386",
       "author": "zhoutong",
       "publishedAt": "2026-08-04T10:00:55.000Z"
     },
     {
-      "id": "49167113",
+      "id": "49170628",
       "source": "hn",
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "score": 391,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49167113",
-      "author": "meysamazad",
-      "publishedAt": "2026-08-04T11:30:17.000Z"
+      "title": "Cloudflare enforces engineering standards using AI",
+      "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49170628",
+      "author": "garyhtou",
+      "publishedAt": "2026-08-04T15:49:50.000Z"
+    },
+    {
+      "id": "49176575",
+      "source": "hn",
+      "title": "Settlement with OpenAI for Discriminating Against U.S. Workers",
+      "url": "https://www.justice.gov/opa/pr/civil-rights-division-secures-settlement-openai-discriminating-against-us-workers",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49176575",
+      "author": "ethanwillis",
+      "publishedAt": "2026-08-04T23:13:25.000Z"
+    },
+    {
+      "id": "49175303",
+      "source": "hn",
+      "title": "An AI voice agent running locally on a $50 Arduino uno Q",
+      "url": "https://projecthub.arduino.cc/neelbuilds/build-a-voice-based-kiosk-for-retail-store-using-moorcheh-edge-and-arduino-uno-q-7f3c7b",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49175303",
+      "author": "supportm",
+      "publishedAt": "2026-08-04T21:18:02.000Z"
+    },
+    {
+      "id": "49176664",
+      "source": "hn",
+      "title": "OpenAI pays $3.2M in US probe over hiring foreign workers",
+      "url": "https://www.reuters.com/business/openai-pays-32-million-us-probe-over-hiring-foreign-workers-2026-08-04/",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49176664",
+      "author": "alephnerd",
+      "publishedAt": "2026-08-04T23:26:20.000Z"
+    },
+    {
+      "id": "49175717",
+      "source": "hn",
+      "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
+      "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49175717",
+      "author": "_pdp_",
+      "publishedAt": "2026-08-04T21:52:58.000Z"
+    },
+    {
+      "id": "49169227",
+      "source": "hn",
+      "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
+      "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
+      "score": 78,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49169227",
+      "author": "speckx",
+      "publishedAt": "2026-08-04T14:07:30.000Z"
+    },
+    {
+      "id": "49176826",
+      "source": "hn",
+      "title": "White House excludes open models from framework to test advanced AI capabilities",
+      "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49176826",
+      "author": "petethomas",
+      "publishedAt": "2026-08-04T23:50:34.000Z"
     },
     {
       "id": "49158333",
       "source": "hn",
       "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
       "url": "https://github.com/leonickson1/Swiftlet",
-      "score": 240,
+      "score": 298,
       "commentsUrl": "https://news.ycombinator.com/item?id=49158333",
       "author": "leonickson",
       "publishedAt": "2026-08-03T16:54:15.000Z"
     },
     {
-      "id": "49153374",
+      "id": "49172433",
       "source": "hn",
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "score": 509,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49153374",
-      "author": "mpweiher",
-      "publishedAt": "2026-08-03T09:32:07.000Z"
+      "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+      "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
+      "score": 61,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49172433",
+      "author": "01-_-",
+      "publishedAt": "2026-08-04T17:57:15.000Z"
     },
     {
-      "id": "49157786",
+      "id": "49167113",
       "source": "hn",
-      "title": "What's the largest software project AI can complete on its own?",
-      "url": "https://epoch.ai/MirrorCode",
-      "score": 93,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49157786",
-      "author": "yusufozkan",
-      "publishedAt": "2026-08-03T16:16:40.000Z"
-    },
-    {
-      "id": "49154332",
-      "source": "hn",
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "score": 715,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49154332",
-      "author": "ymir_e",
-      "publishedAt": "2026-08-03T11:28:54.000Z"
-    },
-    {
-      "id": "49152222",
-      "source": "hn",
-      "title": "The AI Productivity Gap",
-      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-      "score": 130,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49152222",
-      "author": "kiyanwang",
-      "publishedAt": "2026-08-03T07:07:20.000Z"
-    },
-    {
-      "id": "49154127",
-      "source": "hn",
-      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "url": "https://github.com/garagehq/nightcrawler/",
-      "score": 112,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49154127",
-      "author": "NickySlicks",
-      "publishedAt": "2026-08-03T11:06:15.000Z"
-    },
-    {
-      "id": "49150773",
-      "source": "hn",
-      "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "url": "https://arxiv.org/abs/2607.28271",
-      "score": 91,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49150773",
-      "author": "felineflock",
-      "publishedAt": "2026-08-03T03:06:12.000Z"
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+      "score": 733,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49167113",
+      "author": "meysamazad",
+      "publishedAt": "2026-08-04T11:30:17.000Z"
     }
   ]
 }
