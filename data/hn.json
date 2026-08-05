@@ -1,43 +1,83 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-05T01:52:59.078Z",
+  "fetchedAt": "2026-08-05T13:50:33.332Z",
   "items": [
+    {
+      "id": "49181519",
+      "source": "hn",
+      "title": "Why the Legendary Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "score": 35,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49181519",
+      "author": "pseudolus",
+      "publishedAt": "2026-08-05T11:49:34.000Z"
+    },
+    {
+      "id": "49182041",
+      "source": "hn",
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+      "score": 45,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49182041",
+      "author": "vincent_s",
+      "publishedAt": "2026-08-05T12:41:47.000Z"
+    },
     {
       "id": "49171268",
       "source": "hn",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "score": 307,
+      "score": 455,
       "commentsUrl": "https://news.ycombinator.com/item?id=49171268",
       "author": "riadsila",
       "publishedAt": "2026-08-04T16:36:05.000Z"
+    },
+    {
+      "id": "49178608",
+      "source": "hn",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "score": 73,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49178608",
+      "author": "theanonymousone",
+      "publishedAt": "2026-08-05T04:36:44.000Z"
+    },
+    {
+      "id": "49182052",
+      "source": "hn",
+      "title": "Iowa-led states ask OpenAI to keep their bots on a leash",
+      "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "score": 46,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49182052",
+      "author": "ArcHound",
+      "publishedAt": "2026-08-05T12:42:50.000Z"
     },
     {
       "id": "49175826",
       "source": "hn",
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
       "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "score": 140,
+      "score": 273,
       "commentsUrl": "https://news.ycombinator.com/item?id=49175826",
       "author": "bookofjoe",
       "publishedAt": "2026-08-04T22:01:41.000Z"
     },
     {
-      "id": "49175248",
+      "id": "49181773",
       "source": "hn",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "score": 41,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49175248",
-      "author": "glub",
-      "publishedAt": "2026-08-04T21:14:19.000Z"
+      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49181773",
+      "author": "zeristor",
+      "publishedAt": "2026-08-05T12:16:47.000Z"
     },
     {
       "id": "49170915",
       "source": "hn",
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
       "url": "https://arxiv.org/abs/2602.16763",
-      "score": 81,
+      "score": 102,
       "commentsUrl": "https://news.ycombinator.com/item?id=49170915",
       "author": "doppp",
       "publishedAt": "2026-08-04T16:10:39.000Z"
@@ -47,7 +87,7 @@
       "source": "hn",
       "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
       "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "score": 334,
+      "score": 373,
       "commentsUrl": "https://news.ycombinator.com/item?id=49170479",
       "author": "thewebguyd",
       "publishedAt": "2026-08-04T15:37:42.000Z"
@@ -57,7 +97,7 @@
       "source": "hn",
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "score": 366,
+      "score": 374,
       "commentsUrl": "https://news.ycombinator.com/item?id=49166386",
       "author": "zhoutong",
       "publishedAt": "2026-08-04T10:00:55.000Z"
@@ -67,100 +107,60 @@
       "source": "hn",
       "title": "Cloudflare enforces engineering standards using AI",
       "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
-      "score": 33,
+      "score": 51,
       "commentsUrl": "https://news.ycombinator.com/item?id=49170628",
       "author": "garyhtou",
       "publishedAt": "2026-08-04T15:49:50.000Z"
     },
     {
-      "id": "49176575",
+      "id": "49178759",
       "source": "hn",
-      "title": "Settlement with OpenAI for Discriminating Against U.S. Workers",
-      "url": "https://www.justice.gov/opa/pr/civil-rights-division-secures-settlement-openai-discriminating-against-us-workers",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49176575",
-      "author": "ethanwillis",
-      "publishedAt": "2026-08-04T23:13:25.000Z"
+      "title": "Compass, a local-first code graph built in Rust for humans and AI agents",
+      "url": "https://github.com/crabbuild/compass",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49178759",
+      "author": "forhappy",
+      "publishedAt": "2026-08-05T05:05:09.000Z"
     },
     {
-      "id": "49175303",
+      "id": "49180688",
       "source": "hn",
-      "title": "An AI voice agent running locally on a $50 Arduino uno Q",
-      "url": "https://projecthub.arduino.cc/neelbuilds/build-a-voice-based-kiosk-for-retail-store-using-moorcheh-edge-and-arduino-uno-q-7f3c7b",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49175303",
-      "author": "supportm",
-      "publishedAt": "2026-08-04T21:18:02.000Z"
+      "title": "OpenAI, Anthropic AI Models Breached Systems During UK Safety Tests",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/openai-says-models-breached-boundaries-during-outside-testing",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49180688",
+      "author": "sbulaev",
+      "publishedAt": "2026-08-05T10:07:08.000Z"
     },
     {
-      "id": "49176664",
+      "id": "49175248",
       "source": "hn",
-      "title": "OpenAI pays $3.2M in US probe over hiring foreign workers",
-      "url": "https://www.reuters.com/business/openai-pays-32-million-us-probe-over-hiring-foreign-workers-2026-08-04/",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49176664",
-      "author": "alephnerd",
-      "publishedAt": "2026-08-04T23:26:20.000Z"
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "score": 52,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49175248",
+      "author": "glub",
+      "publishedAt": "2026-08-04T21:14:19.000Z"
     },
     {
-      "id": "49175717",
+      "id": "49176770",
       "source": "hn",
-      "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
-      "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
-      "score": 57,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49175717",
-      "author": "_pdp_",
-      "publishedAt": "2026-08-04T21:52:58.000Z"
-    },
-    {
-      "id": "49169227",
-      "source": "hn",
-      "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
-      "score": 78,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49169227",
-      "author": "speckx",
-      "publishedAt": "2026-08-04T14:07:30.000Z"
-    },
-    {
-      "id": "49176826",
-      "source": "hn",
-      "title": "White House excludes open models from framework to test advanced AI capabilities",
-      "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49176826",
-      "author": "petethomas",
-      "publishedAt": "2026-08-04T23:50:34.000Z"
+      "title": "Nobody Was Watching: Anthropic, OpenAI, and Open Models",
+      "url": "https://substack.norabble.com/p/nobody-was-watching",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49176770",
+      "author": "nedruod",
+      "publishedAt": "2026-08-04T23:42:12.000Z"
     },
     {
       "id": "49158333",
       "source": "hn",
       "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
       "url": "https://github.com/leonickson1/Swiftlet",
-      "score": 298,
+      "score": 306,
       "commentsUrl": "https://news.ycombinator.com/item?id=49158333",
       "author": "leonickson",
       "publishedAt": "2026-08-03T16:54:15.000Z"
-    },
-    {
-      "id": "49172433",
-      "source": "hn",
-      "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
-      "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
-      "score": 61,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49172433",
-      "author": "01-_-",
-      "publishedAt": "2026-08-04T17:57:15.000Z"
-    },
-    {
-      "id": "49167113",
-      "source": "hn",
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "score": 733,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49167113",
-      "author": "meysamazad",
-      "publishedAt": "2026-08-04T11:30:17.000Z"
     }
   ]
 }
