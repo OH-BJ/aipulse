@@ -1,23 +1,13 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-07T02:18:12.213Z",
+  "fetchedAt": "2026-08-07T12:45:25.406Z",
   "items": [
-    {
-      "id": "49202852",
-      "source": "hn",
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "score": 68,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49202852",
-      "author": "sebg",
-      "publishedAt": "2026-08-06T21:30:21.000Z"
-    },
     {
       "id": "49199357",
       "source": "hn",
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "score": 157,
+      "score": 259,
       "commentsUrl": "https://news.ycombinator.com/item?id=49199357",
       "author": "tedsanders",
       "publishedAt": "2026-08-06T17:02:04.000Z"
@@ -27,37 +17,77 @@
       "source": "hn",
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
       "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "score": 258,
+      "score": 316,
       "commentsUrl": "https://news.ycombinator.com/item?id=49195468",
       "author": "Wirbelwind",
       "publishedAt": "2026-08-06T11:58:07.000Z"
     },
     {
-      "id": "49203443",
+      "id": "49204546",
       "source": "hn",
-      "title": "OpenAI and four rivals just agreed on one standard for AI agents",
-      "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49203443",
-      "author": "FireBeyond",
-      "publishedAt": "2026-08-06T22:21:32.000Z"
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "score": 65,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49204546",
+      "author": "champagnepapi",
+      "publishedAt": "2026-08-07T00:37:30.000Z"
     },
     {
-      "id": "49202980",
+      "id": "49202852",
       "source": "hn",
-      "title": "OpenAI's latest math breakthroughs commit research misconduct, experts say",
-      "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
-      "score": 25,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49202980",
-      "author": "beardyw",
-      "publishedAt": "2026-08-06T21:40:55.000Z"
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "score": 122,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49202852",
+      "author": "sebg",
+      "publishedAt": "2026-08-06T21:30:21.000Z"
+    },
+    {
+      "id": "49198069",
+      "source": "hn",
+      "title": "Software development with AI is starting to feel like cooking steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "score": 375,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49198069",
+      "author": "yusyd",
+      "publishedAt": "2026-08-06T15:30:48.000Z"
+    },
+    {
+      "id": "49161803",
+      "source": "hn",
+      "title": "Learning to fly FPV drones with AI flight coach",
+      "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49161803",
+      "author": "divyenduz",
+      "publishedAt": "2026-08-03T21:39:27.000Z"
+    },
+    {
+      "id": "49162299",
+      "source": "hn",
+      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+      "url": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
+      "score": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49162299",
+      "author": "dukebartnik",
+      "publishedAt": "2026-08-03T22:29:22.000Z"
+    },
+    {
+      "id": "49207770",
+      "source": "hn",
+      "title": "Generative \"AI\": The Guitar Hero of Creativity",
+      "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
+      "score": 21,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49207770",
+      "author": "cheeaun",
+      "publishedAt": "2026-08-07T09:07:36.000Z"
     },
     {
       "id": "49186720",
       "source": "hn",
       "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
       "url": "https://arxiv.org/abs/2510.01395",
-      "score": 162,
+      "score": 168,
       "commentsUrl": "https://news.ycombinator.com/item?id=49186720",
       "author": "robin_reala",
       "publishedAt": "2026-08-05T18:17:03.000Z"
@@ -67,27 +97,17 @@
       "source": "hn",
       "title": "When online commenters detect my art as AI",
       "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
-      "score": 99,
+      "score": 109,
       "commentsUrl": "https://news.ycombinator.com/item?id=49188916",
       "author": "Jare",
       "publishedAt": "2026-08-05T20:58:52.000Z"
-    },
-    {
-      "id": "49204546",
-      "source": "hn",
-      "title": "New Orleans will use AI to answer 911 calls instead of a human",
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-      "score": 43,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49204546",
-      "author": "champagnepapi",
-      "publishedAt": "2026-08-07T00:37:30.000Z"
     },
     {
       "id": "49187061",
       "source": "hn",
       "title": "Born Against, or why hobby programming communities are against LLM usage",
       "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 408,
+      "score": 420,
       "commentsUrl": "https://news.ycombinator.com/item?id=49187061",
       "author": "lladnar",
       "publishedAt": "2026-08-05T18:37:49.000Z"
@@ -97,7 +117,7 @@
       "source": "hn",
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 424,
+      "score": 427,
       "commentsUrl": "https://news.ycombinator.com/item?id=49186762",
       "author": "moonikakiss",
       "publishedAt": "2026-08-05T18:18:56.000Z"
@@ -111,16 +131,6 @@
       "commentsUrl": "https://news.ycombinator.com/item?id=49181519",
       "author": "pseudolus",
       "publishedAt": "2026-08-05T11:49:34.000Z"
-    },
-    {
-      "id": "49201342",
-      "source": "hn",
-      "title": "xAI, SpaceX, and the Race for AI Buildout",
-      "url": "https://illegal.solutions/posts/xai_pollution",
-      "score": 134,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49201342",
-      "author": "speckx",
-      "publishedAt": "2026-08-06T19:38:45.000Z"
     }
   ]
 }

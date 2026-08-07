@@ -1,7 +1,79 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-07T02:18:12.713Z",
+  "fetchedAt": "2026-08-07T12:45:25.673Z",
   "items": [
+    {
+      "id": "32236",
+      "source": "geeknews",
+      "title": "뉴멕시코 법원, 아동 정신건강 피해로 Meta에 5억6,700만 달러 지급 명령",
+      "url": "https://news.hada.io/topic?id=32236",
+      "commentsUrl": "https://news.hada.io/topic?id=32236",
+      "author": "neo",
+      "publishedAt": "2026-08-07T11:32:32.000Z"
+    },
+    {
+      "id": "32235",
+      "source": "geeknews",
+      "title": "Quake 30주년 업데이트: 신규 에피소드 ‘Dawn of the Machine’",
+      "url": "https://news.hada.io/topic?id=32235",
+      "commentsUrl": "https://news.hada.io/topic?id=32235",
+      "author": "neo",
+      "publishedAt": "2026-08-07T10:32:13.000Z"
+    },
+    {
+      "id": "32234",
+      "source": "geeknews",
+      "title": "이모지만으로 유용한 DOS 실행 파일을 만들 수 있을까",
+      "url": "https://news.hada.io/topic?id=32234",
+      "commentsUrl": "https://news.hada.io/topic?id=32234",
+      "author": "neo",
+      "publishedAt": "2026-08-07T09:01:42.000Z"
+    },
+    {
+      "id": "32232",
+      "source": "geeknews",
+      "title": "남은 것은 안목뿐이다",
+      "url": "https://news.hada.io/topic?id=32232",
+      "commentsUrl": "https://news.hada.io/topic?id=32232",
+      "author": "neo",
+      "publishedAt": "2026-08-07T06:33:02.000Z"
+    },
+    {
+      "id": "32231",
+      "source": "geeknews",
+      "title": "AI한테 시험을 냈는데 출제자가 5번 틀렸다 - LLM 파이프라인 검증기",
+      "url": "https://news.hada.io/topic?id=32231",
+      "commentsUrl": "https://news.hada.io/topic?id=32231",
+      "author": "ramses203",
+      "publishedAt": "2026-08-07T06:05:38.000Z"
+    },
+    {
+      "id": "32230",
+      "source": "geeknews",
+      "title": "zot – 단일 Go 바이너리부터 HA 클러스터까지 확장 가능한 가벼운 OCI Registry",
+      "url": "https://news.hada.io/topic?id=32230",
+      "commentsUrl": "https://news.hada.io/topic?id=32230",
+      "author": "click",
+      "publishedAt": "2026-08-07T05:39:32.000Z"
+    },
+    {
+      "id": "32229",
+      "source": "geeknews",
+      "title": "스테이크를 굽는 데는 거의 기술이 필요하지 않다",
+      "url": "https://news.hada.io/topic?id=32229",
+      "commentsUrl": "https://news.hada.io/topic?id=32229",
+      "author": "neo",
+      "publishedAt": "2026-08-07T04:32:04.000Z"
+    },
+    {
+      "id": "32228",
+      "source": "geeknews",
+      "title": "OCI Always Free: Ampere A1 Compute 할당량 변경 안내",
+      "url": "https://news.hada.io/topic?id=32228",
+      "commentsUrl": "https://news.hada.io/topic?id=32228",
+      "author": "dowha",
+      "publishedAt": "2026-08-07T04:16:21.000Z"
+    },
     {
       "id": "32225",
       "source": "geeknews",
@@ -199,78 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32202",
       "author": "neo",
       "publishedAt": "2026-08-06T11:01:26.000Z"
-    },
-    {
-      "id": "32201",
-      "source": "geeknews",
-      "title": "Android 휴대폰에서 Linux로 전환하기",
-      "url": "https://news.hada.io/topic?id=32201",
-      "commentsUrl": "https://news.hada.io/topic?id=32201",
-      "author": "neo",
-      "publishedAt": "2026-08-06T09:32:04.000Z"
-    },
-    {
-      "id": "32200",
-      "source": "geeknews",
-      "title": "Show GN: 회원가입·광고 없는 인터넷 속도측정 도구를 만들었습니다 (4개 국어)",
-      "url": "https://news.hada.io/topic?id=32200",
-      "commentsUrl": "https://news.hada.io/topic?id=32200",
-      "author": "mnobw",
-      "publishedAt": "2026-08-06T04:19:13.000Z"
-    },
-    {
-      "id": "32198",
-      "source": "geeknews",
-      "title": "DuckDuckGo의 \"스마트\" 글래스: Normal F***ing Sunglasses",
-      "url": "https://news.hada.io/topic?id=32198",
-      "commentsUrl": "https://news.hada.io/topic?id=32198",
-      "author": "unsure4000",
-      "publishedAt": "2026-08-06T02:50:55.000Z"
-    },
-    {
-      "id": "32197",
-      "source": "geeknews",
-      "title": "Show GN: SVN KR : 한글 사용자를 위한 mac용 SVN 앱",
-      "url": "https://news.hada.io/topic?id=32197",
-      "commentsUrl": "https://news.hada.io/topic?id=32197",
-      "author": "thkimdev",
-      "publishedAt": "2026-08-06T02:49:17.000Z"
-    },
-    {
-      "id": "32195",
-      "source": "geeknews",
-      "title": "Zed DeltaDB 얼리 액세스",
-      "url": "https://news.hada.io/topic?id=32195",
-      "commentsUrl": "https://news.hada.io/topic?id=32195",
-      "author": "neo",
-      "publishedAt": "2026-08-06T02:31:34.000Z"
-    },
-    {
-      "id": "32192",
-      "source": "geeknews",
-      "title": "late.sh - 개발자를 위한 아늑한 터미널 클럽하우스",
-      "url": "https://news.hada.io/topic?id=32192",
-      "commentsUrl": "https://news.hada.io/topic?id=32192",
-      "author": "xguru",
-      "publishedAt": "2026-08-06T00:31:02.000Z"
-    },
-    {
-      "id": "32191",
-      "source": "geeknews",
-      "title": "공세적 인터넷 태세",
-      "url": "https://news.hada.io/topic?id=32191",
-      "commentsUrl": "https://news.hada.io/topic?id=32191",
-      "author": "neo",
-      "publishedAt": "2026-08-06T00:08:06.000Z"
-    },
-    {
-      "id": "32190",
-      "source": "geeknews",
-      "title": "rust-lang/rust가 LLM 사용 정책을 도입함",
-      "url": "https://news.hada.io/topic?id=32190",
-      "commentsUrl": "https://news.hada.io/topic?id=32190",
-      "author": "neo",
-      "publishedAt": "2026-08-06T00:05:06.000Z"
     }
   ]
 }
