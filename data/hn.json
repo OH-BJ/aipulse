@@ -1,43 +1,63 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-06T13:47:53.941Z",
+  "fetchedAt": "2026-08-07T02:18:12.213Z",
   "items": [
+    {
+      "id": "49202852",
+      "source": "hn",
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "score": 68,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49202852",
+      "author": "sebg",
+      "publishedAt": "2026-08-06T21:30:21.000Z"
+    },
+    {
+      "id": "49199357",
+      "source": "hn",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "score": 157,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49199357",
+      "author": "tedsanders",
+      "publishedAt": "2026-08-06T17:02:04.000Z"
+    },
     {
       "id": "49195468",
       "source": "hn",
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
       "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "score": 33,
+      "score": 258,
       "commentsUrl": "https://news.ycombinator.com/item?id=49195468",
       "author": "Wirbelwind",
       "publishedAt": "2026-08-06T11:58:07.000Z"
     },
     {
-      "id": "49186762",
+      "id": "49203443",
       "source": "hn",
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 357,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49186762",
-      "author": "moonikakiss",
-      "publishedAt": "2026-08-05T18:18:56.000Z"
+      "title": "OpenAI and four rivals just agreed on one standard for AI agents",
+      "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49203443",
+      "author": "FireBeyond",
+      "publishedAt": "2026-08-06T22:21:32.000Z"
     },
     {
-      "id": "49187061",
+      "id": "49202980",
       "source": "hn",
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 316,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49187061",
-      "author": "lladnar",
-      "publishedAt": "2026-08-05T18:37:49.000Z"
+      "title": "OpenAI's latest math breakthroughs commit research misconduct, experts say",
+      "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
+      "score": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49202980",
+      "author": "beardyw",
+      "publishedAt": "2026-08-06T21:40:55.000Z"
     },
     {
       "id": "49186720",
       "source": "hn",
       "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
       "url": "https://arxiv.org/abs/2510.01395",
-      "score": 148,
+      "score": 162,
       "commentsUrl": "https://news.ycombinator.com/item?id=49186720",
       "author": "robin_reala",
       "publishedAt": "2026-08-05T18:17:03.000Z"
@@ -47,100 +67,60 @@
       "source": "hn",
       "title": "When online commenters detect my art as AI",
       "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
-      "score": 59,
+      "score": 99,
       "commentsUrl": "https://news.ycombinator.com/item?id=49188916",
       "author": "Jare",
       "publishedAt": "2026-08-05T20:58:52.000Z"
+    },
+    {
+      "id": "49204546",
+      "source": "hn",
+      "title": "New Orleans will use AI to answer 911 calls instead of a human",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "score": 43,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49204546",
+      "author": "champagnepapi",
+      "publishedAt": "2026-08-07T00:37:30.000Z"
+    },
+    {
+      "id": "49187061",
+      "source": "hn",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "score": 408,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49187061",
+      "author": "lladnar",
+      "publishedAt": "2026-08-05T18:37:49.000Z"
+    },
+    {
+      "id": "49186762",
+      "source": "hn",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "score": 424,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49186762",
+      "author": "moonikakiss",
+      "publishedAt": "2026-08-05T18:18:56.000Z"
     },
     {
       "id": "49181519",
       "source": "hn",
       "title": "Why Erdős Problems Are Falling to AI",
       "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "score": 141,
+      "score": 148,
       "commentsUrl": "https://news.ycombinator.com/item?id=49181519",
       "author": "pseudolus",
       "publishedAt": "2026-08-05T11:49:34.000Z"
     },
     {
-      "id": "49187259",
+      "id": "49201342",
       "source": "hn",
-      "title": "Sula: A Gemini protocol server written in Scryer Prolog",
-      "url": "https://sagredo.dev/projects/sula/",
-      "score": 57,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49187259",
-      "author": "triska",
-      "publishedAt": "2026-08-05T18:52:58.000Z"
-    },
-    {
-      "id": "49192219",
-      "source": "hn",
-      "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
-      "url": "https://github.com/pradipta/wallfacer",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49192219",
-      "author": "pradiptasarma",
-      "publishedAt": "2026-08-06T03:52:56.000Z"
-    },
-    {
-      "id": "49193019",
-      "source": "hn",
-      "title": "Meta says AI model accessed the internet and hacked another firm",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po",
-      "score": 30,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49193019",
-      "author": "smarri",
-      "publishedAt": "2026-08-06T06:04:08.000Z"
-    },
-    {
-      "id": "49196596",
-      "source": "hn",
-      "title": "AI generated over 95% of China's new microdramas in Q1 2026",
-      "url": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49196596",
-      "author": "qikouki",
-      "publishedAt": "2026-08-06T13:44:20.000Z"
-    },
-    {
-      "id": "49187977",
-      "source": "hn",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "score": 304,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49187977",
-      "author": "malshe",
-      "publishedAt": "2026-08-05T19:47:26.000Z"
-    },
-    {
-      "id": "49171268",
-      "source": "hn",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "score": 479,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49171268",
-      "author": "riadsila",
-      "publishedAt": "2026-08-04T16:36:05.000Z"
-    },
-    {
-      "id": "49178608",
-      "source": "hn",
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "url": "https://arxiv.org/abs/2607.29377",
-      "score": 96,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49178608",
-      "author": "theanonymousone",
-      "publishedAt": "2026-08-05T04:36:44.000Z"
-    },
-    {
-      "id": "49182041",
-      "source": "hn",
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
-      "score": 251,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49182041",
-      "author": "vincent_s",
-      "publishedAt": "2026-08-05T12:41:47.000Z"
+      "title": "xAI, SpaceX, and the Race for AI Buildout",
+      "url": "https://illegal.solutions/posts/xai_pollution",
+      "score": 134,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49201342",
+      "author": "speckx",
+      "publishedAt": "2026-08-06T19:38:45.000Z"
     }
   ]
 }
