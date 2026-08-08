@@ -1,13 +1,103 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-07T12:45:25.406Z",
+  "fetchedAt": "2026-08-08T01:04:45.317Z",
   "items": [
+    {
+      "id": "49214008",
+      "source": "hn",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "score": 444,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49214008",
+      "author": "tosh",
+      "publishedAt": "2026-08-07T17:56:20.000Z"
+    },
+    {
+      "id": "49217629",
+      "source": "hn",
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49217629",
+      "author": "reasonableklout",
+      "publishedAt": "2026-08-08T00:03:31.000Z"
+    },
+    {
+      "id": "49214468",
+      "source": "hn",
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "score": 158,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49214468",
+      "author": "moonikakiss",
+      "publishedAt": "2026-08-07T18:25:17.000Z"
+    },
+    {
+      "id": "49213754",
+      "source": "hn",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "score": 377,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49213754",
+      "author": "delduca",
+      "publishedAt": "2026-08-07T17:36:30.000Z"
+    },
+    {
+      "id": "49215786",
+      "source": "hn",
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "score": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49215786",
+      "author": "ilamont",
+      "publishedAt": "2026-08-07T20:25:04.000Z"
+    },
+    {
+      "id": "49202852",
+      "source": "hn",
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "score": 142,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49202852",
+      "author": "sebg",
+      "publishedAt": "2026-08-06T21:30:21.000Z"
+    },
+    {
+      "id": "49214994",
+      "source": "hn",
+      "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
+      "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49214994",
+      "author": "tosh",
+      "publishedAt": "2026-08-07T19:11:00.000Z"
+    },
+    {
+      "id": "49204546",
+      "source": "hn",
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "score": 72,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49204546",
+      "author": "champagnepapi",
+      "publishedAt": "2026-08-07T00:37:30.000Z"
+    },
+    {
+      "id": "49216075",
+      "source": "hn",
+      "title": "YouTube's AI Detection Kicked Us in the Face",
+      "url": "https://twitter.com/Kurz_Gesagt/status/2083191397981561232",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49216075",
+      "author": "unsnap_biceps",
+      "publishedAt": "2026-08-07T20:50:09.000Z"
+    },
     {
       "id": "49199357",
       "source": "hn",
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "score": 259,
+      "score": 309,
       "commentsUrl": "https://news.ycombinator.com/item?id=49199357",
       "author": "tedsanders",
       "publishedAt": "2026-08-06T17:02:04.000Z"
@@ -17,120 +107,40 @@
       "source": "hn",
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
       "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "score": 316,
+      "score": 330,
       "commentsUrl": "https://news.ycombinator.com/item?id=49195468",
       "author": "Wirbelwind",
       "publishedAt": "2026-08-06T11:58:07.000Z"
-    },
-    {
-      "id": "49204546",
-      "source": "hn",
-      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-      "score": 65,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49204546",
-      "author": "champagnepapi",
-      "publishedAt": "2026-08-07T00:37:30.000Z"
-    },
-    {
-      "id": "49202852",
-      "source": "hn",
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "score": 122,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49202852",
-      "author": "sebg",
-      "publishedAt": "2026-08-06T21:30:21.000Z"
     },
     {
       "id": "49198069",
       "source": "hn",
       "title": "Software development with AI is starting to feel like cooking steak",
       "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "score": 375,
+      "score": 398,
       "commentsUrl": "https://news.ycombinator.com/item?id=49198069",
       "author": "yusyd",
       "publishedAt": "2026-08-06T15:30:48.000Z"
     },
     {
-      "id": "49161803",
+      "id": "49212034",
       "source": "hn",
-      "title": "Learning to fly FPV drones with AI flight coach",
-      "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49161803",
-      "author": "divyenduz",
-      "publishedAt": "2026-08-03T21:39:27.000Z"
+      "title": "Qwen 3.8-Max Preview",
+      "url": "https://manish.sh/writings/models/inside-qwen-3-8-max-preview-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49212034",
+      "author": "ms7892",
+      "publishedAt": "2026-08-07T15:32:23.000Z"
     },
     {
-      "id": "49162299",
+      "id": "49213016",
       "source": "hn",
-      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-      "url": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
-      "score": 54,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49162299",
-      "author": "dukebartnik",
-      "publishedAt": "2026-08-03T22:29:22.000Z"
-    },
-    {
-      "id": "49207770",
-      "source": "hn",
-      "title": "Generative \"AI\": The Guitar Hero of Creativity",
-      "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49207770",
-      "author": "cheeaun",
-      "publishedAt": "2026-08-07T09:07:36.000Z"
-    },
-    {
-      "id": "49186720",
-      "source": "hn",
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "score": 168,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49186720",
-      "author": "robin_reala",
-      "publishedAt": "2026-08-05T18:17:03.000Z"
-    },
-    {
-      "id": "49188916",
-      "source": "hn",
-      "title": "When online commenters detect my art as AI",
-      "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
-      "score": 109,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49188916",
-      "author": "Jare",
-      "publishedAt": "2026-08-05T20:58:52.000Z"
-    },
-    {
-      "id": "49187061",
-      "source": "hn",
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 420,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49187061",
-      "author": "lladnar",
-      "publishedAt": "2026-08-05T18:37:49.000Z"
-    },
-    {
-      "id": "49186762",
-      "source": "hn",
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 427,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49186762",
-      "author": "moonikakiss",
-      "publishedAt": "2026-08-05T18:18:56.000Z"
-    },
-    {
-      "id": "49181519",
-      "source": "hn",
-      "title": "Why Erdős Problems Are Falling to AI",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "score": 148,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49181519",
-      "author": "pseudolus",
-      "publishedAt": "2026-08-05T11:49:34.000Z"
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
+      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+      "score": 20,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49213016",
+      "author": "swolpers",
+      "publishedAt": "2026-08-07T16:38:57.000Z"
     }
   ]
 }
