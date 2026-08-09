@@ -1,106 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-08T12:32:47.421Z",
+  "fetchedAt": "2026-08-09T01:09:27.020Z",
   "items": [
+    {
+      "id": "49220609",
+      "source": "hn",
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "score": 329,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49220609",
+      "author": "882542F3884314B",
+      "publishedAt": "2026-08-08T10:57:44.000Z"
+    },
+    {
+      "id": "49215786",
+      "source": "hn",
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "score": 214,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49215786",
+      "author": "ilamont",
+      "publishedAt": "2026-08-07T20:25:04.000Z"
+    },
+    {
+      "id": "49222824",
+      "source": "hn",
+      "title": "Message your other Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "score": 55,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49222824",
+      "author": "mfiguiere",
+      "publishedAt": "2026-08-08T15:34:49.000Z"
+    },
+    {
+      "id": "49226647",
+      "source": "hn",
+      "title": "You can build an AI agent's memory layer with only Go's standard library",
+      "url": "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49226647",
+      "author": "cheikhdev",
+      "publishedAt": "2026-08-08T22:50:06.000Z"
+    },
+    {
+      "id": "49221864",
+      "source": "hn",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "score": 152,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49221864",
+      "author": "happosai",
+      "publishedAt": "2026-08-08T13:55:42.000Z"
+    },
     {
       "id": "49214008",
       "source": "hn",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 667,
+      "score": 763,
       "commentsUrl": "https://news.ycombinator.com/item?id=49214008",
       "author": "tosh",
       "publishedAt": "2026-08-07T17:56:20.000Z"
-    },
-    {
-      "id": "49220609",
-      "source": "hn",
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "score": 42,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49220609",
-      "author": "882542F3884314B",
-      "publishedAt": "2026-08-08T10:57:44.000Z"
     },
     {
       "id": "49214468",
       "source": "hn",
       "title": "Managing AI Coding Costs at Scale",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "score": 256,
+      "score": 299,
       "commentsUrl": "https://news.ycombinator.com/item?id=49214468",
       "author": "moonikakiss",
       "publishedAt": "2026-08-07T18:25:17.000Z"
+    },
+    {
+      "id": "49226444",
+      "source": "hn",
+      "title": "AI Settles a 25 Year-Old Problem We Left Behind",
+      "url": "https://twitter.com/DimitrisPapail/status/2086158118354887060",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49226444",
+      "author": "amichail",
+      "publishedAt": "2026-08-08T22:22:24.000Z"
     },
     {
       "id": "49213754",
       "source": "hn",
       "title": "Oracle bans AI-generated code from OpenJDK",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 488,
+      "score": 520,
       "commentsUrl": "https://news.ycombinator.com/item?id=49213754",
       "author": "delduca",
       "publishedAt": "2026-08-07T17:36:30.000Z"
     },
     {
-      "id": "49199357",
+      "id": "49226743",
       "source": "hn",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "score": 313,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49199357",
-      "author": "tedsanders",
-      "publishedAt": "2026-08-06T17:02:04.000Z"
-    },
-    {
-      "id": "49202852",
-      "source": "hn",
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "score": 143,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49202852",
-      "author": "sebg",
-      "publishedAt": "2026-08-06T21:30:21.000Z"
-    },
-    {
-      "id": "49204546",
-      "source": "hn",
-      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-      "score": 72,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49204546",
-      "author": "champagnepapi",
-      "publishedAt": "2026-08-07T00:37:30.000Z"
-    },
-    {
-      "id": "49218776",
-      "source": "hn",
-      "title": "OpenAI Trained Models for Months While Those Models Were Coordinating Exploits",
-      "url": "https://thezvi.substack.com/p/openai-trained-its-models-for-months",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49218776",
-      "author": "paulpauper",
-      "publishedAt": "2026-08-08T03:57:58.000Z"
-    },
-    {
-      "id": "49195468",
-      "source": "hn",
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "score": 332,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49195468",
-      "author": "Wirbelwind",
-      "publishedAt": "2026-08-06T11:58:07.000Z"
-    },
-    {
-      "id": "49198069",
-      "source": "hn",
-      "title": "Software development with AI is starting to feel like cooking steak",
-      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "score": 411,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49198069",
-      "author": "yusyd",
-      "publishedAt": "2026-08-06T15:30:48.000Z"
+      "title": "GPT-4 finished training four years ago today",
+      "url": "https://twitter.com/gdb/status/2086092396023120286",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49226743",
+      "author": "nekofneko",
+      "publishedAt": "2026-08-08T23:05:30.000Z"
     }
   ]
 }
