@@ -1,106 +1,96 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-09T01:09:27.020Z",
+  "fetchedAt": "2026-08-09T12:35:51.806Z",
   "items": [
     {
-      "id": "49220609",
+      "id": "49230550",
       "source": "hn",
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "score": 329,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49220609",
-      "author": "882542F3884314B",
-      "publishedAt": "2026-08-08T10:57:44.000Z"
+      "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49230550",
+      "author": "nmitchko",
+      "publishedAt": "2026-08-09T11:46:28.000Z"
     },
     {
-      "id": "49215786",
+      "id": "49229412",
       "source": "hn",
-      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-      "score": 214,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49215786",
-      "author": "ilamont",
-      "publishedAt": "2026-08-07T20:25:04.000Z"
+      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+      "score": 50,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49229412",
+      "author": "theanonymousone",
+      "publishedAt": "2026-08-09T08:00:51.000Z"
     },
     {
       "id": "49222824",
       "source": "hn",
       "title": "Message your other Claude Code sessions",
       "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "score": 55,
+      "score": 137,
       "commentsUrl": "https://news.ycombinator.com/item?id=49222824",
       "author": "mfiguiere",
       "publishedAt": "2026-08-08T15:34:49.000Z"
     },
     {
-      "id": "49226647",
+      "id": "49220609",
       "source": "hn",
-      "title": "You can build an AI agent's memory layer with only Go's standard library",
-      "url": "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49226647",
-      "author": "cheikhdev",
-      "publishedAt": "2026-08-08T22:50:06.000Z"
-    },
-    {
-      "id": "49221864",
-      "source": "hn",
-      "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-      "score": 152,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49221864",
-      "author": "happosai",
-      "publishedAt": "2026-08-08T13:55:42.000Z"
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "score": 400,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49220609",
+      "author": "882542F3884314B",
+      "publishedAt": "2026-08-08T10:57:44.000Z"
     },
     {
       "id": "49214008",
       "source": "hn",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 763,
+      "score": 775,
       "commentsUrl": "https://news.ycombinator.com/item?id=49214008",
       "author": "tosh",
       "publishedAt": "2026-08-07T17:56:20.000Z"
     },
     {
-      "id": "49214468",
+      "id": "49215786",
       "source": "hn",
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "score": 299,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49214468",
-      "author": "moonikakiss",
-      "publishedAt": "2026-08-07T18:25:17.000Z"
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "score": 278,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49215786",
+      "author": "ilamont",
+      "publishedAt": "2026-08-07T20:25:04.000Z"
     },
     {
-      "id": "49226444",
+      "id": "49228137",
       "source": "hn",
-      "title": "AI Settles a 25 Year-Old Problem We Left Behind",
-      "url": "https://twitter.com/DimitrisPapail/status/2086158118354887060",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49226444",
-      "author": "amichail",
-      "publishedAt": "2026-08-08T22:22:24.000Z"
+      "title": "I asked 4 AI companions what they were. They lied, then texted me the next day",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7244220",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49228137",
+      "author": "Ai_Sycophancy",
+      "publishedAt": "2026-08-09T03:21:10.000Z"
+    },
+    {
+      "id": "49221864",
+      "source": "hn",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "score": 166,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49221864",
+      "author": "happosai",
+      "publishedAt": "2026-08-08T13:55:42.000Z"
     },
     {
       "id": "49213754",
       "source": "hn",
       "title": "Oracle bans AI-generated code from OpenJDK",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 520,
+      "score": 530,
       "commentsUrl": "https://news.ycombinator.com/item?id=49213754",
       "author": "delduca",
       "publishedAt": "2026-08-07T17:36:30.000Z"
-    },
-    {
-      "id": "49226743",
-      "source": "hn",
-      "title": "GPT-4 finished training four years ago today",
-      "url": "https://twitter.com/gdb/status/2086092396023120286",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49226743",
-      "author": "nekofneko",
-      "publishedAt": "2026-08-08T23:05:30.000Z"
     }
   ]
 }
