@@ -1,33 +1,63 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-09T12:35:51.806Z",
+  "fetchedAt": "2026-08-10T01:11:09.582Z",
   "items": [
     {
-      "id": "49230550",
+      "id": "49235011",
       "source": "hn",
-      "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49230550",
-      "author": "nmitchko",
-      "publishedAt": "2026-08-09T11:46:28.000Z"
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "score": 70,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49235011",
+      "author": "simonpure",
+      "publishedAt": "2026-08-09T19:43:52.000Z"
     },
     {
-      "id": "49229412",
+      "id": "49236439",
       "source": "hn",
-      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-      "score": 50,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49229412",
-      "author": "theanonymousone",
-      "publishedAt": "2026-08-09T08:00:51.000Z"
+      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+      "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+      "score": 38,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49236439",
+      "author": "stared",
+      "publishedAt": "2026-08-09T21:52:23.000Z"
+    },
+    {
+      "id": "49232300",
+      "source": "hn",
+      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "url": "https://github.com/eighttrigrams/us-vs-them",
+      "score": 44,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49232300",
+      "author": "eighttrigrams",
+      "publishedAt": "2026-08-09T15:25:29.000Z"
+    },
+    {
+      "id": "49236240",
+      "source": "hn",
+      "title": "Lawyers using \"AI\" could face sanctions including costs for fake citations",
+      "url": "https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49236240",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-08-09T21:36:16.000Z"
+    },
+    {
+      "id": "49229621",
+      "source": "hn",
+      "title": "DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness",
+      "url": "https://antigma.ai/eval",
+      "score": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49229621",
+      "author": "ubermon",
+      "publishedAt": "2026-08-09T08:44:29.000Z"
     },
     {
       "id": "49222824",
       "source": "hn",
       "title": "Message your other Claude Code sessions",
       "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "score": 137,
+      "score": 152,
       "commentsUrl": "https://news.ycombinator.com/item?id=49222824",
       "author": "mfiguiere",
       "publishedAt": "2026-08-08T15:34:49.000Z"
@@ -37,60 +67,60 @@
       "source": "hn",
       "title": "Timeline of the OpenAI accidental attack against Hugging Face",
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "score": 400,
+      "score": 419,
       "commentsUrl": "https://news.ycombinator.com/item?id=49220609",
       "author": "882542F3884314B",
       "publishedAt": "2026-08-08T10:57:44.000Z"
+    },
+    {
+      "id": "49230605",
+      "source": "hn",
+      "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
+      "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+      "score": 72,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49230605",
+      "author": "johnbarron",
+      "publishedAt": "2026-08-09T11:56:16.000Z"
     },
     {
       "id": "49214008",
       "source": "hn",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 775,
+      "score": 782,
       "commentsUrl": "https://news.ycombinator.com/item?id=49214008",
       "author": "tosh",
       "publishedAt": "2026-08-07T17:56:20.000Z"
+    },
+    {
+      "id": "49229412",
+      "source": "hn",
+      "title": "SAP stops most travel and hiring because of AI's soaring cost",
+      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+      "score": 91,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49229412",
+      "author": "theanonymousone",
+      "publishedAt": "2026-08-09T08:00:51.000Z"
+    },
+    {
+      "id": "49236612",
+      "source": "hn",
+      "title": "Quoted $1M for AI code review. Built it for free",
+      "url": "https://sagivo.com/blog/i-was-quoted-1m-to-get-ai-diff-review-tool",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49236612",
+      "author": "shubidubi",
+      "publishedAt": "2026-08-09T22:07:22.000Z"
     },
     {
       "id": "49215786",
       "source": "hn",
       "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
       "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-      "score": 278,
+      "score": 290,
       "commentsUrl": "https://news.ycombinator.com/item?id=49215786",
       "author": "ilamont",
       "publishedAt": "2026-08-07T20:25:04.000Z"
-    },
-    {
-      "id": "49228137",
-      "source": "hn",
-      "title": "I asked 4 AI companions what they were. They lied, then texted me the next day",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7244220",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49228137",
-      "author": "Ai_Sycophancy",
-      "publishedAt": "2026-08-09T03:21:10.000Z"
-    },
-    {
-      "id": "49221864",
-      "source": "hn",
-      "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-      "score": 166,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49221864",
-      "author": "happosai",
-      "publishedAt": "2026-08-08T13:55:42.000Z"
-    },
-    {
-      "id": "49213754",
-      "source": "hn",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 530,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49213754",
-      "author": "delduca",
-      "publishedAt": "2026-08-07T17:36:30.000Z"
     }
   ]
 }
