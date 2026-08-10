@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-08-10T01:11:09.387Z",
-  "items": []
+  "fetchedAt": "2026-08-10T12:52:26.627Z",
+  "items": [
+    {
+      "id": "2608.05930",
+      "source": "arxiv",
+      "title": "Deep Generalised Mixed Models: a Novel Neural Network Structure for Analysing Hierarchical Data",
+      "url": "https://arxiv.org/abs/2608.05930",
+      "author": "Nina van Gerwen, Dimitris Rizopoulos, Manon Hillegers +2",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "The experience sampling method (ESM) is a longitudinal research design where participants report their thoughts, emotional states and behaviours multiple times a day. Our work is motivated by such dat…"
+    },
+    {
+      "id": "2608.02515",
+      "source": "arxiv",
+      "title": "LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference",
+      "url": "https://arxiv.org/abs/2608.02515",
+      "author": "Zhichen Liu, Ruihan Sun, Hengjie Yang +4",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Long-running assistants and agents consume interaction streams that eventually outgrow the context. Existing context retention, summarization, and retrieval preserve access to selected history, but do…"
+    },
+    {
+      "id": "2607.24653",
+      "source": "arxiv",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://arxiv.org/abs/2607.24653",
+      "author": "Kimi Team, Tongtong Bai, Yifan Bai +399",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta…"
+    },
+    {
+      "id": "2606.30380",
+      "source": "arxiv",
+      "title": "RenderFormer++: Scalable and Physics-Informed Feed-Forward Neural Rendering",
+      "url": "https://arxiv.org/abs/2606.30380",
+      "author": "Huangsheng Du, Haoran Zhu, Youcheng Cai +2",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "We present RenderFormer++, a scalable and physics-informed feed-forward neural rendering framework for global illumination in mesh scenes. Existing Transformer-based neural rendering methods such as R…"
+    },
+    {
+      "id": "2606.24769",
+      "source": "arxiv",
+      "title": "Dirac-Frenkel dynamics with inertia for nonlinearly parametrized solutions of evolution problems",
+      "url": "https://arxiv.org/abs/2606.24769",
+      "author": "Matteo Raviola, Benjamin Peherstorfer",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Even when Dirac-Frenkel dynamics determine a well-defined evolution in function space, the corresponding parameter dynamics can be non-unique or ill-conditioned for redundant nonlinear parametrization…"
+    },
+    {
+      "id": "2606.18856",
+      "source": "arxiv",
+      "title": "Diffusion-MF: Approximate Structured Diffusion for Sequence Labelling",
+      "url": "https://arxiv.org/abs/2606.18856",
+      "author": "Nicolas Floquet, Joseph Le Roux, Nadi Tomeh",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "We introduce Diffusion-MF, a discrete diffu- sion sequence labeller that places a linear-chain conditional random field (LCRF) inside the denoising loop. Unlike prior diffusion labellers, it performs…"
+    },
+    {
+      "id": "2606.08202",
+      "source": "arxiv",
+      "title": "Vector Space of Cycles",
+      "url": "https://arxiv.org/abs/2606.08202",
+      "author": "Moo K. Chung, Anass B. El-Yaagoubi, Hernando Ombao",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Most statistical and machine learning methods for directed interactions focus on pairwise effects among variables. Even existing cyclic models represent feedback primarily through node-level dependenc…"
+    },
+    {
+      "id": "2605.28803",
+      "source": "arxiv",
+      "title": "{\\Omega}-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling",
+      "url": "https://arxiv.org/abs/2605.28803",
+      "author": "Xinyu Wang, Mingze Li, Sicheng Lyu +6",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Vision-Language-Action (VLA) models unify perception, reasoning, and control within a single policy, yet their multi-billion-parameter backbones and diffusion-based action heads make on-device deploym…"
+    },
+    {
+      "id": "2604.09320",
+      "source": "arxiv",
+      "title": "Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory",
+      "url": "https://arxiv.org/abs/2604.09320",
+      "author": "Siqi Chen, Zhiqiang Wang, Yili Shen +8",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Mechanistic understanding and rational design of complex chemical systems depend on fast and accurate predictions of electronic structures beyond individual building blocks. However, if the system exc…"
+    },
+    {
+      "id": "2601.08527",
+      "source": "arxiv",
+      "title": "Sampling via Stochastic Interpolants by Langevin-based Velocity and Initialization Estimation in Flow ODEs",
+      "url": "https://arxiv.org/abs/2601.08527",
+      "author": "Chenguang Duan, Yuling Jiao, Gabriele Steidl +3",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "We propose a novel method for sampling from unnormalized Boltzmann densities based on a probability flow ordinary differential equation (ODE) derived from linear stochastic interpolants. The key innov…"
+    },
+    {
+      "id": "2511.08315",
+      "source": "arxiv",
+      "title": "BDD2Seq: Enabling Scalable Reversible-Circuit Synthesis via Graph-to-Sequence Learning",
+      "url": "https://arxiv.org/abs/2511.08315",
+      "author": "Mingkai Miao, Jianheng Tang, Guangyu Hu +1",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Binary Decision Diagrams (BDDs) are instrumental in many electronic design automation (EDA) tasks thanks to their compact representation of Boolean functions. In BDD-based reversible-circuit synthesis…"
+    },
+    {
+      "id": "2511.03963",
+      "source": "arxiv",
+      "title": "Robust inference using density-powered Stein operators",
+      "url": "https://arxiv.org/abs/2511.03963",
+      "author": "Shinto Eguchi",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "We introduce a density-power weighted variant of the Stein operator, called the $\\gamma$-Stein operator, for robust inference with unnormalized probability models. The operator is motivated by the fir…"
+    },
+    {
+      "id": "2510.22778",
+      "source": "arxiv",
+      "title": "Free Denoising Diffusion Models",
+      "url": "https://arxiv.org/abs/2510.22778",
+      "author": "Swagatam Das",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "We develop a free-probabilistic framework for denoising diffusion, in which the data is a self-adjoint operator and its law a spectral distribution. The forward process is the free Ornstein--Uhlenbeck…"
+    },
+    {
+      "id": "2510.10697",
+      "source": "arxiv",
+      "title": "Mean-square and sublinear convergence of a stochastic proximal point algorithm in metric spaces of nonpositive curvature",
+      "url": "https://arxiv.org/abs/2510.10697",
+      "author": "Nicholas Pischke",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "We define a stochastic variant of the proximal point algorithm in the general setting of nonlinear Hadamard spaces for approximating zeros of the mean of a stochastically perturbed monotone vector fie…"
+    },
+    {
+      "id": "2509.16462",
+      "source": "arxiv",
+      "title": "Let's Unlearn Stereotypes Before Decision-Making: Assessing the Impact of Intrinsic Bias Mitigation on Downstream Fairness in LLMs",
+      "url": "https://arxiv.org/abs/2509.16462",
+      "author": "Mina Arzaghi, Alireza Dehghanpour Farashah, Florian Carichon +2",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Large Language Models (LLMs) are increasingly used in high-stakes decision-making systems, where biased predictions can reinforce social and economic disparities. Although prior work has examined intr…"
+    },
+    {
+      "id": "2509.10317",
+      "source": "arxiv",
+      "title": "Robot guide with multi-agent control and automatic scenario generation with LLM",
+      "url": "https://arxiv.org/abs/2509.10317",
+      "author": "Elizaveta D. Moskovskaya, Anton D. Moscowsky",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "The article describes the development of a hybrid social robot control architecture to overcome the limitations of traditional approaches, where behavior scripts manually synchronize the robot's actio…"
+    },
+    {
+      "id": "2509.06108",
+      "source": "arxiv",
+      "title": "Using Reinforcement Learning to Optimize the Global and Local Crossing Number",
+      "url": "https://arxiv.org/abs/2509.06108",
+      "author": "Timo Brand, Henry F\\\"orster, Stephen Kobourov +4",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Graph drawing concerns the algorithmic visualization of graphs. A good drawing of a graph is easy to read and facilitates solving tasks on the graph. Several properties have been identified to occur i…"
+    },
+    {
+      "id": "2509.05208",
+      "source": "arxiv",
+      "title": "Symbolic Graphics Programming with Large Language Models",
+      "url": "https://arxiv.org/abs/2509.05208",
+      "author": "Yamei Chen, Haoquan Zhang, Yangyi Huang +4",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Large language models (LLMs) excel at program synthesis, yet their ability to produce symbolic graphics programs (SGPs) that render into precise visual content remains underexplored. We study symbolic…"
+    },
+    {
+      "id": "2504.17584",
+      "source": "arxiv",
+      "title": "CHIME: A Case for Efficient Long-Context Attention-FC Disaggregated Inference with DIMM-PIM",
+      "url": "https://arxiv.org/abs/2504.17584",
+      "author": "Qingyuan Liu, Liyan Chen, Haocheng Wang +6",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Attention-FC Disaggregated (AFD) LLM inference systems offload memory-bound Attention operations to memory-rich accelerators (e.g., CPUs, HBM-PIM) while retaining compute-bound Fully-Connected (FC) op…"
+    },
+    {
+      "id": "2409.18804",
+      "source": "arxiv",
+      "title": "Convergence of Diffusion Models Under the Manifold Hypothesis in High-Dimensions",
+      "url": "https://arxiv.org/abs/2409.18804",
+      "author": "Iskander Azangulov, George Deligiannidis, Judith Rousseau",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Denoising Diffusion Probabilistic Models (DDPM) are powerful state-of-the-art methods used to generate synthetic data from high-dimensional data distributions and are widely used for image, audio, and…"
+    },
+    {
+      "id": "2409.00078",
+      "source": "arxiv",
+      "title": "Decentralized Indoor Localization Based on A Sparse Gaussian Process with Reduced-Dimensional Inputs for Real-Time Sensing and Training on IoT Devices",
+      "url": "https://arxiv.org/abs/2409.00078",
+      "author": "Zhe Tang, Sihao Li, Zichen Huang +5",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "As a large number of Internet of Things (IoT) devices are deployed in the field, there arises huge potential of edge computing for indoor localization on those devices. Conventional indoor localizatio…"
+    },
+    {
+      "id": "2401.07039",
+      "source": "arxiv",
+      "title": "Quantum Generative Diffusion Model: A Fully Quantum-Mechanical Model for Generating Quantum State Ensemble",
+      "url": "https://arxiv.org/abs/2401.07039",
+      "author": "Chuangtao Chen, Qinglin Zhao, MengChu Zhou +3",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Mixed quantum states are the native description of many physically important quantum systems, making their generation a fundamental task in quantum information processing. However, constructing a diff…"
+    },
+    {
+      "id": "2608.05675",
+      "source": "arxiv",
+      "title": "Consistency Has a Computable Blind Spot: A Commutation Theory of Label-Free Reliability for Vision-Language Figure Reading",
+      "url": "https://arxiv.org/abs/2608.05675",
+      "author": "Rasul Khanbayov, Hasan Kurban",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Label-free reliability for vision-language models rests on invariance: perturb the input and a faithful reader's answer should not change. This has a known blind spot, a systematic misreading survives…"
+    },
+    {
+      "id": "2608.05242",
+      "source": "arxiv",
+      "title": "Disentangling 3D Modeling from Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2608.05242",
+      "author": "Haoze Sun, Jiequan Cui, Qingshan Xu +1",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "In this work, we explore an alternative paradigm for spatial reasoning by explicitly disentangling 3D perception from reasoning, rather than jointly acquiring implicit 3D perception and reasoning thro…"
+    },
+    {
+      "id": "2608.03294",
+      "source": "arxiv",
+      "title": "Provably Learning Multi-Head Attention with Queries",
+      "url": "https://arxiv.org/abs/2608.03294",
+      "author": "Sunyeop Kim, Insung Kim, Jian Guo",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "We study the problem of learning multi-head softmax attention from black-box input-output access. The learner may query arbitrary real-valued token sequences and observe only the scalar output at the…"
+    },
+    {
+      "id": "2607.27924",
+      "source": "arxiv",
+      "title": "ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow",
+      "url": "https://arxiv.org/abs/2607.27924",
+      "author": "Dongxiu Liu, Haoyi Niu, Peng Cheng +5",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "In the physical world we inhabit, space and time are fundamentally continuous. However, existing machine learning paradigms for world modeling are largely confined to discrete-time prediction, thereby…"
+    },
+    {
+      "id": "2607.27581",
+      "source": "arxiv",
+      "title": "MUGEN: A Unified Framework for Efficient Motion Understanding and Generation",
+      "url": "https://arxiv.org/abs/2607.27581",
+      "author": "Zhankai Ye, Yukai Jin, Bingyang Wei +5",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Grounding human motion in language, and language in motion, is a central step toward physical AI systems that can understand, generate, and communicate human behavior. Unified motion--language systems…"
+    },
+    {
+      "id": "2607.25232",
+      "source": "arxiv",
+      "title": "Neurai-VN Benchmark: Standardized Machine Learning Models for Multimodal Digital Phenotyping in Mental Health Classification",
+      "url": "https://arxiv.org/abs/2607.25232",
+      "author": "Quoc-Cuong Pham, Hoang-Thuy-Duong Vu, Thi-Thanh-Huong Ha +1",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Digital phenotyping (DP) using smartphones and wearable devices has shown considerable potential for mental health monitoring. However, progress remains difficult to evaluate due to heterogeneous data…"
+    },
+    {
+      "id": "2607.12888",
+      "source": "arxiv",
+      "title": "Energy-Based Physics-Informed Form Finding for Clustered Tensegrity Structures",
+      "url": "https://arxiv.org/abs/2607.12888",
+      "author": "Jing Qin, Muhao Chen",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "Tensegrity form-finding and physical property prediction are fundamental inverse problems in structural mechanics, which aim to determine equilibrium configurations and internal force distributions. T…"
+    },
+    {
+      "id": "2607.12354",
+      "source": "arxiv",
+      "title": "Reducing information dependency does not cause training data privacy. Adversarially non-robust features do",
+      "url": "https://arxiv.org/abs/2607.12354",
+      "author": "Rasmus Torp, Shailen K. Smith, Adam Breuer",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "summary": "In this paper, we challenge the prevailing view that information dependency (including rote memorization) drives training data exposure to image reconstruction attacks. We show that extensive exposure…"
+    }
+  ]
 }

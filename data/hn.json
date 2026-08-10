@@ -1,123 +1,143 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-10T01:11:09.582Z",
+  "fetchedAt": "2026-08-10T12:52:26.699Z",
   "items": [
+    {
+      "id": "49239751",
+      "source": "hn",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "score": 321,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49239751",
+      "author": "etoxin",
+      "publishedAt": "2026-08-10T06:02:38.000Z"
+    },
+    {
+      "id": "49238851",
+      "source": "hn",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "score": 124,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49238851",
+      "author": "MrRowTheBoat",
+      "publishedAt": "2026-08-10T03:18:40.000Z"
+    },
+    {
+      "id": "49242728",
+      "source": "hn",
+      "title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+      "url": "https://twitter.com/thdxr/status/2086599224674681242",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49242728",
+      "author": "delduca",
+      "publishedAt": "2026-08-10T12:24:48.000Z"
+    },
+    {
+      "id": "49242038",
+      "source": "hn",
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "url": "https://twitter.com/finkd/status/2086754845218726027",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49242038",
+      "author": "bakigul",
+      "publishedAt": "2026-08-10T10:55:03.000Z"
+    },
+    {
+      "id": "49239021",
+      "source": "hn",
+      "title": "Auto mode is now the default in Claude Code",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "score": 248,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49239021",
+      "author": "sbehere",
+      "publishedAt": "2026-08-10T03:50:00.000Z"
+    },
     {
       "id": "49235011",
       "source": "hn",
       "title": "The tragedy of the commons, AI edition",
       "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "score": 70,
+      "score": 133,
       "commentsUrl": "https://news.ycombinator.com/item?id=49235011",
       "author": "simonpure",
       "publishedAt": "2026-08-09T19:43:52.000Z"
     },
     {
-      "id": "49236439",
+      "id": "49239226",
       "source": "hn",
-      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-      "score": 38,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49236439",
-      "author": "stared",
-      "publishedAt": "2026-08-09T21:52:23.000Z"
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+      "score": 60,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49239226",
+      "author": "nlpnerd",
+      "publishedAt": "2026-08-10T04:35:24.000Z"
     },
     {
       "id": "49232300",
       "source": "hn",
       "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
       "url": "https://github.com/eighttrigrams/us-vs-them",
-      "score": 44,
+      "score": 51,
       "commentsUrl": "https://news.ycombinator.com/item?id=49232300",
       "author": "eighttrigrams",
       "publishedAt": "2026-08-09T15:25:29.000Z"
     },
     {
-      "id": "49236240",
+      "id": "49239179",
       "source": "hn",
-      "title": "Lawyers using \"AI\" could face sanctions including costs for fake citations",
-      "url": "https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49236240",
-      "author": "1vuio0pswjnm7",
-      "publishedAt": "2026-08-09T21:36:16.000Z"
-    },
-    {
-      "id": "49229621",
-      "source": "hn",
-      "title": "DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness",
-      "url": "https://antigma.ai/eval",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49229621",
-      "author": "ubermon",
-      "publishedAt": "2026-08-09T08:44:29.000Z"
+      "title": "As AI grips world, the thrill of collecting vintage computers is growing",
+      "url": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49239179",
+      "author": "geox",
+      "publishedAt": "2026-08-10T04:22:15.000Z"
     },
     {
       "id": "49222824",
       "source": "hn",
       "title": "Message your other Claude Code sessions",
       "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "score": 152,
+      "score": 160,
       "commentsUrl": "https://news.ycombinator.com/item?id=49222824",
       "author": "mfiguiere",
       "publishedAt": "2026-08-08T15:34:49.000Z"
     },
     {
-      "id": "49220609",
+      "id": "49229621",
       "source": "hn",
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "score": 419,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49220609",
-      "author": "882542F3884314B",
-      "publishedAt": "2026-08-08T10:57:44.000Z"
-    },
-    {
-      "id": "49230605",
-      "source": "hn",
-      "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-      "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-      "score": 72,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49230605",
-      "author": "johnbarron",
-      "publishedAt": "2026-08-09T11:56:16.000Z"
+      "title": "DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness",
+      "url": "https://antigma.ai/eval",
+      "score": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49229621",
+      "author": "ubermon",
+      "publishedAt": "2026-08-09T08:44:29.000Z"
     },
     {
       "id": "49214008",
       "source": "hn",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 782,
+      "score": 787,
       "commentsUrl": "https://news.ycombinator.com/item?id=49214008",
       "author": "tosh",
       "publishedAt": "2026-08-07T17:56:20.000Z"
     },
     {
-      "id": "49229412",
+      "id": "49220609",
       "source": "hn",
-      "title": "SAP stops most travel and hiring because of AI's soaring cost",
-      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-      "score": 91,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49229412",
-      "author": "theanonymousone",
-      "publishedAt": "2026-08-09T08:00:51.000Z"
-    },
-    {
-      "id": "49236612",
-      "source": "hn",
-      "title": "Quoted $1M for AI code review. Built it for free",
-      "url": "https://sagivo.com/blog/i-was-quoted-1m-to-get-ai-diff-review-tool",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49236612",
-      "author": "shubidubi",
-      "publishedAt": "2026-08-09T22:07:22.000Z"
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "score": 426,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49220609",
+      "author": "882542F3884314B",
+      "publishedAt": "2026-08-08T10:57:44.000Z"
     },
     {
       "id": "49215786",
       "source": "hn",
       "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
       "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-      "score": 290,
+      "score": 293,
       "commentsUrl": "https://news.ycombinator.com/item?id=49215786",
       "author": "ilamont",
       "publishedAt": "2026-08-07T20:25:04.000Z"
