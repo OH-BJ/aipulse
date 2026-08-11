@@ -1,146 +1,226 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-10T12:52:26.699Z",
+  "fetchedAt": "2026-08-11T01:09:55.956Z",
   "items": [
+    {
+      "id": "49246804",
+      "source": "hn",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "score": 158,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49246804",
+      "author": "HenryNdubuaku",
+      "publishedAt": "2026-08-10T17:22:07.000Z"
+    },
+    {
+      "id": "49243880",
+      "source": "hn",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "score": 354,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49243880",
+      "author": "root-parent",
+      "publishedAt": "2026-08-10T14:06:22.000Z"
+    },
+    {
+      "id": "49243474",
+      "source": "hn",
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "score": 150,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49243474",
+      "author": "kuberwastaken",
+      "publishedAt": "2026-08-10T13:35:40.000Z"
+    },
+    {
+      "id": "49246057",
+      "source": "hn",
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "score": 63,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49246057",
+      "author": "erenberke",
+      "publishedAt": "2026-08-10T16:35:27.000Z"
+    },
+    {
+      "id": "49244308",
+      "source": "hn",
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "score": 88,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49244308",
+      "author": "hackerBanana",
+      "publishedAt": "2026-08-10T14:38:20.000Z"
+    },
+    {
+      "id": "49244085",
+      "source": "hn",
+      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+      "score": 94,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49244085",
+      "author": "sshh12",
+      "publishedAt": "2026-08-10T14:20:41.000Z"
+    },
+    {
+      "id": "49246704",
+      "source": "hn",
+      "title": "GPT 5.6 Cyber",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+      "score": 63,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49246704",
+      "author": "gizmodo59",
+      "publishedAt": "2026-08-10T17:14:00.000Z"
+    },
+    {
+      "id": "49250486",
+      "source": "hn",
+      "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+      "url": "https://github.com/leog/ai-pulse",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49250486",
+      "author": "leog_me",
+      "publishedAt": "2026-08-10T22:07:41.000Z"
+    },
+    {
+      "id": "49243397",
+      "source": "hn",
+      "title": "Mistral Patent for “Code implemented tool calls”",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "score": 208,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49243397",
+      "author": "theanonymousone",
+      "publishedAt": "2026-08-10T13:29:12.000Z"
+    },
     {
       "id": "49239751",
       "source": "hn",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 321,
+      "score": 624,
       "commentsUrl": "https://news.ycombinator.com/item?id=49239751",
       "author": "etoxin",
       "publishedAt": "2026-08-10T06:02:38.000Z"
+    },
+    {
+      "id": "49244569",
+      "source": "hn",
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+      "score": 142,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49244569",
+      "author": "kotaKat",
+      "publishedAt": "2026-08-10T14:56:32.000Z"
+    },
+    {
+      "id": "49241559",
+      "source": "hn",
+      "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
+      "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+      "score": 48,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49241559",
+      "author": "dijksterhuis",
+      "publishedAt": "2026-08-10T09:53:37.000Z"
     },
     {
       "id": "49238851",
       "source": "hn",
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
-      "score": 124,
+      "score": 190,
       "commentsUrl": "https://news.ycombinator.com/item?id=49238851",
       "author": "MrRowTheBoat",
       "publishedAt": "2026-08-10T03:18:40.000Z"
     },
     {
-      "id": "49242728",
+      "id": "49243485",
       "source": "hn",
-      "title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
-      "url": "https://twitter.com/thdxr/status/2086599224674681242",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49242728",
-      "author": "delduca",
-      "publishedAt": "2026-08-10T12:24:48.000Z"
+      "title": "AI Fortunes Are Reviving an Old Debate About Private Power",
+      "url": "https://ai-updates.net/ai-fortunes-philanthropy-private-power/",
+      "score": 39,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49243485",
+      "author": "ashurandi",
+      "publishedAt": "2026-08-10T13:36:47.000Z"
     },
     {
-      "id": "49242038",
+      "id": "49242475",
       "source": "hn",
-      "title": "Meta's new open-weight model targets local agentic AI",
-      "url": "https://twitter.com/finkd/status/2086754845218726027",
-      "score": 16,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49242038",
-      "author": "bakigul",
-      "publishedAt": "2026-08-10T10:55:03.000Z"
+      "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
+      "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49242475",
+      "author": "mikeayles",
+      "publishedAt": "2026-08-10T11:52:07.000Z"
     },
     {
-      "id": "49239021",
+      "id": "49249037",
       "source": "hn",
-      "title": "Auto mode is now the default in Claude Code",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "score": 248,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49239021",
-      "author": "sbehere",
-      "publishedAt": "2026-08-10T03:50:00.000Z"
+      "title": "I'm not anti-AI, but I have QUALLMS",
+      "url": "https://cholling.com/posts/quallms/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49249037",
+      "author": "CagedCoder",
+      "publishedAt": "2026-08-10T20:11:14.000Z"
     },
     {
-      "id": "49235011",
+      "id": "49247070",
       "source": "hn",
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "score": 133,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49235011",
-      "author": "simonpure",
-      "publishedAt": "2026-08-09T19:43:52.000Z"
-    },
-    {
-      "id": "49239226",
-      "source": "hn",
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "score": 60,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49239226",
-      "author": "nlpnerd",
-      "publishedAt": "2026-08-10T04:35:24.000Z"
-    },
-    {
-      "id": "49232300",
-      "source": "hn",
-      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-      "url": "https://github.com/eighttrigrams/us-vs-them",
-      "score": 51,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49232300",
-      "author": "eighttrigrams",
-      "publishedAt": "2026-08-09T15:25:29.000Z"
-    },
-    {
-      "id": "49239179",
-      "source": "hn",
-      "title": "As AI grips world, the thrill of collecting vintage computers is growing",
-      "url": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
-      "score": 17,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49239179",
-      "author": "geox",
-      "publishedAt": "2026-08-10T04:22:15.000Z"
-    },
-    {
-      "id": "49222824",
-      "source": "hn",
-      "title": "Message your other Claude Code sessions",
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
       "score": 160,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49222824",
-      "author": "mfiguiere",
-      "publishedAt": "2026-08-08T15:34:49.000Z"
-    },
-    {
-      "id": "49229621",
-      "source": "hn",
-      "title": "DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness",
-      "url": "https://antigma.ai/eval",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49229621",
-      "author": "ubermon",
-      "publishedAt": "2026-08-09T08:44:29.000Z"
-    },
-    {
-      "id": "49214008",
-      "source": "hn",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 787,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49214008",
+      "commentsUrl": "https://news.ycombinator.com/item?id=49247070",
       "author": "tosh",
-      "publishedAt": "2026-08-07T17:56:20.000Z"
+      "publishedAt": "2026-08-10T17:41:13.000Z"
     },
     {
-      "id": "49220609",
+      "id": "49247362",
       "source": "hn",
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "score": 426,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49220609",
-      "author": "882542F3884314B",
-      "publishedAt": "2026-08-08T10:57:44.000Z"
+      "title": "Claude moves bound of the Riemann Hypothesis from 41.6% to 67.2%",
+      "url": "https://twitter.com/jarredsumner/status/2086869681785500011",
+      "score": 43,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49247362",
+      "author": "tevlon",
+      "publishedAt": "2026-08-10T18:04:17.000Z"
     },
     {
-      "id": "49215786",
+      "id": "49248477",
       "source": "hn",
-      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-      "score": 293,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49215786",
-      "author": "ilamont",
-      "publishedAt": "2026-08-07T20:25:04.000Z"
+      "title": "Nvidia is pulling Wall Street into the AI buildout",
+      "url": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49248477",
+      "author": "berkeleyjunk",
+      "publishedAt": "2026-08-10T19:25:07.000Z"
+    },
+    {
+      "id": "49250109",
+      "source": "hn",
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "score": 78,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49250109",
+      "author": "mfiguiere",
+      "publishedAt": "2026-08-10T21:36:56.000Z"
+    },
+    {
+      "id": "49251601",
+      "source": "hn",
+      "title": "The AI Slop Backlash Is Having an Impact",
+      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49251601",
+      "author": "ripe",
+      "publishedAt": "2026-08-11T00:10:08.000Z"
+    },
+    {
+      "id": "49245062",
+      "source": "hn",
+      "title": "OpenAI's new device will be hockey puck-sized and cost over $300",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49245062",
+      "author": "simonebrunozzi",
+      "publishedAt": "2026-08-10T15:35:00.000Z"
     }
   ]
 }
