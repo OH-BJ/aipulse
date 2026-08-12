@@ -1,7 +1,106 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-12T01:17:45.314Z",
+  "fetchedAt": "2026-08-12T12:52:53.191Z",
   "items": [
+    {
+      "id": "32434",
+      "source": "geeknews",
+      "title": "LinkedIn CringeBot 3000",
+      "url": "https://news.hada.io/topic?id=32434",
+      "commentsUrl": "https://news.hada.io/topic?id=32434",
+      "author": "neo",
+      "publishedAt": "2026-08-12T12:31:29.000Z"
+    },
+    {
+      "id": "32433",
+      "source": "geeknews",
+      "title": "Briar, 유지보수 모드로 전환",
+      "url": "https://news.hada.io/topic?id=32433",
+      "commentsUrl": "https://news.hada.io/topic?id=32433",
+      "author": "neo",
+      "publishedAt": "2026-08-12T12:00:57.000Z"
+    },
+    {
+      "id": "32432",
+      "source": "geeknews",
+      "title": "Grok Bot",
+      "url": "https://news.hada.io/topic?id=32432",
+      "commentsUrl": "https://news.hada.io/topic?id=32432",
+      "author": "neo",
+      "publishedAt": "2026-08-12T11:31:50.000Z"
+    },
+    {
+      "id": "32430",
+      "source": "geeknews",
+      "title": "London Underground의 승객 얼굴 스캔 개시",
+      "url": "https://news.hada.io/topic?id=32430",
+      "commentsUrl": "https://news.hada.io/topic?id=32430",
+      "author": "neo",
+      "publishedAt": "2026-08-12T07:32:27.000Z"
+    },
+    {
+      "id": "https://news.hada.io/article/antirez-controls-the-ideas",
+      "source": "geeknews",
+      "title": "AI가 코드를 쓰는 시대, antirez는 왜 다시 C로 만드는가",
+      "url": "https://news.hada.io/article/antirez-controls-the-ideas",
+      "commentsUrl": "https://news.hada.io/article/antirez-controls-the-ideas",
+      "author": "GeekNews",
+      "publishedAt": "2026-08-12T07:17:03.000Z"
+    },
+    {
+      "id": "32428",
+      "source": "geeknews",
+      "title": "HOP - HWP/HWPX 문서를 보고 편집할 수 있는 오픈소스 데스크톱 앱",
+      "url": "https://news.hada.io/topic?id=32428",
+      "commentsUrl": "https://news.hada.io/topic?id=32428",
+      "author": "cafedead",
+      "publishedAt": "2026-08-12T06:32:44.000Z"
+    },
+    {
+      "id": "32427",
+      "source": "geeknews",
+      "title": "Go 언어가 AI 기반 소프트웨어 엔지니어링에 이상적인 이유",
+      "url": "https://news.hada.io/topic?id=32427",
+      "commentsUrl": "https://news.hada.io/topic?id=32427",
+      "author": "neo",
+      "publishedAt": "2026-08-12T03:40:17.000Z"
+    },
+    {
+      "id": "32426",
+      "source": "geeknews",
+      "title": "압축은 예측이다",
+      "url": "https://news.hada.io/topic?id=32426",
+      "commentsUrl": "https://news.hada.io/topic?id=32426",
+      "author": "neo",
+      "publishedAt": "2026-08-12T03:37:17.000Z"
+    },
+    {
+      "id": "32424",
+      "source": "geeknews",
+      "title": "OpenAI 윤리 책임자, 합류 1년도 안 돼 퇴사",
+      "url": "https://news.hada.io/topic?id=32424",
+      "commentsUrl": "https://news.hada.io/topic?id=32424",
+      "author": "neo",
+      "publishedAt": "2026-08-12T02:36:41.000Z"
+    },
+    {
+      "id": "32423",
+      "source": "geeknews",
+      "title": "Mojo 1.0 정식 출시",
+      "url": "https://news.hada.io/topic?id=32423",
+      "commentsUrl": "https://news.hada.io/topic?id=32423",
+      "author": "neo",
+      "publishedAt": "2026-08-12T02:33:41.000Z"
+    },
+    {
+      "id": "32422",
+      "source": "geeknews",
+      "title": "코드가 아니라 아이디어를 통제하라",
+      "url": "https://news.hada.io/topic?id=32422",
+      "commentsUrl": "https://news.hada.io/topic?id=32422",
+      "author": "neo",
+      "publishedAt": "2026-08-12T01:45:02.000Z"
+    },
     {
       "id": "32421",
       "source": "geeknews",
@@ -19,15 +118,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32420",
       "author": "xguru",
       "publishedAt": "2026-08-12T00:30:02.000Z"
-    },
-    {
-      "id": "32419",
-      "source": "geeknews",
-      "title": "Show GN: BuildIt – Forces you to explain every line an AI writes before you merge",
-      "url": "https://news.hada.io/topic?id=32419",
-      "commentsUrl": "https://news.hada.io/topic?id=32419",
-      "author": "lmwmason",
-      "publishedAt": "2026-08-12T00:27:38.000Z"
     },
     {
       "id": "32417",
@@ -68,7 +158,7 @@
     {
       "id": "32413",
       "source": "geeknews",
-      "title": "독점 LLM API의 추론 흔적 탈취",
+      "title": "독점 LLM API에서 추론 트레이스 훔치기",
       "url": "https://news.hada.io/topic?id=32413",
       "commentsUrl": "https://news.hada.io/topic?id=32413",
       "author": "neo",
@@ -109,6 +199,15 @@
       "commentsUrl": "https://news.hada.io/topic?id=32409",
       "author": "neo",
       "publishedAt": "2026-08-11T14:32:01.000Z"
+    },
+    {
+      "id": "32408",
+      "source": "geeknews",
+      "title": "Solar Pro 4 - 에이전트 작업 특화 LLM",
+      "url": "https://news.hada.io/topic?id=32408",
+      "commentsUrl": "https://news.hada.io/topic?id=32408",
+      "author": "riverjay616",
+      "publishedAt": "2026-08-11T14:17:49.000Z"
     },
     {
       "id": "32405",
@@ -172,105 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32395",
       "author": "0xecro1",
       "publishedAt": "2026-08-11T07:48:40.000Z"
-    },
-    {
-      "id": "32392",
-      "source": "geeknews",
-      "title": "Hanami - Rails를 대체하는 Ruby 프레임워크",
-      "url": "https://news.hada.io/topic?id=32392",
-      "commentsUrl": "https://news.hada.io/topic?id=32392",
-      "author": "neo",
-      "publishedAt": "2026-08-11T06:20:02.000Z"
-    },
-    {
-      "id": "32391",
-      "source": "geeknews",
-      "title": "Show GN: 프리터뷰 - 가입 없이 포트폴리오부터 채점해보는 AI 모의면접",
-      "url": "https://news.hada.io/topic?id=32391",
-      "commentsUrl": "https://news.hada.io/topic?id=32391",
-      "author": "jidonglab",
-      "publishedAt": "2026-08-11T06:19:18.000Z"
-    },
-    {
-      "id": "32390",
-      "source": "geeknews",
-      "title": "Show GN: 공공데이터 통합검색 x AI",
-      "url": "https://news.hada.io/topic?id=32390",
-      "commentsUrl": "https://news.hada.io/topic?id=32390",
-      "author": "namenkim",
-      "publishedAt": "2026-08-11T05:54:53.000Z"
-    },
-    {
-      "id": "32389",
-      "source": "geeknews",
-      "title": "Needle 2 - 스마트폰·웨어러블·스마트홈·로봇을 위한 14MB 에이전틱 LLM",
-      "url": "https://news.hada.io/topic?id=32389",
-      "commentsUrl": "https://news.hada.io/topic?id=32389",
-      "author": "neo",
-      "publishedAt": "2026-08-11T04:33:12.000Z"
-    },
-    {
-      "id": "32388",
-      "source": "geeknews",
-      "title": "Show GN: TLcube — 세 면의 휘도 순서에 데이터를 싣는 2.5D 바코드",
-      "url": "https://news.hada.io/topic?id=32388",
-      "commentsUrl": "https://news.hada.io/topic?id=32388",
-      "author": "soliestre",
-      "publishedAt": "2026-08-11T04:31:57.000Z"
-    },
-    {
-      "id": "32386",
-      "source": "geeknews",
-      "title": "Show GN: 알뜰계산기를 소개합니다",
-      "url": "https://news.hada.io/topic?id=32386",
-      "commentsUrl": "https://news.hada.io/topic?id=32386",
-      "author": "imjuni",
-      "publishedAt": "2026-08-11T03:54:37.000Z"
-    },
-    {
-      "id": "32384",
-      "source": "geeknews",
-      "title": "영국의 익명성 전쟁, 미국에 상륙",
-      "url": "https://news.hada.io/topic?id=32384",
-      "commentsUrl": "https://news.hada.io/topic?id=32384",
-      "author": "neo",
-      "publishedAt": "2026-08-11T02:32:42.000Z"
-    },
-    {
-      "id": "32383",
-      "source": "geeknews",
-      "title": "Postgres 내부로 CDC를 밀어 넣은 방법",
-      "url": "https://news.hada.io/topic?id=32383",
-      "commentsUrl": "https://news.hada.io/topic?id=32383",
-      "author": "xguru",
-      "publishedAt": "2026-08-11T02:27:51.000Z"
-    },
-    {
-      "id": "32382",
-      "source": "geeknews",
-      "title": "Apple Vision Pro에서 Android ARM64 VR APK 실행하기",
-      "url": "https://news.hada.io/topic?id=32382",
-      "commentsUrl": "https://news.hada.io/topic?id=32382",
-      "author": "xguru",
-      "publishedAt": "2026-08-11T02:25:28.000Z"
-    },
-    {
-      "id": "32381",
-      "source": "geeknews",
-      "title": "OpenChamber - AI 코딩을 위한 에이전트 개발 환경",
-      "url": "https://news.hada.io/topic?id=32381",
-      "commentsUrl": "https://news.hada.io/topic?id=32381",
-      "author": "xguru",
-      "publishedAt": "2026-08-11T02:24:38.000Z"
-    },
-    {
-      "id": "32380",
-      "source": "geeknews",
-      "title": "Show GN: 브라우저에서 돌아가는 3d 슬라이서 엔진&뷰어",
-      "url": "https://news.hada.io/topic?id=32380",
-      "commentsUrl": "https://news.hada.io/topic?id=32380",
-      "author": "kimgh06",
-      "publishedAt": "2026-08-11T01:50:59.000Z"
     }
   ]
 }

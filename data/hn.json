@@ -1,13 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-12T01:17:44.850Z",
+  "fetchedAt": "2026-08-12T12:52:53.349Z",
   "items": [
+    {
+      "id": "49269090",
+      "source": "hn",
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "score": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49269090",
+      "author": "advaith08",
+      "publishedAt": "2026-08-12T07:51:20.000Z"
+    },
+    {
+      "id": "49267928",
+      "source": "hn",
+      "title": "llama.cpp",
+      "url": "https://llama.app",
+      "score": 287,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49267928",
+      "author": "kristianpaul",
+      "publishedAt": "2026-08-12T04:51:59.000Z"
+    },
     {
       "id": "49257876",
       "source": "hn",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 485,
+      "score": 648,
       "commentsUrl": "https://news.ycombinator.com/item?id=49257876",
       "author": "quantumgarbage",
       "publishedAt": "2026-08-11T13:22:00.000Z"
@@ -17,7 +37,7 @@
       "source": "hn",
       "title": "OpenAI’s head of ethics leaves less than a year after joining",
       "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "score": 270,
+      "score": 465,
       "commentsUrl": "https://news.ycombinator.com/item?id=49257160",
       "author": "ilamont",
       "publishedAt": "2026-08-11T12:23:07.000Z"
@@ -27,170 +47,100 @@
       "source": "hn",
       "title": "Go is an ideal language for AI-assisted software engineering",
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "score": 255,
+      "score": 396,
       "commentsUrl": "https://news.ycombinator.com/item?id=49261133",
       "author": "0xedb",
       "publishedAt": "2026-08-11T16:57:09.000Z"
-    },
-    {
-      "id": "49264755",
-      "source": "hn",
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "url": "https://www.suzanne3d.com/",
-      "score": 32,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49264755",
-      "author": "Samanthajeanneb",
-      "publishedAt": "2026-08-11T21:28:26.000Z"
-    },
-    {
-      "id": "49259339",
-      "source": "hn",
-      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "score": 286,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49259339",
-      "author": "frabonacci",
-      "publishedAt": "2026-08-11T14:50:33.000Z"
     },
     {
       "id": "49250836",
       "source": "hn",
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "score": 866,
+      "score": 910,
       "commentsUrl": "https://news.ycombinator.com/item?id=49250836",
       "author": "awnird",
       "publishedAt": "2026-08-10T22:36:30.000Z"
     },
     {
-      "id": "49265135",
+      "id": "49267362",
       "source": "hn",
-      "title": "OpenAI and Anthropic hidden CoT leaks when given deep_think tool.",
-      "url": "https://twitter.com/_can1357/status/2087228354399265125",
-      "score": 36,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49265135",
-      "author": "himata4113",
-      "publishedAt": "2026-08-11T22:06:14.000Z"
+      "title": "Crew, a multiplayer workspace for humans and AI agents to work together",
+      "url": "https://github.com/JamelHammoud/crew",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49267362",
+      "author": "alihammoud21",
+      "publishedAt": "2026-08-12T03:00:03.000Z"
     },
     {
       "id": "49250109",
       "source": "hn",
       "title": "How Claude marks AI-generated content",
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "score": 418,
+      "score": 437,
       "commentsUrl": "https://news.ycombinator.com/item?id=49250109",
       "author": "mfiguiere",
       "publishedAt": "2026-08-10T21:36:56.000Z"
-    },
-    {
-      "id": "49264334",
-      "source": "hn",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "score": 37,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49264334",
-      "author": "ashurandi",
-      "publishedAt": "2026-08-11T20:54:25.000Z"
     },
     {
       "id": "49247070",
       "source": "hn",
       "title": "Learning more about Claude's mathematical capabilities",
       "url": "https://www.anthropic.com/research/riemann-zeta",
-      "score": 262,
+      "score": 270,
       "commentsUrl": "https://news.ycombinator.com/item?id=49247070",
       "author": "tosh",
       "publishedAt": "2026-08-10T17:41:13.000Z"
     },
     {
-      "id": "49246804",
+      "id": "49259339",
       "source": "hn",
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "score": 507,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49246804",
-      "author": "HenryNdubuaku",
-      "publishedAt": "2026-08-10T17:22:07.000Z"
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "score": 296,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49259339",
+      "author": "frabonacci",
+      "publishedAt": "2026-08-11T14:50:33.000Z"
     },
     {
       "id": "49243880",
       "source": "hn",
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "score": 627,
+      "score": 636,
       "commentsUrl": "https://news.ycombinator.com/item?id=49243880",
       "author": "root-parent",
       "publishedAt": "2026-08-10T14:06:22.000Z"
     },
     {
-      "id": "49244308",
+      "id": "49246804",
       "source": "hn",
-      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "score": 121,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49244308",
-      "author": "hackerBanana",
-      "publishedAt": "2026-08-10T14:38:20.000Z"
-    },
-    {
-      "id": "49259799",
-      "source": "hn",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://arxiv.org/abs/2608.09867",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49259799",
-      "author": "samvher",
-      "publishedAt": "2026-08-11T15:23:14.000Z"
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "score": 521,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49246804",
+      "author": "HenryNdubuaku",
+      "publishedAt": "2026-08-10T17:22:07.000Z"
     },
     {
       "id": "49241559",
       "source": "hn",
       "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
       "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
-      "score": 129,
+      "score": 141,
       "commentsUrl": "https://news.ycombinator.com/item?id=49241559",
       "author": "dijksterhuis",
       "publishedAt": "2026-08-10T09:53:37.000Z"
     },
     {
-      "id": "49244085",
+      "id": "49244308",
       "source": "hn",
-      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-      "score": 156,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49244085",
-      "author": "sshh12",
-      "publishedAt": "2026-08-10T14:20:41.000Z"
-    },
-    {
-      "id": "49246057",
-      "source": "hn",
-      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-      "url": "https://www.stoaexchange.com",
-      "score": 77,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49246057",
-      "author": "erenberke",
-      "publishedAt": "2026-08-10T16:35:27.000Z"
-    },
-    {
-      "id": "49239751",
-      "source": "hn",
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 678,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49239751",
-      "author": "etoxin",
-      "publishedAt": "2026-08-10T06:02:38.000Z"
-    },
-    {
-      "id": "49243474",
-      "source": "hn",
-      "title": "Humanising LLM Outputs Is Dumb",
-      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "score": 226,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49243474",
-      "author": "kuberwastaken",
-      "publishedAt": "2026-08-10T13:35:40.000Z"
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "score": 124,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49244308",
+      "author": "hackerBanana",
+      "publishedAt": "2026-08-10T14:38:20.000Z"
     }
   ]
 }
