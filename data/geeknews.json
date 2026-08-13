@@ -1,7 +1,97 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-13T01:19:20.526Z",
+  "fetchedAt": "2026-08-13T12:53:56.692Z",
   "items": [
+    {
+      "id": "32468",
+      "source": "geeknews",
+      "title": "Show GN: JPyRust – Java에서 Python AI 모델을 subprocess 대신 공유메모리로 호출해봤습니다. (390배 향상된 속...",
+      "url": "https://news.hada.io/topic?id=32468",
+      "commentsUrl": "https://news.hada.io/topic?id=32468",
+      "author": "zmqkf16",
+      "publishedAt": "2026-08-13T12:44:01.000Z"
+    },
+    {
+      "id": "32465",
+      "source": "geeknews",
+      "title": "인간이 루프의 중심이어야 한다",
+      "url": "https://news.hada.io/topic?id=32465",
+      "commentsUrl": "https://news.hada.io/topic?id=32465",
+      "author": "xguru",
+      "publishedAt": "2026-08-13T12:07:23.000Z"
+    },
+    {
+      "id": "32464",
+      "source": "geeknews",
+      "title": "홈랩 해킹 사고 사후 분석",
+      "url": "https://news.hada.io/topic?id=32464",
+      "commentsUrl": "https://news.hada.io/topic?id=32464",
+      "author": "neo",
+      "publishedAt": "2026-08-13T12:02:20.000Z"
+    },
+    {
+      "id": "32463",
+      "source": "geeknews",
+      "title": "Grok 4.6, AAII 61점으로 비용 효율에서 선두권 진입",
+      "url": "https://news.hada.io/topic?id=32463",
+      "commentsUrl": "https://news.hada.io/topic?id=32463",
+      "author": "neo",
+      "publishedAt": "2026-08-13T11:32:07.000Z"
+    },
+    {
+      "id": "32462",
+      "source": "geeknews",
+      "title": "Show GN: SSH Image Drop – 스크린샷을 원격 Claude Code 세션에 넘기는 Raycast 익스텐션",
+      "url": "https://news.hada.io/topic?id=32462",
+      "commentsUrl": "https://news.hada.io/topic?id=32462",
+      "author": "free4416",
+      "publishedAt": "2026-08-13T09:38:05.000Z"
+    },
+    {
+      "id": "32461",
+      "source": "geeknews",
+      "title": "창의적인 QR 코드를 망치지 않고 만드는 방법",
+      "url": "https://news.hada.io/topic?id=32461",
+      "commentsUrl": "https://news.hada.io/topic?id=32461",
+      "author": "neo",
+      "publishedAt": "2026-08-13T08:00:36.000Z"
+    },
+    {
+      "id": "32460",
+      "source": "geeknews",
+      "title": "uBlock Origin, Facebook 광고 차단과의 싸움을 포기",
+      "url": "https://news.hada.io/topic?id=32460",
+      "commentsUrl": "https://news.hada.io/topic?id=32460",
+      "author": "neo",
+      "publishedAt": "2026-08-13T04:32:09.000Z"
+    },
+    {
+      "id": "32459",
+      "source": "geeknews",
+      "title": "Show GN: 흩어진 AI 소식을 실시간 한국어 요약으로 모아 보기",
+      "url": "https://news.hada.io/topic?id=32459",
+      "commentsUrl": "https://news.hada.io/topic?id=32459",
+      "author": "aitrends",
+      "publishedAt": "2026-08-13T03:45:12.000Z"
+    },
+    {
+      "id": "32456",
+      "source": "geeknews",
+      "title": "Unsloth, Qwen3.8 2.4T를 397GB로 줄여 로컬 실행 지원",
+      "url": "https://news.hada.io/topic?id=32456",
+      "commentsUrl": "https://news.hada.io/topic?id=32456",
+      "author": "xguru",
+      "publishedAt": "2026-08-13T03:00:03.000Z"
+    },
+    {
+      "id": "32455",
+      "source": "geeknews",
+      "title": "Unsloth Desktop - 로컬 AI 모델 실행/학습/에이전트를 하나로 묶은 오픈소스 앱",
+      "url": "https://news.hada.io/topic?id=32455",
+      "commentsUrl": "https://news.hada.io/topic?id=32455",
+      "author": "xguru",
+      "publishedAt": "2026-08-13T01:30:02.000Z"
+    },
     {
       "id": "32454",
       "source": "geeknews",
@@ -14,7 +104,7 @@
     {
       "id": "32453",
       "source": "geeknews",
-      "title": "Delta — 에이전트와 함께 코딩하고 검토하는 멀티플레이어 환경",
+      "title": "Delta - 에이전트와 함께 코딩하고 검토하는 멀티플레이어 환경",
       "url": "https://news.hada.io/topic?id=32453",
       "commentsUrl": "https://news.hada.io/topic?id=32453",
       "author": "neo",
@@ -181,96 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32433",
       "author": "neo",
       "publishedAt": "2026-08-12T12:00:57.000Z"
-    },
-    {
-      "id": "32432",
-      "source": "geeknews",
-      "title": "Grok Bot 공개",
-      "url": "https://news.hada.io/topic?id=32432",
-      "commentsUrl": "https://news.hada.io/topic?id=32432",
-      "author": "neo",
-      "publishedAt": "2026-08-12T11:31:50.000Z"
-    },
-    {
-      "id": "32430",
-      "source": "geeknews",
-      "title": "London Underground의 승객 얼굴 스캔 개시",
-      "url": "https://news.hada.io/topic?id=32430",
-      "commentsUrl": "https://news.hada.io/topic?id=32430",
-      "author": "neo",
-      "publishedAt": "2026-08-12T07:32:27.000Z"
-    },
-    {
-      "id": "https://news.hada.io/article/antirez-controls-the-ideas",
-      "source": "geeknews",
-      "title": "AI가 코드를 쓰는 시대, antirez는 왜 다시 C로 만드는가",
-      "url": "https://news.hada.io/article/antirez-controls-the-ideas",
-      "commentsUrl": "https://news.hada.io/article/antirez-controls-the-ideas",
-      "author": "GeekNews",
-      "publishedAt": "2026-08-12T07:17:03.000Z"
-    },
-    {
-      "id": "32428",
-      "source": "geeknews",
-      "title": "HOP - HWP/HWPX 문서를 보고 편집할 수 있는 오픈소스 데스크톱 앱",
-      "url": "https://news.hada.io/topic?id=32428",
-      "commentsUrl": "https://news.hada.io/topic?id=32428",
-      "author": "cafedead",
-      "publishedAt": "2026-08-12T06:32:44.000Z"
-    },
-    {
-      "id": "32427",
-      "source": "geeknews",
-      "title": "Go 언어가 AI 기반 소프트웨어 엔지니어링에 이상적인 이유",
-      "url": "https://news.hada.io/topic?id=32427",
-      "commentsUrl": "https://news.hada.io/topic?id=32427",
-      "author": "neo",
-      "publishedAt": "2026-08-12T03:40:17.000Z"
-    },
-    {
-      "id": "32426",
-      "source": "geeknews",
-      "title": "압축은 예측이다",
-      "url": "https://news.hada.io/topic?id=32426",
-      "commentsUrl": "https://news.hada.io/topic?id=32426",
-      "author": "neo",
-      "publishedAt": "2026-08-12T03:37:17.000Z"
-    },
-    {
-      "id": "32424",
-      "source": "geeknews",
-      "title": "OpenAI 윤리 책임자, 합류 1년도 안 돼 퇴사",
-      "url": "https://news.hada.io/topic?id=32424",
-      "commentsUrl": "https://news.hada.io/topic?id=32424",
-      "author": "neo",
-      "publishedAt": "2026-08-12T02:36:41.000Z"
-    },
-    {
-      "id": "32423",
-      "source": "geeknews",
-      "title": "Mojo 1.0 정식 출시",
-      "url": "https://news.hada.io/topic?id=32423",
-      "commentsUrl": "https://news.hada.io/topic?id=32423",
-      "author": "neo",
-      "publishedAt": "2026-08-12T02:33:41.000Z"
-    },
-    {
-      "id": "32422",
-      "source": "geeknews",
-      "title": "코드가 아니라 아이디어를 통제하라",
-      "url": "https://news.hada.io/topic?id=32422",
-      "commentsUrl": "https://news.hada.io/topic?id=32422",
-      "author": "neo",
-      "publishedAt": "2026-08-12T01:45:02.000Z"
-    },
-    {
-      "id": "32421",
-      "source": "geeknews",
-      "title": "LLM Evals에 대해 알아야 할 모든 것",
-      "url": "https://news.hada.io/topic?id=32421",
-      "commentsUrl": "https://news.hada.io/topic?id=32421",
-      "author": "ramses203",
-      "publishedAt": "2026-08-12T00:40:49.000Z"
     }
   ]
 }

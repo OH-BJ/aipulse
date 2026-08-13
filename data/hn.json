@@ -1,13 +1,13 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-13T01:19:19.874Z",
+  "fetchedAt": "2026-08-13T12:53:56.016Z",
   "items": [
     {
       "id": "49274600",
       "source": "hn",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 729,
+      "score": 970,
       "commentsUrl": "https://news.ycombinator.com/item?id=49274600",
       "author": "explosion-s",
       "publishedAt": "2026-08-12T16:04:50.000Z"
@@ -17,7 +17,7 @@
       "source": "hn",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
-      "score": 113,
+      "score": 149,
       "commentsUrl": "https://news.ycombinator.com/item?id=49269090",
       "author": "advaith08",
       "publishedAt": "2026-08-12T07:51:20.000Z"
@@ -27,7 +27,7 @@
       "source": "hn",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
-      "score": 228,
+      "score": 286,
       "commentsUrl": "https://news.ycombinator.com/item?id=49272569",
       "author": "gavinhking",
       "publishedAt": "2026-08-12T14:02:46.000Z"
@@ -37,130 +37,80 @@
       "source": "hn",
       "title": "AI is removing the middle class of software engineering?",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "score": 709,
+      "score": 916,
       "commentsUrl": "https://news.ycombinator.com/item?id=49271994",
       "author": "florianherrengt",
       "publishedAt": "2026-08-12T13:20:05.000Z"
-    },
-    {
-      "id": "49279500",
-      "source": "hn",
-      "title": "DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead",
-      "url": "https://github.com/DannyArends/DLLM",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49279500",
-      "author": "teleforce",
-      "publishedAt": "2026-08-12T22:34:15.000Z"
     },
     {
       "id": "49274018",
       "source": "hn",
       "title": "DeepSeek-V4-Pro-0813 Publish",
       "url": "https://api-docs.deepseek.com/",
-      "score": 60,
+      "score": 64,
       "commentsUrl": "https://news.ycombinator.com/item?id=49274018",
       "author": "dares2573",
       "publishedAt": "2026-08-12T15:32:28.000Z"
-    },
-    {
-      "id": "49267928",
-      "source": "hn",
-      "title": "llama.cpp",
-      "url": "https://llama.app",
-      "score": 350,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49267928",
-      "author": "kristianpaul",
-      "publishedAt": "2026-08-12T04:51:59.000Z"
-    },
-    {
-      "id": "49272620",
-      "source": "hn",
-      "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-      "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
-      "score": 107,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49272620",
-      "author": "tartoran",
-      "publishedAt": "2026-08-12T14:06:03.000Z"
-    },
-    {
-      "id": "49280149",
-      "source": "hn",
-      "title": "Use Dreams to create memories your AI agent can access",
-      "url": "https://davenporter.substack.com/p/give-an-agent-access-to-memories",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49280149",
-      "author": "davenportjw",
-      "publishedAt": "2026-08-12T23:56:58.000Z"
     },
     {
       "id": "49257160",
       "source": "hn",
       "title": "OpenAI’s head of ethics leaves less than a year after joining",
       "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "score": 506,
+      "score": 515,
       "commentsUrl": "https://news.ycombinator.com/item?id=49257160",
       "author": "ilamont",
       "publishedAt": "2026-08-11T12:23:07.000Z"
     },
     {
-      "id": "49261133",
+      "id": "49267928",
       "source": "hn",
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "score": 424,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49261133",
-      "author": "0xedb",
-      "publishedAt": "2026-08-11T16:57:09.000Z"
+      "title": "llama.cpp",
+      "url": "https://llama.app",
+      "score": 356,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49267928",
+      "author": "kristianpaul",
+      "publishedAt": "2026-08-12T04:51:59.000Z"
     },
     {
       "id": "49257876",
       "source": "hn",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 682,
+      "score": 686,
       "commentsUrl": "https://news.ycombinator.com/item?id=49257876",
       "author": "quantumgarbage",
       "publishedAt": "2026-08-11T13:22:00.000Z"
-    },
-    {
-      "id": "49280034",
-      "source": "hn",
-      "title": "The Wrong Defaults is why enterprise AI agents fail at adoption",
-      "url": "https://imphan.substack.com/p/the-wrong-defaults-an-ai-agent-manifesto",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49280034",
-      "author": "pltc",
-      "publishedAt": "2026-08-12T23:42:11.000Z"
-    },
-    {
-      "id": "49279494",
-      "source": "hn",
-      "title": "Ask HN: Is AI code verification becoming your main bottleneck?",
-      "url": "https://news.ycombinator.com/item?id=49279494",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49279494",
-      "author": "ochidaniel4",
-      "publishedAt": "2026-08-12T22:33:51.000Z"
-    },
-    {
-      "id": "49271050",
-      "source": "hn",
-      "title": "Electricity Pricing in the Age of AI",
-      "url": "https://power2026.ai/",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49271050",
-      "author": "rzk",
-      "publishedAt": "2026-08-12T12:00:28.000Z"
     },
     {
       "id": "49250836",
       "source": "hn",
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "score": 927,
+      "score": 930,
       "commentsUrl": "https://news.ycombinator.com/item?id=49250836",
       "author": "awnird",
       "publishedAt": "2026-08-10T22:36:30.000Z"
+    },
+    {
+      "id": "49261133",
+      "source": "hn",
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "score": 431,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49261133",
+      "author": "0xedb",
+      "publishedAt": "2026-08-11T16:57:09.000Z"
+    },
+    {
+      "id": "49250109",
+      "source": "hn",
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "score": 444,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49250109",
+      "author": "mfiguiere",
+      "publishedAt": "2026-08-10T21:36:56.000Z"
     }
   ]
 }
