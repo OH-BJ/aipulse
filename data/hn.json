@@ -1,116 +1,156 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-13T12:53:56.016Z",
+  "fetchedAt": "2026-08-14T01:18:49.626Z",
   "items": [
     {
-      "id": "49274600",
+      "id": "49289112",
       "source": "hn",
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 970,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49274600",
-      "author": "explosion-s",
-      "publishedAt": "2026-08-12T16:04:50.000Z"
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "score": 605,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49289112",
+      "author": "thisisauserid",
+      "publishedAt": "2026-08-13T17:23:22.000Z"
+    },
+    {
+      "id": "49289844",
+      "source": "hn",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "score": 411,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49289844",
+      "author": "pr337h4m",
+      "publishedAt": "2026-08-13T18:10:02.000Z"
+    },
+    {
+      "id": "49292932",
+      "source": "hn",
+      "title": "How AI text watermarking works",
+      "url": "https://declaude.org/watermarking/",
+      "score": 58,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49292932",
+      "author": "padolsey",
+      "publishedAt": "2026-08-13T23:16:55.000Z"
+    },
+    {
+      "id": "49285244",
+      "source": "hn",
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "score": 552,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49285244",
+      "author": "bjin",
+      "publishedAt": "2026-08-13T12:58:02.000Z"
+    },
+    {
+      "id": "49288889",
+      "source": "hn",
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "score": 248,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49288889",
+      "author": "spelk",
+      "publishedAt": "2026-08-13T17:05:12.000Z"
+    },
+    {
+      "id": "49290768",
+      "source": "hn",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "score": 65,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49290768",
+      "author": "malshe",
+      "publishedAt": "2026-08-13T19:25:38.000Z"
+    },
+    {
+      "id": "49288293",
+      "source": "hn",
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "score": 89,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49288293",
+      "author": "timmmmmmay",
+      "publishedAt": "2026-08-13T16:22:05.000Z"
+    },
+    {
+      "id": "49287153",
+      "source": "hn",
+      "title": "Text AI watermarks will always be trivial to remove",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "score": 96,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49287153",
+      "author": "pseudolus",
+      "publishedAt": "2026-08-13T15:07:10.000Z"
+    },
+    {
+      "id": "49285327",
+      "source": "hn",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "score": 176,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49285327",
+      "author": "toddmorey",
+      "publishedAt": "2026-08-13T13:05:29.000Z"
     },
     {
       "id": "49269090",
       "source": "hn",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
-      "score": 149,
+      "score": 155,
       "commentsUrl": "https://news.ycombinator.com/item?id=49269090",
       "author": "advaith08",
       "publishedAt": "2026-08-12T07:51:20.000Z"
     },
     {
-      "id": "49272569",
+      "id": "49274600",
       "source": "hn",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "score": 286,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49272569",
-      "author": "gavinhking",
-      "publishedAt": "2026-08-12T14:02:46.000Z"
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "score": 1017,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49274600",
+      "author": "explosion-s",
+      "publishedAt": "2026-08-12T16:04:50.000Z"
     },
     {
-      "id": "49271994",
+      "id": "49293492",
       "source": "hn",
-      "title": "AI is removing the middle class of software engineering?",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "score": 916,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49271994",
-      "author": "florianherrengt",
-      "publishedAt": "2026-08-12T13:20:05.000Z"
+      "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
+      "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49293492",
+      "author": "gmays",
+      "publishedAt": "2026-08-14T00:40:56.000Z"
     },
     {
-      "id": "49274018",
+      "id": "49290521",
       "source": "hn",
-      "title": "DeepSeek-V4-Pro-0813 Publish",
-      "url": "https://api-docs.deepseek.com/",
-      "score": 64,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49274018",
-      "author": "dares2573",
-      "publishedAt": "2026-08-12T15:32:28.000Z"
+      "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+      "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49290521",
+      "author": "hampelm",
+      "publishedAt": "2026-08-13T19:04:52.000Z"
     },
     {
-      "id": "49257160",
+      "id": "49285160",
       "source": "hn",
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "score": 515,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49257160",
-      "author": "ilamont",
-      "publishedAt": "2026-08-11T12:23:07.000Z"
-    },
-    {
-      "id": "49267928",
-      "source": "hn",
-      "title": "llama.cpp",
-      "url": "https://llama.app",
-      "score": 356,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49267928",
-      "author": "kristianpaul",
-      "publishedAt": "2026-08-12T04:51:59.000Z"
-    },
-    {
-      "id": "49257876",
-      "source": "hn",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "score": 686,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49257876",
-      "author": "quantumgarbage",
-      "publishedAt": "2026-08-11T13:22:00.000Z"
-    },
-    {
-      "id": "49250836",
-      "source": "hn",
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "score": 930,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49250836",
-      "author": "awnird",
-      "publishedAt": "2026-08-10T22:36:30.000Z"
-    },
-    {
-      "id": "49261133",
-      "source": "hn",
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "score": 431,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49261133",
-      "author": "0xedb",
-      "publishedAt": "2026-08-11T16:57:09.000Z"
-    },
-    {
-      "id": "49250109",
-      "source": "hn",
-      "title": "How Claude marks AI-generated content",
-      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "score": 444,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49250109",
+      "title": "DeepSeek API Pricing Update",
+      "url": "https://twitter.com/deepseek_ai/status/2087864589895798968",
+      "score": 120,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49285160",
       "author": "mfiguiere",
-      "publishedAt": "2026-08-10T21:36:56.000Z"
+      "publishedAt": "2026-08-13T12:49:21.000Z"
+    },
+    {
+      "id": "49283563",
+      "source": "hn",
+      "title": "Can I use my Outputs to train an AI model?",
+      "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
+      "score": 86,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49283563",
+      "author": "DarenWatson",
+      "publishedAt": "2026-08-13T09:34:13.000Z"
     }
   ]
 }
