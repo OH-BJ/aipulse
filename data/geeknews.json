@@ -1,7 +1,79 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-14T01:18:50.191Z",
+  "fetchedAt": "2026-08-14T12:49:35.931Z",
   "items": [
+    {
+      "id": "32497",
+      "source": "geeknews",
+      "title": "이해가 새로운 병목이다",
+      "url": "https://news.hada.io/topic?id=32497",
+      "commentsUrl": "https://news.hada.io/topic?id=32497",
+      "author": "neo",
+      "publishedAt": "2026-08-14T11:32:35.000Z"
+    },
+    {
+      "id": "32496",
+      "source": "geeknews",
+      "title": "지루한 기술을 선택하라 (2015)",
+      "url": "https://news.hada.io/topic?id=32496",
+      "commentsUrl": "https://news.hada.io/topic?id=32496",
+      "author": "neo",
+      "publishedAt": "2026-08-14T09:37:12.000Z"
+    },
+    {
+      "id": "32495",
+      "source": "geeknews",
+      "title": "Mistral OCR 4.1 공개",
+      "url": "https://news.hada.io/topic?id=32495",
+      "commentsUrl": "https://news.hada.io/topic?id=32495",
+      "author": "neo",
+      "publishedAt": "2026-08-14T09:34:12.000Z"
+    },
+    {
+      "id": "32494",
+      "source": "geeknews",
+      "title": "Qwen3.8-27B Upcoming release",
+      "url": "https://news.hada.io/topic?id=32494",
+      "commentsUrl": "https://news.hada.io/topic?id=32494",
+      "author": "beepp",
+      "publishedAt": "2026-08-14T08:35:00.000Z"
+    },
+    {
+      "id": "32493",
+      "source": "geeknews",
+      "title": "GLM-5.3: 포스트 트레이닝 확장으로 프런티어급 코딩·사이버 역량 달성",
+      "url": "https://news.hada.io/topic?id=32493",
+      "commentsUrl": "https://news.hada.io/topic?id=32493",
+      "author": "neo",
+      "publishedAt": "2026-08-14T08:33:38.000Z"
+    },
+    {
+      "id": "32492",
+      "source": "geeknews",
+      "title": "MCP가 Stateless해짐",
+      "url": "https://news.hada.io/topic?id=32492",
+      "commentsUrl": "https://news.hada.io/topic?id=32492",
+      "author": "dongho42",
+      "publishedAt": "2026-08-14T07:42:19.000Z"
+    },
+    {
+      "id": "32491",
+      "source": "geeknews",
+      "title": "X, For You 알고리듬 공개 범위 확대 - 랭킹 가중치와 노출 제한 시스템까지",
+      "url": "https://news.hada.io/topic?id=32491",
+      "commentsUrl": "https://news.hada.io/topic?id=32491",
+      "author": "xguru",
+      "publishedAt": "2026-08-14T02:30:02.000Z"
+    },
+    {
+      "id": "32489",
+      "source": "geeknews",
+      "title": "Show GN: commentube - 유튜브 댓글을 게임으로 즐겨보세요",
+      "url": "https://news.hada.io/topic?id=32489",
+      "commentsUrl": "https://news.hada.io/topic?id=32489",
+      "author": "hshim",
+      "publishedAt": "2026-08-14T01:28:08.000Z"
+    },
     {
       "id": "32486",
       "source": "geeknews",
@@ -199,78 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32461",
       "author": "neo",
       "publishedAt": "2026-08-13T08:00:36.000Z"
-    },
-    {
-      "id": "32460",
-      "source": "geeknews",
-      "title": "uBlock Origin, Facebook 광고 차단과의 싸움을 포기",
-      "url": "https://news.hada.io/topic?id=32460",
-      "commentsUrl": "https://news.hada.io/topic?id=32460",
-      "author": "neo",
-      "publishedAt": "2026-08-13T04:32:09.000Z"
-    },
-    {
-      "id": "32459",
-      "source": "geeknews",
-      "title": "Show GN: 흩어진 AI 소식을 실시간 한국어 요약으로 모아 보기",
-      "url": "https://news.hada.io/topic?id=32459",
-      "commentsUrl": "https://news.hada.io/topic?id=32459",
-      "author": "aitrends",
-      "publishedAt": "2026-08-13T03:45:12.000Z"
-    },
-    {
-      "id": "32456",
-      "source": "geeknews",
-      "title": "Unsloth, Qwen3.8 2.4T를 397GB로 줄여 로컬 실행 지원",
-      "url": "https://news.hada.io/topic?id=32456",
-      "commentsUrl": "https://news.hada.io/topic?id=32456",
-      "author": "xguru",
-      "publishedAt": "2026-08-13T03:00:03.000Z"
-    },
-    {
-      "id": "32455",
-      "source": "geeknews",
-      "title": "Unsloth Desktop - 로컬 AI 모델 실행/학습/에이전트를 하나로 묶은 오픈소스 앱",
-      "url": "https://news.hada.io/topic?id=32455",
-      "commentsUrl": "https://news.hada.io/topic?id=32455",
-      "author": "xguru",
-      "publishedAt": "2026-08-13T01:30:02.000Z"
-    },
-    {
-      "id": "32454",
-      "source": "geeknews",
-      "title": "인간 중심에서 에이전틱 코드 리뷰로 - 더 빠른 결정이 더 나은 리뷰를 뜻하지는 않는다",
-      "url": "https://news.hada.io/topic?id=32454",
-      "commentsUrl": "https://news.hada.io/topic?id=32454",
-      "author": "neo",
-      "publishedAt": "2026-08-13T00:45:02.000Z"
-    },
-    {
-      "id": "32453",
-      "source": "geeknews",
-      "title": "Delta - 에이전트와 함께 코딩하고 검토하는 멀티플레이어 환경",
-      "url": "https://news.hada.io/topic?id=32453",
-      "commentsUrl": "https://news.hada.io/topic?id=32453",
-      "author": "neo",
-      "publishedAt": "2026-08-13T00:32:34.000Z"
-    },
-    {
-      "id": "32452",
-      "source": "geeknews",
-      "title": "xberg - 다국어 문서 인텔리전스 프레임워크",
-      "url": "https://news.hada.io/topic?id=32452",
-      "commentsUrl": "https://news.hada.io/topic?id=32452",
-      "author": "xguru",
-      "publishedAt": "2026-08-13T00:30:02.000Z"
-    },
-    {
-      "id": "32450",
-      "source": "geeknews",
-      "title": "Linux용 Codex앱, 프리뷰 제공 시작",
-      "url": "https://news.hada.io/topic?id=32450",
-      "commentsUrl": "https://news.hada.io/topic?id=32450",
-      "author": "xguru",
-      "publishedAt": "2026-08-13T00:15:15.000Z"
     }
   ]
 }
