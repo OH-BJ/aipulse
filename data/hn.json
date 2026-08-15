@@ -1,23 +1,83 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-14T12:49:35.450Z",
+  "fetchedAt": "2026-08-15T00:50:24.283Z",
   "items": [
     {
-      "id": "49296627",
+      "id": "49299605",
       "source": "hn",
-      "title": "DeepSeek peak/off-peak pricing update",
-      "url": "https://api-docs.deepseek.com/news/news260813/",
-      "score": 83,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49296627",
-      "author": "fagnerbrack",
-      "publishedAt": "2026-08-14T09:55:33.000Z"
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "score": 869,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49299605",
+      "author": "erdaltoprak",
+      "publishedAt": "2026-08-14T15:00:00.000Z"
+    },
+    {
+      "id": "49300314",
+      "source": "hn",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "score": 268,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49300314",
+      "author": "u1hcw9nx",
+      "publishedAt": "2026-08-14T15:43:10.000Z"
+    },
+    {
+      "id": "49300568",
+      "source": "hn",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "score": 192,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49300568",
+      "author": "sans_souse",
+      "publishedAt": "2026-08-14T15:58:59.000Z"
+    },
+    {
+      "id": "49300800",
+      "source": "hn",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "score": 128,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49300800",
+      "author": "twapi",
+      "publishedAt": "2026-08-14T16:15:21.000Z"
+    },
+    {
+      "id": "49301417",
+      "source": "hn",
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49301417",
+      "author": "Jimmc414",
+      "publishedAt": "2026-08-14T16:57:14.000Z"
+    },
+    {
+      "id": "49299102",
+      "source": "hn",
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "score": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49299102",
+      "author": "bj-rn",
+      "publishedAt": "2026-08-14T14:22:39.000Z"
+    },
+    {
+      "id": "49298088",
+      "source": "hn",
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "url": "https://hashagent.pages.dev/",
+      "score": 46,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49298088",
+      "author": "masonhsu",
+      "publishedAt": "2026-08-14T12:57:02.000Z"
     },
     {
       "id": "49289112",
       "source": "hn",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 890,
+      "score": 947,
       "commentsUrl": "https://news.ycombinator.com/item?id=49289112",
       "author": "thisisauserid",
       "publishedAt": "2026-08-13T17:23:22.000Z"
@@ -27,7 +87,7 @@
       "source": "hn",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 642,
+      "score": 697,
       "commentsUrl": "https://news.ycombinator.com/item?id=49289844",
       "author": "pr337h4m",
       "publishedAt": "2026-08-13T18:10:02.000Z"
@@ -37,110 +97,90 @@
       "source": "hn",
       "title": "DeepSeek Harness developer preview",
       "url": "https://deepseek.com/harness/en/",
-      "score": 688,
+      "score": 720,
       "commentsUrl": "https://news.ycombinator.com/item?id=49285244",
       "author": "bjin",
       "publishedAt": "2026-08-13T12:58:02.000Z"
     },
     {
-      "id": "49288889",
+      "id": "49303499",
       "source": "hn",
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 377,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49288889",
-      "author": "spelk",
-      "publishedAt": "2026-08-13T17:05:12.000Z"
-    },
-    {
-      "id": "49290768",
-      "source": "hn",
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "score": 115,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49290768",
-      "author": "malshe",
-      "publishedAt": "2026-08-13T19:25:38.000Z"
+      "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+      "url": "https://www.aletheionagi.com",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49303499",
+      "author": "felipemayamuniz",
+      "publishedAt": "2026-08-14T19:28:17.000Z"
     },
     {
       "id": "49285327",
       "source": "hn",
       "title": "Choosing an AI model: one prompt, 11 models, different results",
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "score": 207,
+      "score": 215,
       "commentsUrl": "https://news.ycombinator.com/item?id=49285327",
       "author": "toddmorey",
       "publishedAt": "2026-08-13T13:05:29.000Z"
+    },
+    {
+      "id": "49298674",
+      "source": "hn",
+      "title": "Show HN: Is AI Dumber Today? An index of AI model experience from user's opinion",
+      "url": "https://isaidumber.today/",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49298674",
+      "author": "schafberg",
+      "publishedAt": "2026-08-14T13:50:46.000Z"
+    },
+    {
+      "id": "49303540",
+      "source": "hn",
+      "title": "Anthropic Risk August 2026 [pdf]",
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+      "score": 52,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49303540",
+      "author": "artninja1988",
+      "publishedAt": "2026-08-14T19:32:15.000Z"
     },
     {
       "id": "49287153",
       "source": "hn",
       "title": "Text AI watermarks will always be trivial to remove",
       "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "score": 132,
+      "score": 140,
       "commentsUrl": "https://news.ycombinator.com/item?id=49287153",
       "author": "pseudolus",
       "publishedAt": "2026-08-13T15:07:10.000Z"
     },
     {
-      "id": "49288293",
+      "id": "49288889",
       "source": "hn",
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "score": 120,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49288293",
-      "author": "timmmmmmay",
-      "publishedAt": "2026-08-13T16:22:05.000Z"
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "score": 402,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49288889",
+      "author": "spelk",
+      "publishedAt": "2026-08-13T17:05:12.000Z"
     },
     {
       "id": "49269090",
       "source": "hn",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
-      "score": 157,
+      "score": 159,
       "commentsUrl": "https://news.ycombinator.com/item?id=49269090",
       "author": "advaith08",
       "publishedAt": "2026-08-12T07:51:20.000Z"
     },
     {
-      "id": "49274600",
+      "id": "49288293",
       "source": "hn",
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 1023,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49274600",
-      "author": "explosion-s",
-      "publishedAt": "2026-08-12T16:04:50.000Z"
-    },
-    {
-      "id": "49292932",
-      "source": "hn",
-      "title": "How AI text watermarking works",
-      "url": "https://declaude.org/watermarking/",
-      "score": 117,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49292932",
-      "author": "padolsey",
-      "publishedAt": "2026-08-13T23:16:55.000Z"
-    },
-    {
-      "id": "49296388",
-      "source": "hn",
-      "title": "New DeepSeek Pricing Published (Peak and Off-Peak)",
-      "url": "https://news.ycombinator.com/item?id=49296388",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49296388",
-      "author": "mittermayr",
-      "publishedAt": "2026-08-14T09:21:05.000Z"
-    },
-    {
-      "id": "49295816",
-      "source": "hn",
-      "title": "Connecticut judge says plaintiff hid messages for AI in court filings",
-      "url": "https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49295816",
-      "author": "nomilk",
-      "publishedAt": "2026-08-14T07:53:24.000Z"
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "score": 125,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49288293",
+      "author": "timmmmmmay",
+      "publishedAt": "2026-08-13T16:22:05.000Z"
     }
   ]
 }

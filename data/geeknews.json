@@ -1,7 +1,169 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-14T12:49:35.931Z",
+  "fetchedAt": "2026-08-15T00:50:24.806Z",
   "items": [
+    {
+      "id": "32518",
+      "source": "geeknews",
+      "title": "AI 텍스트 워터마킹의 작동 원리",
+      "url": "https://news.hada.io/topic?id=32518",
+      "commentsUrl": "https://news.hada.io/topic?id=32518",
+      "author": "xguru",
+      "publishedAt": "2026-08-15T00:43:26.000Z"
+    },
+    {
+      "id": "32517",
+      "source": "geeknews",
+      "title": "아직 이해하지 못한 것에 대해 블로그 쓰기",
+      "url": "https://news.hada.io/topic?id=32517",
+      "commentsUrl": "https://news.hada.io/topic?id=32517",
+      "author": "xguru",
+      "publishedAt": "2026-08-15T00:40:47.000Z"
+    },
+    {
+      "id": "32516",
+      "source": "geeknews",
+      "title": "hubble.md - 사람과 에이전트를 위한 노트패드",
+      "url": "https://news.hada.io/topic?id=32516",
+      "commentsUrl": "https://news.hada.io/topic?id=32516",
+      "author": "xguru",
+      "publishedAt": "2026-08-15T00:36:02.000Z"
+    },
+    {
+      "id": "32515",
+      "source": "geeknews",
+      "title": "uBlock Origin을 지원하는 마지막 메이저 브라우저, Firefox",
+      "url": "https://news.hada.io/topic?id=32515",
+      "commentsUrl": "https://news.hada.io/topic?id=32515",
+      "author": "neo",
+      "publishedAt": "2026-08-15T00:31:24.000Z"
+    },
+    {
+      "id": "32514",
+      "source": "geeknews",
+      "title": "Qwen3.8-27B, 17~19GB 메모리에서 4-bit 로컬 실행 가능",
+      "url": "https://news.hada.io/topic?id=32514",
+      "commentsUrl": "https://news.hada.io/topic?id=32514",
+      "author": "xguru",
+      "publishedAt": "2026-08-15T00:25:02.000Z"
+    },
+    {
+      "id": "32513",
+      "source": "geeknews",
+      "title": "호주의 가정용 배터리 확산이 도매 전력 가격 인하에 기여",
+      "url": "https://news.hada.io/topic?id=32513",
+      "commentsUrl": "https://news.hada.io/topic?id=32513",
+      "author": "neo",
+      "publishedAt": "2026-08-14T20:32:05.000Z"
+    },
+    {
+      "id": "32511",
+      "source": "geeknews",
+      "title": "Count Binface, Clacton 보궐선거에서 4분의 1 넘게 득표",
+      "url": "https://news.hada.io/topic?id=32511",
+      "commentsUrl": "https://news.hada.io/topic?id=32511",
+      "author": "neo",
+      "publishedAt": "2026-08-14T19:32:17.000Z"
+    },
+    {
+      "id": "32510",
+      "source": "geeknews",
+      "title": "Qwen 3.8 27B",
+      "url": "https://news.hada.io/topic?id=32510",
+      "commentsUrl": "https://news.hada.io/topic?id=32510",
+      "author": "neo",
+      "publishedAt": "2026-08-14T18:33:21.000Z"
+    },
+    {
+      "id": "32509",
+      "source": "geeknews",
+      "title": "1910년의 『프린키피아 마테마티카』가 현대적으로 읽히는 이유",
+      "url": "https://news.hada.io/topic?id=32509",
+      "commentsUrl": "https://news.hada.io/topic?id=32509",
+      "author": "neo",
+      "publishedAt": "2026-08-14T17:36:02.000Z"
+    },
+    {
+      "id": "32507",
+      "source": "geeknews",
+      "title": "넓게 만들고, 좁게 배포하라",
+      "url": "https://news.hada.io/topic?id=32507",
+      "commentsUrl": "https://news.hada.io/topic?id=32507",
+      "author": "xguru",
+      "publishedAt": "2026-08-14T16:36:56.000Z"
+    },
+    {
+      "id": "32506",
+      "source": "geeknews",
+      "title": "안녕, 나. 오랜만이야",
+      "url": "https://news.hada.io/topic?id=32506",
+      "commentsUrl": "https://news.hada.io/topic?id=32506",
+      "author": "neo",
+      "publishedAt": "2026-08-14T16:36:23.000Z"
+    },
+    {
+      "id": "32505",
+      "source": "geeknews",
+      "title": "AI 모델 고르기: 같은 프롬프트, 11개 모델, 매우 다른 결과",
+      "url": "https://news.hada.io/topic?id=32505",
+      "commentsUrl": "https://news.hada.io/topic?id=32505",
+      "author": "xguru",
+      "publishedAt": "2026-08-14T16:34:12.000Z"
+    },
+    {
+      "id": "32504",
+      "source": "geeknews",
+      "title": "모든 빌어먹을 웹사이트 (2020)",
+      "url": "https://news.hada.io/topic?id=32504",
+      "commentsUrl": "https://news.hada.io/topic?id=32504",
+      "author": "neo",
+      "publishedAt": "2026-08-14T16:33:23.000Z"
+    },
+    {
+      "id": "32503",
+      "source": "geeknews",
+      "title": "Flutter 3.47 - Material/Cupertino UI 분리와 데스크톱 Impeller 기본화",
+      "url": "https://news.hada.io/topic?id=32503",
+      "commentsUrl": "https://news.hada.io/topic?id=32503",
+      "author": "xguru",
+      "publishedAt": "2026-08-14T16:31:09.000Z"
+    },
+    {
+      "id": "32502",
+      "source": "geeknews",
+      "title": "Opus 5는 왜 함께 작업하기 더 불편하게 느껴지는가?",
+      "url": "https://news.hada.io/topic?id=32502",
+      "commentsUrl": "https://news.hada.io/topic?id=32502",
+      "author": "neo",
+      "publishedAt": "2026-08-14T15:32:12.000Z"
+    },
+    {
+      "id": "32500",
+      "source": "geeknews",
+      "title": "Nine PBS, 기록 데이터 접근을 차단한 Iron Mountain 제소",
+      "url": "https://news.hada.io/topic?id=32500",
+      "commentsUrl": "https://news.hada.io/topic?id=32500",
+      "author": "neo",
+      "publishedAt": "2026-08-14T13:38:03.000Z"
+    },
+    {
+      "id": "32499",
+      "source": "geeknews",
+      "title": "평범한 풍요",
+      "url": "https://news.hada.io/topic?id=32499",
+      "commentsUrl": "https://news.hada.io/topic?id=32499",
+      "author": "neo",
+      "publishedAt": "2026-08-14T13:35:03.000Z"
+    },
+    {
+      "id": "32498",
+      "source": "geeknews",
+      "title": "“기술 부채”가 아니라 그저 “엉망인 상태”다",
+      "url": "https://news.hada.io/topic?id=32498",
+      "commentsUrl": "https://news.hada.io/topic?id=32498",
+      "author": "neo",
+      "publishedAt": "2026-08-14T13:01:48.000Z"
+    },
     {
       "id": "32497",
       "source": "geeknews",
@@ -109,168 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32483",
       "author": "neo",
       "publishedAt": "2026-08-14T00:14:52.000Z"
-    },
-    {
-      "id": "32482",
-      "source": "geeknews",
-      "title": "Rust에서 안전하게 C를 호출하는 extern \"fil-c\" 제안",
-      "url": "https://news.hada.io/topic?id=32482",
-      "commentsUrl": "https://news.hada.io/topic?id=32482",
-      "author": "neo",
-      "publishedAt": "2026-08-14T00:11:52.000Z"
-    },
-    {
-      "id": "32481",
-      "source": "geeknews",
-      "title": "Jujutsu에서 GitHub 스택형 PR 사용하기",
-      "url": "https://news.hada.io/topic?id=32481",
-      "commentsUrl": "https://news.hada.io/topic?id=32481",
-      "author": "neo",
-      "publishedAt": "2026-08-14T00:08:52.000Z"
-    },
-    {
-      "id": "32480",
-      "source": "geeknews",
-      "title": "Python의 미리 정의된 상수는 꽤 이상함",
-      "url": "https://news.hada.io/topic?id=32480",
-      "commentsUrl": "https://news.hada.io/topic?id=32480",
-      "author": "neo",
-      "publishedAt": "2026-08-14T00:05:52.000Z"
-    },
-    {
-      "id": "32479",
-      "source": "geeknews",
-      "title": "GPT-5.6 Sol을 초당 750토큰으로 가속하는 Ultrafast Mode",
-      "url": "https://news.hada.io/topic?id=32479",
-      "commentsUrl": "https://news.hada.io/topic?id=32479",
-      "author": "neo",
-      "publishedAt": "2026-08-13T22:32:24.000Z"
-    },
-    {
-      "id": "32478",
-      "source": "geeknews",
-      "title": "Gloomberb: 키보드 중심 오픈소스 금융 터미널",
-      "url": "https://news.hada.io/topic?id=32478",
-      "commentsUrl": "https://news.hada.io/topic?id=32478",
-      "author": "neo",
-      "publishedAt": "2026-08-13T21:31:46.000Z"
-    },
-    {
-      "id": "32477",
-      "source": "geeknews",
-      "title": "Gemini 3.7 Flash",
-      "url": "https://news.hada.io/topic?id=32477",
-      "commentsUrl": "https://news.hada.io/topic?id=32477",
-      "author": "neo",
-      "publishedAt": "2026-08-13T19:32:31.000Z"
-    },
-    {
-      "id": "32476",
-      "source": "geeknews",
-      "title": "DRAM을 스파게티처럼 뒤엉키게 만들기",
-      "url": "https://news.hada.io/topic?id=32476",
-      "commentsUrl": "https://news.hada.io/topic?id=32476",
-      "author": "neo",
-      "publishedAt": "2026-08-13T18:36:42.000Z"
-    },
-    {
-      "id": "32475",
-      "source": "geeknews",
-      "title": "Deutsche Bank, 유럽 최초의 외국계 위안화 청산은행으로 지정",
-      "url": "https://news.hada.io/topic?id=32475",
-      "commentsUrl": "https://news.hada.io/topic?id=32475",
-      "author": "neo",
-      "publishedAt": "2026-08-13T18:33:41.000Z"
-    },
-    {
-      "id": "32474",
-      "source": "geeknews",
-      "title": "DeepSeek Harness - 모든 구성 요소를 플러그인으로 만든 오픈소스 코딩 에이전트",
-      "url": "https://news.hada.io/topic?id=32474",
-      "commentsUrl": "https://news.hada.io/topic?id=32474",
-      "author": "neo",
-      "publishedAt": "2026-08-13T16:31:41.000Z"
-    },
-    {
-      "id": "32473",
-      "source": "geeknews",
-      "title": "Woxi - 오픈소스 Mathematica·Wolfram Language 재구현",
-      "url": "https://news.hada.io/topic?id=32473",
-      "commentsUrl": "https://news.hada.io/topic?id=32473",
-      "author": "neo",
-      "publishedAt": "2026-08-13T15:31:22.000Z"
-    },
-    {
-      "id": "32470",
-      "source": "geeknews",
-      "title": "Chrome에서 아주 작은 JPEG가 다르게 보이는 이유",
-      "url": "https://news.hada.io/topic?id=32470",
-      "commentsUrl": "https://news.hada.io/topic?id=32470",
-      "author": "neo",
-      "publishedAt": "2026-08-13T13:31:56.000Z"
-    },
-    {
-      "id": "32469",
-      "source": "geeknews",
-      "title": "Signal, 자동 키 검증 도입",
-      "url": "https://news.hada.io/topic?id=32469",
-      "commentsUrl": "https://news.hada.io/topic?id=32469",
-      "author": "neo",
-      "publishedAt": "2026-08-13T13:02:19.000Z"
-    },
-    {
-      "id": "32468",
-      "source": "geeknews",
-      "title": "Show GN: JPyRust – Java에서 Python AI 모델을 subprocess 대신 공유메모리로 호출해봤습니다. (390배 향상된 속...",
-      "url": "https://news.hada.io/topic?id=32468",
-      "commentsUrl": "https://news.hada.io/topic?id=32468",
-      "author": "zmqkf16",
-      "publishedAt": "2026-08-13T12:44:01.000Z"
-    },
-    {
-      "id": "32465",
-      "source": "geeknews",
-      "title": "인간이 루프의 중심이어야 한다",
-      "url": "https://news.hada.io/topic?id=32465",
-      "commentsUrl": "https://news.hada.io/topic?id=32465",
-      "author": "xguru",
-      "publishedAt": "2026-08-13T12:07:23.000Z"
-    },
-    {
-      "id": "32464",
-      "source": "geeknews",
-      "title": "홈랩 해킹 사고 사후 분석",
-      "url": "https://news.hada.io/topic?id=32464",
-      "commentsUrl": "https://news.hada.io/topic?id=32464",
-      "author": "neo",
-      "publishedAt": "2026-08-13T12:02:20.000Z"
-    },
-    {
-      "id": "32463",
-      "source": "geeknews",
-      "title": "Grok 4.6, AAII 61점으로 비용 효율에서 선두권 진입",
-      "url": "https://news.hada.io/topic?id=32463",
-      "commentsUrl": "https://news.hada.io/topic?id=32463",
-      "author": "neo",
-      "publishedAt": "2026-08-13T11:32:07.000Z"
-    },
-    {
-      "id": "32462",
-      "source": "geeknews",
-      "title": "Show GN: SSH Image Drop – 스크린샷을 원격 Claude Code 세션에 넘기는 Raycast 익스텐션",
-      "url": "https://news.hada.io/topic?id=32462",
-      "commentsUrl": "https://news.hada.io/topic?id=32462",
-      "author": "free4416",
-      "publishedAt": "2026-08-13T09:38:05.000Z"
-    },
-    {
-      "id": "32461",
-      "source": "geeknews",
-      "title": "창의적인 QR 코드를 망치지 않고 만드는 방법",
-      "url": "https://news.hada.io/topic?id=32461",
-      "commentsUrl": "https://news.hada.io/topic?id=32461",
-      "author": "neo",
-      "publishedAt": "2026-08-13T08:00:36.000Z"
     }
   ]
 }
