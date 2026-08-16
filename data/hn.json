@@ -1,23 +1,63 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-15T12:22:25.680Z",
+  "fetchedAt": "2026-08-16T00:53:33.429Z",
   "items": [
+    {
+      "id": "49313367",
+      "source": "hn",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "score": 80,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49313367",
+      "author": "AnodicElegy",
+      "publishedAt": "2026-08-15T19:12:53.000Z"
+    },
+    {
+      "id": "49312845",
+      "source": "hn",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "score": 398,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49312845",
+      "author": "rzk",
+      "publishedAt": "2026-08-15T18:13:02.000Z"
+    },
+    {
+      "id": "49309451",
+      "source": "hn",
+      "title": "Working with AI feels more like leadership than coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "score": 261,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49309451",
+      "author": "allenb",
+      "publishedAt": "2026-08-15T10:39:41.000Z"
+    },
     {
       "id": "49299605",
       "source": "hn",
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 1197,
+      "score": 1354,
       "commentsUrl": "https://news.ycombinator.com/item?id=49299605",
       "author": "erdaltoprak",
       "publishedAt": "2026-08-14T15:00:00.000Z"
+    },
+    {
+      "id": "49310495",
+      "source": "hn",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "score": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49310495",
+      "author": "scresswell",
+      "publishedAt": "2026-08-15T13:43:46.000Z"
     },
     {
       "id": "49307700",
       "source": "hn",
       "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
       "url": "https://chenxiachan.github.io/thoughtdag/",
-      "score": 50,
+      "score": 109,
       "commentsUrl": "https://news.ycombinator.com/item?id=49307700",
       "author": "chatchan",
       "publishedAt": "2026-08-15T04:42:07.000Z"
@@ -27,140 +67,60 @@
       "source": "hn",
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "score": 420,
+      "score": 479,
       "commentsUrl": "https://news.ycombinator.com/item?id=49300314",
       "author": "u1hcw9nx",
       "publishedAt": "2026-08-14T15:43:10.000Z"
     },
     {
-      "id": "49300568",
+      "id": "49314435",
       "source": "hn",
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "score": 326,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49300568",
-      "author": "sans_souse",
-      "publishedAt": "2026-08-14T15:58:59.000Z"
-    },
-    {
-      "id": "49300800",
-      "source": "hn",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "score": 253,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49300800",
-      "author": "twapi",
-      "publishedAt": "2026-08-14T16:15:21.000Z"
-    },
-    {
-      "id": "49309050",
-      "source": "hn",
-      "title": "Debian has begun voting on the future of AI/LLM contributions",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-      "score": 36,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49309050",
-      "author": "matheusmoreira",
-      "publishedAt": "2026-08-15T09:20:07.000Z"
-    },
-    {
-      "id": "49308553",
-      "source": "hn",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "score": 47,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49308553",
-      "author": "jnord",
-      "publishedAt": "2026-08-15T07:31:46.000Z"
+      "title": "AI makes foundational knowledge more important",
+      "url": "https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49314435",
+      "author": "jruohonen",
+      "publishedAt": "2026-08-15T21:18:21.000Z"
     },
     {
       "id": "49307099",
       "source": "hn",
       "title": "Show HN: Deltix – AI Driven Testing",
       "url": "https://app.deltix.ai",
-      "score": 37,
+      "score": 50,
       "commentsUrl": "https://news.ycombinator.com/item?id=49307099",
       "author": "oneounceman",
       "publishedAt": "2026-08-15T02:42:14.000Z"
-    },
-    {
-      "id": "49309509",
-      "source": "hn",
-      "title": "OpenAI rolling out ads for Europe later this month",
-      "url": "https://openai.com/policies/eu-privacy-policy-preview/",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49309509",
-      "author": "notenlish",
-      "publishedAt": "2026-08-15T10:52:36.000Z"
-    },
-    {
-      "id": "49309183",
-      "source": "hn",
-      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49309183",
-      "author": "geox",
-      "publishedAt": "2026-08-15T09:46:39.000Z"
     },
     {
       "id": "49289112",
       "source": "hn",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 954,
+      "score": 960,
       "commentsUrl": "https://news.ycombinator.com/item?id=49289112",
       "author": "thisisauserid",
       "publishedAt": "2026-08-13T17:23:22.000Z"
     },
     {
-      "id": "49299102",
+      "id": "49300800",
       "source": "hn",
-      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-      "score": 63,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49299102",
-      "author": "bj-rn",
-      "publishedAt": "2026-08-14T14:22:39.000Z"
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "score": 302,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49300800",
+      "author": "twapi",
+      "publishedAt": "2026-08-14T16:15:21.000Z"
     },
     {
-      "id": "49301417",
+      "id": "49300568",
       "source": "hn",
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "url": "https://arxiv.org/abs/2608.12700",
-      "score": 42,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49301417",
-      "author": "Jimmc414",
-      "publishedAt": "2026-08-14T16:57:14.000Z"
-    },
-    {
-      "id": "49298088",
-      "source": "hn",
-      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-      "url": "https://hashagent.pages.dev/",
-      "score": 51,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49298088",
-      "author": "masonhsu",
-      "publishedAt": "2026-08-14T12:57:02.000Z"
-    },
-    {
-      "id": "49289844",
-      "source": "hn",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 701,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49289844",
-      "author": "pr337h4m",
-      "publishedAt": "2026-08-13T18:10:02.000Z"
-    },
-    {
-      "id": "49285244",
-      "source": "hn",
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "score": 725,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49285244",
-      "author": "bjin",
-      "publishedAt": "2026-08-13T12:58:02.000Z"
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "score": 351,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49300568",
+      "author": "sans_souse",
+      "publishedAt": "2026-08-14T15:58:59.000Z"
     },
     {
       "id": "49269090",
@@ -171,56 +131,6 @@
       "commentsUrl": "https://news.ycombinator.com/item?id=49269090",
       "author": "advaith08",
       "publishedAt": "2026-08-12T07:51:20.000Z"
-    },
-    {
-      "id": "49285327",
-      "source": "hn",
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "score": 216,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49285327",
-      "author": "toddmorey",
-      "publishedAt": "2026-08-13T13:05:29.000Z"
-    },
-    {
-      "id": "49287153",
-      "source": "hn",
-      "title": "Text AI watermarks will always be trivial to remove",
-      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "score": 143,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49287153",
-      "author": "pseudolus",
-      "publishedAt": "2026-08-13T15:07:10.000Z"
-    },
-    {
-      "id": "49288889",
-      "source": "hn",
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 407,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49288889",
-      "author": "spelk",
-      "publishedAt": "2026-08-13T17:05:12.000Z"
-    },
-    {
-      "id": "49274600",
-      "source": "hn",
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 1031,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49274600",
-      "author": "explosion-s",
-      "publishedAt": "2026-08-12T16:04:50.000Z"
-    },
-    {
-      "id": "49288293",
-      "source": "hn",
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "score": 125,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49288293",
-      "author": "timmmmmmay",
-      "publishedAt": "2026-08-13T16:22:05.000Z"
     }
   ]
 }
