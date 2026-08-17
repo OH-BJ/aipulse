@@ -1,7 +1,79 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-17T00:51:49.321Z",
+  "fetchedAt": "2026-08-17T12:28:54.573Z",
   "items": [
+    {
+      "id": "32581",
+      "source": "geeknews",
+      "title": "Show GN: ArchiveRclick – Rust로 만든 가볍고 빠른 Windows 압축 프로그램",
+      "url": "https://news.hada.io/topic?id=32581",
+      "commentsUrl": "https://news.hada.io/topic?id=32581",
+      "author": "kirinonakar",
+      "publishedAt": "2026-08-17T11:40:12.000Z"
+    },
+    {
+      "id": "32580",
+      "source": "geeknews",
+      "title": "Show GN: EV424 Verification Kernel 개발자",
+      "url": "https://news.hada.io/topic?id=32580",
+      "commentsUrl": "https://news.hada.io/topic?id=32580",
+      "author": "lws9262",
+      "publishedAt": "2026-08-17T10:17:06.000Z"
+    },
+    {
+      "id": "32579",
+      "source": "geeknews",
+      "title": "Claude의 ‘워터마크’가 글쓰기를 왜곡하는 방식",
+      "url": "https://news.hada.io/topic?id=32579",
+      "commentsUrl": "https://news.hada.io/topic?id=32579",
+      "author": "neo",
+      "publishedAt": "2026-08-17T09:33:37.000Z"
+    },
+    {
+      "id": "32578",
+      "source": "geeknews",
+      "title": "Qwen 3.8 27B는 뛰어나지만 기본 설정에서 지나치게 오래 추론함",
+      "url": "https://news.hada.io/topic?id=32578",
+      "commentsUrl": "https://news.hada.io/topic?id=32578",
+      "author": "neo",
+      "publishedAt": "2026-08-17T05:33:27.000Z"
+    },
+    {
+      "id": "32575",
+      "source": "geeknews",
+      "title": "Stripe, 10.5조원 이상에 AI 기업 OpenRouter 인수",
+      "url": "https://news.hada.io/topic?id=32575",
+      "commentsUrl": "https://news.hada.io/topic?id=32575",
+      "author": "neo",
+      "publishedAt": "2026-08-17T02:31:57.000Z"
+    },
+    {
+      "id": "32573",
+      "source": "geeknews",
+      "title": "인재 밀도가 높은 팀을 만드는 법 - Cursor 인재 총괄 Adam Ward [유튜브]",
+      "url": "https://news.hada.io/topic?id=32573",
+      "commentsUrl": "https://news.hada.io/topic?id=32573",
+      "author": "neo",
+      "publishedAt": "2026-08-17T01:30:03.000Z"
+    },
+    {
+      "id": "32572",
+      "source": "geeknews",
+      "title": "프로덕트 매니저 역할의 새로운 정의",
+      "url": "https://news.hada.io/topic?id=32572",
+      "commentsUrl": "https://news.hada.io/topic?id=32572",
+      "author": "neo",
+      "publishedAt": "2026-08-17T01:23:01.000Z"
+    },
+    {
+      "id": "32571",
+      "source": "geeknews",
+      "title": "Rust와 PostgreSQL로 확장 가능한 백엔드 서비스 구축하기",
+      "url": "https://news.hada.io/topic?id=32571",
+      "commentsUrl": "https://news.hada.io/topic?id=32571",
+      "author": "neo",
+      "publishedAt": "2026-08-17T00:54:01.000Z"
+    },
     {
       "id": "32570",
       "source": "geeknews",
@@ -199,78 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32547",
       "author": "neo",
       "publishedAt": "2026-08-16T06:33:22.000Z"
-    },
-    {
-      "id": "32545",
-      "source": "geeknews",
-      "title": "celld - 셀프호스팅 가능한 분산 Durable Objects",
-      "url": "https://news.hada.io/topic?id=32545",
-      "commentsUrl": "https://news.hada.io/topic?id=32545",
-      "author": "xguru",
-      "publishedAt": "2026-08-16T00:30:02.000Z"
-    },
-    {
-      "id": "32544",
-      "source": "geeknews",
-      "title": "Graph 엔지니어링 vs Loop 엔지니어링: 실제로 달라진 것은 무엇인가",
-      "url": "https://news.hada.io/topic?id=32544",
-      "commentsUrl": "https://news.hada.io/topic?id=32544",
-      "author": "neo",
-      "publishedAt": "2026-08-16T00:15:02.000Z"
-    },
-    {
-      "id": "32543",
-      "source": "geeknews",
-      "title": "내가 여전히 회의적인 이유",
-      "url": "https://news.hada.io/topic?id=32543",
-      "commentsUrl": "https://news.hada.io/topic?id=32543",
-      "author": "neo",
-      "publishedAt": "2026-08-16T00:01:57.000Z"
-    },
-    {
-      "id": "32542",
-      "source": "geeknews",
-      "title": "Ask HN: 요즘 Hacker News를 어떻게 따라가시나요?",
-      "url": "https://news.hada.io/topic?id=32542",
-      "commentsUrl": "https://news.hada.io/topic?id=32542",
-      "author": "xguru",
-      "publishedAt": "2026-08-15T23:08:57.000Z"
-    },
-    {
-      "id": "32541",
-      "source": "geeknews",
-      "title": "Apple, App Store 외부 구매에 15% 수수료 부과 제안",
-      "url": "https://news.hada.io/topic?id=32541",
-      "commentsUrl": "https://news.hada.io/topic?id=32541",
-      "author": "xguru",
-      "publishedAt": "2026-08-15T23:07:04.000Z"
-    },
-    {
-      "id": "32540",
-      "source": "geeknews",
-      "title": "AI와 일하는 방식은 코딩보다 리더십에 가깝다",
-      "url": "https://news.hada.io/topic?id=32540",
-      "commentsUrl": "https://news.hada.io/topic?id=32540",
-      "author": "xguru",
-      "publishedAt": "2026-08-15T23:04:39.000Z"
-    },
-    {
-      "id": "32539",
-      "source": "geeknews",
-      "title": "AI는 수학자보다 더 잘 생각하는 게 아니라 더 많이 기억함",
-      "url": "https://news.hada.io/topic?id=32539",
-      "commentsUrl": "https://news.hada.io/topic?id=32539",
-      "author": "neo",
-      "publishedAt": "2026-08-15T21:33:40.000Z"
-    },
-    {
-      "id": "32538",
-      "source": "geeknews",
-      "title": "세마글루타이드는 치매 예측 위험을 낮추는 것과 관련이 있다",
-      "url": "https://news.hada.io/topic?id=32538",
-      "commentsUrl": "https://news.hada.io/topic?id=32538",
-      "author": "neo",
-      "publishedAt": "2026-08-15T20:34:59.000Z"
     }
   ]
 }

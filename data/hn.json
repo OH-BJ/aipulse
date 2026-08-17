@@ -1,13 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-17T00:51:48.638Z",
+  "fetchedAt": "2026-08-17T12:28:53.982Z",
   "items": [
+    {
+      "id": "49324985",
+      "source": "hn",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "score": 577,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49324985",
+      "author": "bilsbie",
+      "publishedAt": "2026-08-16T23:45:09.000Z"
+    },
+    {
+      "id": "49324087",
+      "source": "hn",
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "score": 386,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49324087",
+      "author": "ropbear",
+      "publishedAt": "2026-08-16T21:53:43.000Z"
+    },
     {
       "id": "49319556",
       "source": "hn",
       "title": "Claude: System Prompts",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 523,
+      "score": 689,
       "commentsUrl": "https://news.ycombinator.com/item?id=49319556",
       "author": "tosh",
       "publishedAt": "2026-08-16T12:48:21.000Z"
@@ -17,130 +37,90 @@
       "source": "hn",
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "score": 221,
+      "score": 301,
       "commentsUrl": "https://news.ycombinator.com/item?id=49320611",
       "author": "mlenhard",
       "publishedAt": "2026-08-16T14:44:55.000Z"
+    },
+    {
+      "id": "49323136",
+      "source": "hn",
+      "title": "Red queen hypothesis – A new way forward for self-improving AI",
+      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "score": 79,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49323136",
+      "author": "hardlianotion",
+      "publishedAt": "2026-08-16T20:01:13.000Z"
     },
     {
       "id": "49323686",
       "source": "hn",
       "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
       "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "score": 88,
+      "score": 215,
       "commentsUrl": "https://news.ycombinator.com/item?id=49323686",
       "author": "root-parent",
       "publishedAt": "2026-08-16T21:07:10.000Z"
-    },
-    {
-      "id": "49323381",
-      "source": "hn",
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "score": 170,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49323381",
-      "author": "zacharyozer",
-      "publishedAt": "2026-08-16T20:31:16.000Z"
-    },
-    {
-      "id": "49324087",
-      "source": "hn",
-      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "score": 132,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49324087",
-      "author": "ropbear",
-      "publishedAt": "2026-08-16T21:53:43.000Z"
-    },
-    {
-      "id": "49313367",
-      "source": "hn",
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "score": 179,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49313367",
-      "author": "AnodicElegy",
-      "publishedAt": "2026-08-15T19:12:53.000Z"
-    },
-    {
-      "id": "49324572",
-      "source": "hn",
-      "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49324572",
-      "author": "wertyk",
-      "publishedAt": "2026-08-16T22:50:38.000Z"
-    },
-    {
-      "id": "49318735",
-      "source": "hn",
-      "title": "AI Coding Without the Vibes",
-      "url": "https://peterbloem.nl/blog/craft-coding",
-      "score": 76,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49318735",
-      "author": "riskone",
-      "publishedAt": "2026-08-16T10:31:36.000Z"
-    },
-    {
-      "id": "49323932",
-      "source": "hn",
-      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-      "score": 72,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49323932",
-      "author": "healsdata",
-      "publishedAt": "2026-08-16T21:34:06.000Z"
-    },
-    {
-      "id": "49323136",
-      "source": "hn",
-      "title": "Red queen hypothesis – a new way forward for self-improving AI",
-      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49323136",
-      "author": "hardlianotion",
-      "publishedAt": "2026-08-16T20:01:13.000Z"
-    },
-    {
-      "id": "49312845",
-      "source": "hn",
-      "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "score": 589,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49312845",
-      "author": "rzk",
-      "publishedAt": "2026-08-15T18:13:02.000Z"
-    },
-    {
-      "id": "49299605",
-      "source": "hn",
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 1409,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49299605",
-      "author": "erdaltoprak",
-      "publishedAt": "2026-08-14T15:00:00.000Z"
-    },
-    {
-      "id": "49314967",
-      "source": "hn",
-      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "url": "https://arxiv.org/abs/2608.13122",
-      "score": 50,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49314967",
-      "author": "Jimmc414",
-      "publishedAt": "2026-08-15T22:41:51.000Z"
     },
     {
       "id": "49319814",
       "source": "hn",
       "title": "Show HN: A public AI whose memory is shared across all users",
       "url": "https://wildstatic.com/",
-      "score": 69,
+      "score": 75,
       "commentsUrl": "https://news.ycombinator.com/item?id=49319814",
       "author": "adjohu",
       "publishedAt": "2026-08-16T13:21:45.000Z"
+    },
+    {
+      "id": "49329003",
+      "source": "hn",
+      "title": "Anthropic becomes the 'Apple of AI': Most revenue despite being most expensive",
+      "url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49329003",
+      "author": "TMWNN",
+      "publishedAt": "2026-08-17T10:56:45.000Z"
+    },
+    {
+      "id": "49299605",
+      "source": "hn",
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "score": 1419,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49299605",
+      "author": "erdaltoprak",
+      "publishedAt": "2026-08-14T15:00:00.000Z"
+    },
+    {
+      "id": "49318735",
+      "source": "hn",
+      "title": "AI Coding Without the Vibes",
+      "url": "https://peterbloem.nl/blog/craft-coding",
+      "score": 88,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49318735",
+      "author": "riskone",
+      "publishedAt": "2026-08-16T10:31:36.000Z"
+    },
+    {
+      "id": "49314967",
+      "source": "hn",
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "url": "https://arxiv.org/abs/2608.13122",
+      "score": 55,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49314967",
+      "author": "Jimmc414",
+      "publishedAt": "2026-08-15T22:41:51.000Z"
+    },
+    {
+      "id": "49313367",
+      "source": "hn",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "score": 184,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49313367",
+      "author": "AnodicElegy",
+      "publishedAt": "2026-08-15T19:12:53.000Z"
     },
     {
       "id": "49307700",
@@ -153,44 +133,44 @@
       "publishedAt": "2026-08-15T04:42:07.000Z"
     },
     {
-      "id": "49317760",
+      "id": "49289112",
       "source": "hn",
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://littlelearner-ll.github.io/",
-      "score": 234,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49317760",
-      "author": "porridgeraisin",
-      "publishedAt": "2026-08-16T07:37:53.000Z"
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "score": 967,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49289112",
+      "author": "thisisauserid",
+      "publishedAt": "2026-08-13T17:23:22.000Z"
     },
     {
-      "id": "49321813",
+      "id": "49312845",
       "source": "hn",
-      "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
-      "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49321813",
-      "author": "hacklas",
-      "publishedAt": "2026-08-16T17:13:22.000Z"
-    },
-    {
-      "id": "49322350",
-      "source": "hn",
-      "title": "The AI store manager fired its first human",
-      "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49322350",
-      "author": "datakan",
-      "publishedAt": "2026-08-16T18:19:47.000Z"
+      "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "score": 620,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49312845",
+      "author": "rzk",
+      "publishedAt": "2026-08-15T18:13:02.000Z"
     },
     {
       "id": "49309451",
       "source": "hn",
       "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "score": 321,
+      "score": 328,
       "commentsUrl": "https://news.ycombinator.com/item?id=49309451",
       "author": "allenb",
       "publishedAt": "2026-08-15T10:39:41.000Z"
+    },
+    {
+      "id": "49300314",
+      "source": "hn",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "score": 494,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49300314",
+      "author": "u1hcw9nx",
+      "publishedAt": "2026-08-14T15:43:10.000Z"
     }
   ]
 }
