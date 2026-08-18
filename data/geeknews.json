@@ -1,7 +1,133 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-17T12:28:54.573Z",
+  "fetchedAt": "2026-08-18T00:49:56.818Z",
   "items": [
+    {
+      "id": "32600",
+      "source": "geeknews",
+      "title": "Codex에서 GPT-5.6 Sol의 1M 토큰 컨텍스트 윈도우 활성화하기",
+      "url": "https://news.hada.io/topic?id=32600",
+      "commentsUrl": "https://news.hada.io/topic?id=32600",
+      "author": "xguru",
+      "publishedAt": "2026-08-18T00:45:03.000Z"
+    },
+    {
+      "id": "32599",
+      "source": "geeknews",
+      "title": "Qwen3.8 27B, Artificial Analysis 지능 지수 52점 기록",
+      "url": "https://news.hada.io/topic?id=32599",
+      "commentsUrl": "https://news.hada.io/topic?id=32599",
+      "author": "neo",
+      "publishedAt": "2026-08-18T00:32:38.000Z"
+    },
+    {
+      "id": "32598",
+      "source": "geeknews",
+      "title": "Docbank - 사람과 에이전트가 함께 쓰는 로컬 우선 문서 기록 시스템",
+      "url": "https://news.hada.io/topic?id=32598",
+      "commentsUrl": "https://news.hada.io/topic?id=32598",
+      "author": "xguru",
+      "publishedAt": "2026-08-18T00:30:01.000Z"
+    },
+    {
+      "id": "32597",
+      "source": "geeknews",
+      "title": "채점을 AI한테 시켰더니 내 채점기의 버그를 잡았다",
+      "url": "https://news.hada.io/topic?id=32597",
+      "commentsUrl": "https://news.hada.io/topic?id=32597",
+      "author": "ramses203",
+      "publishedAt": "2026-08-18T00:13:19.000Z"
+    },
+    {
+      "id": "32596",
+      "source": "geeknews",
+      "title": "GitHub 대안으로 전환하는 것이 합리적일까?",
+      "url": "https://news.hada.io/topic?id=32596",
+      "commentsUrl": "https://news.hada.io/topic?id=32596",
+      "author": "neo",
+      "publishedAt": "2026-08-18T00:01:57.000Z"
+    },
+    {
+      "id": "32595",
+      "source": "geeknews",
+      "title": "GitHub Copilot이 놓친 수정으로 Snowflake Jira 침해 가능해져",
+      "url": "https://news.hada.io/topic?id=32595",
+      "commentsUrl": "https://news.hada.io/topic?id=32595",
+      "author": "neo",
+      "publishedAt": "2026-08-17T22:32:25.000Z"
+    },
+    {
+      "id": "32594",
+      "source": "geeknews",
+      "title": "GPT-5.6 Sol은 OpenAI가 지금까지 출시한 최고의 비전 모델",
+      "url": "https://news.hada.io/topic?id=32594",
+      "commentsUrl": "https://news.hada.io/topic?id=32594",
+      "author": "neo",
+      "publishedAt": "2026-08-17T21:37:23.000Z"
+    },
+    {
+      "id": "32593",
+      "source": "geeknews",
+      "title": "AI;DR(AI라서 읽지 않음)",
+      "url": "https://news.hada.io/topic?id=32593",
+      "commentsUrl": "https://news.hada.io/topic?id=32593",
+      "author": "neo",
+      "publishedAt": "2026-08-17T21:34:22.000Z"
+    },
+    {
+      "id": "32592",
+      "source": "geeknews",
+      "title": "Yale 연구: 보편적 의료보장으로 연간 1조 달러 절감·11만4천 명 생명 구할 수 있어",
+      "url": "https://news.hada.io/topic?id=32592",
+      "commentsUrl": "https://news.hada.io/topic?id=32592",
+      "author": "neo",
+      "publishedAt": "2026-08-17T18:32:31.000Z"
+    },
+    {
+      "id": "32590",
+      "source": "geeknews",
+      "title": "Ask HN: GitHub의 대안은?",
+      "url": "https://news.hada.io/topic?id=32590",
+      "commentsUrl": "https://news.hada.io/topic?id=32590",
+      "author": "neo",
+      "publishedAt": "2026-08-17T17:37:53.000Z"
+    },
+    {
+      "id": "32589",
+      "source": "geeknews",
+      "title": "DuckDB v2.0 “Cyanoptera” 미리보기",
+      "url": "https://news.hada.io/topic?id=32589",
+      "commentsUrl": "https://news.hada.io/topic?id=32589",
+      "author": "neo",
+      "publishedAt": "2026-08-17T17:34:53.000Z"
+    },
+    {
+      "id": "32588",
+      "source": "geeknews",
+      "title": "GitHub 또 장애인가? PR에 접근할 수 없음",
+      "url": "https://news.hada.io/topic?id=32588",
+      "commentsUrl": "https://news.hada.io/topic?id=32588",
+      "author": "neo",
+      "publishedAt": "2026-08-17T16:31:09.000Z"
+    },
+    {
+      "id": "32585",
+      "source": "geeknews",
+      "title": "GitHub.com 장애 발생",
+      "url": "https://news.hada.io/topic?id=32585",
+      "commentsUrl": "https://news.hada.io/topic?id=32585",
+      "author": "neo",
+      "publishedAt": "2026-08-17T14:31:35.000Z"
+    },
+    {
+      "id": "32583",
+      "source": "geeknews",
+      "title": "수십억 달러의 연구비 지원을 취소한 미국 연방정부의 키워드 목록",
+      "url": "https://news.hada.io/topic?id=32583",
+      "commentsUrl": "https://news.hada.io/topic?id=32583",
+      "author": "neo",
+      "publishedAt": "2026-08-17T12:32:07.000Z"
+    },
     {
       "id": "32581",
       "source": "geeknews",
@@ -41,7 +167,7 @@
     {
       "id": "32575",
       "source": "geeknews",
-      "title": "Stripe, 10.5조원 이상에 AI 기업 OpenRouter 인수",
+      "title": "Stripe, 10조원 이상에 AI 모델 게이트웨이 OpenRouter 인수 합의",
       "url": "https://news.hada.io/topic?id=32575",
       "commentsUrl": "https://news.hada.io/topic?id=32575",
       "author": "neo",
@@ -145,132 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32563",
       "author": "neo",
       "publishedAt": "2026-08-16T22:33:54.000Z"
-    },
-    {
-      "id": "32562",
-      "source": "geeknews",
-      "title": "AI 크레딧 재판매 시장 - 토큰 브로커와 Relay는 어떻게 움직이나",
-      "url": "https://news.hada.io/topic?id=32562",
-      "commentsUrl": "https://news.hada.io/topic?id=32562",
-      "author": "neo",
-      "publishedAt": "2026-08-16T21:31:44.000Z"
-    },
-    {
-      "id": "32561",
-      "source": "geeknews",
-      "title": "제3세계 임베디드 엔지니어가 “RISC-V: 그들은 더 잘 알았어야 했다”에 답하다",
-      "url": "https://news.hada.io/topic?id=32561",
-      "commentsUrl": "https://news.hada.io/topic?id=32561",
-      "author": "neo",
-      "publishedAt": "2026-08-16T20:33:06.000Z"
-    },
-    {
-      "id": "32560",
-      "source": "geeknews",
-      "title": "알츠하이머 증상을 되돌린다는 논란의 수술",
-      "url": "https://news.hada.io/topic?id=32560",
-      "commentsUrl": "https://news.hada.io/topic?id=32560",
-      "author": "neo",
-      "publishedAt": "2026-08-16T18:32:45.000Z"
-    },
-    {
-      "id": "32558",
-      "source": "geeknews",
-      "title": "인도네시아 엔데 북북서쪽 68km에서 규모 7.7 지진 발생",
-      "url": "https://news.hada.io/topic?id=32558",
-      "commentsUrl": "https://news.hada.io/topic?id=32558",
-      "author": "neo",
-      "publishedAt": "2026-08-16T17:46:08.000Z"
-    },
-    {
-      "id": "32557",
-      "source": "geeknews",
-      "title": "LLM이 5학년 이후의 학습 자료를 전혀 보지 못하면 어떻게 될까?",
-      "url": "https://news.hada.io/topic?id=32557",
-      "commentsUrl": "https://news.hada.io/topic?id=32557",
-      "author": "neo",
-      "publishedAt": "2026-08-16T17:43:08.000Z"
-    },
-    {
-      "id": "32556",
-      "source": "geeknews",
-      "title": "‘kidney failure’ 대신 ‘kidney disappointment’를 사용한 연구 논문들",
-      "url": "https://news.hada.io/topic?id=32556",
-      "commentsUrl": "https://news.hada.io/topic?id=32556",
-      "author": "neo",
-      "publishedAt": "2026-08-16T17:40:08.000Z"
-    },
-    {
-      "id": "32555",
-      "source": "geeknews",
-      "title": "iOS용 Firefox에 네이티브 광고 차단 기능 추가",
-      "url": "https://news.hada.io/topic?id=32555",
-      "commentsUrl": "https://news.hada.io/topic?id=32555",
-      "author": "neo",
-      "publishedAt": "2026-08-16T17:37:08.000Z"
-    },
-    {
-      "id": "32554",
-      "source": "geeknews",
-      "title": "새로운 아이디어가 태어나는 마음의 상태를 기르는 법(2023)",
-      "url": "https://news.hada.io/topic?id=32554",
-      "commentsUrl": "https://news.hada.io/topic?id=32554",
-      "author": "neo",
-      "publishedAt": "2026-08-16T16:44:28.000Z"
-    },
-    {
-      "id": "32553",
-      "source": "geeknews",
-      "title": "Claude 시스템 프롬프트 변경 이력",
-      "url": "https://news.hada.io/topic?id=32553",
-      "commentsUrl": "https://news.hada.io/topic?id=32553",
-      "author": "neo",
-      "publishedAt": "2026-08-16T16:41:28.000Z"
-    },
-    {
-      "id": "32552",
-      "source": "geeknews",
-      "title": "소프트웨어 엔지니어링의 기본 원칙이 어느 때보다 중요해짐",
-      "url": "https://news.hada.io/topic?id=32552",
-      "commentsUrl": "https://news.hada.io/topic?id=32552",
-      "author": "neo",
-      "publishedAt": "2026-08-16T16:38:28.000Z"
-    },
-    {
-      "id": "32551",
-      "source": "geeknews",
-      "title": "Unicode를 떠도는 유령 문자",
-      "url": "https://news.hada.io/topic?id=32551",
-      "commentsUrl": "https://news.hada.io/topic?id=32551",
-      "author": "neo",
-      "publishedAt": "2026-08-16T15:31:37.000Z"
-    },
-    {
-      "id": "32549",
-      "source": "geeknews",
-      "title": "겨울을 앞두고 기록적 수준으로 빠르게 성장하는 슈퍼 엘니뇨",
-      "url": "https://news.hada.io/topic?id=32549",
-      "commentsUrl": "https://news.hada.io/topic?id=32549",
-      "author": "neo",
-      "publishedAt": "2026-08-16T11:33:47.000Z"
-    },
-    {
-      "id": "32548",
-      "source": "geeknews",
-      "title": "복부 지방, BMI보다 심장병 위험을 더 정확히 예측",
-      "url": "https://news.hada.io/topic?id=32548",
-      "commentsUrl": "https://news.hada.io/topic?id=32548",
-      "author": "neo",
-      "publishedAt": "2026-08-16T09:32:09.000Z"
-    },
-    {
-      "id": "32547",
-      "source": "geeknews",
-      "title": "감염 진드기를 15분 만에 확인하는 첫 가정용 라임병 검사",
-      "url": "https://news.hada.io/topic?id=32547",
-      "commentsUrl": "https://news.hada.io/topic?id=32547",
-      "author": "neo",
-      "publishedAt": "2026-08-16T06:33:22.000Z"
     }
   ]
 }
