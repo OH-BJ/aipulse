@@ -1,126 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-19T00:50:24.932Z",
+  "fetchedAt": "2026-08-19T12:31:16.131Z",
   "items": [
+    {
+      "id": "49344643",
+      "source": "hn",
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "score": 229,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49344643",
+      "author": "porridgeraisin",
+      "publishedAt": "2026-08-18T12:22:58.000Z"
+    },
     {
       "id": "49353432",
       "source": "hn",
       "title": "AI usage patterns in software teams",
       "url": "https://linear.app/data",
-      "score": 26,
+      "score": 155,
       "commentsUrl": "https://news.ycombinator.com/item?id=49353432",
       "author": "giuliomagnifico",
       "publishedAt": "2026-08-18T22:08:07.000Z"
-    },
-    {
-      "id": "49352806",
-      "source": "hn",
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "score": 105,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49352806",
-      "author": "amrrs",
-      "publishedAt": "2026-08-18T21:14:21.000Z"
-    },
-    {
-      "id": "49351330",
-      "source": "hn",
-      "title": "Norway should buy OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "score": 203,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49351330",
-      "author": "alexeigannon",
-      "publishedAt": "2026-08-18T19:30:29.000Z"
     },
     {
       "id": "49348751",
       "source": "hn",
       "title": "Claude Code May–August 2026 weekly limits promotion",
       "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "score": 255,
+      "score": 279,
       "commentsUrl": "https://news.ycombinator.com/item?id=49348751",
       "author": "tyre",
       "publishedAt": "2026-08-18T17:02:15.000Z"
     },
     {
-      "id": "49353484",
+      "id": "49351330",
       "source": "hn",
-      "title": "GPT-5.6 Sol: 70% off in Devin",
-      "url": "https://devin.ai/blog/gpt-5-6-sol-promo",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49353484",
-      "author": "mirzap",
-      "publishedAt": "2026-08-18T22:12:14.000Z"
+      "title": "Norway should buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "score": 243,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49351330",
+      "author": "alexeigannon",
+      "publishedAt": "2026-08-18T19:30:29.000Z"
     },
     {
       "id": "49347015",
       "source": "hn",
       "title": "AI won't solve the work-theater problem",
       "url": "https://think-twice.me/?p=102",
-      "score": 21,
+      "score": 35,
       "commentsUrl": "https://news.ycombinator.com/item?id=49347015",
       "author": "zug_zug",
       "publishedAt": "2026-08-18T15:21:29.000Z"
     },
     {
-      "id": "49354731",
+      "id": "49336573",
       "source": "hn",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49354731",
-      "author": "sbulaev",
-      "publishedAt": "2026-08-19T00:07:06.000Z"
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "score": 1078,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49336573",
+      "author": "mooreds",
+      "publishedAt": "2026-08-17T19:47:15.000Z"
     },
     {
       "id": "49305969",
       "source": "hn",
       "title": "Baking a Model: A Metaphor for LLM Training",
       "url": "https://newsletter.kentbeck.com/p/baking-a-model",
-      "score": 31,
+      "score": 32,
       "commentsUrl": "https://news.ycombinator.com/item?id=49305969",
       "author": "KentBeck",
       "publishedAt": "2026-08-14T23:46:45.000Z"
     },
     {
-      "id": "49350637",
+      "id": "49332751",
       "source": "hn",
-      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
-      "url": "https://pantheongpu.com/",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49350637",
-      "author": "saqibkhan1992",
-      "publishedAt": "2026-08-18T18:47:51.000Z"
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "score": 116,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49332751",
+      "author": "abdik",
+      "publishedAt": "2026-08-17T15:36:18.000Z"
     },
     {
-      "id": "49352930",
+      "id": "49356609",
       "source": "hn",
-      "title": "OpenAI pauses frontier model training",
-      "url": "https://twitter.com/sama/status/2089787807611195475",
-      "score": 23,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49352930",
-      "author": "vinyl7",
-      "publishedAt": "2026-08-18T21:24:35.000Z"
+      "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
+      "url": "https://plugos.net/plugclaw/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49356609",
+      "author": "darkreader",
+      "publishedAt": "2026-08-19T04:03:16.000Z"
     },
     {
-      "id": "49352394",
+      "id": "49356591",
       "source": "hn",
-      "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
-      "url": "https://chatoss.ai",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49352394",
-      "author": "thetjmccarty",
-      "publishedAt": "2026-08-18T20:42:19.000Z"
-    },
-    {
-      "id": "49351299",
-      "source": "hn",
-      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
-      "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49351299",
-      "author": "Philpax",
-      "publishedAt": "2026-08-18T19:28:09.000Z"
+      "title": "Mathematics in the Age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49356591",
+      "author": "aaraujo002",
+      "publishedAt": "2026-08-19T04:01:39.000Z"
     }
   ]
 }
