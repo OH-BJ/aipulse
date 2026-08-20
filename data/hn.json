@@ -1,13 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-20T00:49:57.537Z",
+  "fetchedAt": "2026-08-20T12:32:57.609Z",
   "items": [
+    {
+      "id": "49371857",
+      "source": "hn",
+      "title": "Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "score": 567,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49371857",
+      "author": "pjerem",
+      "publishedAt": "2026-08-20T08:20:44.000Z"
+    },
+    {
+      "id": "49373269",
+      "source": "hn",
+      "title": "AI didn't erase the junior engineer's value, it increased it it",
+      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+      "score": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49373269",
+      "author": "franciscomt",
+      "publishedAt": "2026-08-20T11:42:20.000Z"
+    },
     {
       "id": "49362728",
       "source": "hn",
       "title": "Mathematics in the age of AI",
       "url": "https://arxiv.org/abs/2608.16753",
-      "score": 116,
+      "score": 185,
       "commentsUrl": "https://news.ycombinator.com/item?id=49362728",
       "author": "jonbaer",
       "publishedAt": "2026-08-19T15:14:25.000Z"
@@ -17,7 +37,7 @@
       "source": "hn",
       "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
       "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-      "score": 310,
+      "score": 327,
       "commentsUrl": "https://news.ycombinator.com/item?id=49344643",
       "author": "porridgeraisin",
       "publishedAt": "2026-08-18T12:22:58.000Z"
@@ -27,20 +47,30 @@
       "source": "hn",
       "title": "AI usage patterns in software teams",
       "url": "https://linear.app/data",
-      "score": 178,
+      "score": 191,
       "commentsUrl": "https://news.ycombinator.com/item?id=49353432",
       "author": "giuliomagnifico",
       "publishedAt": "2026-08-18T22:08:07.000Z"
     },
     {
-      "id": "49367870",
+      "id": "49371195",
       "source": "hn",
-      "title": "Japan to require AI firms to disclose training data",
-      "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49367870",
-      "author": "anigbrowl",
-      "publishedAt": "2026-08-19T22:12:52.000Z"
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "score": 20,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49371195",
+      "author": "divbzero",
+      "publishedAt": "2026-08-20T06:40:14.000Z"
+    },
+    {
+      "id": "49294441",
+      "source": "hn",
+      "title": "Error by AI scribe during medical appointment leaves patient devastated",
+      "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+      "score": 151,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49294441",
+      "author": "ahonhn",
+      "publishedAt": "2026-08-14T03:24:10.000Z"
     }
   ]
 }

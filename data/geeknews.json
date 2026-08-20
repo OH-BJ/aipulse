@@ -1,7 +1,115 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-20T00:49:57.918Z",
+  "fetchedAt": "2026-08-20T12:32:57.918Z",
   "items": [
+    {
+      "id": "32700",
+      "source": "geeknews",
+      "title": "Casio F-B100W-1A 모델",
+      "url": "https://news.hada.io/topic?id=32700",
+      "commentsUrl": "https://news.hada.io/topic?id=32700",
+      "author": "neo",
+      "publishedAt": "2026-08-20T11:36:05.000Z"
+    },
+    {
+      "id": "32699",
+      "source": "geeknews",
+      "title": "AI 답변을 그대로 붙여넣지 마세요",
+      "url": "https://news.hada.io/topic?id=32699",
+      "commentsUrl": "https://news.hada.io/topic?id=32699",
+      "author": "neo",
+      "publishedAt": "2026-08-20T11:33:05.000Z"
+    },
+    {
+      "id": "32698",
+      "source": "geeknews",
+      "title": "Show GN: 브라우저에서도 사용 가능한 3D 슬라이서 three-slicer — 0.2.0에서 SLA(레진) 지원 추가",
+      "url": "https://news.hada.io/topic?id=32698",
+      "commentsUrl": "https://news.hada.io/topic?id=32698",
+      "author": "kimgh06",
+      "publishedAt": "2026-08-20T10:31:26.000Z"
+    },
+    {
+      "id": "32697",
+      "source": "geeknews",
+      "title": "Show GN: 오마이한글 rhwp기반 안드로이드용 한글문서 편집앱",
+      "url": "https://news.hada.io/topic?id=32697",
+      "commentsUrl": "https://news.hada.io/topic?id=32697",
+      "author": "tomlee",
+      "publishedAt": "2026-08-20T10:08:34.000Z"
+    },
+    {
+      "id": "32695",
+      "source": "geeknews",
+      "title": "TypeGPU로 실시간 깊이 인식 조명 주입 구현",
+      "url": "https://news.hada.io/topic?id=32695",
+      "commentsUrl": "https://news.hada.io/topic?id=32695",
+      "author": "mdisprgm",
+      "publishedAt": "2026-08-20T06:33:40.000Z"
+    },
+    {
+      "id": "32694",
+      "source": "geeknews",
+      "title": "Show GN: PDF 번역에서 텍스트보다 레이아웃이 더 어려워서 문서 단위 번역 도구를 만들었습니다",
+      "url": "https://news.hada.io/topic?id=32694",
+      "commentsUrl": "https://news.hada.io/topic?id=32694",
+      "author": "ethanfeng",
+      "publishedAt": "2026-08-20T06:13:33.000Z"
+    },
+    {
+      "id": "32693",
+      "source": "geeknews",
+      "title": "Ask GN: 서비스 개발 시 회계 시스템과 어떻게 연동하시나요?",
+      "url": "https://news.hada.io/topic?id=32693",
+      "commentsUrl": "https://news.hada.io/topic?id=32693",
+      "author": "geeep",
+      "publishedAt": "2026-08-20T06:01:40.000Z"
+    },
+    {
+      "id": "32692",
+      "source": "geeknews",
+      "title": "Google, 일부 소스 코드의 Git 태그 배포를 Google Drive 요청 방식으로 대체",
+      "url": "https://news.hada.io/topic?id=32692",
+      "commentsUrl": "https://news.hada.io/topic?id=32692",
+      "author": "neo",
+      "publishedAt": "2026-08-20T05:32:00.000Z"
+    },
+    {
+      "id": "https://news.hada.io/article/code-outruns-review",
+      "source": "geeknews",
+      "title": "코드는 다 읽을 수 없고, 코드 리뷰가 맡아온 책임은 사라지지 않는다",
+      "url": "https://news.hada.io/article/code-outruns-review",
+      "commentsUrl": "https://news.hada.io/article/code-outruns-review",
+      "author": "GeekNews",
+      "publishedAt": "2026-08-20T05:26:11.000Z"
+    },
+    {
+      "id": "32690",
+      "source": "geeknews",
+      "title": "Show GN: 웹 canvas에 HTML DOM을 그려보자 (크롬 HTML-in-Canvas)",
+      "url": "https://news.hada.io/topic?id=32690",
+      "commentsUrl": "https://news.hada.io/topic?id=32690",
+      "author": "greekr4",
+      "publishedAt": "2026-08-20T05:06:32.000Z"
+    },
+    {
+      "id": "32689",
+      "source": "geeknews",
+      "title": "아직도 커밋 메시지를 직접 작성하는 이유",
+      "url": "https://news.hada.io/topic?id=32689",
+      "commentsUrl": "https://news.hada.io/topic?id=32689",
+      "author": "neo",
+      "publishedAt": "2026-08-20T05:02:14.000Z"
+    },
+    {
+      "id": "32688",
+      "source": "geeknews",
+      "title": "[팟캐스트] 개발자라면 알아야 할 암호학",
+      "url": "https://news.hada.io/topic?id=32688",
+      "commentsUrl": "https://news.hada.io/topic?id=32688",
+      "author": "bungae",
+      "publishedAt": "2026-08-20T01:49:12.000Z"
+    },
     {
       "id": "32686",
       "source": "geeknews",
@@ -163,114 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32668",
       "author": "neo",
       "publishedAt": "2026-08-19T15:44:09.000Z"
-    },
-    {
-      "id": "32667",
-      "source": "geeknews",
-      "title": "Fairphone, 미국에서 공식 판매 시작",
-      "url": "https://news.hada.io/topic?id=32667",
-      "commentsUrl": "https://news.hada.io/topic?id=32667",
-      "author": "neo",
-      "publishedAt": "2026-08-19T15:41:09.000Z"
-    },
-    {
-      "id": "32666",
-      "source": "geeknews",
-      "title": "그래도 총을 든 사람들이 결국 하라고 명령한다",
-      "url": "https://news.hada.io/topic?id=32666",
-      "commentsUrl": "https://news.hada.io/topic?id=32666",
-      "author": "neo",
-      "publishedAt": "2026-08-19T15:38:09.000Z"
-    },
-    {
-      "id": "32665",
-      "source": "geeknews",
-      "title": "Show GN: DevSwitcher Tools – VSCode 상태 표시줄 하나로 6개 언어를 한 번에",
-      "url": "https://news.hada.io/topic?id=32665",
-      "commentsUrl": "https://news.hada.io/topic?id=32665",
-      "author": "lim8603",
-      "publishedAt": "2026-08-19T14:06:23.000Z"
-    },
-    {
-      "id": "32664",
-      "source": "geeknews",
-      "title": "Show GN: 직접 만들고 있는 웹 테트리스",
-      "url": "https://news.hada.io/topic?id=32664",
-      "commentsUrl": "https://news.hada.io/topic?id=32664",
-      "author": "kkan79",
-      "publishedAt": "2026-08-19T14:04:20.000Z"
-    },
-    {
-      "id": "32663",
-      "source": "geeknews",
-      "title": "Mojo 전체 컴파일러와 툴체인 오픈소스 공개",
-      "url": "https://news.hada.io/topic?id=32663",
-      "commentsUrl": "https://news.hada.io/topic?id=32663",
-      "author": "neo",
-      "publishedAt": "2026-08-19T13:01:09.000Z"
-    },
-    {
-      "id": "32662",
-      "source": "geeknews",
-      "title": "AI 시대, 개발자는 면사무소가 아니라 목욕탕을 만들어야 한다",
-      "url": "https://news.hada.io/topic?id=32662",
-      "commentsUrl": "https://news.hada.io/topic?id=32662",
-      "author": "kwjo0228",
-      "publishedAt": "2026-08-19T12:49:43.000Z"
-    },
-    {
-      "id": "32661",
-      "source": "geeknews",
-      "title": "소프트웨어 팀의 AI 사용 패턴",
-      "url": "https://news.hada.io/topic?id=32661",
-      "commentsUrl": "https://news.hada.io/topic?id=32661",
-      "author": "xguru",
-      "publishedAt": "2026-08-19T12:31:31.000Z"
-    },
-    {
-      "id": "32660",
-      "source": "geeknews",
-      "title": "Apple, 유럽연합 앱 정책 변경 발표",
-      "url": "https://news.hada.io/topic?id=32660",
-      "commentsUrl": "https://news.hada.io/topic?id=32660",
-      "author": "xguru",
-      "publishedAt": "2026-08-19T12:28:47.000Z"
-    },
-    {
-      "id": "32659",
-      "source": "geeknews",
-      "title": "25년 된 비디오 특허 만료로 Linux의 법적 골칫거리 해소",
-      "url": "https://news.hada.io/topic?id=32659",
-      "commentsUrl": "https://news.hada.io/topic?id=32659",
-      "author": "xguru",
-      "publishedAt": "2026-08-19T12:26:33.000Z"
-    },
-    {
-      "id": "32658",
-      "source": "geeknews",
-      "title": "Turbovec - Rust로 구현한 벡터 검색용 Google TurboQuant",
-      "url": "https://news.hada.io/topic?id=32658",
-      "commentsUrl": "https://news.hada.io/topic?id=32658",
-      "author": "xguru",
-      "publishedAt": "2026-08-19T12:25:05.000Z"
-    },
-    {
-      "id": "32657",
-      "source": "geeknews",
-      "title": "IKEA는 제품 이름을 어떻게 지을까?",
-      "url": "https://news.hada.io/topic?id=32657",
-      "commentsUrl": "https://news.hada.io/topic?id=32657",
-      "author": "xguru",
-      "publishedAt": "2026-08-19T12:23:22.000Z"
-    },
-    {
-      "id": "32656",
-      "source": "geeknews",
-      "title": "Cerebras CS-4, 랙 규모 AI 추론 시스템",
-      "url": "https://news.hada.io/topic?id=32656",
-      "commentsUrl": "https://news.hada.io/topic?id=32656",
-      "author": "xguru",
-      "publishedAt": "2026-08-19T12:21:47.000Z"
     }
   ]
 }
