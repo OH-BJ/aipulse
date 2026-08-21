@@ -1,43 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-21T00:53:56.755Z",
+  "fetchedAt": "2026-08-21T12:32:16.647Z",
   "items": [
     {
-      "id": "49382041",
+      "id": "49386163",
       "source": "hn",
-      "title": "Copyright does not protect AI-generated content in EU",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "score": 27,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49382041",
-      "author": "u1hcw9nx",
-      "publishedAt": "2026-08-21T00:15:12.000Z"
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "score": 162,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49386163",
+      "author": "dares2573",
+      "publishedAt": "2026-08-21T10:33:56.000Z"
     },
     {
-      "id": "49378768",
+      "id": "49385994",
       "source": "hn",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "score": 206,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49378768",
-      "author": "danielvaughn",
-      "publishedAt": "2026-08-20T19:05:36.000Z"
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "score": 104,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49385994",
+      "author": "darccio",
+      "publishedAt": "2026-08-21T10:05:46.000Z"
     },
     {
       "id": "49375996",
       "source": "hn",
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
       "url": "https://github.com/zachahn/vomit",
-      "score": 184,
+      "score": 266,
       "commentsUrl": "https://news.ycombinator.com/item?id=49375996",
       "author": "Bluestein",
       "publishedAt": "2026-08-20T15:26:02.000Z"
+    },
+    {
+      "id": "49378768",
+      "source": "hn",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "score": 334,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49378768",
+      "author": "danielvaughn",
+      "publishedAt": "2026-08-20T19:05:36.000Z"
     },
     {
       "id": "49375719",
       "source": "hn",
       "title": "Anti-AI fonts are useless and harmful",
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "score": 110,
+      "score": 178,
       "commentsUrl": "https://news.ycombinator.com/item?id=49375719",
       "author": "speckx",
       "publishedAt": "2026-08-20T15:06:53.000Z"
@@ -47,60 +57,80 @@
       "source": "hn",
       "title": "Hacking with Claude on a $27 smart watch",
       "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "score": 81,
+      "score": 100,
       "commentsUrl": "https://news.ycombinator.com/item?id=49374772",
       "author": "speckx",
       "publishedAt": "2026-08-20T14:08:09.000Z"
+    },
+    {
+      "id": "49384477",
+      "source": "hn",
+      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "url": "https://Argentic.network",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49384477",
+      "author": "Ag0146",
+      "publishedAt": "2026-08-21T06:24:16.000Z"
+    },
+    {
+      "id": "49383026",
+      "source": "hn",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "score": 363,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49383026",
+      "author": "Cider9986",
+      "publishedAt": "2026-08-21T02:37:47.000Z"
+    },
+    {
+      "id": "49385812",
+      "source": "hn",
+      "title": "DeepSeek-V4-Flash-Vision-Exp Is Now Live on the DeepSeek API Platform",
+      "url": "https://twitter.com/deepseek_ai/status/2090730032574631962",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49385812",
+      "author": "rochansinha",
+      "publishedAt": "2026-08-21T09:37:54.000Z"
+    },
+    {
+      "id": "49384642",
+      "source": "hn",
+      "title": "Young Americans increasingly fear AI will take their jobs",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49384642",
+      "author": "01-_-",
+      "publishedAt": "2026-08-21T06:49:46.000Z"
     },
     {
       "id": "49377155",
       "source": "hn",
       "title": "AI at Home Part 2: Multi-GPU Drifting",
       "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-      "score": 21,
+      "score": 28,
       "commentsUrl": "https://news.ycombinator.com/item?id=49377155",
       "author": "timmmmmmay",
       "publishedAt": "2026-08-20T16:53:55.000Z"
     },
     {
-      "id": "49379261",
+      "id": "49344643",
       "source": "hn",
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures/",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49379261",
-      "author": "logickkk1",
-      "publishedAt": "2026-08-20T19:46:49.000Z"
-    },
-    {
-      "id": "49380775",
-      "source": "hn",
-      "title": "Protesters haul a guillotine to city council meeting about an AI data center",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49380775",
-      "author": "cocacola1",
-      "publishedAt": "2026-08-20T21:53:37.000Z"
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "score": 342,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49344643",
+      "author": "porridgeraisin",
+      "publishedAt": "2026-08-18T12:22:58.000Z"
     },
     {
       "id": "49373269",
       "source": "hn",
       "title": "AI didn't erase the junior engineer's value, it increased it it",
       "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-      "score": 75,
+      "score": 86,
       "commentsUrl": "https://news.ycombinator.com/item?id=49373269",
       "author": "franciscomt",
       "publishedAt": "2026-08-20T11:42:20.000Z"
-    },
-    {
-      "id": "49371857",
-      "source": "hn",
-      "title": "Don't paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "score": 987,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49371857",
-      "author": "pjerem",
-      "publishedAt": "2026-08-20T08:20:44.000Z"
     }
   ]
 }

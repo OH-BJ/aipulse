@@ -1,7 +1,79 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-21T00:53:57.344Z",
+  "fetchedAt": "2026-08-21T12:32:18.537Z",
   "items": [
+    {
+      "id": "32725",
+      "source": "geeknews",
+      "title": "어셈블리는 타입이 없다는 통념이 틀린 이유",
+      "url": "https://news.hada.io/topic?id=32725",
+      "commentsUrl": "https://news.hada.io/topic?id=32725",
+      "author": "neo",
+      "publishedAt": "2026-08-21T11:04:31.000Z"
+    },
+    {
+      "id": "32723",
+      "source": "geeknews",
+      "title": "수익은 최고, 행동은 위험… Claude Opus 5의 두 얼굴",
+      "url": "https://news.hada.io/topic?id=32723",
+      "commentsUrl": "https://news.hada.io/topic?id=32723",
+      "author": "baeba",
+      "publishedAt": "2026-08-21T07:24:15.000Z"
+    },
+    {
+      "id": "https://news.hada.io/article/openrouter-is-not-just-a-proxy",
+      "source": "geeknews",
+      "title": "Stripe의 OpenRouter 인수, 결제 회사가 LLM 라우터를 산 이유",
+      "url": "https://news.hada.io/article/openrouter-is-not-just-a-proxy",
+      "commentsUrl": "https://news.hada.io/article/openrouter-is-not-just-a-proxy",
+      "author": "GeekNews",
+      "publishedAt": "2026-08-21T07:05:42.000Z"
+    },
+    {
+      "id": "32720",
+      "source": "geeknews",
+      "title": "8월 17일 GitHub 대규모 장애",
+      "url": "https://news.hada.io/topic?id=32720",
+      "commentsUrl": "https://news.hada.io/topic?id=32720",
+      "author": "neo",
+      "publishedAt": "2026-08-21T03:32:08.000Z"
+    },
+    {
+      "id": "32719",
+      "source": "geeknews",
+      "title": "A2A 에이전트 등록소를 통째로 받아서 세봤다: 200곳 중 응답 73곳",
+      "url": "https://news.hada.io/topic?id=32719",
+      "commentsUrl": "https://news.hada.io/topic?id=32719",
+      "author": "higheun022",
+      "publishedAt": "2026-08-21T03:25:21.000Z"
+    },
+    {
+      "id": "32717",
+      "source": "geeknews",
+      "title": "CIA 자금이 1980년대 NeXT의 생존을 뒷받침했다",
+      "url": "https://news.hada.io/topic?id=32717",
+      "commentsUrl": "https://news.hada.io/topic?id=32717",
+      "author": "neo",
+      "publishedAt": "2026-08-21T02:36:15.000Z"
+    },
+    {
+      "id": "32716",
+      "source": "geeknews",
+      "title": "기능 요청: AGENTS.md 지원",
+      "url": "https://news.hada.io/topic?id=32716",
+      "commentsUrl": "https://news.hada.io/topic?id=32716",
+      "author": "neo",
+      "publishedAt": "2026-08-21T02:33:15.000Z"
+    },
+    {
+      "id": "32715",
+      "source": "geeknews",
+      "title": "악성 Rust 크레이트 arrayref, 빌드 과정에서 원격 페이로드 실행",
+      "url": "https://news.hada.io/topic?id=32715",
+      "commentsUrl": "https://news.hada.io/topic?id=32715",
+      "author": "neo",
+      "publishedAt": "2026-08-21T01:33:24.000Z"
+    },
     {
       "id": "32714",
       "source": "geeknews",
@@ -199,78 +271,6 @@
       "commentsUrl": "https://news.hada.io/article/code-outruns-review",
       "author": "GeekNews",
       "publishedAt": "2026-08-20T05:26:11.000Z"
-    },
-    {
-      "id": "32690",
-      "source": "geeknews",
-      "title": "Show GN: 웹 canvas에 HTML DOM을 그려보자 (크롬 HTML-in-Canvas)",
-      "url": "https://news.hada.io/topic?id=32690",
-      "commentsUrl": "https://news.hada.io/topic?id=32690",
-      "author": "greekr4",
-      "publishedAt": "2026-08-20T05:06:32.000Z"
-    },
-    {
-      "id": "32689",
-      "source": "geeknews",
-      "title": "아직도 커밋 메시지를 직접 작성하는 이유",
-      "url": "https://news.hada.io/topic?id=32689",
-      "commentsUrl": "https://news.hada.io/topic?id=32689",
-      "author": "neo",
-      "publishedAt": "2026-08-20T05:02:14.000Z"
-    },
-    {
-      "id": "32688",
-      "source": "geeknews",
-      "title": "[팟캐스트] 개발자라면 알아야 할 암호학",
-      "url": "https://news.hada.io/topic?id=32688",
-      "commentsUrl": "https://news.hada.io/topic?id=32688",
-      "author": "bungae",
-      "publishedAt": "2026-08-20T01:49:12.000Z"
-    },
-    {
-      "id": "32686",
-      "source": "geeknews",
-      "title": "fx - Unix 셸처럼 가볍게 쓰고 임베드할 수 있는 코딩 에이전트",
-      "url": "https://news.hada.io/topic?id=32686",
-      "commentsUrl": "https://news.hada.io/topic?id=32686",
-      "author": "xguru",
-      "publishedAt": "2026-08-20T00:45:01.000Z"
-    },
-    {
-      "id": "32685",
-      "source": "geeknews",
-      "title": "OpenSandbox - AI 에이전트를 위한 샌드박스 런타임",
-      "url": "https://news.hada.io/topic?id=32685",
-      "commentsUrl": "https://news.hada.io/topic?id=32685",
-      "author": "xguru",
-      "publishedAt": "2026-08-20T00:30:02.000Z"
-    },
-    {
-      "id": "32684",
-      "source": "geeknews",
-      "title": "일반 텍스트 회계가 꽤 멋진 이유",
-      "url": "https://news.hada.io/topic?id=32684",
-      "commentsUrl": "https://news.hada.io/topic?id=32684",
-      "author": "neo",
-      "publishedAt": "2026-08-20T00:16:53.000Z"
-    },
-    {
-      "id": "32683",
-      "source": "geeknews",
-      "title": "Kimi Code CLI - 터미널에서 사용하는 오픈소스 코딩 에이전트",
-      "url": "https://news.hada.io/topic?id=32683",
-      "commentsUrl": "https://news.hada.io/topic?id=32683",
-      "author": "xguru",
-      "publishedAt": "2026-08-20T00:15:01.000Z"
-    },
-    {
-      "id": "32682",
-      "source": "geeknews",
-      "title": "Mastodon 5.0: 기반 다지기",
-      "url": "https://news.hada.io/topic?id=32682",
-      "commentsUrl": "https://news.hada.io/topic?id=32682",
-      "author": "neo",
-      "publishedAt": "2026-08-20T00:13:53.000Z"
     }
   ]
 }
