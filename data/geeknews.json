@@ -1,7 +1,124 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-20T12:32:57.918Z",
+  "fetchedAt": "2026-08-21T00:53:57.344Z",
   "items": [
+    {
+      "id": "32714",
+      "source": "geeknews",
+      "title": "Kaneo - 필요한 것만 담은 오픈소스 프로젝트 관리 도구",
+      "url": "https://news.hada.io/topic?id=32714",
+      "commentsUrl": "https://news.hada.io/topic?id=32714",
+      "author": "xguru",
+      "publishedAt": "2026-08-21T00:30:04.000Z"
+    },
+    {
+      "id": "32713",
+      "source": "geeknews",
+      "title": "Rust 개발자가 Zig로 JSONPath를 다시 구현하며 느낀 차이",
+      "url": "https://news.hada.io/topic?id=32713",
+      "commentsUrl": "https://news.hada.io/topic?id=32713",
+      "author": "neo",
+      "publishedAt": "2026-08-21T00:19:23.000Z"
+    },
+    {
+      "id": "32712",
+      "source": "geeknews",
+      "title": "대화를 지식으로 바꾸기: Slack이 인간-에이전트 팀을 만드는 방법",
+      "url": "https://news.hada.io/topic?id=32712",
+      "commentsUrl": "https://news.hada.io/topic?id=32712",
+      "author": "neo",
+      "publishedAt": "2026-08-21T00:15:02.000Z"
+    },
+    {
+      "id": "32711",
+      "source": "geeknews",
+      "title": "arrayref 공급망 공격",
+      "url": "https://news.hada.io/topic?id=32711",
+      "commentsUrl": "https://news.hada.io/topic?id=32711",
+      "author": "neo",
+      "publishedAt": "2026-08-21T00:13:23.000Z"
+    },
+    {
+      "id": "32710",
+      "source": "geeknews",
+      "title": "Aaron Swartz는 스크래핑으로 기소됐지만 Meta는 별다른 제재 없이 계속하고 있음",
+      "url": "https://news.hada.io/topic?id=32710",
+      "commentsUrl": "https://news.hada.io/topic?id=32710",
+      "author": "neo",
+      "publishedAt": "2026-08-20T22:31:40.000Z"
+    },
+    {
+      "id": "32709",
+      "source": "geeknews",
+      "title": "온디바이스에서 피아노를 자동 완성하는 1억 2,500만 매개변수 모델",
+      "url": "https://news.hada.io/topic?id=32709",
+      "commentsUrl": "https://news.hada.io/topic?id=32709",
+      "author": "neo",
+      "publishedAt": "2026-08-20T19:34:16.000Z"
+    },
+    {
+      "id": "32708",
+      "source": "geeknews",
+      "title": "프로그래머를 위한 음악 이론",
+      "url": "https://news.hada.io/topic?id=32708",
+      "commentsUrl": "https://news.hada.io/topic?id=32708",
+      "author": "kciter1",
+      "publishedAt": "2026-08-20T16:13:20.000Z"
+    },
+    {
+      "id": "32707",
+      "source": "geeknews",
+      "title": "Bun 1.4 출시 — Zig에서 Rust로 재작성, Node.js 호환성 역대 최대 폭 향상",
+      "url": "https://news.hada.io/topic?id=32707",
+      "commentsUrl": "https://news.hada.io/topic?id=32707",
+      "author": "ken7890",
+      "publishedAt": "2026-08-20T15:53:34.000Z"
+    },
+    {
+      "id": "32706",
+      "source": "geeknews",
+      "title": "AliExpress가 WebAudio 핑거프린팅으로 Bluetooth 멀티포인트 전환을 방해함",
+      "url": "https://news.hada.io/topic?id=32706",
+      "commentsUrl": "https://news.hada.io/topic?id=32706",
+      "author": "neo",
+      "publishedAt": "2026-08-20T15:32:20.000Z"
+    },
+    {
+      "id": "32705",
+      "source": "geeknews",
+      "title": "실제 FlyWire 커넥톰으로 구동되는 macOS 데스크톱의 3D 초파리",
+      "url": "https://news.hada.io/topic?id=32705",
+      "commentsUrl": "https://news.hada.io/topic?id=32705",
+      "author": "neo",
+      "publishedAt": "2026-08-20T14:31:48.000Z"
+    },
+    {
+      "id": "32704",
+      "source": "geeknews",
+      "title": "터미널을 되찾는 법",
+      "url": "https://news.hada.io/topic?id=32704",
+      "commentsUrl": "https://news.hada.io/topic?id=32704",
+      "author": "neo",
+      "publishedAt": "2026-08-20T14:07:18.000Z"
+    },
+    {
+      "id": "32703",
+      "source": "geeknews",
+      "title": "모든 것을 위한 SQLite",
+      "url": "https://news.hada.io/topic?id=32703",
+      "commentsUrl": "https://news.hada.io/topic?id=32703",
+      "author": "neo",
+      "publishedAt": "2026-08-20T14:04:18.000Z"
+    },
+    {
+      "id": "32702",
+      "source": "geeknews",
+      "title": "모든 것을 위한 PostgreSQL",
+      "url": "https://news.hada.io/topic?id=32702",
+      "commentsUrl": "https://news.hada.io/topic?id=32702",
+      "author": "neo",
+      "publishedAt": "2026-08-20T13:32:58.000Z"
+    },
     {
       "id": "32700",
       "source": "geeknews",
@@ -154,123 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32682",
       "author": "neo",
       "publishedAt": "2026-08-20T00:13:53.000Z"
-    },
-    {
-      "id": "32681",
-      "source": "geeknews",
-      "title": "Bun 1.4 Rust 재작성의 불안한 징후",
-      "url": "https://news.hada.io/topic?id=32681",
-      "commentsUrl": "https://news.hada.io/topic?id=32681",
-      "author": "neo",
-      "publishedAt": "2026-08-20T00:10:53.000Z"
-    },
-    {
-      "id": "32680",
-      "source": "geeknews",
-      "title": "HTML만으로 구현하는 동적 UI",
-      "url": "https://news.hada.io/topic?id=32680",
-      "commentsUrl": "https://news.hada.io/topic?id=32680",
-      "author": "neo",
-      "publishedAt": "2026-08-20T00:07:53.000Z"
-    },
-    {
-      "id": "32679",
-      "source": "geeknews",
-      "title": "초저배출구역 도입 후 성장 저하를 겪던 어린이 폐가 회복됨",
-      "url": "https://news.hada.io/topic?id=32679",
-      "commentsUrl": "https://news.hada.io/topic?id=32679",
-      "author": "neo",
-      "publishedAt": "2026-08-19T23:42:37.000Z"
-    },
-    {
-      "id": "32678",
-      "source": "geeknews",
-      "title": "기하학과 CUDA로 무작위 섬의 위치 찾기",
-      "url": "https://news.hada.io/topic?id=32678",
-      "commentsUrl": "https://news.hada.io/topic?id=32678",
-      "author": "neo",
-      "publishedAt": "2026-08-19T23:39:37.000Z"
-    },
-    {
-      "id": "32677",
-      "source": "geeknews",
-      "title": "Go 1.27 출시",
-      "url": "https://news.hada.io/topic?id=32677",
-      "commentsUrl": "https://news.hada.io/topic?id=32677",
-      "author": "neo",
-      "publishedAt": "2026-08-19T23:36:37.000Z"
-    },
-    {
-      "id": "32675",
-      "source": "geeknews",
-      "title": "7,704명 연구에서 원격 근무자의 웰빙이 가장 높게 나타남",
-      "url": "https://news.hada.io/topic?id=32675",
-      "commentsUrl": "https://news.hada.io/topic?id=32675",
-      "author": "neo",
-      "publishedAt": "2026-08-19T21:37:45.000Z"
-    },
-    {
-      "id": "32674",
-      "source": "geeknews",
-      "title": "OpenRouter가 Stripe에 합류함",
-      "url": "https://news.hada.io/topic?id=32674",
-      "commentsUrl": "https://news.hada.io/topic?id=32674",
-      "author": "neo",
-      "publishedAt": "2026-08-19T21:34:45.000Z"
-    },
-    {
-      "id": "32673",
-      "source": "geeknews",
-      "title": "시민 위생 — 경찰국가에 악용될 기술을 만들지 말 것 (2013)",
-      "url": "https://news.hada.io/topic?id=32673",
-      "commentsUrl": "https://news.hada.io/topic?id=32673",
-      "author": "neo",
-      "publishedAt": "2026-08-19T20:31:55.000Z"
-    },
-    {
-      "id": "32672",
-      "source": "geeknews",
-      "title": "Moderna, 흑색종 mRNA 신생항원 치료제 최초의 긍정적 3상 결과 발표",
-      "url": "https://news.hada.io/topic?id=32672",
-      "commentsUrl": "https://news.hada.io/topic?id=32672",
-      "author": "neo",
-      "publishedAt": "2026-08-19T19:31:29.000Z"
-    },
-    {
-      "id": "32671",
-      "source": "geeknews",
-      "title": "농담으로 산 도메인이 지정학적 전쟁에 휘말린 과정",
-      "url": "https://news.hada.io/topic?id=32671",
-      "commentsUrl": "https://news.hada.io/topic?id=32671",
-      "author": "neo",
-      "publishedAt": "2026-08-19T18:32:55.000Z"
-    },
-    {
-      "id": "32670",
-      "source": "geeknews",
-      "title": "CSS, 받은편지함 속 폭탄",
-      "url": "https://news.hada.io/topic?id=32670",
-      "commentsUrl": "https://news.hada.io/topic?id=32670",
-      "author": "neo",
-      "publishedAt": "2026-08-19T18:03:39.000Z"
-    },
-    {
-      "id": "32669",
-      "source": "geeknews",
-      "title": "GrapheneOS 지원 Motorola 기기, 2027년 출시 예정",
-      "url": "https://news.hada.io/topic?id=32669",
-      "commentsUrl": "https://news.hada.io/topic?id=32669",
-      "author": "neo",
-      "publishedAt": "2026-08-19T16:31:41.000Z"
-    },
-    {
-      "id": "32668",
-      "source": "geeknews",
-      "title": "고착된 임금 규범이 예상 밖 인플레이션을 실질임금 손실로 바꾼 과정",
-      "url": "https://news.hada.io/topic?id=32668",
-      "commentsUrl": "https://news.hada.io/topic?id=32668",
-      "author": "neo",
-      "publishedAt": "2026-08-19T15:44:09.000Z"
     }
   ]
 }

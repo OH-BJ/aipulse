@@ -1,76 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-20T12:32:57.609Z",
+  "fetchedAt": "2026-08-21T00:53:56.755Z",
   "items": [
     {
-      "id": "49371857",
+      "id": "49382041",
       "source": "hn",
-      "title": "Don't Paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "score": 567,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49371857",
-      "author": "pjerem",
-      "publishedAt": "2026-08-20T08:20:44.000Z"
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "score": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49382041",
+      "author": "u1hcw9nx",
+      "publishedAt": "2026-08-21T00:15:12.000Z"
+    },
+    {
+      "id": "49378768",
+      "source": "hn",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "score": 206,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49378768",
+      "author": "danielvaughn",
+      "publishedAt": "2026-08-20T19:05:36.000Z"
+    },
+    {
+      "id": "49375996",
+      "source": "hn",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "score": 184,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49375996",
+      "author": "Bluestein",
+      "publishedAt": "2026-08-20T15:26:02.000Z"
+    },
+    {
+      "id": "49375719",
+      "source": "hn",
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "score": 110,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49375719",
+      "author": "speckx",
+      "publishedAt": "2026-08-20T15:06:53.000Z"
+    },
+    {
+      "id": "49374772",
+      "source": "hn",
+      "title": "Hacking with Claude on a $27 smart watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "score": 81,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49374772",
+      "author": "speckx",
+      "publishedAt": "2026-08-20T14:08:09.000Z"
+    },
+    {
+      "id": "49377155",
+      "source": "hn",
+      "title": "AI at Home Part 2: Multi-GPU Drifting",
+      "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+      "score": 21,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49377155",
+      "author": "timmmmmmay",
+      "publishedAt": "2026-08-20T16:53:55.000Z"
+    },
+    {
+      "id": "49379261",
+      "source": "hn",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures/",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49379261",
+      "author": "logickkk1",
+      "publishedAt": "2026-08-20T19:46:49.000Z"
+    },
+    {
+      "id": "49380775",
+      "source": "hn",
+      "title": "Protesters haul a guillotine to city council meeting about an AI data center",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49380775",
+      "author": "cocacola1",
+      "publishedAt": "2026-08-20T21:53:37.000Z"
     },
     {
       "id": "49373269",
       "source": "hn",
       "title": "AI didn't erase the junior engineer's value, it increased it it",
       "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-      "score": 30,
+      "score": 75,
       "commentsUrl": "https://news.ycombinator.com/item?id=49373269",
       "author": "franciscomt",
       "publishedAt": "2026-08-20T11:42:20.000Z"
     },
     {
-      "id": "49362728",
+      "id": "49371857",
       "source": "hn",
-      "title": "Mathematics in the age of AI",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "score": 185,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49362728",
-      "author": "jonbaer",
-      "publishedAt": "2026-08-19T15:14:25.000Z"
-    },
-    {
-      "id": "49344643",
-      "source": "hn",
-      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-      "score": 327,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49344643",
-      "author": "porridgeraisin",
-      "publishedAt": "2026-08-18T12:22:58.000Z"
-    },
-    {
-      "id": "49353432",
-      "source": "hn",
-      "title": "AI usage patterns in software teams",
-      "url": "https://linear.app/data",
-      "score": 191,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49353432",
-      "author": "giuliomagnifico",
-      "publishedAt": "2026-08-18T22:08:07.000Z"
-    },
-    {
-      "id": "49371195",
-      "source": "hn",
-      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-      "url": "https://www.wired.com/story/flock-safety-os-investigate/",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49371195",
-      "author": "divbzero",
-      "publishedAt": "2026-08-20T06:40:14.000Z"
-    },
-    {
-      "id": "49294441",
-      "source": "hn",
-      "title": "Error by AI scribe during medical appointment leaves patient devastated",
-      "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
-      "score": 151,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49294441",
-      "author": "ahonhn",
-      "publishedAt": "2026-08-14T03:24:10.000Z"
+      "title": "Don't paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "score": 987,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49371857",
+      "author": "pjerem",
+      "publishedAt": "2026-08-20T08:20:44.000Z"
     }
   ]
 }
