@@ -1,23 +1,13 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-22T00:50:20.571Z",
+  "fetchedAt": "2026-08-22T12:23:44.318Z",
   "items": [
-    {
-      "id": "49386163",
-      "source": "hn",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "score": 454,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49386163",
-      "author": "dares2573",
-      "publishedAt": "2026-08-21T10:33:56.000Z"
-    },
     {
       "id": "49357530",
       "source": "hn",
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "score": 223,
+      "score": 322,
       "commentsUrl": "https://news.ycombinator.com/item?id=49357530",
       "author": "dash2",
       "publishedAt": "2026-08-19T06:13:31.000Z"
@@ -27,7 +17,7 @@
       "source": "hn",
       "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
       "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "score": 189,
+      "score": 301,
       "commentsUrl": "https://news.ycombinator.com/item?id=49388752",
       "author": "aakil",
       "publishedAt": "2026-08-21T14:31:52.000Z"
@@ -37,7 +27,7 @@
       "source": "hn",
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "score": 255,
+      "score": 401,
       "commentsUrl": "https://news.ycombinator.com/item?id=49386699",
       "author": "rcymerys",
       "publishedAt": "2026-08-21T11:48:05.000Z"
@@ -47,60 +37,70 @@
       "source": "hn",
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "score": 520,
+      "score": 575,
       "commentsUrl": "https://news.ycombinator.com/item?id=49383026",
       "author": "Cider9986",
       "publishedAt": "2026-08-21T02:37:47.000Z"
     },
     {
-      "id": "49393051",
+      "id": "49386163",
       "source": "hn",
-      "title": "Quick impressions: A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "score": 73,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
-      "author": "speckx",
-      "publishedAt": "2026-08-21T19:51:48.000Z"
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "score": 484,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49386163",
+      "author": "dares2573",
+      "publishedAt": "2026-08-21T10:33:56.000Z"
     },
     {
-      "id": "49392331",
+      "id": "49398609",
       "source": "hn",
-      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "score": 42,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49392331",
-      "author": "garo-pro",
-      "publishedAt": "2026-08-21T18:48:28.000Z"
-    },
-    {
-      "id": "49394934",
-      "source": "hn",
-      "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
-      "url": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49394934",
-      "author": "pykello",
-      "publishedAt": "2026-08-21T23:20:57.000Z"
-    },
-    {
-      "id": "49395252",
-      "source": "hn",
-      "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49395252",
-      "author": "sbulaev",
-      "publishedAt": "2026-08-22T00:07:06.000Z"
+      "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+      "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49398609",
+      "author": "biglyburrito",
+      "publishedAt": "2026-08-22T11:27:29.000Z"
     },
     {
       "id": "49375719",
       "source": "hn",
       "title": "Anti-AI fonts are useless and harmful",
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "score": 204,
+      "score": 208,
       "commentsUrl": "https://news.ycombinator.com/item?id=49375719",
       "author": "speckx",
       "publishedAt": "2026-08-20T15:06:53.000Z"
+    },
+    {
+      "id": "49396590",
+      "source": "hn",
+      "title": "GPT 5.6 Sol 20% price reduction",
+      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+      "score": 75,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49396590",
+      "author": "izakfr",
+      "publishedAt": "2026-08-22T04:33:06.000Z"
+    },
+    {
+      "id": "49378768",
+      "source": "hn",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "score": 372,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49378768",
+      "author": "danielvaughn",
+      "publishedAt": "2026-08-20T19:05:36.000Z"
+    },
+    {
+      "id": "49393051",
+      "source": "hn",
+      "title": "Quick impressions: A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "score": 91,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
+      "author": "speckx",
+      "publishedAt": "2026-08-21T19:51:48.000Z"
     }
   ]
 }
