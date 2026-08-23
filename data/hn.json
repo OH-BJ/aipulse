@@ -1,23 +1,113 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-22T12:23:44.318Z",
+  "fetchedAt": "2026-08-23T00:54:06.491Z",
   "items": [
+    {
+      "id": "49402232",
+      "source": "hn",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 166,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49402232",
+      "author": "felineflock",
+      "publishedAt": "2026-08-22T18:14:16.000Z"
+    },
+    {
+      "id": "49387959",
+      "source": "hn",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "score": 100,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49387959",
+      "author": "olalonde",
+      "publishedAt": "2026-08-21T13:43:33.000Z"
+    },
+    {
+      "id": "49393051",
+      "source": "hn",
+      "title": "A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "score": 121,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
+      "author": "speckx",
+      "publishedAt": "2026-08-21T19:51:48.000Z"
+    },
+    {
+      "id": "49404869",
+      "source": "hn",
+      "title": "AI has failed to win people's trust. Its makers? less trusted",
+      "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49404869",
+      "author": "billybuckwheat",
+      "publishedAt": "2026-08-22T23:30:20.000Z"
+    },
+    {
+      "id": "49401549",
+      "source": "hn",
+      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "score": 161,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49401549",
+      "author": "matthieu_bl",
+      "publishedAt": "2026-08-22T16:58:49.000Z"
+    },
+    {
+      "id": "49374729",
+      "source": "hn",
+      "title": "Guess which of these LLM outputs is watermarked",
+      "url": "https://sgoedecke.github.io/watermark-quiz/",
+      "score": 63,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49374729",
+      "author": "gfysfm",
+      "publishedAt": "2026-08-20T14:03:58.000Z"
+    },
     {
       "id": "49357530",
       "source": "hn",
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "score": 322,
+      "score": 370,
       "commentsUrl": "https://news.ycombinator.com/item?id=49357530",
       "author": "dash2",
       "publishedAt": "2026-08-19T06:13:31.000Z"
+    },
+    {
+      "id": "49383026",
+      "source": "hn",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "score": 605,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49383026",
+      "author": "Cider9986",
+      "publishedAt": "2026-08-21T02:37:47.000Z"
+    },
+    {
+      "id": "49397947",
+      "source": "hn",
+      "title": "Embedded AI",
+      "url": "https://nostarch.com/embedded-ai",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49397947",
+      "author": "0x54MUR41",
+      "publishedAt": "2026-08-22T09:07:26.000Z"
+    },
+    {
+      "id": "49386163",
+      "source": "hn",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "score": 494,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49386163",
+      "author": "dares2573",
+      "publishedAt": "2026-08-21T10:33:56.000Z"
     },
     {
       "id": "49388752",
       "source": "hn",
       "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
       "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "score": 301,
+      "score": 347,
       "commentsUrl": "https://news.ycombinator.com/item?id=49388752",
       "author": "aakil",
       "publishedAt": "2026-08-21T14:31:52.000Z"
@@ -27,80 +117,10 @@
       "source": "hn",
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "score": 401,
+      "score": 473,
       "commentsUrl": "https://news.ycombinator.com/item?id=49386699",
       "author": "rcymerys",
       "publishedAt": "2026-08-21T11:48:05.000Z"
-    },
-    {
-      "id": "49383026",
-      "source": "hn",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "score": 575,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49383026",
-      "author": "Cider9986",
-      "publishedAt": "2026-08-21T02:37:47.000Z"
-    },
-    {
-      "id": "49386163",
-      "source": "hn",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "score": 484,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49386163",
-      "author": "dares2573",
-      "publishedAt": "2026-08-21T10:33:56.000Z"
-    },
-    {
-      "id": "49398609",
-      "source": "hn",
-      "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
-      "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49398609",
-      "author": "biglyburrito",
-      "publishedAt": "2026-08-22T11:27:29.000Z"
-    },
-    {
-      "id": "49375719",
-      "source": "hn",
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "score": 208,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49375719",
-      "author": "speckx",
-      "publishedAt": "2026-08-20T15:06:53.000Z"
-    },
-    {
-      "id": "49396590",
-      "source": "hn",
-      "title": "GPT 5.6 Sol 20% price reduction",
-      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-      "score": 75,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49396590",
-      "author": "izakfr",
-      "publishedAt": "2026-08-22T04:33:06.000Z"
-    },
-    {
-      "id": "49378768",
-      "source": "hn",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "score": 372,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49378768",
-      "author": "danielvaughn",
-      "publishedAt": "2026-08-20T19:05:36.000Z"
-    },
-    {
-      "id": "49393051",
-      "source": "hn",
-      "title": "Quick impressions: A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "score": 91,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
-      "author": "speckx",
-      "publishedAt": "2026-08-21T19:51:48.000Z"
     }
   ]
 }
