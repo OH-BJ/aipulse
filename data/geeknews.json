@@ -1,7 +1,79 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-23T00:54:07.362Z",
+  "fetchedAt": "2026-08-23T12:24:25.442Z",
   "items": [
+    {
+      "id": "32796",
+      "source": "geeknews",
+      "title": "NetBSD와 내 삶(2005)",
+      "url": "https://news.hada.io/topic?id=32796",
+      "commentsUrl": "https://news.hada.io/topic?id=32796",
+      "author": "neo",
+      "publishedAt": "2026-08-23T12:01:36.000Z"
+    },
+    {
+      "id": "32795",
+      "source": "geeknews",
+      "title": "Racket 친절한 입문",
+      "url": "https://news.hada.io/topic?id=32795",
+      "commentsUrl": "https://news.hada.io/topic?id=32795",
+      "author": "neo",
+      "publishedAt": "2026-08-23T08:32:25.000Z"
+    },
+    {
+      "id": "32794",
+      "source": "geeknews",
+      "title": "프론트엔드 상태 관리의 네 가지 난제",
+      "url": "https://news.hada.io/topic?id=32794",
+      "commentsUrl": "https://news.hada.io/topic?id=32794",
+      "author": "disjukr",
+      "publishedAt": "2026-08-23T08:00:43.000Z"
+    },
+    {
+      "id": "32793",
+      "source": "geeknews",
+      "title": "기억해 둘 만한 작은 네이티브 웹 기법",
+      "url": "https://news.hada.io/topic?id=32793",
+      "commentsUrl": "https://news.hada.io/topic?id=32793",
+      "author": "neo",
+      "publishedAt": "2026-08-23T07:31:40.000Z"
+    },
+    {
+      "id": "32791",
+      "source": "geeknews",
+      "title": "로컬 LLM이 실제 성능보다 더 멍청하게 느껴지는 이유",
+      "url": "https://news.hada.io/topic?id=32791",
+      "commentsUrl": "https://news.hada.io/topic?id=32791",
+      "author": "neo",
+      "publishedAt": "2026-08-23T05:33:19.000Z"
+    },
+    {
+      "id": "32789",
+      "source": "geeknews",
+      "title": "Show GN: CachyOS 와 Omarchy 의 혼종을 만들고 있습니다.",
+      "url": "https://news.hada.io/topic?id=32789",
+      "commentsUrl": "https://news.hada.io/topic?id=32789",
+      "author": "stadia",
+      "publishedAt": "2026-08-23T02:41:49.000Z"
+    },
+    {
+      "id": "32788",
+      "source": "geeknews",
+      "title": "Munder Difflin - 나를 복제한 직원들로 사무실을 운영하는 에이전트 하네스",
+      "url": "https://news.hada.io/topic?id=32788",
+      "commentsUrl": "https://news.hada.io/topic?id=32788",
+      "author": "neo",
+      "publishedAt": "2026-08-23T02:32:37.000Z"
+    },
+    {
+      "id": "32787",
+      "source": "geeknews",
+      "title": "Show GN: 일섬 — 일봉 거가중100 밀착·돌파 코인 스크리너",
+      "url": "https://news.hada.io/topic?id=32787",
+      "commentsUrl": "https://news.hada.io/topic?id=32787",
+      "author": "gogodeer",
+      "publishedAt": "2026-08-23T01:24:37.000Z"
+    },
     {
       "id": "32786",
       "source": "geeknews",
@@ -199,78 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32762",
       "author": "gyu12345",
       "publishedAt": "2026-08-22T09:16:30.000Z"
-    },
-    {
-      "id": "32761",
-      "source": "geeknews",
-      "title": "소프트웨어가 더 이상 느릴 이유는 없다",
-      "url": "https://news.hada.io/topic?id=32761",
-      "commentsUrl": "https://news.hada.io/topic?id=32761",
-      "author": "neo",
-      "publishedAt": "2026-08-22T08:35:28.000Z"
-    },
-    {
-      "id": "32760",
-      "source": "geeknews",
-      "title": "나는 AI가 쓴 글을 자동으로 무시하기 시작했다",
-      "url": "https://news.hada.io/topic?id=32760",
-      "commentsUrl": "https://news.hada.io/topic?id=32760",
-      "author": "neo",
-      "publishedAt": "2026-08-22T07:32:05.000Z"
-    },
-    {
-      "id": "32756",
-      "source": "geeknews",
-      "title": "SSL에 대해 배운 모든 것이 더는 유효하지 않음 [유튜브]",
-      "url": "https://news.hada.io/topic?id=32756",
-      "commentsUrl": "https://news.hada.io/topic?id=32756",
-      "author": "neo",
-      "publishedAt": "2026-08-22T01:15:01.000Z"
-    },
-    {
-      "id": "32755",
-      "source": "geeknews",
-      "title": "YC CEO Garry Tan이 말하는 창업자의 새로운 규칙 [유튜브]",
-      "url": "https://news.hada.io/topic?id=32755",
-      "commentsUrl": "https://news.hada.io/topic?id=32755",
-      "author": "neo",
-      "publishedAt": "2026-08-22T01:00:04.000Z"
-    },
-    {
-      "id": "32754",
-      "source": "geeknews",
-      "title": "Computer Use와 Skills/Files API로 프로덕션 에이전트 구축하기",
-      "url": "https://news.hada.io/topic?id=32754",
-      "commentsUrl": "https://news.hada.io/topic?id=32754",
-      "author": "neo",
-      "publishedAt": "2026-08-22T00:45:02.000Z"
-    },
-    {
-      "id": "32753",
-      "source": "geeknews",
-      "title": "Huggingface Speech To Speech - 오픈소스 모델로 로컬 음성 에이전트를 만드는 파이프라인",
-      "url": "https://news.hada.io/topic?id=32753",
-      "commentsUrl": "https://news.hada.io/topic?id=32753",
-      "author": "xguru",
-      "publishedAt": "2026-08-22T00:30:02.000Z"
-    },
-    {
-      "id": "32752",
-      "source": "geeknews",
-      "title": "Rust nightly, 차세대 트레이트 솔버 기본 활성화",
-      "url": "https://news.hada.io/topic?id=32752",
-      "commentsUrl": "https://news.hada.io/topic?id=32752",
-      "author": "neo",
-      "publishedAt": "2026-08-22T00:16:54.000Z"
-    },
-    {
-      "id": "32751",
-      "source": "geeknews",
-      "title": "KDE에 Btrfs 스냅샷을 통합하는 KIO Snapshot",
-      "url": "https://news.hada.io/topic?id=32751",
-      "commentsUrl": "https://news.hada.io/topic?id=32751",
-      "author": "neo",
-      "publishedAt": "2026-08-22T00:13:54.000Z"
     }
   ]
 }
