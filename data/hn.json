@@ -1,76 +1,176 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-23T12:24:25.249Z",
+  "fetchedAt": "2026-08-24T00:52:26.319Z",
   "items": [
+    {
+      "id": "49411102",
+      "source": "hn",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "score": 177,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49411102",
+      "author": "naves",
+      "publishedAt": "2026-08-23T18:16:37.000Z"
+    },
+    {
+      "id": "49405657",
+      "source": "hn",
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "score": 32,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49405657",
+      "author": "Finbarr",
+      "publishedAt": "2026-08-23T02:25:10.000Z"
+    },
+    {
+      "id": "49410932",
+      "source": "hn",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "score": 139,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49410932",
+      "author": "ibobev",
+      "publishedAt": "2026-08-23T17:59:52.000Z"
+    },
+    {
+      "id": "49412909",
+      "source": "hn",
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49412909",
+      "author": "porridgeraisin",
+      "publishedAt": "2026-08-23T21:41:17.000Z"
+    },
+    {
+      "id": "49411024",
+      "source": "hn",
+      "title": "AI and Infrastructure Engineering",
+      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49411024",
+      "author": "0megion",
+      "publishedAt": "2026-08-23T18:09:01.000Z"
+    },
+    {
+      "id": "49411800",
+      "source": "hn",
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49411800",
+      "author": "Tiberium",
+      "publishedAt": "2026-08-23T19:39:29.000Z"
+    },
     {
       "id": "49407507",
       "source": "hn",
       "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
       "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "score": 41,
+      "score": 311,
       "commentsUrl": "https://news.ycombinator.com/item?id=49407507",
       "author": "raybb",
       "publishedAt": "2026-08-23T10:02:51.000Z"
+    },
+    {
+      "id": "49410936",
+      "source": "hn",
+      "title": "I turned Unix talk from 1983 into the interface for my AI",
+      "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49410936",
+      "author": "ibobev",
+      "publishedAt": "2026-08-23T18:00:20.000Z"
+    },
+    {
+      "id": "49410949",
+      "source": "hn",
+      "title": "Predicting AI model release dates with stats",
+      "url": "https://releaseoracle.xyz/",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49410949",
+      "author": "akeyes6",
+      "publishedAt": "2026-08-23T18:01:30.000Z"
+    },
+    {
+      "id": "49409073",
+      "source": "hn",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "score": 611,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49409073",
+      "author": "dr_pardee",
+      "publishedAt": "2026-08-23T14:23:09.000Z"
+    },
+    {
+      "id": "49413322",
+      "source": "hn",
+      "title": "Tracker in rare book ends up in Amazon facility destroying books to train AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secret-tracking-device-placed-in-rare-book-ends-up-in-amazon-processing-facility-destroying-books-to-train-ai-models-is-all-the-vegas-warehouse-does",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49413322",
+      "author": "emptybits",
+      "publishedAt": "2026-08-23T22:41:28.000Z"
     },
     {
       "id": "49402232",
       "source": "hn",
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 384,
+      "score": 474,
       "commentsUrl": "https://news.ycombinator.com/item?id=49402232",
       "author": "felineflock",
       "publishedAt": "2026-08-22T18:14:16.000Z"
+    },
+    {
+      "id": "49412003",
+      "source": "hn",
+      "title": "I'm Done Coding with AI",
+      "url": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49412003",
+      "author": "samuell",
+      "publishedAt": "2026-08-23T19:57:12.000Z"
+    },
+    {
+      "id": "49410254",
+      "source": "hn",
+      "title": "Show HN: Mnemosyne Local hierarchical memory engine for AI agents (MCP Native)",
+      "url": "https://github.com/M4F-S/mnemosyne",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49410254",
+      "author": "mfathy7",
+      "publishedAt": "2026-08-23T16:43:30.000Z"
     },
     {
       "id": "49393051",
       "source": "hn",
       "title": "A week of using Codex more than Claude",
       "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "score": 212,
+      "score": 235,
       "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
       "author": "speckx",
       "publishedAt": "2026-08-21T19:51:48.000Z"
-    },
-    {
-      "id": "49387959",
-      "source": "hn",
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "score": 171,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49387959",
-      "author": "olalonde",
-      "publishedAt": "2026-08-21T13:43:33.000Z"
     },
     {
       "id": "49383026",
       "source": "hn",
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "score": 621,
+      "score": 628,
       "commentsUrl": "https://news.ycombinator.com/item?id=49383026",
       "author": "Cider9986",
       "publishedAt": "2026-08-21T02:37:47.000Z"
     },
     {
-      "id": "49401549",
+      "id": "49387959",
       "source": "hn",
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "score": 195,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49401549",
-      "author": "matthieu_bl",
-      "publishedAt": "2026-08-22T16:58:49.000Z"
-    },
-    {
-      "id": "49386163",
-      "source": "hn",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "score": 495,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49386163",
-      "author": "dares2573",
-      "publishedAt": "2026-08-21T10:33:56.000Z"
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "score": 204,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49387959",
+      "author": "olalonde",
+      "publishedAt": "2026-08-21T13:43:33.000Z"
     }
   ]
 }
