@@ -1,7 +1,151 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-24T00:52:26.507Z",
+  "fetchedAt": "2026-08-24T12:34:01.577Z",
   "items": [
+    {
+      "id": "32843",
+      "source": "geeknews",
+      "title": "17만 곳 넘는 비영리단체가 데이터를 잃었다… Microsoft 책임인가?",
+      "url": "https://news.hada.io/topic?id=32843",
+      "commentsUrl": "https://news.hada.io/topic?id=32843",
+      "author": "neo",
+      "publishedAt": "2026-08-24T11:32:22.000Z"
+    },
+    {
+      "id": "32842",
+      "source": "geeknews",
+      "title": "AI 코드 리뷰는 몇 번 돌려야 할까.. 약 400번 돌려보고 알게 된 것",
+      "url": "https://news.hada.io/topic?id=32842",
+      "commentsUrl": "https://news.hada.io/topic?id=32842",
+      "author": "0xecro1",
+      "publishedAt": "2026-08-24T11:01:28.000Z"
+    },
+    {
+      "id": "32841",
+      "source": "geeknews",
+      "title": "Show GN: Apolu - 175개 국가의 App Store 순위 변화 추적 및 알림 앱",
+      "url": "https://news.hada.io/topic?id=32841",
+      "commentsUrl": "https://news.hada.io/topic?id=32841",
+      "author": "chen2he",
+      "publishedAt": "2026-08-24T10:33:29.000Z"
+    },
+    {
+      "id": "32840",
+      "source": "geeknews",
+      "title": "Show GN: Preflight - 바이브코딩 앱을 위한 배포 전 보안 점검 도구",
+      "url": "https://news.hada.io/topic?id=32840",
+      "commentsUrl": "https://news.hada.io/topic?id=32840",
+      "author": "andtomorrow",
+      "publishedAt": "2026-08-24T08:21:24.000Z"
+    },
+    {
+      "id": "32839",
+      "source": "geeknews",
+      "title": "Linux에서 Adobe Acrobat을 대체할 만한 괜찮은 PDF 보기·편집 프로그램이 있나요?",
+      "url": "https://news.hada.io/topic?id=32839",
+      "commentsUrl": "https://news.hada.io/topic?id=32839",
+      "author": "neo",
+      "publishedAt": "2026-08-24T08:04:50.000Z"
+    },
+    {
+      "id": "32838",
+      "source": "geeknews",
+      "title": "내가 좋아하는 컴퓨터 과학 책과 그 이유",
+      "url": "https://news.hada.io/topic?id=32838",
+      "commentsUrl": "https://news.hada.io/topic?id=32838",
+      "author": "neo",
+      "publishedAt": "2026-08-24T08:01:50.000Z"
+    },
+    {
+      "id": "32837",
+      "source": "geeknews",
+      "title": "Google Workspace가 내 도메인을 이메일 제공업체로 오인함(2025)",
+      "url": "https://news.hada.io/topic?id=32837",
+      "commentsUrl": "https://news.hada.io/topic?id=32837",
+      "author": "neo",
+      "publishedAt": "2026-08-24T07:31:32.000Z"
+    },
+    {
+      "id": "32834",
+      "source": "geeknews",
+      "title": "Show GN: 내 GPU로 어떤 LLM을 돌릴 수 있는지 계산해주는 오픈소스 도구 만들었습니다",
+      "url": "https://news.hada.io/topic?id=32834",
+      "commentsUrl": "https://news.hada.io/topic?id=32834",
+      "author": "jaeseok614",
+      "publishedAt": "2026-08-24T05:39:01.000Z"
+    },
+    {
+      "id": "32833",
+      "source": "geeknews",
+      "title": "agent.md로 LLM 생성 코드의 품질 높이기",
+      "url": "https://news.hada.io/topic?id=32833",
+      "commentsUrl": "https://news.hada.io/topic?id=32833",
+      "author": "neo",
+      "publishedAt": "2026-08-24T05:32:20.000Z"
+    },
+    {
+      "id": "32832",
+      "source": "geeknews",
+      "title": "Show GN: 매일 하나의 질문에 투표하고, 주제에 대해 토론하는 앱",
+      "url": "https://news.hada.io/topic?id=32832",
+      "commentsUrl": "https://news.hada.io/topic?id=32832",
+      "author": "windbug99",
+      "publishedAt": "2026-08-24T05:10:13.000Z"
+    },
+    {
+      "id": "32831",
+      "source": "geeknews",
+      "title": "Show GN: 카카오톡 테마 제작 툴을 만들었습니다",
+      "url": "https://news.hada.io/topic?id=32831",
+      "commentsUrl": "https://news.hada.io/topic?id=32831",
+      "author": "moonhr153",
+      "publishedAt": "2026-08-24T04:52:32.000Z"
+    },
+    {
+      "id": "32830",
+      "source": "geeknews",
+      "title": "SonicMoE로 보는 GPU 커널 최적화",
+      "url": "https://news.hada.io/topic?id=32830",
+      "commentsUrl": "https://news.hada.io/topic?id=32830",
+      "author": "trillionlabs",
+      "publishedAt": "2026-08-24T04:39:22.000Z"
+    },
+    {
+      "id": "32827",
+      "source": "geeknews",
+      "title": "GNU Emacs Canvas 입문: 픽셀 버퍼를 직접 다루는 새 이미지 기능",
+      "url": "https://news.hada.io/topic?id=32827",
+      "commentsUrl": "https://news.hada.io/topic?id=32827",
+      "author": "neo",
+      "publishedAt": "2026-08-24T04:02:33.000Z"
+    },
+    {
+      "id": "32826",
+      "source": "geeknews",
+      "title": "Anthropic의 최고 AI 모델, 저렴한 도구의 성장 속에서 사용자 확보에 고전",
+      "url": "https://news.hada.io/topic?id=32826",
+      "commentsUrl": "https://news.hada.io/topic?id=32826",
+      "author": "neo",
+      "publishedAt": "2026-08-24T02:31:40.000Z"
+    },
+    {
+      "id": "32825",
+      "source": "geeknews",
+      "title": "내가 가진 모든 것, 모두 장악당하다",
+      "url": "https://news.hada.io/topic?id=32825",
+      "commentsUrl": "https://news.hada.io/topic?id=32825",
+      "author": "neo",
+      "publishedAt": "2026-08-24T01:33:10.000Z"
+    },
+    {
+      "id": "32824",
+      "source": "geeknews",
+      "title": "AI가 인간의 실행력을 확장하려면 무엇이 필요한가",
+      "url": "https://news.hada.io/topic?id=32824",
+      "commentsUrl": "https://news.hada.io/topic?id=32824",
+      "author": "neo",
+      "publishedAt": "2026-08-24T01:30:02.000Z"
+    },
     {
       "id": "32821",
       "source": "geeknews",
@@ -127,150 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32807",
       "author": "neo",
       "publishedAt": "2026-08-23T16:01:31.000Z"
-    },
-    {
-      "id": "32805",
-      "source": "geeknews",
-      "title": "끌어들이고, 붙잡고, 수집하고, 숨긴다: 중대 재판 첫 주에 공개된 Meta의 혐의 전략",
-      "url": "https://news.hada.io/topic?id=32805",
-      "commentsUrl": "https://news.hada.io/topic?id=32805",
-      "author": "neo",
-      "publishedAt": "2026-08-23T15:32:20.000Z"
-    },
-    {
-      "id": "32804",
-      "source": "geeknews",
-      "title": "성숙 과정에서 얻은 세 가지 중요한 깨달음",
-      "url": "https://news.hada.io/topic?id=32804",
-      "commentsUrl": "https://news.hada.io/topic?id=32804",
-      "author": "neo",
-      "publishedAt": "2026-08-23T14:42:10.000Z"
-    },
-    {
-      "id": "32802",
-      "source": "geeknews",
-      "title": "칸트 관점에서 본 Justin Bieber의 「Sorry」",
-      "url": "https://news.hada.io/topic?id=32802",
-      "commentsUrl": "https://news.hada.io/topic?id=32802",
-      "author": "neo",
-      "publishedAt": "2026-08-23T14:39:10.000Z"
-    },
-    {
-      "id": "32801",
-      "source": "geeknews",
-      "title": "Claude보다 Codex를 더 많이 써본 일주일",
-      "url": "https://news.hada.io/topic?id=32801",
-      "commentsUrl": "https://news.hada.io/topic?id=32801",
-      "author": "neo",
-      "publishedAt": "2026-08-23T14:36:10.000Z"
-    },
-    {
-      "id": "32800",
-      "source": "geeknews",
-      "title": "Python으로 사고하기",
-      "url": "https://news.hada.io/topic?id=32800",
-      "commentsUrl": "https://news.hada.io/topic?id=32800",
-      "author": "neo",
-      "publishedAt": "2026-08-23T13:31:29.000Z"
-    },
-    {
-      "id": "32799",
-      "source": "geeknews",
-      "title": "2026년 Rust GUI 라이브러리 조사",
-      "url": "https://news.hada.io/topic?id=32799",
-      "commentsUrl": "https://news.hada.io/topic?id=32799",
-      "author": "neo",
-      "publishedAt": "2026-08-23T13:10:46.000Z"
-    },
-    {
-      "id": "32798",
-      "source": "geeknews",
-      "title": "소프트웨어가 계속 느린 데는 이유가 있다",
-      "url": "https://news.hada.io/topic?id=32798",
-      "commentsUrl": "https://news.hada.io/topic?id=32798",
-      "author": "neo",
-      "publishedAt": "2026-08-23T13:07:45.000Z"
-    },
-    {
-      "id": "32797",
-      "source": "geeknews",
-      "title": "더 나은 작가가 되려면 가능한 한 많이 읽어라",
-      "url": "https://news.hada.io/topic?id=32797",
-      "commentsUrl": "https://news.hada.io/topic?id=32797",
-      "author": "neo",
-      "publishedAt": "2026-08-23T12:32:33.000Z"
-    },
-    {
-      "id": "32796",
-      "source": "geeknews",
-      "title": "NetBSD와 내 삶(2005)",
-      "url": "https://news.hada.io/topic?id=32796",
-      "commentsUrl": "https://news.hada.io/topic?id=32796",
-      "author": "neo",
-      "publishedAt": "2026-08-23T12:01:36.000Z"
-    },
-    {
-      "id": "32795",
-      "source": "geeknews",
-      "title": "Racket 친절한 입문",
-      "url": "https://news.hada.io/topic?id=32795",
-      "commentsUrl": "https://news.hada.io/topic?id=32795",
-      "author": "neo",
-      "publishedAt": "2026-08-23T08:32:25.000Z"
-    },
-    {
-      "id": "32794",
-      "source": "geeknews",
-      "title": "프론트엔드 상태 관리의 네 가지 난제",
-      "url": "https://news.hada.io/topic?id=32794",
-      "commentsUrl": "https://news.hada.io/topic?id=32794",
-      "author": "disjukr",
-      "publishedAt": "2026-08-23T08:00:43.000Z"
-    },
-    {
-      "id": "32793",
-      "source": "geeknews",
-      "title": "기억해 둘 만한 작은 네이티브 웹 기법",
-      "url": "https://news.hada.io/topic?id=32793",
-      "commentsUrl": "https://news.hada.io/topic?id=32793",
-      "author": "neo",
-      "publishedAt": "2026-08-23T07:31:40.000Z"
-    },
-    {
-      "id": "32791",
-      "source": "geeknews",
-      "title": "로컬 LLM이 실제 성능보다 더 멍청하게 느껴지는 이유",
-      "url": "https://news.hada.io/topic?id=32791",
-      "commentsUrl": "https://news.hada.io/topic?id=32791",
-      "author": "neo",
-      "publishedAt": "2026-08-23T05:33:19.000Z"
-    },
-    {
-      "id": "32789",
-      "source": "geeknews",
-      "title": "Show GN: CachyOS 와 Omarchy 의 혼종을 만들고 있습니다.",
-      "url": "https://news.hada.io/topic?id=32789",
-      "commentsUrl": "https://news.hada.io/topic?id=32789",
-      "author": "stadia",
-      "publishedAt": "2026-08-23T02:41:49.000Z"
-    },
-    {
-      "id": "32788",
-      "source": "geeknews",
-      "title": "Munder Difflin - 나를 복제한 직원들로 사무실을 운영하는 에이전트 하네스",
-      "url": "https://news.hada.io/topic?id=32788",
-      "commentsUrl": "https://news.hada.io/topic?id=32788",
-      "author": "neo",
-      "publishedAt": "2026-08-23T02:32:37.000Z"
-    },
-    {
-      "id": "32787",
-      "source": "geeknews",
-      "title": "Show GN: 일섬 — 일봉 거가중100 밀착·돌파 코인 스크리너",
-      "url": "https://news.hada.io/topic?id=32787",
-      "commentsUrl": "https://news.hada.io/topic?id=32787",
-      "author": "gogodeer",
-      "publishedAt": "2026-08-23T01:24:37.000Z"
     }
   ]
 }

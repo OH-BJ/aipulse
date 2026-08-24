@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-08-24T00:52:25.979Z",
-  "items": []
+  "fetchedAt": "2026-08-24T12:34:00.901Z",
+  "items": [
+    {
+      "id": "2608.16386",
+      "source": "arxiv",
+      "title": "Mint-Agent: Introducing Finance-Native Agentic Foundation Models",
+      "url": "https://arxiv.org/abs/2608.16386",
+      "author": "Agent Team, Kun Wang, Gavin Zhang +7",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Financial agents must do more than recall domain knowledge: they must be both reliable, executing precise operations over grounded evidence, and executive, sustaining long-horizon research whose concl…"
+    },
+    {
+      "id": "2608.14369",
+      "source": "arxiv",
+      "title": "Non-Shattering at and Above the Dynamical Temperature in the Spherical Pure p-Spin Model",
+      "url": "https://arxiv.org/abs/2608.14369",
+      "author": "Taegyun Kim",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "We consider the notion of shattering introduced by Ben Arous and Jagannath for spherical pure $p$-spin glasses with overlap $q$. For every $p\\geq 3$ and $0 \\sqrt{(p-2)/(p-1)}$. The proof combines a de…"
+    },
+    {
+      "id": "2608.08319",
+      "source": "arxiv",
+      "title": "A continually expandable foundation model for brain MRI",
+      "url": "https://arxiv.org/abs/2608.08319",
+      "author": "Michail Mamalakis, Carmen Jimenez-Mesa, Yonghao Li +8",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Brain magnetic resonance imaging (MRI) is central to neuroscience and clinical assessment, but models are commonly developed for individual diseases, populations or imaging protocols. Foundation model…"
+    },
+    {
+      "id": "2608.01281",
+      "source": "arxiv",
+      "title": "Latent Softmax for Data-Efficient Phoneme-Based Multilingual ASR Across Tonal and Non-Tonal Languages",
+      "url": "https://arxiv.org/abs/2608.01281",
+      "author": "Saierdaer Yusuyin, Nanling Jiang, Hao Huang +1",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Phoneme-based multilingual automatic speech recognition (ASR) can share acoustic evidence across languages more directly than language-specific subword modeling. When tonal and non-tonal languages are…"
+    },
+    {
+      "id": "2606.22180",
+      "source": "arxiv",
+      "title": "FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism",
+      "url": "https://arxiv.org/abs/2606.22180",
+      "author": "Peng Fang, Arijit Khan, Ziqiang Wu +4",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Graph embedding maps graph nodes into low-dimensional vectors to support applications such as recommendation, fraud detection, and graph-based retrieval-augmented generation (GraphRAG). As graphs scal…"
+    },
+    {
+      "id": "2606.03736",
+      "source": "arxiv",
+      "title": "Adaptive Inference for Resource-Constrained Dynamic Pricing",
+      "url": "https://arxiv.org/abs/2606.03736",
+      "author": "Ruicheng Ao, Jiashuo Jiang, David Simchi-Levi",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "We study resource-constrained dynamic pricing when the seller seeks revenue and valid inference about demand at a price fixed before the selling season. Depletion can remove every feasible price near…"
+    },
+    {
+      "id": "2606.02507",
+      "source": "arxiv",
+      "title": "Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design",
+      "url": "https://arxiv.org/abs/2606.02507",
+      "author": "Anand Babu, Rog\\'erio Almeida Gouv\\^ea, Gian-Marco Rignanese",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Inverse materials design is shifting materials discovery from forward prediction toward targeted proposal of candidates that satisfy objectives under physical constraints. Here, we review advances in…"
+    },
+    {
+      "id": "2606.00661",
+      "source": "arxiv",
+      "title": "On Finite-sample Concentration of Median of Incomplete U-Statistics",
+      "url": "https://arxiv.org/abs/2606.00661",
+      "author": "Nong Minh Hieu, Antoine Ledent",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Median-of-means (MoM) is a powerful technique that theoretically enables near sub-Gaussian finite-sample rate for parameter estimation when the underlying data distribution is heavy-tailed (e.g., assu…"
+    },
+    {
+      "id": "2605.24817",
+      "source": "arxiv",
+      "title": "RouteScan: A Non-Intrusive Approach to Auditing MoE LLMs Safety via Expert Routing Telemetry",
+      "url": "https://arxiv.org/abs/2605.24817",
+      "author": "Bo Lv, Zhiheng Xu, KeDong Xiu +4",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "As Mixture-of-Experts (MoE) architectures are increasingly adopted for scaling Large Language Models (LLMs), safety auditing becomes necessary to verify whether these models produce or facilitate harm…"
+    },
+    {
+      "id": "2605.01048",
+      "source": "arxiv",
+      "title": "Compared to What? Baselines and Metrics for Counterfactual Prompting",
+      "url": "https://arxiv.org/abs/2605.01048",
+      "author": "Zihao Yang, Mosh Levy, Yoav Goldberg +1",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Counterfactual prompting (i.e., perturbing a single factor and measuring output change) is widely used to evaluate things like LLM bias and CoT faithfulness. But in this work we argue that observed ef…"
+    },
+    {
+      "id": "2604.13687",
+      "source": "arxiv",
+      "title": "Automatic classification pipeline for glitches in the Virgo detector",
+      "url": "https://arxiv.org/abs/2604.13687",
+      "author": "Tiago Fernandes, Francesco Di Renzo, Antonio Onofre +2",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Glitches frequently contaminate data in gravitational-wave detectors, complicating the observation and analysis of astrophysical signals. This work introduces VIGILant, an automatic pipeline for class…"
+    },
+    {
+      "id": "2603.28938",
+      "source": "arxiv",
+      "title": "Optimistic Online LQR via Intrinsic Rewards",
+      "url": "https://arxiv.org/abs/2603.28938",
+      "author": "Marcell Bartos, Bruce D. Lee, Lenart Treven +3",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Optimism in the face of uncertainty is a popular approach to balance exploration and exploitation in reinforcement learning. Here, we consider the online linear quadratic regulator (LQR) problem, i.e.…"
+    },
+    {
+      "id": "2603.28200",
+      "source": "arxiv",
+      "title": "A Deep Reinforcement Learning Framework for Closed-loop Guidance of Fish Schools via Virtual Agents",
+      "url": "https://arxiv.org/abs/2603.28200",
+      "author": "Takato Shibayama, Hiroaki Kawashima",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Guiding collective motion in biological groups is a fundamental challenge in understanding social interaction rules. In this study, we propose a deep reinforcement learning (RL) framework for closed-l…"
+    },
+    {
+      "id": "2602.06621",
+      "source": "arxiv",
+      "title": "Infinite-dimensional generative diffusions via Doob's h-transform",
+      "url": "https://arxiv.org/abs/2602.06621",
+      "author": "Thorben Pieper-Sethmacher, Daniel Paulin",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "This paper introduces a rigorous framework for defining generative diffusion models in infinite dimensions via Doob's h-transform. Rather than relying on time reversal of a noising process, a referenc…"
+    },
+    {
+      "id": "2601.12614",
+      "source": "arxiv",
+      "title": "Deterministic and probabilistic neural surrogates of global hybrid-Vlasov simulations",
+      "url": "https://arxiv.org/abs/2601.12614",
+      "author": "Daniel Holmberg, Ivan Zaitsev, Markku Alho +5",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Hybrid-Vlasov simulations resolve ion-kinetic effects in the solar wind-magnetosphere interaction, but even 5D (2D + 3V) configurations are computationally expensive. We show that graph-based machine…"
+    },
+    {
+      "id": "2512.13530",
+      "source": "arxiv",
+      "title": "Actively Learning Joint Contours of Multiple Computer Experiments",
+      "url": "https://arxiv.org/abs/2512.13530",
+      "author": "Shih-Ni Prim, Kevin R. Quinlan, Paul Hawkins +2",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Contour location---the process of sequentially training a surrogate model to identify the design inputs that result in a pre-specified response value from a single computer experiment---is a well-stud…"
+    },
+    {
+      "id": "2507.19290",
+      "source": "arxiv",
+      "title": "Query Efficient Structured Matrix Learning",
+      "url": "https://arxiv.org/abs/2507.19290",
+      "author": "Noah Amsel, Pratyush Avi, Tyler Chen +5",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "We study the problem of learning a structured approximation (low-rank, sparse, banded, etc.) to an unknown matrix $A$ given access to matrix-vector product (matvec) queries of the form $x \\rightarrow…"
+    },
+    {
+      "id": "2507.14022",
+      "source": "arxiv",
+      "title": "CPC-CMS: Cognitive Pairwise Comparison Classification Model Selection Framework for Document-level Sentiment Analysis",
+      "url": "https://arxiv.org/abs/2507.14022",
+      "author": "Jianfei Li, Kevin Kam Fung Yuen",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "This study proposes the Cognitive Pairwise Comparison Classification Model Selection (CPC-CMS) framework for document-level sentiment analysis. The CPC, based on expert knowledge judgment, is used to…"
+    },
+    {
+      "id": "2503.20546",
+      "source": "arxiv",
+      "title": "Regression-Based Estimation of Causal Effects in the Presence of Selection Bias and Confounding",
+      "url": "https://arxiv.org/abs/2503.20546",
+      "author": "Marlies Hafer, Alexander Marx",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "We consider the problem of estimating the expected causal effect $E[Y|do(X)]$ for a target variable $Y$ when treatment $X$ is set by intervention, focusing on continuous random variables. In settings…"
+    },
+    {
+      "id": "2501.10573",
+      "source": "arxiv",
+      "title": "The Intrinsic Dimension of Prompts in Internal Representations of Large Language Models",
+      "url": "https://arxiv.org/abs/2501.10573",
+      "author": "Karthik Viswanathan, Yuri Gardinazzi, Giada Panerai +2",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "We study the geometry of token representations at the prompt level in large language models through the lens of intrinsic dimension. Viewing transformers as mean-field particle systems, we estimate th…"
+    },
+    {
+      "id": "2501.10375",
+      "source": "arxiv",
+      "title": "DAOP: Data-Aware Offloading and Predictive Pre-Calculation for Efficient MoE Inference",
+      "url": "https://arxiv.org/abs/2501.10375",
+      "author": "Yujie Zhang, Shivam Aggarwal, Tulika Mitra",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Mixture-of-Experts (MoE) models, though highly effective for various machine learning tasks, face significant deployment challenges on memory-constrained devices. While GPUs offer fast inference, thei…"
+    },
+    {
+      "id": "2608.19994",
+      "source": "arxiv",
+      "title": "Green BOA: Determining the environmental break-even point for ML-based data compression",
+      "url": "https://arxiv.org/abs/2608.19994",
+      "author": "Caterina Doglioni, Thomas Elliott, Akshat Gupta +3",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "We summarise the outcome of two summer internship projects based at the University of Manchester, focused on the break-even point in terms of environmental sustainability for ML-based data compression…"
+    },
+    {
+      "id": "2608.17310",
+      "source": "arxiv",
+      "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
+      "url": "https://arxiv.org/abs/2608.17310",
+      "author": "Zhi Zheng, Rongsheng Chen, Yunpeng Ba +3",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Reinforcement Learning (RL) has been promising in single-turn LLM fine-tuning. However, long-horizon agentic reasoning introduces increasingly branching interactions and sparse rewards, exposing sever…"
+    },
+    {
+      "id": "2608.16824",
+      "source": "arxiv",
+      "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
+      "url": "https://arxiv.org/abs/2608.16824",
+      "author": "Junjie Chu, Ye Leng, Mingjie Li +3",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Generative Engine Optimization (GEO) modifies web content to increase its likelihood of being selected and cited by generative search engines. This can give strategically optimized pages visibility di…"
+    },
+    {
+      "id": "2608.12057",
+      "source": "arxiv",
+      "title": "Towards Truly Unsupervised Evaluation of Feature Selection",
+      "url": "https://arxiv.org/abs/2608.12057",
+      "author": "Hafiz Saud Arshad, Muhammad Rajabinasab, Arthur Zimek",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Feature selection is one of the most important and fundamental tasks in data mining, tackled by a family of methods with an established set of evaluation techniques to measure the quality of a specifi…"
+    },
+    {
+      "id": "2608.10433",
+      "source": "arxiv",
+      "title": "When Does Forecasting Reveal Temporal Structure? A Stability Analysis of Time-Series Structural Selection",
+      "url": "https://arxiv.org/abs/2608.10433",
+      "author": "Qipeng Qian, Yuntao Qian",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Forecast accuracy is often used as a proxy for temporal structure discovery, but predictive performance and structural identifiability are not equivalent. Different temporal mechanisms can achieve sim…"
+    },
+    {
+      "id": "2607.21702",
+      "source": "arxiv",
+      "title": "An Introduction to Bayesian and Frequentist Simulation-Based Inference with Machine Learning",
+      "url": "https://arxiv.org/abs/2607.21702",
+      "author": "Maximilian Dax, Theo Heimel, Gilles Louppe",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Simulation-based inference (SBI) with machine learning is an increasingly important tool for solving inverse problems in science and engineering, including parameter inference and the inversion of det…"
+    },
+    {
+      "id": "2606.12764",
+      "source": "arxiv",
+      "title": "Detecting Functional Memorization in Code Language Models",
+      "url": "https://arxiv.org/abs/2606.12764",
+      "author": "Matthieu Meeus, Anil Ramakrishna, Shengyuan Hu +3",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Large language models (LLMs) are increasingly used to generate code at scale. Meanwhile, prior work has investigated whether training data may be recoverable from model outputs, by auditing the textua…"
+    },
+    {
+      "id": "2606.09857",
+      "source": "arxiv",
+      "title": "Uncertainty-aware Multi-fidelity Closure via Conditional Normalizing Flows",
+      "url": "https://arxiv.org/abs/2606.09857",
+      "author": "Jice Zeng, Shady E. Ahmed, David Barajas-Solano +1",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Reduced-order models (ROMs) provide efficient surrogates for complex multiscale systems, but their predictive accuracy is often compromised by truncation errors and the inadequate representation of in…"
+    },
+    {
+      "id": "2606.08926",
+      "source": "arxiv",
+      "title": "PROBE-Web: An Interactive System for Probing Evaluation Landscapes of Knowledge Graph Completion Models",
+      "url": "https://arxiv.org/abs/2606.08926",
+      "author": "Sooho Moon, Yunyong Ko",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "summary": "Knowledge graph completion (KGC) models are commonly evaluated using rank-based metrics such as MRR and Hits@K, despite different users often requiring different evaluation perspectives. In this demo,…"
+    }
+  ]
 }
