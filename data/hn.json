@@ -1,7 +1,17 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-25T00:52:31.178Z",
+  "fetchedAt": "2026-08-25T12:33:56.400Z",
   "items": [
+    {
+      "id": "49411800",
+      "source": "hn",
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "score": 125,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49411800",
+      "author": "Tiberium",
+      "publishedAt": "2026-08-23T19:39:29.000Z"
+    },
     {
       "id": "49423495",
       "source": "hn",
@@ -13,121 +23,81 @@
       "publishedAt": "2026-08-24T17:53:14.000Z"
     },
     {
-      "id": "49421074",
-      "source": "hn",
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "score": 287,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49421074",
-      "author": "tosh",
-      "publishedAt": "2026-08-24T15:22:43.000Z"
-    },
-    {
-      "id": "49421554",
-      "source": "hn",
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "score": 446,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49421554",
-      "author": "larsfaye",
-      "publishedAt": "2026-08-24T15:52:33.000Z"
-    },
-    {
       "id": "49413561",
       "source": "hn",
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "score": 339,
+      "score": 367,
       "commentsUrl": "https://news.ycombinator.com/item?id=49413561",
       "author": "pantelisk",
       "publishedAt": "2026-08-23T23:18:17.000Z"
     },
     {
-      "id": "49424951",
+      "id": "49421074",
       "source": "hn",
-      "title": "Qwen 3.6 is now much easier to run locally on your Mac, thanks to JetBrains",
-      "url": "https://www.neowin.net/news/qwen-36-is-now-much-easier-to-run-locally-on-your-mac-thanks-to-jetbrains/",
-      "score": 29,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49424951",
-      "author": "bundie",
-      "publishedAt": "2026-08-24T19:47:51.000Z"
-    },
-    {
-      "id": "49423792",
-      "source": "hn",
-      "title": "Em Dash Is Fine – It Is AI That Sucks",
-      "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49423792",
-      "author": "speckx",
-      "publishedAt": "2026-08-24T18:15:12.000Z"
-    },
-    {
-      "id": "49415852",
-      "source": "hn",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "score": 117,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49415852",
-      "author": "thiagolima",
-      "publishedAt": "2026-08-24T06:25:31.000Z"
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "score": 328,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49421074",
+      "author": "tosh",
+      "publishedAt": "2026-08-24T15:22:43.000Z"
     },
     {
       "id": "49411102",
       "source": "hn",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "score": 762,
+      "score": 786,
       "commentsUrl": "https://news.ycombinator.com/item?id=49411102",
       "author": "naves",
       "publishedAt": "2026-08-23T18:16:37.000Z"
     },
     {
-      "id": "49423371",
+      "id": "49415852",
       "source": "hn",
-      "title": "Show HN: See how much your AI knows about you",
-      "url": "https://www.withcorpus.com/knows",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49423371",
-      "author": "cgnry",
-      "publishedAt": "2026-08-24T17:44:57.000Z"
-    },
-    {
-      "id": "49424758",
-      "source": "hn",
-      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-      "url": "https://github.com/l3a0/claude-plugins",
-      "score": 43,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49424758",
-      "author": "l3a0",
-      "publishedAt": "2026-08-24T19:32:18.000Z"
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "score": 134,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49415852",
+      "author": "thiagolima",
+      "publishedAt": "2026-08-24T06:25:31.000Z"
     },
     {
       "id": "49405657",
       "source": "hn",
       "title": "AI Chip Architectures",
       "url": "https://www.jepeake.com/ai-chip-architectures",
-      "score": 143,
+      "score": 148,
       "commentsUrl": "https://news.ycombinator.com/item?id=49405657",
       "author": "Finbarr",
       "publishedAt": "2026-08-23T02:25:10.000Z"
     },
     {
-      "id": "49425599",
+      "id": "49428303",
       "source": "hn",
-      "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
-      "url": "https://dactyl.dev/",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49425599",
-      "author": "SantiDev",
-      "publishedAt": "2026-08-24T20:45:07.000Z"
+      "title": "80% of developers find AI coding more addictive than helpful",
+      "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+      "score": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49428303",
+      "author": "jethronethro",
+      "publishedAt": "2026-08-25T02:09:52.000Z"
+    },
+    {
+      "id": "49423792",
+      "source": "hn",
+      "title": "Em Dash Is Fine – It Is AI That Sucks",
+      "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49423792",
+      "author": "speckx",
+      "publishedAt": "2026-08-24T18:15:12.000Z"
     },
     {
       "id": "49416553",
       "source": "hn",
       "title": "Most AI Work Can Wait",
       "url": "https://tomtunguz.com/ai-execution-routing/",
-      "score": 29,
+      "score": 32,
       "commentsUrl": "https://news.ycombinator.com/item?id=49416553",
       "author": "walterbell",
       "publishedAt": "2026-08-24T08:03:27.000Z"
@@ -137,10 +107,20 @@
       "source": "hn",
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
-      "score": 394,
+      "score": 406,
       "commentsUrl": "https://news.ycombinator.com/item?id=49410932",
       "author": "ibobev",
       "publishedAt": "2026-08-23T17:59:52.000Z"
+    },
+    {
+      "id": "49423371",
+      "source": "hn",
+      "title": "Show HN: See how much your AI knows about you",
+      "url": "https://www.withcorpus.com/knows",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49423371",
+      "author": "cgnry",
+      "publishedAt": "2026-08-24T17:44:57.000Z"
     }
   ]
 }
