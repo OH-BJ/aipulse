@@ -1,176 +1,146 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-24T12:34:00.970Z",
+  "fetchedAt": "2026-08-25T00:52:31.178Z",
   "items": [
     {
-      "id": "49411102",
+      "id": "49423495",
       "source": "hn",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "score": 590,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49411102",
-      "author": "naves",
-      "publishedAt": "2026-08-23T18:16:37.000Z"
+      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49423495",
+      "author": "adawg4",
+      "publishedAt": "2026-08-24T17:53:14.000Z"
     },
     {
-      "id": "49415852",
+      "id": "49421074",
       "source": "hn",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "score": 68,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49415852",
-      "author": "thiagolima",
-      "publishedAt": "2026-08-24T06:25:31.000Z"
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "score": 287,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49421074",
+      "author": "tosh",
+      "publishedAt": "2026-08-24T15:22:43.000Z"
+    },
+    {
+      "id": "49421554",
+      "source": "hn",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "score": 446,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49421554",
+      "author": "larsfaye",
+      "publishedAt": "2026-08-24T15:52:33.000Z"
     },
     {
       "id": "49413561",
       "source": "hn",
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "score": 205,
+      "score": 339,
       "commentsUrl": "https://news.ycombinator.com/item?id=49413561",
       "author": "pantelisk",
       "publishedAt": "2026-08-23T23:18:17.000Z"
     },
     {
-      "id": "49410932",
+      "id": "49424951",
       "source": "hn",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "score": 330,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49410932",
-      "author": "ibobev",
-      "publishedAt": "2026-08-23T17:59:52.000Z"
+      "title": "Qwen 3.6 is now much easier to run locally on your Mac, thanks to JetBrains",
+      "url": "https://www.neowin.net/news/qwen-36-is-now-much-easier-to-run-locally-on-your-mac-thanks-to-jetbrains/",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49424951",
+      "author": "bundie",
+      "publishedAt": "2026-08-24T19:47:51.000Z"
     },
     {
-      "id": "49418449",
+      "id": "49423792",
       "source": "hn",
-      "title": "Anthropic candidates face blunt money question",
-      "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49418449",
-      "author": "samizdis",
-      "publishedAt": "2026-08-24T11:55:46.000Z"
+      "title": "Em Dash Is Fine – It Is AI That Sucks",
+      "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49423792",
+      "author": "speckx",
+      "publishedAt": "2026-08-24T18:15:12.000Z"
+    },
+    {
+      "id": "49415852",
+      "source": "hn",
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "score": 117,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49415852",
+      "author": "thiagolima",
+      "publishedAt": "2026-08-24T06:25:31.000Z"
+    },
+    {
+      "id": "49411102",
+      "source": "hn",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "score": 762,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49411102",
+      "author": "naves",
+      "publishedAt": "2026-08-23T18:16:37.000Z"
+    },
+    {
+      "id": "49423371",
+      "source": "hn",
+      "title": "Show HN: See how much your AI knows about you",
+      "url": "https://www.withcorpus.com/knows",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49423371",
+      "author": "cgnry",
+      "publishedAt": "2026-08-24T17:44:57.000Z"
+    },
+    {
+      "id": "49424758",
+      "source": "hn",
+      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+      "url": "https://github.com/l3a0/claude-plugins",
+      "score": 43,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49424758",
+      "author": "l3a0",
+      "publishedAt": "2026-08-24T19:32:18.000Z"
     },
     {
       "id": "49405657",
       "source": "hn",
       "title": "AI Chip Architectures",
       "url": "https://www.jepeake.com/ai-chip-architectures",
-      "score": 98,
+      "score": 143,
       "commentsUrl": "https://news.ycombinator.com/item?id=49405657",
       "author": "Finbarr",
       "publishedAt": "2026-08-23T02:25:10.000Z"
     },
     {
-      "id": "49414934",
+      "id": "49425599",
       "source": "hn",
-      "title": "Why is Anthropic's public writing style so unlike Claude's?",
-      "url": "https://cmart.blog/claude-writing/",
-      "score": 53,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49414934",
-      "author": "zdw",
-      "publishedAt": "2026-08-24T03:32:42.000Z"
+      "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
+      "url": "https://dactyl.dev/",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49425599",
+      "author": "SantiDev",
+      "publishedAt": "2026-08-24T20:45:07.000Z"
     },
     {
-      "id": "49412909",
+      "id": "49416553",
       "source": "hn",
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://github.com/AlpinDale/gpt2.cmake",
-      "score": 84,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49412909",
-      "author": "porridgeraisin",
-      "publishedAt": "2026-08-23T21:41:17.000Z"
+      "title": "Most AI Work Can Wait",
+      "url": "https://tomtunguz.com/ai-execution-routing/",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49416553",
+      "author": "walterbell",
+      "publishedAt": "2026-08-24T08:03:27.000Z"
     },
     {
-      "id": "49415907",
+      "id": "49410932",
       "source": "hn",
-      "title": "Anthropic Claude and API service outages",
-      "url": "https://status.claude.com/uptime",
-      "score": 64,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49415907",
-      "author": "vikrantrathore",
-      "publishedAt": "2026-08-24T06:32:28.000Z"
-    },
-    {
-      "id": "49411800",
-      "source": "hn",
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49411800",
-      "author": "Tiberium",
-      "publishedAt": "2026-08-23T19:39:29.000Z"
-    },
-    {
-      "id": "49407507",
-      "source": "hn",
-      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "score": 349,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49407507",
-      "author": "raybb",
-      "publishedAt": "2026-08-23T10:02:51.000Z"
-    },
-    {
-      "id": "49411024",
-      "source": "hn",
-      "title": "AI and Infrastructure Engineering",
-      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-      "score": 68,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49411024",
-      "author": "0megion",
-      "publishedAt": "2026-08-23T18:09:01.000Z"
-    },
-    {
-      "id": "49402232",
-      "source": "hn",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 492,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49402232",
-      "author": "felineflock",
-      "publishedAt": "2026-08-22T18:14:16.000Z"
-    },
-    {
-      "id": "49410936",
-      "source": "hn",
-      "title": "I turned Unix talk from 1983 into the interface for my AI",
-      "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49410936",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "score": 394,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49410932",
       "author": "ibobev",
-      "publishedAt": "2026-08-23T18:00:20.000Z"
-    },
-    {
-      "id": "49383026",
-      "source": "hn",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "score": 639,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49383026",
-      "author": "Cider9986",
-      "publishedAt": "2026-08-21T02:37:47.000Z"
-    },
-    {
-      "id": "49409073",
-      "source": "hn",
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "score": 662,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49409073",
-      "author": "dr_pardee",
-      "publishedAt": "2026-08-23T14:23:09.000Z"
-    },
-    {
-      "id": "49393051",
-      "source": "hn",
-      "title": "A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "score": 240,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
-      "author": "speckx",
-      "publishedAt": "2026-08-21T19:51:48.000Z"
+      "publishedAt": "2026-08-23T17:59:52.000Z"
     }
   ]
 }
