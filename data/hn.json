@@ -1,126 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-25T12:33:56.400Z",
+  "fetchedAt": "2026-08-26T00:53:08.053Z",
   "items": [
+    {
+      "id": "49434378",
+      "source": "hn",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "score": 305,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49434378",
+      "author": "bmulholland",
+      "publishedAt": "2026-08-25T14:06:02.000Z"
+    },
+    {
+      "id": "49437566",
+      "source": "hn",
+      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49437566",
+      "author": "gfavvas",
+      "publishedAt": "2026-08-25T17:28:52.000Z"
+    },
+    {
+      "id": "49435675",
+      "source": "hn",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "score": 89,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49435675",
+      "author": "petruspennanen",
+      "publishedAt": "2026-08-25T15:20:20.000Z"
+    },
     {
       "id": "49411800",
       "source": "hn",
       "title": "Training AI to Paint with Code",
       "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "score": 125,
+      "score": 194,
       "commentsUrl": "https://news.ycombinator.com/item?id=49411800",
       "author": "Tiberium",
       "publishedAt": "2026-08-23T19:39:29.000Z"
     },
     {
-      "id": "49423495",
+      "id": "49432317",
       "source": "hn",
-      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-      "score": 1,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49423495",
-      "author": "adawg4",
-      "publishedAt": "2026-08-24T17:53:14.000Z"
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+      "score": 310,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49432317",
+      "author": "garo-pro",
+      "publishedAt": "2026-08-25T11:49:43.000Z"
+    },
+    {
+      "id": "49435728",
+      "source": "hn",
+      "title": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "score": 246,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49435728",
+      "author": "surprisetalk",
+      "publishedAt": "2026-08-25T15:23:41.000Z"
+    },
+    {
+      "id": "49439489",
+      "source": "hn",
+      "title": "OpenAI's Head of Data Centers Has Left the Company",
+      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
+      "score": 35,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49439489",
+      "author": "root-parent",
+      "publishedAt": "2026-08-25T19:37:39.000Z"
+    },
+    {
+      "id": "49440102",
+      "source": "hn",
+      "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
+      "url": "https://zenodo.org/records/19882078",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49440102",
+      "author": "ashsyngh",
+      "publishedAt": "2026-08-25T20:24:36.000Z"
     },
     {
       "id": "49413561",
       "source": "hn",
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "score": 367,
+      "score": 388,
       "commentsUrl": "https://news.ycombinator.com/item?id=49413561",
       "author": "pantelisk",
       "publishedAt": "2026-08-23T23:18:17.000Z"
-    },
-    {
-      "id": "49421074",
-      "source": "hn",
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "score": 328,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49421074",
-      "author": "tosh",
-      "publishedAt": "2026-08-24T15:22:43.000Z"
     },
     {
       "id": "49411102",
       "source": "hn",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "score": 786,
+      "score": 806,
       "commentsUrl": "https://news.ycombinator.com/item?id=49411102",
       "author": "naves",
       "publishedAt": "2026-08-23T18:16:37.000Z"
     },
     {
-      "id": "49415852",
+      "id": "49438349",
       "source": "hn",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "score": 134,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49415852",
-      "author": "thiagolima",
-      "publishedAt": "2026-08-24T06:25:31.000Z"
-    },
-    {
-      "id": "49405657",
-      "source": "hn",
-      "title": "AI Chip Architectures",
-      "url": "https://www.jepeake.com/ai-chip-architectures",
-      "score": 148,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49405657",
-      "author": "Finbarr",
-      "publishedAt": "2026-08-23T02:25:10.000Z"
-    },
-    {
-      "id": "49428303",
-      "source": "hn",
-      "title": "80% of developers find AI coding more addictive than helpful",
-      "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
-      "score": 30,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49428303",
-      "author": "jethronethro",
-      "publishedAt": "2026-08-25T02:09:52.000Z"
-    },
-    {
-      "id": "49423792",
-      "source": "hn",
-      "title": "Em Dash Is Fine – It Is AI That Sucks",
-      "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49423792",
-      "author": "speckx",
-      "publishedAt": "2026-08-24T18:15:12.000Z"
-    },
-    {
-      "id": "49416553",
-      "source": "hn",
-      "title": "Most AI Work Can Wait",
-      "url": "https://tomtunguz.com/ai-execution-routing/",
-      "score": 32,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49416553",
-      "author": "walterbell",
-      "publishedAt": "2026-08-24T08:03:27.000Z"
-    },
-    {
-      "id": "49410932",
-      "source": "hn",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "score": 406,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49410932",
-      "author": "ibobev",
-      "publishedAt": "2026-08-23T17:59:52.000Z"
-    },
-    {
-      "id": "49423371",
-      "source": "hn",
-      "title": "Show HN: See how much your AI knows about you",
-      "url": "https://www.withcorpus.com/knows",
+      "title": "Anthropic expected to tell investors it sees over $30T in potential revenue",
+      "url": "https://www.reuters.com/business/media-telecom/anthropic-expected-tell-investors-it-sees-over-30-trillion-potential-revenue-wsj-2026-08-25/",
       "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49423371",
-      "author": "cgnry",
-      "publishedAt": "2026-08-24T17:44:57.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=49438349",
+      "author": "thewebguyd",
+      "publishedAt": "2026-08-25T18:21:40.000Z"
     }
   ]
 }

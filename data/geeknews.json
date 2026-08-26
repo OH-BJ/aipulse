@@ -1,11 +1,173 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-25T12:33:57.015Z",
+  "fetchedAt": "2026-08-26T00:53:08.712Z",
   "items": [
+    {
+      "id": "32895",
+      "source": "geeknews",
+      "title": "Qwen 3.8-Flash-Next(125B a6B), 2026년 8월 26일 공개 예정",
+      "url": "https://news.hada.io/topic?id=32895",
+      "commentsUrl": "https://news.hada.io/topic?id=32895",
+      "author": "neo",
+      "publishedAt": "2026-08-26T00:48:50.000Z"
+    },
+    {
+      "id": "32894",
+      "source": "geeknews",
+      "title": "Emacs 31.1의 새로운 기능",
+      "url": "https://news.hada.io/topic?id=32894",
+      "commentsUrl": "https://news.hada.io/topic?id=32894",
+      "author": "neo",
+      "publishedAt": "2026-08-26T00:45:50.000Z"
+    },
+    {
+      "id": "32893",
+      "source": "geeknews",
+      "title": "key-amnesia - AI 에이전트에 시크릿을 노출하지 않고 명령을 실행하는 도구",
+      "url": "https://news.hada.io/topic?id=32893",
+      "commentsUrl": "https://news.hada.io/topic?id=32893",
+      "author": "xguru",
+      "publishedAt": "2026-08-26T00:30:02.000Z"
+    },
+    {
+      "id": "32892",
+      "source": "geeknews",
+      "title": "OpenAI Jalapeño: Nvidia Blackwell을 앞선 LLM 추론 칩",
+      "url": "https://news.hada.io/topic?id=32892",
+      "commentsUrl": "https://news.hada.io/topic?id=32892",
+      "author": "xguru",
+      "publishedAt": "2026-08-26T00:18:45.000Z"
+    },
+    {
+      "id": "32891",
+      "source": "geeknews",
+      "title": "AI로 만든 웹사이트마다 전용 DB를 하나씩 제공하는 이유",
+      "url": "https://news.hada.io/topic?id=32891",
+      "commentsUrl": "https://news.hada.io/topic?id=32891",
+      "author": "neo",
+      "publishedAt": "2026-08-26T00:15:01.000Z"
+    },
+    {
+      "id": "32890",
+      "source": "geeknews",
+      "title": "MNT Station - 모듈식 오픈 하드웨어 데스크톱·서버",
+      "url": "https://news.hada.io/topic?id=32890",
+      "commentsUrl": "https://news.hada.io/topic?id=32890",
+      "author": "neo",
+      "publishedAt": "2026-08-26T00:10:25.000Z"
+    },
+    {
+      "id": "32889",
+      "source": "geeknews",
+      "title": "Python 3 전환을 시작한 EVE Online",
+      "url": "https://news.hada.io/topic?id=32889",
+      "commentsUrl": "https://news.hada.io/topic?id=32889",
+      "author": "neo",
+      "publishedAt": "2026-08-26T00:07:25.000Z"
+    },
+    {
+      "id": "32888",
+      "source": "geeknews",
+      "title": "Rust의 never 타입 `!`, 10년 만에 안정화",
+      "url": "https://news.hada.io/topic?id=32888",
+      "commentsUrl": "https://news.hada.io/topic?id=32888",
+      "author": "neo",
+      "publishedAt": "2026-08-26T00:04:25.000Z"
+    },
+    {
+      "id": "32887",
+      "source": "geeknews",
+      "title": "내 친구 Aaron",
+      "url": "https://news.hada.io/topic?id=32887",
+      "commentsUrl": "https://news.hada.io/topic?id=32887",
+      "author": "neo",
+      "publishedAt": "2026-08-25T21:32:35.000Z"
+    },
+    {
+      "id": "32886",
+      "source": "geeknews",
+      "title": "Nitter, X Corp.의 영구 중단 요구 서한을 받고 공식 서비스·개발 중단",
+      "url": "https://news.hada.io/topic?id=32886",
+      "commentsUrl": "https://news.hada.io/topic?id=32886",
+      "author": "neo",
+      "publishedAt": "2026-08-25T20:31:15.000Z"
+    },
+    {
+      "id": "32885",
+      "source": "geeknews",
+      "title": "공중화장실은 모두 어디로 사라졌을까?",
+      "url": "https://news.hada.io/topic?id=32885",
+      "commentsUrl": "https://news.hada.io/topic?id=32885",
+      "author": "neo",
+      "publishedAt": "2026-08-25T19:43:29.000Z"
+    },
+    {
+      "id": "32884",
+      "source": "geeknews",
+      "title": "Apple, M6·M5 Pro를 탑재한 새로운 Mac mini 공개",
+      "url": "https://news.hada.io/topic?id=32884",
+      "commentsUrl": "https://news.hada.io/topic?id=32884",
+      "author": "neo",
+      "publishedAt": "2026-08-25T19:40:29.000Z"
+    },
+    {
+      "id": "32883",
+      "source": "geeknews",
+      "title": "컨트리 음악의 전설 Dolly Parton, 80세로 별세",
+      "url": "https://news.hada.io/topic?id=32883",
+      "commentsUrl": "https://news.hada.io/topic?id=32883",
+      "author": "neo",
+      "publishedAt": "2026-08-25T19:37:29.000Z"
+    },
+    {
+      "id": "32882",
+      "source": "geeknews",
+      "title": "OpenAI GPT-5.6 Sol 가격 인하, 최소 2026년 11월 21일까지",
+      "url": "https://news.hada.io/topic?id=32882",
+      "commentsUrl": "https://news.hada.io/topic?id=32882",
+      "author": "neo",
+      "publishedAt": "2026-08-25T18:33:02.000Z"
+    },
+    {
+      "id": "32881",
+      "source": "geeknews",
+      "title": "IPFS 유지보수 조직 Shipyard, 운영 종료 수순",
+      "url": "https://news.hada.io/topic?id=32881",
+      "commentsUrl": "https://news.hada.io/topic?id=32881",
+      "author": "neo",
+      "publishedAt": "2026-08-25T16:39:14.000Z"
+    },
+    {
+      "id": "32880",
+      "source": "geeknews",
+      "title": "Apple, M5 Max·M5 Ultra를 탑재한 새로운 Mac Studio 공개",
+      "url": "https://news.hada.io/topic?id=32880",
+      "commentsUrl": "https://news.hada.io/topic?id=32880",
+      "author": "neo",
+      "publishedAt": "2026-08-25T16:36:14.000Z"
+    },
+    {
+      "id": "32879",
+      "source": "geeknews",
+      "title": "Apple, 성능과 AI 연산을 크게 높인 M6·M5 Ultra 공개",
+      "url": "https://news.hada.io/topic?id=32879",
+      "commentsUrl": "https://news.hada.io/topic?id=32879",
+      "author": "neo",
+      "publishedAt": "2026-08-25T15:32:50.000Z"
+    },
+    {
+      "id": "32878",
+      "source": "geeknews",
+      "title": "Show GN: homebutler - 홈서버 관리에 필요한 걸 한 바이너리에 담고 AI까지 붙였습니다",
+      "url": "https://news.hada.io/topic?id=32878",
+      "commentsUrl": "https://news.hada.io/topic?id=32878",
+      "author": "swq115",
+      "publishedAt": "2026-08-25T14:30:57.000Z"
+    },
     {
       "id": "32877",
       "source": "geeknews",
-      "title": "Show GN: 옥상에서 별을 보다가 ‘은하계 커뮤니티’를 만들어봤습니다.",
+      "title": "Show GN: Galaxy Constellate - 사람과 관심사를 별자리로 연결하는 커뮤니티",
       "url": "https://news.hada.io/topic?id=32877",
       "commentsUrl": "https://news.hada.io/topic?id=32877",
       "author": "kennethkang80",
@@ -109,168 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32863",
       "author": "xguru",
       "publishedAt": "2026-08-25T01:38:53.000Z"
-    },
-    {
-      "id": "32862",
-      "source": "geeknews",
-      "title": "뉴스 읽기는 담배 피우는 것과 같다",
-      "url": "https://news.hada.io/topic?id=32862",
-      "commentsUrl": "https://news.hada.io/topic?id=32862",
-      "author": "neo",
-      "publishedAt": "2026-08-25T01:00:04.000Z"
-    },
-    {
-      "id": "32861",
-      "source": "geeknews",
-      "title": "Prime Agent - 코딩과 장기 자율 작업을 위한 자기 개선형 RLM 에이전트",
-      "url": "https://news.hada.io/topic?id=32861",
-      "commentsUrl": "https://news.hada.io/topic?id=32861",
-      "author": "xguru",
-      "publishedAt": "2026-08-25T00:30:02.000Z"
-    },
-    {
-      "id": "32860",
-      "source": "geeknews",
-      "title": "블로그 글을 손글씨로 쓸 수 있을까?",
-      "url": "https://news.hada.io/topic?id=32860",
-      "commentsUrl": "https://news.hada.io/topic?id=32860",
-      "author": "neo",
-      "publishedAt": "2026-08-25T00:09:54.000Z"
-    },
-    {
-      "id": "32859",
-      "source": "geeknews",
-      "title": "오프그리드 태양광으로 전기차 충전하기(2025)",
-      "url": "https://news.hada.io/topic?id=32859",
-      "commentsUrl": "https://news.hada.io/topic?id=32859",
-      "author": "neo",
-      "publishedAt": "2026-08-25T00:06:54.000Z"
-    },
-    {
-      "id": "32858",
-      "source": "geeknews",
-      "title": "번아웃으로 더는 버틸 수 없다",
-      "url": "https://news.hada.io/topic?id=32858",
-      "commentsUrl": "https://news.hada.io/topic?id=32858",
-      "author": "neo",
-      "publishedAt": "2026-08-25T00:03:53.000Z"
-    },
-    {
-      "id": "32857",
-      "source": "geeknews",
-      "title": "전 세계 해양 온도, 관측 사상 최고치 기록",
-      "url": "https://news.hada.io/topic?id=32857",
-      "commentsUrl": "https://news.hada.io/topic?id=32857",
-      "author": "neo",
-      "publishedAt": "2026-08-24T23:32:01.000Z"
-    },
-    {
-      "id": "32855",
-      "source": "geeknews",
-      "title": "텍스트 모드라는 거짓말: 현대 TUI가 접근성을 해치는 이유",
-      "url": "https://news.hada.io/topic?id=32855",
-      "commentsUrl": "https://news.hada.io/topic?id=32855",
-      "author": "neo",
-      "publishedAt": "2026-08-24T22:01:03.000Z"
-    },
-    {
-      "id": "32854",
-      "source": "geeknews",
-      "title": "AI 의존이 코딩 전문성의 성장 경로를 무너뜨릴 수 있음",
-      "url": "https://news.hada.io/topic?id=32854",
-      "commentsUrl": "https://news.hada.io/topic?id=32854",
-      "author": "neo",
-      "publishedAt": "2026-08-24T21:33:40.000Z"
-    },
-    {
-      "id": "32853",
-      "source": "geeknews",
-      "title": "Varkos - 대화를 넘어 Skyrim 세계를 인식하고 행동하는 AI 동료",
-      "url": "https://news.hada.io/topic?id=32853",
-      "commentsUrl": "https://news.hada.io/topic?id=32853",
-      "author": "neo",
-      "publishedAt": "2026-08-24T19:39:44.000Z"
-    },
-    {
-      "id": "32852",
-      "source": "geeknews",
-      "title": "MS Paint와 Photos, 로컬 AI 이미지에 서버 발급 GUID를 보이지 않는 워터마크로 삽입",
-      "url": "https://news.hada.io/topic?id=32852",
-      "commentsUrl": "https://news.hada.io/topic?id=32852",
-      "author": "neo",
-      "publishedAt": "2026-08-24T19:36:44.000Z"
-    },
-    {
-      "id": "32851",
-      "source": "geeknews",
-      "title": "샤오미 새 CPU, 단일 스레드는 Apple급·멀티스레드는 더 빠르다고 주장",
-      "url": "https://news.hada.io/topic?id=32851",
-      "commentsUrl": "https://news.hada.io/topic?id=32851",
-      "author": "neo",
-      "publishedAt": "2026-08-24T17:31:27.000Z"
-    },
-    {
-      "id": "32849",
-      "source": "geeknews",
-      "title": "SELF - SQLite 데이터베이스 자체를 실행 파일로 쓰는 파일 포맷",
-      "url": "https://news.hada.io/topic?id=32849",
-      "commentsUrl": "https://news.hada.io/topic?id=32849",
-      "author": "neo",
-      "publishedAt": "2026-08-24T16:33:13.000Z"
-    },
-    {
-      "id": "32848",
-      "source": "geeknews",
-      "title": "유럽은 어떻게 메이커와 영세 사업자를 고사시키는가",
-      "url": "https://news.hada.io/topic?id=32848",
-      "commentsUrl": "https://news.hada.io/topic?id=32848",
-      "author": "neo",
-      "publishedAt": "2026-08-24T14:32:50.000Z"
-    },
-    {
-      "id": "32846",
-      "source": "geeknews",
-      "title": "내가 17살이라면 LLM을 처음부터 만드는 법을 배우겠다",
-      "url": "https://news.hada.io/topic?id=32846",
-      "commentsUrl": "https://news.hada.io/topic?id=32846",
-      "author": "neo",
-      "publishedAt": "2026-08-24T13:31:46.000Z"
-    },
-    {
-      "id": "32845",
-      "source": "geeknews",
-      "title": "다른 포럼에 Reddit의 최고 기능 복제하기",
-      "url": "https://news.hada.io/topic?id=32845",
-      "commentsUrl": "https://news.hada.io/topic?id=32845",
-      "author": "neo",
-      "publishedAt": "2026-08-24T13:01:07.000Z"
-    },
-    {
-      "id": "32844",
-      "source": "geeknews",
-      "title": "Andreessen Horowitz가 수십억 달러를 투자하는 암울한 미래",
-      "url": "https://news.hada.io/topic?id=32844",
-      "commentsUrl": "https://news.hada.io/topic?id=32844",
-      "author": "neo",
-      "publishedAt": "2026-08-24T12:35:04.000Z"
-    },
-    {
-      "id": "32843",
-      "source": "geeknews",
-      "title": "17만 곳 넘는 비영리단체가 데이터를 잃었다… Microsoft 책임인가?",
-      "url": "https://news.hada.io/topic?id=32843",
-      "commentsUrl": "https://news.hada.io/topic?id=32843",
-      "author": "neo",
-      "publishedAt": "2026-08-24T11:32:22.000Z"
-    },
-    {
-      "id": "32842",
-      "source": "geeknews",
-      "title": "AI 코드 리뷰는 몇 번 돌려야 할까.. 약 400번 돌려보고 알게 된 것",
-      "url": "https://news.hada.io/topic?id=32842",
-      "commentsUrl": "https://news.hada.io/topic?id=32842",
-      "author": "0xecro1",
-      "publishedAt": "2026-08-24T11:01:28.000Z"
     }
   ]
 }
