@@ -1,116 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-26T00:53:08.053Z",
+  "fetchedAt": "2026-08-26T12:36:58.340Z",
   "items": [
+    {
+      "id": "49446422",
+      "source": "hn",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "score": 184,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49446422",
+      "author": "garo-pro",
+      "publishedAt": "2026-08-26T10:04:55.000Z"
+    },
     {
       "id": "49434378",
       "source": "hn",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 305,
+      "score": 520,
       "commentsUrl": "https://news.ycombinator.com/item?id=49434378",
       "author": "bmulholland",
       "publishedAt": "2026-08-25T14:06:02.000Z"
     },
     {
-      "id": "49437566",
+      "id": "49446653",
       "source": "hn",
-      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-      "score": 1,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49437566",
-      "author": "gfavvas",
-      "publishedAt": "2026-08-25T17:28:52.000Z"
-    },
-    {
-      "id": "49435675",
-      "source": "hn",
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "score": 89,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49435675",
-      "author": "petruspennanen",
-      "publishedAt": "2026-08-25T15:20:20.000Z"
+      "title": "Debian polls its developers on AI: permit or ban?",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
+      "score": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49446653",
+      "author": "lproven",
+      "publishedAt": "2026-08-26T10:31:37.000Z"
     },
     {
       "id": "49411800",
       "source": "hn",
       "title": "Training AI to Paint with Code",
       "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "score": 194,
+      "score": 211,
       "commentsUrl": "https://news.ycombinator.com/item?id=49411800",
       "author": "Tiberium",
       "publishedAt": "2026-08-23T19:39:29.000Z"
+    },
+    {
+      "id": "49445712",
+      "source": "hn",
+      "title": "How to Build a McKinsey-Style PowerPoint with AI: 8 Rules for Consulting Slides",
+      "url": "https://medium.com/@2315610426/how-to-build-a-mckinsey-style-powerpoint-with-ai-8-simple-rules-for-consulting-grade-slides-a58c009dcb72",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49445712",
+      "author": "chenxi030826",
+      "publishedAt": "2026-08-26T08:36:52.000Z"
+    },
+    {
+      "id": "49446722",
+      "source": "hn",
+      "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI",
+      "url": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/",
+      "score": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49446722",
+      "author": "T-zex",
+      "publishedAt": "2026-08-26T10:40:58.000Z"
     },
     {
       "id": "49432317",
       "source": "hn",
       "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
       "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-      "score": 310,
+      "score": 328,
       "commentsUrl": "https://news.ycombinator.com/item?id=49432317",
       "author": "garo-pro",
       "publishedAt": "2026-08-25T11:49:43.000Z"
     },
     {
-      "id": "49435728",
+      "id": "49444863",
       "source": "hn",
-      "title": "How much of HN is AI?",
-      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-      "score": 246,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49435728",
-      "author": "surprisetalk",
-      "publishedAt": "2026-08-25T15:23:41.000Z"
+      "title": "I miss the old Claude Code",
+      "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+      "score": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49444863",
+      "author": "akras14",
+      "publishedAt": "2026-08-26T06:34:35.000Z"
     },
     {
-      "id": "49439489",
+      "id": "49447063",
       "source": "hn",
-      "title": "OpenAI's Head of Data Centers Has Left the Company",
-      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
-      "score": 35,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49439489",
-      "author": "root-parent",
-      "publishedAt": "2026-08-25T19:37:39.000Z"
+      "title": "Moonshot AI wants 30% of what US clouds earn from Kimi K3",
+      "url": "https://thenextweb.com/news/moonshot-k3-revenue-sharing-us-clouds",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49447063",
+      "author": "Aboutplants",
+      "publishedAt": "2026-08-26T11:24:38.000Z"
     },
     {
-      "id": "49440102",
+      "id": "49446625",
       "source": "hn",
-      "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
-      "url": "https://zenodo.org/records/19882078",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49440102",
-      "author": "ashsyngh",
-      "publishedAt": "2026-08-25T20:24:36.000Z"
+      "title": "The choices we make about AI now are critical – Bill Gates",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49446625",
+      "author": "stareatgoats",
+      "publishedAt": "2026-08-26T10:28:42.000Z"
     },
     {
       "id": "49413561",
       "source": "hn",
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "score": 388,
+      "score": 393,
       "commentsUrl": "https://news.ycombinator.com/item?id=49413561",
       "author": "pantelisk",
       "publishedAt": "2026-08-23T23:18:17.000Z"
+    },
+    {
+      "id": "49446983",
+      "source": "hn",
+      "title": "LinkedIn's 'Seems Like AI Slop' button drops views by 40%",
+      "url": "https://finance.yahoo.com/technology/ai/articles/linkedin-seems-ai-slop-button-195000046.html",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49446983",
+      "author": "mrweasel",
+      "publishedAt": "2026-08-26T11:15:48.000Z"
     },
     {
       "id": "49411102",
       "source": "hn",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "score": 806,
+      "score": 813,
       "commentsUrl": "https://news.ycombinator.com/item?id=49411102",
       "author": "naves",
       "publishedAt": "2026-08-23T18:16:37.000Z"
-    },
-    {
-      "id": "49438349",
-      "source": "hn",
-      "title": "Anthropic expected to tell investors it sees over $30T in potential revenue",
-      "url": "https://www.reuters.com/business/media-telecom/anthropic-expected-tell-investors-it-sees-over-30-trillion-potential-revenue-wsj-2026-08-25/",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49438349",
-      "author": "thewebguyd",
-      "publishedAt": "2026-08-25T18:21:40.000Z"
     }
   ]
 }
