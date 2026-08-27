@@ -1,136 +1,156 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-27T06:34:02.681Z",
+  "fetchedAt": "2026-08-27T21:32:57.078Z",
   "items": [
+    {
+      "id": "49469249",
+      "source": "hn",
+      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+      "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+      "score": 80,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49469249",
+      "author": "rarisma",
+      "publishedAt": "2026-08-27T18:34:40.000Z"
+    },
+    {
+      "id": "49467922",
+      "source": "hn",
+      "title": "Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "score": 152,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49467922",
+      "author": "saretup",
+      "publishedAt": "2026-08-27T17:06:32.000Z"
+    },
+    {
+      "id": "49447057",
+      "source": "hn",
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "score": 139,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49447057",
+      "author": "nanna",
+      "publishedAt": "2026-08-26T11:23:54.000Z"
+    },
+    {
+      "id": "49468818",
+      "source": "hn",
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "score": 47,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49468818",
+      "author": "k9294",
+      "publishedAt": "2026-08-27T18:03:42.000Z"
+    },
+    {
+      "id": "49467837",
+      "source": "hn",
+      "title": "Bild AI (YC W25) is hiring product and AI engineers",
+      "url": "https://www.bild.ai/jobs",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49467837",
+      "author": "rooppal",
+      "publishedAt": "2026-08-27T17:00:14.000Z"
+    },
+    {
+      "id": "49461817",
+      "source": "hn",
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "score": 253,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49461817",
+      "author": "Labo333",
+      "publishedAt": "2026-08-27T08:59:49.000Z"
+    },
+    {
+      "id": "49458875",
+      "source": "hn",
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+      "score": 64,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49458875",
+      "author": "semiquaver",
+      "publishedAt": "2026-08-27T02:37:07.000Z"
+    },
+    {
+      "id": "49464314",
+      "source": "hn",
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "url": "https://aiandeducation.mit.edu/report/",
+      "score": 88,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49464314",
+      "author": "pbui",
+      "publishedAt": "2026-08-27T13:07:45.000Z"
+    },
+    {
+      "id": "49467551",
+      "source": "hn",
+      "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+      "url": "https://github.com/kelviq/tare",
+      "score": 59,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49467551",
+      "author": "sachinneravath",
+      "publishedAt": "2026-08-27T16:37:44.000Z"
+    },
+    {
+      "id": "49467481",
+      "source": "hn",
+      "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
+      "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49467481",
+      "author": "ThibWeb",
+      "publishedAt": "2026-08-27T16:32:21.000Z"
+    },
     {
       "id": "49458418",
       "source": "hn",
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "score": 378,
+      "score": 915,
       "commentsUrl": "https://news.ycombinator.com/item?id=49458418",
       "author": "GrumpySciGuy",
       "publishedAt": "2026-08-27T01:46:22.000Z"
-    },
-    {
-      "id": "49454764",
-      "source": "hn",
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "url": "https://acceptmarkdown.com/",
-      "score": 116,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49454764",
-      "author": "tilt",
-      "publishedAt": "2026-08-26T19:45:59.000Z"
     },
     {
       "id": "49451313",
       "source": "hn",
       "title": "The turbulent AI era is here",
       "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "score": 214,
+      "score": 342,
       "commentsUrl": "https://news.ycombinator.com/item?id=49451313",
       "author": "LVB",
       "publishedAt": "2026-08-26T15:55:15.000Z"
+    },
+    {
+      "id": "49465057",
+      "source": "hn",
+      "title": "First patient to undergo live AI-assisted brain surgery has tumor removed",
+      "url": "https://www.bbc.com/news/articles/cjwg5n7y68xo",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49465057",
+      "author": "DGAP",
+      "publishedAt": "2026-08-27T14:01:58.000Z"
+    },
+    {
+      "id": "49466052",
+      "source": "hn",
+      "title": "Nvidia projects $673B in sales as AI demand widens",
+      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
+      "score": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49466052",
+      "author": "kuuuzya",
+      "publishedAt": "2026-08-27T15:04:16.000Z"
     },
     {
       "id": "49450898",
       "source": "hn",
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
       "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-      "score": 195,
+      "score": 247,
       "commentsUrl": "https://news.ycombinator.com/item?id=49450898",
       "author": "zazuke",
       "publishedAt": "2026-08-26T15:30:05.000Z"
-    },
-    {
-      "id": "49454742",
-      "source": "hn",
-      "title": "The risks of AI are real but manageable (2023)",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
-      "score": 38,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49454742",
-      "author": "ckastner",
-      "publishedAt": "2026-08-26T19:44:33.000Z"
-    },
-    {
-      "id": "49455713",
-      "source": "hn",
-      "title": "WebMCP Challenge – OpenAI",
-      "url": "https://openai.com/webmcp-challenge/",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49455713",
-      "author": "tilt",
-      "publishedAt": "2026-08-26T20:50:04.000Z"
-    },
-    {
-      "id": "49446422",
-      "source": "hn",
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "score": 423,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49446422",
-      "author": "garo-pro",
-      "publishedAt": "2026-08-26T10:04:55.000Z"
-    },
-    {
-      "id": "49455537",
-      "source": "hn",
-      "title": "Show HN: Devx – Autonomous AI coding agent built for Android Termux and desktop",
-      "url": "https://github.com/apvcode/Termux-Dev",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49455537",
-      "author": "apvcode",
-      "publishedAt": "2026-08-26T20:37:12.000Z"
-    },
-    {
-      "id": "49454606",
-      "source": "hn",
-      "title": "The turbulent AI era is here. The choices we make now are critical",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49454606",
-      "author": "herbertl",
-      "publishedAt": "2026-08-26T19:35:47.000Z"
-    },
-    {
-      "id": "49454175",
-      "source": "hn",
-      "title": "Disenchantment with the Post-AI Internet",
-      "url": "https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49454175",
-      "author": "speckx",
-      "publishedAt": "2026-08-26T19:06:59.000Z"
-    },
-    {
-      "id": "49434378",
-      "source": "hn",
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 578,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49434378",
-      "author": "bmulholland",
-      "publishedAt": "2026-08-25T14:06:02.000Z"
-    },
-    {
-      "id": "49452135",
-      "source": "hn",
-      "title": "AI Lessons from Driving 200M Autonomous Miles",
-      "url": "https://waymo.com/blog/2026/08/10ailessons/",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49452135",
-      "author": "thecybernerd",
-      "publishedAt": "2026-08-26T16:46:33.000Z"
-    },
-    {
-      "id": "49451972",
-      "source": "hn",
-      "title": "Patience Is Required for Local AI",
-      "url": "https://kylemcgough.com/blogs/patience-is-required-for-local-ai",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49451972",
-      "author": "sosodev",
-      "publishedAt": "2026-08-26T16:36:40.000Z"
     }
   ]
 }
