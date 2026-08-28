@@ -1,156 +1,186 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-27T21:32:57.078Z",
+  "fetchedAt": "2026-08-28T08:24:10.965Z",
   "items": [
     {
-      "id": "49469249",
+      "id": "49468818",
       "source": "hn",
-      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-      "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
-      "score": 80,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49469249",
-      "author": "rarisma",
-      "publishedAt": "2026-08-27T18:34:40.000Z"
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "score": 262,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49468818",
+      "author": "k9294",
+      "publishedAt": "2026-08-27T18:03:42.000Z"
     },
     {
       "id": "49467922",
       "source": "hn",
       "title": "Gemini Omni 1.1 Flash",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-      "score": 152,
+      "score": 238,
       "commentsUrl": "https://news.ycombinator.com/item?id=49467922",
       "author": "saretup",
       "publishedAt": "2026-08-27T17:06:32.000Z"
     },
     {
-      "id": "49447057",
+      "id": "49472820",
       "source": "hn",
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-      "score": 139,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49447057",
-      "author": "nanna",
-      "publishedAt": "2026-08-26T11:23:54.000Z"
-    },
-    {
-      "id": "49468818",
-      "source": "hn",
-      "title": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "score": 47,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49468818",
-      "author": "k9294",
-      "publishedAt": "2026-08-27T18:03:42.000Z"
-    },
-    {
-      "id": "49467837",
-      "source": "hn",
-      "title": "Bild AI (YC W25) is hiring product and AI engineers",
-      "url": "https://www.bild.ai/jobs",
-      "score": 1,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49467837",
-      "author": "rooppal",
-      "publishedAt": "2026-08-27T17:00:14.000Z"
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "score": 73,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49472820",
+      "author": "matt_d",
+      "publishedAt": "2026-08-28T00:06:51.000Z"
     },
     {
       "id": "49461817",
       "source": "hn",
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
-      "score": 253,
+      "score": 480,
       "commentsUrl": "https://news.ycombinator.com/item?id=49461817",
       "author": "Labo333",
       "publishedAt": "2026-08-27T08:59:49.000Z"
     },
     {
-      "id": "49458875",
+      "id": "49447057",
       "source": "hn",
-      "title": "Humanity has the debate about AI consciousness backwards",
-      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
-      "score": 64,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49458875",
-      "author": "semiquaver",
-      "publishedAt": "2026-08-27T02:37:07.000Z"
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "score": 283,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49447057",
+      "author": "nanna",
+      "publishedAt": "2026-08-26T11:23:54.000Z"
+    },
+    {
+      "id": "49471714",
+      "source": "hn",
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "score": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49471714",
+      "author": "calmrocks",
+      "publishedAt": "2026-08-27T21:46:39.000Z"
     },
     {
       "id": "49464314",
       "source": "hn",
       "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
       "url": "https://aiandeducation.mit.edu/report/",
-      "score": 88,
+      "score": 128,
       "commentsUrl": "https://news.ycombinator.com/item?id=49464314",
       "author": "pbui",
       "publishedAt": "2026-08-27T13:07:45.000Z"
     },
     {
-      "id": "49467551",
+      "id": "49458875",
       "source": "hn",
-      "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
-      "url": "https://github.com/kelviq/tare",
-      "score": 59,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49467551",
-      "author": "sachinneravath",
-      "publishedAt": "2026-08-27T16:37:44.000Z"
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+      "score": 100,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49458875",
+      "author": "semiquaver",
+      "publishedAt": "2026-08-27T02:37:07.000Z"
     },
     {
-      "id": "49467481",
+      "id": "49474143",
       "source": "hn",
-      "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
-      "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49467481",
-      "author": "ThibWeb",
-      "publishedAt": "2026-08-27T16:32:21.000Z"
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "score": 157,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49474143",
+      "author": "signa11",
+      "publishedAt": "2026-08-28T03:49:33.000Z"
+    },
+    {
+      "id": "49473184",
+      "source": "hn",
+      "title": "The \"I don't know, Claude wrote this\" pandemic",
+      "url": "https://www.manager.dev/newsletter/the-i-don-t-know-claude-wrote-this-pandemic",
+      "score": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49473184",
+      "author": "fagnerbrack",
+      "publishedAt": "2026-08-28T01:01:32.000Z"
+    },
+    {
+      "id": "49473629",
+      "source": "hn",
+      "title": "Alphabet stock sheds $700B as AI bills climb",
+      "url": "https://www.semafor.com/article/08/27/2026/alphabet-stock-sheds-700b-as-ai-bills-climb",
+      "score": 36,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49473629",
+      "author": "andsoitis",
+      "publishedAt": "2026-08-28T02:23:11.000Z"
     },
     {
       "id": "49458418",
       "source": "hn",
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "score": 915,
+      "score": 968,
       "commentsUrl": "https://news.ycombinator.com/item?id=49458418",
       "author": "GrumpySciGuy",
       "publishedAt": "2026-08-27T01:46:22.000Z"
     },
     {
-      "id": "49451313",
+      "id": "49467551",
       "source": "hn",
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "score": 342,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49451313",
-      "author": "LVB",
-      "publishedAt": "2026-08-26T15:55:15.000Z"
+      "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+      "url": "https://github.com/kelviq/tare",
+      "score": 76,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49467551",
+      "author": "sachinneravath",
+      "publishedAt": "2026-08-27T16:37:44.000Z"
     },
     {
-      "id": "49465057",
+      "id": "49474619",
       "source": "hn",
-      "title": "First patient to undergo live AI-assisted brain surgery has tumor removed",
-      "url": "https://www.bbc.com/news/articles/cjwg5n7y68xo",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49465057",
-      "author": "DGAP",
-      "publishedAt": "2026-08-27T14:01:58.000Z"
+      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49474619",
+      "author": "magoghm",
+      "publishedAt": "2026-08-28T05:16:47.000Z"
     },
     {
-      "id": "49466052",
+      "id": "49473522",
       "source": "hn",
-      "title": "Nvidia projects $673B in sales as AI demand widens",
-      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
-      "score": 99,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49466052",
-      "author": "kuuuzya",
-      "publishedAt": "2026-08-27T15:04:16.000Z"
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "score": 241,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49473522",
+      "author": "jbegley",
+      "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
       "id": "49450898",
       "source": "hn",
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
       "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-      "score": 247,
+      "score": 252,
       "commentsUrl": "https://news.ycombinator.com/item?id=49450898",
       "author": "zazuke",
       "publishedAt": "2026-08-26T15:30:05.000Z"
+    },
+    {
+      "id": "49467481",
+      "source": "hn",
+      "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
+      "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
+      "score": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49467481",
+      "author": "ThibWeb",
+      "publishedAt": "2026-08-27T16:32:21.000Z"
+    },
+    {
+      "id": "49465057",
+      "source": "hn",
+      "title": "First patient to undergo live AI-assisted brain surgery has tumor removed",
+      "url": "https://www.bbc.com/news/articles/cjwg5n7y68xo",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49465057",
+      "author": "DGAP",
+      "publishedAt": "2026-08-27T14:01:58.000Z"
     }
   ]
 }
