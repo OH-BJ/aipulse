@@ -1,7 +1,61 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-29T05:04:49.581Z",
+  "fetchedAt": "2026-08-29T16:00:48.922Z",
   "items": [
+    {
+      "id": "33009",
+      "source": "geeknews",
+      "title": "일본 최초의 IC 교통카드, Suica의 탄생",
+      "url": "https://news.hada.io/topic?id=33009",
+      "commentsUrl": "https://news.hada.io/topic?id=33009",
+      "author": "neo",
+      "publishedAt": "2026-08-29T15:38:33.000Z"
+    },
+    {
+      "id": "33008",
+      "source": "geeknews",
+      "title": "12요소 앱(2025)",
+      "url": "https://news.hada.io/topic?id=33008",
+      "commentsUrl": "https://news.hada.io/topic?id=33008",
+      "author": "neo",
+      "publishedAt": "2026-08-29T15:35:33.000Z"
+    },
+    {
+      "id": "33007",
+      "source": "geeknews",
+      "title": "vphone-cli - 애플 실리콘 Mac에서 iOS를 가상 iPhone으로 부팅하는 CLI",
+      "url": "https://news.hada.io/topic?id=33007",
+      "commentsUrl": "https://news.hada.io/topic?id=33007",
+      "author": "neo",
+      "publishedAt": "2026-08-29T12:31:23.000Z"
+    },
+    {
+      "id": "33005",
+      "source": "geeknews",
+      "title": "버그 소문만으로 익스플로잇이 만들어지는 시대",
+      "url": "https://news.hada.io/topic?id=33005",
+      "commentsUrl": "https://news.hada.io/topic?id=33005",
+      "author": "neo",
+      "publishedAt": "2026-08-29T07:33:08.000Z"
+    },
+    {
+      "id": "33004",
+      "source": "geeknews",
+      "title": "Show GN: RIR LAB - Codex로 구현해본 22개의 미니 아이디어",
+      "url": "https://news.hada.io/topic?id=33004",
+      "commentsUrl": "https://news.hada.io/topic?id=33004",
+      "author": "sobook",
+      "publishedAt": "2026-08-29T06:45:12.000Z"
+    },
+    {
+      "id": "33003",
+      "source": "geeknews",
+      "title": "SpaceX의 Cursor 인수 이후 OpenAI가 내린 결정",
+      "url": "https://news.hada.io/topic?id=33003",
+      "commentsUrl": "https://news.hada.io/topic?id=33003",
+      "author": "neo",
+      "publishedAt": "2026-08-29T06:31:45.000Z"
+    },
     {
       "id": "33001",
       "source": "geeknews",
@@ -217,60 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32977",
       "author": "trillionlabs",
       "publishedAt": "2026-08-28T14:16:39.000Z"
-    },
-    {
-      "id": "32975",
-      "source": "geeknews",
-      "title": "백만 마리의 카카포",
-      "url": "https://news.hada.io/topic?id=32975",
-      "commentsUrl": "https://news.hada.io/topic?id=32975",
-      "author": "neo",
-      "publishedAt": "2026-08-28T14:02:58.000Z"
-    },
-    {
-      "id": "32974",
-      "source": "geeknews",
-      "title": "Show GN: Mycelium - AI 코딩 에이전트 세션을 정리하고 재사용하는 TUI",
-      "url": "https://news.hada.io/topic?id=32974",
-      "commentsUrl": "https://news.hada.io/topic?id=32974",
-      "author": "kevinprk",
-      "publishedAt": "2026-08-28T11:13:34.000Z"
-    },
-    {
-      "id": "32972",
-      "source": "geeknews",
-      "title": "Show GN: cc-gemini-rewrite - Claude Code의 장황한 설명을 TUI 안에서 Gemini로 재작성해서 보기",
-      "url": "https://news.hada.io/topic?id=32972",
-      "commentsUrl": "https://news.hada.io/topic?id=32972",
-      "author": "esc5221",
-      "publishedAt": "2026-08-28T06:21:17.000Z"
-    },
-    {
-      "id": "32970",
-      "source": "geeknews",
-      "title": "GitHub PR에 급증한 ‘Claude 같은’ 문체 - 46만 건의 어휘 변화 분석",
-      "url": "https://news.hada.io/topic?id=32970",
-      "commentsUrl": "https://news.hada.io/topic?id=32970",
-      "author": "neo",
-      "publishedAt": "2026-08-28T02:45:02.000Z"
-    },
-    {
-      "id": "32969",
-      "source": "geeknews",
-      "title": "Google Antigravity Teamwork - 여러 AI 에이전트가 장기 연구·개발을 함께 수행하는 기능",
-      "url": "https://news.hada.io/topic?id=32969",
-      "commentsUrl": "https://news.hada.io/topic?id=32969",
-      "author": "xguru",
-      "publishedAt": "2026-08-28T01:26:00.000Z"
-    },
-    {
-      "id": "32968",
-      "source": "geeknews",
-      "title": "Route 53 Files 출시",
-      "url": "https://news.hada.io/topic?id=32968",
-      "commentsUrl": "https://news.hada.io/topic?id=32968",
-      "author": "xguru",
-      "publishedAt": "2026-08-28T01:23:38.000Z"
     }
   ]
 }

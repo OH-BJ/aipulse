@@ -1,13 +1,23 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-29T05:04:49.116Z",
+  "fetchedAt": "2026-08-29T16:00:48.363Z",
   "items": [
+    {
+      "id": "49489982",
+      "source": "hn",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "score": 217,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49489982",
+      "author": "pluc",
+      "publishedAt": "2026-08-29T14:02:10.000Z"
+    },
     {
       "id": "49486081",
       "source": "hn",
       "title": "StemDeck, a free, open-source and local AI stem separator",
       "url": "https://github.com/stemdeckapp/stemdeck",
-      "score": 50,
+      "score": 166,
       "commentsUrl": "https://news.ycombinator.com/item?id=49486081",
       "author": "thclpr",
       "publishedAt": "2026-08-29T01:24:13.000Z"
@@ -17,77 +27,57 @@
       "source": "hn",
       "title": "I accidentally turned LLM memory into program analysis",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "score": 72,
+      "score": 216,
       "commentsUrl": "https://news.ycombinator.com/item?id=49485416",
       "author": "matt_d",
       "publishedAt": "2026-08-28T23:27:45.000Z"
-    },
-    {
-      "id": "49484925",
-      "source": "hn",
-      "title": "Identifying fake cosmetics using AI",
-      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-      "score": 44,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49484925",
-      "author": "wgrover",
-      "publishedAt": "2026-08-28T22:18:27.000Z"
     },
     {
       "id": "49473522",
       "source": "hn",
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "score": 562,
+      "score": 591,
       "commentsUrl": "https://news.ycombinator.com/item?id=49473522",
       "author": "jbegley",
       "publishedAt": "2026-08-28T02:03:38.000Z"
+    },
+    {
+      "id": "49484925",
+      "source": "hn",
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "score": 58,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49484925",
+      "author": "wgrover",
+      "publishedAt": "2026-08-28T22:18:27.000Z"
     },
     {
       "id": "49475079",
       "source": "hn",
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "score": 473,
+      "score": 496,
       "commentsUrl": "https://news.ycombinator.com/item?id=49475079",
       "author": "miniBill",
       "publishedAt": "2026-08-28T06:33:57.000Z"
-    },
-    {
-      "id": "49486188",
-      "source": "hn",
-      "title": "OpenAI and Anthropic are ruining San Francisco",
-      "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49486188",
-      "author": "catchmeifyoucan",
-      "publishedAt": "2026-08-29T01:50:40.000Z"
     },
     {
       "id": "49472820",
       "source": "hn",
       "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
       "url": "https://www.terminal-bench-science.ai/announcement",
-      "score": 114,
+      "score": 115,
       "commentsUrl": "https://news.ycombinator.com/item?id=49472820",
       "author": "matt_d",
       "publishedAt": "2026-08-28T00:06:51.000Z"
-    },
-    {
-      "id": "49485447",
-      "source": "hn",
-      "title": "Anthropic Just Beat The Pentagon in Court",
-      "url": "https://www.ibtimes.com/anthropic-just-beat-pentagon-court-judge-said-national-security-was-used-punish-its-ai-rules-3806895",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49485447",
-      "author": "01-_-",
-      "publishedAt": "2026-08-28T23:31:34.000Z"
     },
     {
       "id": "49461817",
       "source": "hn",
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
-      "score": 654,
+      "score": 667,
       "commentsUrl": "https://news.ycombinator.com/item?id=49461817",
       "author": "Labo333",
       "publishedAt": "2026-08-27T08:59:49.000Z"
@@ -97,27 +87,17 @@
       "source": "hn",
       "title": "Gemini-3.5-Transcribe",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "score": 354,
+      "score": 360,
       "commentsUrl": "https://news.ycombinator.com/item?id=49468818",
       "author": "k9294",
       "publishedAt": "2026-08-27T18:03:42.000Z"
-    },
-    {
-      "id": "49483436",
-      "source": "hn",
-      "title": "Show HN: Hacker News Client with Claude Code and Codex Integration",
-      "url": "https://github.com/nilbuild/rundown",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49483436",
-      "author": "kamranahmedse",
-      "publishedAt": "2026-08-28T19:55:47.000Z"
     },
     {
       "id": "49458875",
       "source": "hn",
       "title": "Humanity has the debate about AI consciousness backwards",
       "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
-      "score": 114,
+      "score": 116,
       "commentsUrl": "https://news.ycombinator.com/item?id=49458875",
       "author": "semiquaver",
       "publishedAt": "2026-08-27T02:37:07.000Z"
@@ -127,7 +107,7 @@
       "source": "hn",
       "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
       "url": "https://aiandeducation.mit.edu/report/",
-      "score": 140,
+      "score": 141,
       "commentsUrl": "https://news.ycombinator.com/item?id=49464314",
       "author": "pbui",
       "publishedAt": "2026-08-27T13:07:45.000Z"
