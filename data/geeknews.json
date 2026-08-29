@@ -1,11 +1,74 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-08-28T21:38:17.301Z",
+  "fetchedAt": "2026-08-29T05:04:49.581Z",
   "items": [
+    {
+      "id": "33001",
+      "source": "geeknews",
+      "title": "바이브코딩으로 만든 퍼저가 FFmpeg의 0 나누기 버그를 발견",
+      "url": "https://news.hada.io/topic?id=33001",
+      "commentsUrl": "https://news.hada.io/topic?id=33001",
+      "author": "neo",
+      "publishedAt": "2026-08-29T03:32:25.000Z"
+    },
+    {
+      "id": "33000",
+      "source": "geeknews",
+      "title": "syncular - 로컬 SQLite를 서버와 동기화하는 오프라인 우선 엔진",
+      "url": "https://news.hada.io/topic?id=33000",
+      "commentsUrl": "https://news.hada.io/topic?id=33000",
+      "author": "xguru",
+      "publishedAt": "2026-08-29T00:30:02.000Z"
+    },
+    {
+      "id": "32999",
+      "source": "geeknews",
+      "title": "Yap - LLM이 코드에 남기는 ‘주석 슬롭’",
+      "url": "https://news.hada.io/topic?id=32999",
+      "commentsUrl": "https://news.hada.io/topic?id=32999",
+      "author": "neo",
+      "publishedAt": "2026-08-29T00:19:04.000Z"
+    },
+    {
+      "id": "32998",
+      "source": "geeknews",
+      "title": "EasyEffects를 모든 Linux 배포판에 포함해 노트북 스피커 음질을 개선해야 함",
+      "url": "https://news.hada.io/topic?id=32998",
+      "commentsUrl": "https://news.hada.io/topic?id=32998",
+      "author": "neo",
+      "publishedAt": "2026-08-29T00:16:04.000Z"
+    },
+    {
+      "id": "32997",
+      "source": "geeknews",
+      "title": "OpenOffice가 화요일에는 인쇄하지 못한 버그(2009)",
+      "url": "https://news.hada.io/topic?id=32997",
+      "commentsUrl": "https://news.hada.io/topic?id=32997",
+      "author": "neo",
+      "publishedAt": "2026-08-29T00:13:03.000Z"
+    },
+    {
+      "id": "32996",
+      "source": "geeknews",
+      "title": "시니어 오픈소스 메인테이너 채용: 보수 0달러의 영구 자원봉사",
+      "url": "https://news.hada.io/topic?id=32996",
+      "commentsUrl": "https://news.hada.io/topic?id=32996",
+      "author": "neo",
+      "publishedAt": "2026-08-29T00:10:03.000Z"
+    },
+    {
+      "id": "32995",
+      "source": "geeknews",
+      "title": "Nitter와 XCancel, 중단 요구서로 폐쇄",
+      "url": "https://news.hada.io/topic?id=32995",
+      "commentsUrl": "https://news.hada.io/topic?id=32995",
+      "author": "neo",
+      "publishedAt": "2026-08-29T00:07:03.000Z"
+    },
     {
       "id": "32994",
       "source": "geeknews",
-      "title": "턴 바이 턴 길 안내를 위한 인셉션 스타일 곡면 지도",
+      "title": "Orbify - 《인셉션》처럼 앞쪽 도로를 접어 보여주는 곡면 내비게이션 데모",
       "url": "https://news.hada.io/topic?id=32994",
       "commentsUrl": "https://news.hada.io/topic?id=32994",
       "author": "neo",
@@ -14,7 +77,7 @@
     {
       "id": "32993",
       "source": "geeknews",
-      "title": "htmx 4.0 출시",
+      "title": "htmx 4.0 출시 - HTML 스트리밍과 화면 갱신 강화, 암묵적 동작은 명시적으로",
       "url": "https://news.hada.io/topic?id=32993",
       "commentsUrl": "https://news.hada.io/topic?id=32993",
       "author": "neo",
@@ -68,7 +131,7 @@
     {
       "id": "32987",
       "source": "geeknews",
-      "title": "트럼프 행정부의 Anthropic 블랙리스트 지정은 불법이라는 판결",
+      "title": "미 법원, 국방부의 Anthropic 블랙리스트 지정은 불법이라고 판결",
       "url": "https://news.hada.io/topic?id=32987",
       "commentsUrl": "https://news.hada.io/topic?id=32987",
       "author": "neo",
@@ -208,69 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=32968",
       "author": "xguru",
       "publishedAt": "2026-08-28T01:23:38.000Z"
-    },
-    {
-      "id": "32967",
-      "source": "geeknews",
-      "title": "Gemini 3.5 Transcribe: 실시간·녹음 음성을 정밀하게 텍스트로 변환",
-      "url": "https://news.hada.io/topic?id=32967",
-      "commentsUrl": "https://news.hada.io/topic?id=32967",
-      "author": "xguru",
-      "publishedAt": "2026-08-28T01:20:47.000Z"
-    },
-    {
-      "id": "32966",
-      "source": "geeknews",
-      "title": "Show GN: 출퇴근길AI – 출퇴근길에 한 장씩 익히는 AI 기초 학습",
-      "url": "https://news.hada.io/topic?id=32966",
-      "commentsUrl": "https://news.hada.io/topic?id=32966",
-      "author": "rivolt2022",
-      "publishedAt": "2026-08-28T01:10:34.000Z"
-    },
-    {
-      "id": "32965",
-      "source": "geeknews",
-      "title": "superfile - 멀티 패널을 지원하는 터미널 파일 관리자",
-      "url": "https://news.hada.io/topic?id=32965",
-      "commentsUrl": "https://news.hada.io/topic?id=32965",
-      "author": "xguru",
-      "publishedAt": "2026-08-28T01:00:04.000Z"
-    },
-    {
-      "id": "32964",
-      "source": "geeknews",
-      "title": "Gemini Omni 1.1 Flash, 생성형 영상 제어와 4K 출력 강화",
-      "url": "https://news.hada.io/topic?id=32964",
-      "commentsUrl": "https://news.hada.io/topic?id=32964",
-      "author": "xguru",
-      "publishedAt": "2026-08-28T00:50:07.000Z"
-    },
-    {
-      "id": "32963",
-      "source": "geeknews",
-      "title": "소형 모델의 시대가 도래함",
-      "url": "https://news.hada.io/topic?id=32963",
-      "commentsUrl": "https://news.hada.io/topic?id=32963",
-      "author": "xguru",
-      "publishedAt": "2026-08-28T00:47:27.000Z"
-    },
-    {
-      "id": "32962",
-      "source": "geeknews",
-      "title": "Agent Behavior - AI 에이전트의 반복 행동을 문서화해 평가 기준으로 삼는 표준",
-      "url": "https://news.hada.io/topic?id=32962",
-      "commentsUrl": "https://news.hada.io/topic?id=32962",
-      "author": "xguru",
-      "publishedAt": "2026-08-28T00:30:02.000Z"
-    },
-    {
-      "id": "32961",
-      "source": "geeknews",
-      "title": "“어쩌면 나는 미쳤나 봐”: 테크 창업자와 VC가 X에 과몰입하는 이유",
-      "url": "https://news.hada.io/topic?id=32961",
-      "commentsUrl": "https://news.hada.io/topic?id=32961",
-      "author": "xguru",
-      "publishedAt": "2026-08-28T00:22:13.000Z"
     }
   ]
 }
