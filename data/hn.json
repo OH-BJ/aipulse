@@ -1,13 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-30T02:55:23.461Z",
+  "fetchedAt": "2026-08-30T15:49:59.089Z",
   "items": [
+    {
+      "id": "49498095",
+      "source": "hn",
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "score": 163,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49498095",
+      "author": "xendo",
+      "publishedAt": "2026-08-30T12:31:05.000Z"
+    },
+    {
+      "id": "49419381",
+      "source": "hn",
+      "title": "What my dad taught me about AI coding in the 90s",
+      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+      "score": 71,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49419381",
+      "author": "askmike",
+      "publishedAt": "2026-08-24T13:19:55.000Z"
+    },
+    {
+      "id": "49497357",
+      "source": "hn",
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+      "score": 50,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49497357",
+      "author": "martyvis",
+      "publishedAt": "2026-08-30T10:20:11.000Z"
+    },
+    {
+      "id": "49498201",
+      "source": "hn",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "score": 95,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49498201",
+      "author": "sparsesignal",
+      "publishedAt": "2026-08-30T12:50:54.000Z"
+    },
     {
       "id": "49491568",
       "source": "hn",
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "score": 270,
+      "score": 423,
       "commentsUrl": "https://news.ycombinator.com/item?id=49491568",
       "author": "gpi",
       "publishedAt": "2026-08-29T17:19:47.000Z"
@@ -17,80 +57,20 @@
       "source": "hn",
       "title": "StemDeck, a free, open-source and local AI stem separator",
       "url": "https://github.com/stemdeckapp/stemdeck",
-      "score": 209,
+      "score": 232,
       "commentsUrl": "https://news.ycombinator.com/item?id=49486081",
       "author": "thclpr",
       "publishedAt": "2026-08-29T01:24:13.000Z"
-    },
-    {
-      "id": "49485416",
-      "source": "hn",
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "score": 279,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49485416",
-      "author": "matt_d",
-      "publishedAt": "2026-08-28T23:27:45.000Z"
     },
     {
       "id": "49473522",
       "source": "hn",
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "score": 611,
+      "score": 625,
       "commentsUrl": "https://news.ycombinator.com/item?id=49473522",
       "author": "jbegley",
       "publishedAt": "2026-08-28T02:03:38.000Z"
-    },
-    {
-      "id": "49494744",
-      "source": "hn",
-      "title": "Anthropic's Claude for Mac desktop app now has built-in browser",
-      "url": "https://thenewstack.io/claude-built-in-browser-cowork/",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49494744",
-      "author": "thoughtpeddler",
-      "publishedAt": "2026-08-30T01:08:27.000Z"
-    },
-    {
-      "id": "49495009",
-      "source": "hn",
-      "title": "Meta Project OT plan to replace employees with AI agents",
-      "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49495009",
-      "author": "elboru",
-      "publishedAt": "2026-08-30T02:01:08.000Z"
-    },
-    {
-      "id": "49492798",
-      "source": "hn",
-      "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
-      "url": "https://zartbot.github.io/blog/arch/jalapeno/en.html",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49492798",
-      "author": "hasheddan",
-      "publishedAt": "2026-08-29T19:52:56.000Z"
-    },
-    {
-      "id": "49489982",
-      "source": "hn",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
-      "score": 474,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49489982",
-      "author": "pluc",
-      "publishedAt": "2026-08-29T14:02:10.000Z"
-    },
-    {
-      "id": "49475079",
-      "source": "hn",
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "score": 514,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49475079",
-      "author": "miniBill",
-      "publishedAt": "2026-08-28T06:33:57.000Z"
     }
   ]
 }
