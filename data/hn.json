@@ -1,23 +1,23 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-29T16:00:48.363Z",
+  "fetchedAt": "2026-08-30T02:55:23.461Z",
   "items": [
     {
-      "id": "49489982",
+      "id": "49491568",
       "source": "hn",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
-      "score": 217,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49489982",
-      "author": "pluc",
-      "publishedAt": "2026-08-29T14:02:10.000Z"
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "score": 270,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49491568",
+      "author": "gpi",
+      "publishedAt": "2026-08-29T17:19:47.000Z"
     },
     {
       "id": "49486081",
       "source": "hn",
       "title": "StemDeck, a free, open-source and local AI stem separator",
       "url": "https://github.com/stemdeckapp/stemdeck",
-      "score": 166,
+      "score": 209,
       "commentsUrl": "https://news.ycombinator.com/item?id=49486081",
       "author": "thclpr",
       "publishedAt": "2026-08-29T01:24:13.000Z"
@@ -27,7 +27,7 @@
       "source": "hn",
       "title": "I accidentally turned LLM memory into program analysis",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "score": 216,
+      "score": 279,
       "commentsUrl": "https://news.ycombinator.com/item?id=49485416",
       "author": "matt_d",
       "publishedAt": "2026-08-28T23:27:45.000Z"
@@ -37,80 +37,60 @@
       "source": "hn",
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "score": 591,
+      "score": 611,
       "commentsUrl": "https://news.ycombinator.com/item?id=49473522",
       "author": "jbegley",
       "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
-      "id": "49484925",
+      "id": "49494744",
       "source": "hn",
-      "title": "Identifying fake cosmetics using AI",
-      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-      "score": 58,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49484925",
-      "author": "wgrover",
-      "publishedAt": "2026-08-28T22:18:27.000Z"
+      "title": "Anthropic's Claude for Mac desktop app now has built-in browser",
+      "url": "https://thenewstack.io/claude-built-in-browser-cowork/",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49494744",
+      "author": "thoughtpeddler",
+      "publishedAt": "2026-08-30T01:08:27.000Z"
+    },
+    {
+      "id": "49495009",
+      "source": "hn",
+      "title": "Meta Project OT plan to replace employees with AI agents",
+      "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49495009",
+      "author": "elboru",
+      "publishedAt": "2026-08-30T02:01:08.000Z"
+    },
+    {
+      "id": "49492798",
+      "source": "hn",
+      "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
+      "url": "https://zartbot.github.io/blog/arch/jalapeno/en.html",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49492798",
+      "author": "hasheddan",
+      "publishedAt": "2026-08-29T19:52:56.000Z"
+    },
+    {
+      "id": "49489982",
+      "source": "hn",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "score": 474,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49489982",
+      "author": "pluc",
+      "publishedAt": "2026-08-29T14:02:10.000Z"
     },
     {
       "id": "49475079",
       "source": "hn",
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "score": 496,
+      "score": 514,
       "commentsUrl": "https://news.ycombinator.com/item?id=49475079",
       "author": "miniBill",
       "publishedAt": "2026-08-28T06:33:57.000Z"
-    },
-    {
-      "id": "49472820",
-      "source": "hn",
-      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "score": 115,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49472820",
-      "author": "matt_d",
-      "publishedAt": "2026-08-28T00:06:51.000Z"
-    },
-    {
-      "id": "49461817",
-      "source": "hn",
-      "title": "Show HN: The load-bearing vocabulary of Claude",
-      "url": "https://louisabraham.github.io/load-bearing/",
-      "score": 667,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49461817",
-      "author": "Labo333",
-      "publishedAt": "2026-08-27T08:59:49.000Z"
-    },
-    {
-      "id": "49468818",
-      "source": "hn",
-      "title": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "score": 360,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49468818",
-      "author": "k9294",
-      "publishedAt": "2026-08-27T18:03:42.000Z"
-    },
-    {
-      "id": "49458875",
-      "source": "hn",
-      "title": "Humanity has the debate about AI consciousness backwards",
-      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
-      "score": 116,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49458875",
-      "author": "semiquaver",
-      "publishedAt": "2026-08-27T02:37:07.000Z"
-    },
-    {
-      "id": "49464314",
-      "source": "hn",
-      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "url": "https://aiandeducation.mit.edu/report/",
-      "score": 141,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49464314",
-      "author": "pbui",
-      "publishedAt": "2026-08-27T13:07:45.000Z"
     }
   ]
 }
