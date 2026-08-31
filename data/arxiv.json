@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-08-31T02:48:28.305Z",
-  "items": []
+  "fetchedAt": "2026-08-31T18:33:53.035Z",
+  "items": [
+    {
+      "id": "2608.21523",
+      "source": "arxiv",
+      "title": "What Neural Network Field Theory Can and Cannot Realise on a Computer",
+      "url": "https://arxiv.org/abs/2608.21523",
+      "author": "Thomas R. Harvey",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "One aim of neural network field theory is to put a quantum or effective field theory on a computer, with the network ensemble itself as the theory. We ask how far that aim can be pushed for a function…"
+    },
+    {
+      "id": "2608.07248",
+      "source": "arxiv",
+      "title": "Establishing Boundary KKT Convergence of Mirror Descent through Reparameterization",
+      "url": "https://arxiv.org/abs/2608.07248",
+      "author": "Kuangyu Ding, Kim-Chuan Toh",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Sequence convergence to a boundary Karush--Kuhn--Tucker (KKT) point has long remained unclear for nonconvex mirror descent with Legendre kernels. The difficulty arises from the blow-up of the gradient…"
+    },
+    {
+      "id": "2607.17018",
+      "source": "arxiv",
+      "title": "Robust Chance-Constrained Optimization using a Continuous Parameter Space Wasserstein-2 Ambiguity Set of Gaussian Mixtures",
+      "url": "https://arxiv.org/abs/2607.17018",
+      "author": "Shibshankar Dey, Sanjay Mehrotra",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "We study distributionally robust linear chance-constrained problems in which uncertainty is modeled by a Gaussian mixture model (GMM). Finite-support distributionally robust (FDR) formulations, widely…"
+    },
+    {
+      "id": "2607.09893",
+      "source": "arxiv",
+      "title": "An End-to-End Hybrid Quantum--Classical Sampling Workflow for Discrete Markov Random Fields: A Reproducible Case Study",
+      "url": "https://arxiv.org/abs/2607.09893",
+      "author": "Arul Rhik Mazumder",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Sampling from discrete Markov random fields (MRFs) is a hard problem. We study amplitude-encoded i.i.d. sampling for small MRFs where $2^n$ target probabilities are precomputed classically. This remov…"
+    },
+    {
+      "id": "2606.19719",
+      "source": "arxiv",
+      "title": "Closing the Operational Gap in Semantic Caching",
+      "url": "https://arxiv.org/abs/2606.19719",
+      "author": "Aditeya Baral, Radoslav Ralev, Iliya Sotirov Zhechev +2",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Semantic caching cuts LLM inference costs by serving a cached response to semantically similar queries. Standard practice evaluates these systems using PR-AUC, a metric that only measures how well sco…"
+    },
+    {
+      "id": "2605.24651",
+      "source": "arxiv",
+      "title": "WINO: A Weak-Form Physics Informed Neural Operator for Hyperelasticity on Variable Domains",
+      "url": "https://arxiv.org/abs/2605.24651",
+      "author": "Bokai Zhu, Yizheng Wang, Qinghui Zhang +1",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "We propose a Weak-form Physics-Informed Neural Operator (WINO), a data-free framework that combines the efficiency of neural operators with the geometric flexibility of the $\\varphi$-finite element me…"
+    },
+    {
+      "id": "2605.12340",
+      "source": "arxiv",
+      "title": "Online Learning-to-Defer with Varying Experts",
+      "url": "https://arxiv.org/abs/2605.12340",
+      "author": "Dang Hoang Duy, Yannis Montreuil, Maxime Meyer +3",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Learning-to-Defer (L2D) methods route each query either to a predictive model or to external experts. Real-world deployments require handling streaming data, changing expert availability, shifting exp…"
+    },
+    {
+      "id": "2604.26281",
+      "source": "arxiv",
+      "title": "DiffAnon: Diffusion-based Prosody Control for Voice Anonymization",
+      "url": "https://arxiv.org/abs/2604.26281",
+      "author": "Ismail Rasim Ulgen, Zexin Cai, Nicholas Andrews +2",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "To preserve or not to preserve prosody is a central question in voice anonymization. Prosody conveys meaning and affect, yet is tightly coupled with speaker identity. Existing methods either discard p…"
+    },
+    {
+      "id": "2603.27936",
+      "source": "arxiv",
+      "title": "Deflation-PINNs: Learning Multiple Solutions for PDEs and Landau-de Gennes",
+      "url": "https://arxiv.org/abs/2603.27936",
+      "author": "Sean Disar\\`o, Ruma Rani Maity, Aras Bacho",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Nonlinear Partial Differential Equations (PDEs) are ubiquitous in mathematical physics and engineering. Although Physics-Informed Neural Networks (PINNs) have emerged as a powerful tool for solving PD…"
+    },
+    {
+      "id": "2603.12031",
+      "source": "arxiv",
+      "title": "Agentic-Kube: A Graph-Enhanced Multi-Agent Reinforcement Learning Framework for Multi-Objective Kubernetes Scheduling",
+      "url": "https://arxiv.org/abs/2603.12031",
+      "author": "Hamed Hamzeh",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Cloud-native container orchestration requires resource schedulers capable of balancing infrastructure expenditure, fault resilience, and node utilisation. Conventional reinforcement learning approache…"
+    },
+    {
+      "id": "2602.22056",
+      "source": "arxiv",
+      "title": "FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2602.22056",
+      "author": "Edgar Welte, Yitian Shi, Rosa Wolf +2",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Generative manipulation policies can fail catastrophically under deployment-time distribution shift, yet many failures are near-misses: the robot reaches almost-correct poses and would succeed with a…"
+    },
+    {
+      "id": "2602.17654",
+      "source": "arxiv",
+      "title": "Mine and Refine: Optimizing Graded Relevance in E-commerce Semantic Search Retrieval",
+      "url": "https://arxiv.org/abs/2602.17654",
+      "author": "Jiaqi Xi, Raghav Saboo, Luming Chen +8",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Embedding-based retrieval (EBR) for large-scale e-commerce search faces three intertwined challenges: graded (non-binary) relevance where engagement signals are noisy and intent-varying while business…"
+    },
+    {
+      "id": "2602.10696",
+      "source": "arxiv",
+      "title": "Robust Assortment Optimization from Observational Data",
+      "url": "https://arxiv.org/abs/2602.10696",
+      "author": "Miao Lu, Yuxuan Han, Han Zhong +2",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Assortment optimization is a fundamental challenge in modern retail and recommendation systems, where the goal is to select a subset of products that maximizes expected revenue under complex customer…"
+    },
+    {
+      "id": "2602.02972",
+      "source": "arxiv",
+      "title": "Learning Fast Monomial Orders for Gr\\\"obner Basis Computations",
+      "url": "https://arxiv.org/abs/2602.02972",
+      "author": "R. Caleb Bunch, Alperen A. Erg\\\"ur, Melika Golestani +3",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "The efficiency of Gr\\\"obner basis computation, the standard engine for solving systems of polynomial equations, depends on the choice of monomial ordering. Despite a near-continuum of possible monomia…"
+    },
+    {
+      "id": "2511.17721",
+      "source": "arxiv",
+      "title": "Prequential posteriors",
+      "url": "https://arxiv.org/abs/2511.17721",
+      "author": "Shreya Sinha-Roy, Richard G. Everitt, Christian P. Robert +1",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Data assimilation is a fundamental task in updating forecasting models upon observing new data, with applications ranging from weather prediction to online reinforcement learning. Deep generative fore…"
+    },
+    {
+      "id": "2511.07011",
+      "source": "arxiv",
+      "title": "Multilingual Lexical Feature Analysis of Spoken Language for Predicting Major Depression Symptom Severity",
+      "url": "https://arxiv.org/abs/2511.07011",
+      "author": "Anastasiia Tokareva, Judith Dineley, Zoe Firth +19",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Background: Remotely captured spoken language could provide objective, regular indicators of depression symptom severity. However, research to date has largely used non-clinical, cross-sectional writt…"
+    },
+    {
+      "id": "2510.09260",
+      "source": "arxiv",
+      "title": "GREAT: Generalizable Backdoor Attacks in RLHF via Emotion-Aware Trigger Synthesis",
+      "url": "https://arxiv.org/abs/2510.09260",
+      "author": "Subrat Kishore Dutta, Yuelin Xu, Piyush Pant +1",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Recent work has shown that RLHF is highly susceptible to backdoor attacks. However, existing methods often rely on rare tokens or fixed triggers, limiting their impact in realistic scenarios. In this…"
+    },
+    {
+      "id": "2509.20191",
+      "source": "arxiv",
+      "title": "Examining the robustness of Physics-Informed Neural Networks to noise for Inverse Problems",
+      "url": "https://arxiv.org/abs/2509.20191",
+      "author": "Aleksandra Jekic, Afroditi Natsaridou, Signe Riemer-S{\\o}rensen +2",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Approximating solutions to partial differential equations (PDEs) is fundamental for the modeling of dynamical systems in science and engineering. Physics-informed neural networks (PINNs) are a recent…"
+    },
+    {
+      "id": "2509.19710",
+      "source": "arxiv",
+      "title": "Probabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests",
+      "url": "https://arxiv.org/abs/2509.19710",
+      "author": "Somjit Roy, Pritam Dey, Bani K. Mallick +1",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Symbolic regression has emerged as a powerful tool for artificial intelligence-driven scientific discovery by learning interpretable analytical expressions that reveal governing relationships directly…"
+    },
+    {
+      "id": "2507.07130",
+      "source": "arxiv",
+      "title": "Ampere: Communication-Efficient and High-Accuracy Split Federated Learning",
+      "url": "https://arxiv.org/abs/2507.07130",
+      "author": "Zihan Zhang, Leon Wong, Blesson Varghese",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "A Federated Learning (FL) system collaboratively trains neural networks across devices and a server but is limited by significant on-device computation costs. Split Federated Learning (SFL) systems mi…"
+    },
+    {
+      "id": "2411.10997",
+      "source": "arxiv",
+      "title": "Off the Normal Path: Learning Spatial Density Models of Node Mobility",
+      "url": "https://arxiv.org/abs/2411.10997",
+      "author": "Wanxin Gao, Ioanis Nikolaidis, Janelle Harms",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "We consider the problem of learning models of spatial density functions, representing the steady-state density of mobile nodes moving on a two-dimensional terrain. Deriving such models can assist in n…"
+    },
+    {
+      "id": "2410.00046",
+      "source": "arxiv",
+      "title": "Mixture of Multicenter Experts in Multimodal AI for Debiased Radiotherapy Target Delineation",
+      "url": "https://arxiv.org/abs/2410.00046",
+      "author": "Yujin Oh, Sangjoon Park, Xiang Li +21",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Clinical decision-making reflects diverse strategies shaped by regional patient populations and institutional protocols. However, most existing medical artificial intelligence (AI) models are trained…"
+    },
+    {
+      "id": "2407.04291",
+      "source": "arxiv",
+      "title": "Rethinking Speaker Embeddings for Speech Generation: Sub-Center Modeling for Capturing Intra-Speaker Diversity",
+      "url": "https://arxiv.org/abs/2407.04291",
+      "author": "Ismail Rasim Ulgen, John H. L. Hansen, Carlos Busso +1",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Modeling speech variation is key to natural, expressive generation. Speaker embeddings are commonly used to condition personalized speech systems, but they are typically trained for speaker recognitio…"
+    },
+    {
+      "id": "2608.27351",
+      "source": "arxiv",
+      "title": "Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO",
+      "url": "https://arxiv.org/abs/2608.27351",
+      "author": "Yunpeng Ba, Zhi Zheng, Yue Xie +7",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Evolution Strategies (ES) have recently emerged as a memory-efficient post-training paradigm for LLM reasoning. However, the optimization behavior of ES remains understudied, making it hard to define…"
+    },
+    {
+      "id": "2608.27205",
+      "source": "arxiv",
+      "title": "Accurate prediction is not profitable advice: profit-based evaluation of machine learning nitrogen recommendations in winter wheat",
+      "url": "https://arxiv.org/abs/2608.27205",
+      "author": "Xulong Wang, Po Yang",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Nitrogen rates for winter wheat are set before the season, under unknown prices and weather. The standard UK advice does not respond to prices, yet recent price swings moved the most profitable rate b…"
+    },
+    {
+      "id": "2608.26729",
+      "source": "arxiv",
+      "title": "Neural Regression with Embeddings for Numerical Attribute Prediction in Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2608.26729",
+      "author": "Rupesh Sapkota, Louis Mozart Kamdem Teyou, Moshood Yekini +2",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "In recent years, transductive knowledge graph embedding models have been applied to tasks such as link prediction and query answering. Although knowledge graphs often contain rich numerical attributes…"
+    },
+    {
+      "id": "2608.25230",
+      "source": "arxiv",
+      "title": "Trust the Mass: Forced Weights in KV-Cache Eviction",
+      "url": "https://arxiv.org/abs/2608.25230",
+      "author": "Jack Shi, Jerry Gu",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Every deployed sparse-attention or KV-cache-eviction rule keeps a subset of the keys, discards the rest, and renormalizes the attention weights over the kept set. Enumerating the exact best subset und…"
+    },
+    {
+      "id": "2608.24044",
+      "source": "arxiv",
+      "title": "JEPA-x: Cross-Predictive Physics Grounding for Forecastable Latent Dynamics",
+      "url": "https://arxiv.org/abs/2608.24044",
+      "author": "Kehan Wen, Ziming Li, Siyuan Luo +1",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Latent world models plan by predicting how candidate actions advance learned latent dynamics. In self-predictive models, however, the encoder and predictor are optimized jointly and can co-adapt to la…"
+    },
+    {
+      "id": "2608.22849",
+      "source": "arxiv",
+      "title": "RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling",
+      "url": "https://arxiv.org/abs/2608.22849",
+      "author": "Ziyuan Wang, Bohao Tang, Fei Zhang +2",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Full-length RNAs, particularly messenger RNAs, often exceed the context lengths used to pretrain existing RNA foundation models, limiting complete-transcript modeling at single-nucleotide resolution.…"
+    },
+    {
+      "id": "2608.21756",
+      "source": "arxiv",
+      "title": "How Architecture and Training Affect TPC Representations Across Experiments",
+      "url": "https://arxiv.org/abs/2608.21756",
+      "author": "Tyler Wheeler, Michelle P. Kuchera, Raghuram Ramanujan +12",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "Deep-learning efforts have increasingly shifted toward foundation model approaches. In experimental physics, this allows models and learned representations to be reused beyond the experiments in which…"
+    }
+  ]
 }
