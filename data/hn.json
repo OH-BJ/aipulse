@@ -1,73 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-30T15:49:59.089Z",
+  "fetchedAt": "2026-08-31T02:48:28.579Z",
   "items": [
-    {
-      "id": "49498095",
-      "source": "hn",
-      "title": "No AI Fridays",
-      "url": "https://noaifridays.com/",
-      "score": 163,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49498095",
-      "author": "xendo",
-      "publishedAt": "2026-08-30T12:31:05.000Z"
-    },
     {
       "id": "49419381",
       "source": "hn",
       "title": "What my dad taught me about AI coding in the 90s",
       "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
-      "score": 71,
+      "score": 135,
       "commentsUrl": "https://news.ycombinator.com/item?id=49419381",
       "author": "askmike",
       "publishedAt": "2026-08-24T13:19:55.000Z"
-    },
-    {
-      "id": "49497357",
-      "source": "hn",
-      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-      "score": 50,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49497357",
-      "author": "martyvis",
-      "publishedAt": "2026-08-30T10:20:11.000Z"
     },
     {
       "id": "49498201",
       "source": "hn",
       "title": "Claude Session URL appended to commit messages and PR descriptions by default",
       "url": "https://github.com/anthropics/claude-code/issues/66504",
-      "score": 95,
+      "score": 187,
       "commentsUrl": "https://news.ycombinator.com/item?id=49498201",
       "author": "sparsesignal",
       "publishedAt": "2026-08-30T12:50:54.000Z"
+    },
+    {
+      "id": "49497334",
+      "source": "hn",
+      "title": "What We Tell AI",
+      "url": "https://www.whatwetellai.com/",
+      "score": 35,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49497334",
+      "author": "thm",
+      "publishedAt": "2026-08-30T10:16:14.000Z"
     },
     {
       "id": "49491568",
       "source": "hn",
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "score": 423,
+      "score": 448,
       "commentsUrl": "https://news.ycombinator.com/item?id=49491568",
       "author": "gpi",
       "publishedAt": "2026-08-29T17:19:47.000Z"
-    },
-    {
-      "id": "49486081",
-      "source": "hn",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "score": 232,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49486081",
-      "author": "thclpr",
-      "publishedAt": "2026-08-29T01:24:13.000Z"
     },
     {
       "id": "49473522",
       "source": "hn",
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "score": 625,
+      "score": 629,
       "commentsUrl": "https://news.ycombinator.com/item?id=49473522",
       "author": "jbegley",
       "publishedAt": "2026-08-28T02:03:38.000Z"
