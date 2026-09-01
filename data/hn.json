@@ -1,43 +1,13 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-08-31T18:33:53.112Z",
+  "fetchedAt": "2026-09-01T02:58:21.804Z",
   "items": [
-    {
-      "id": "49512856",
-      "source": "hn",
-      "title": "The safest job from AI may be writing",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49512856",
-      "author": "ilreb",
-      "publishedAt": "2026-08-31T18:12:20.000Z"
-    },
-    {
-      "id": "49512895",
-      "source": "hn",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/workweave",
-      "score": 1,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49512895",
-      "author": "adchurch",
-      "publishedAt": "2026-08-31T18:15:26.000Z"
-    },
-    {
-      "id": "49511007",
-      "source": "hn",
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "url": "https://usealmanac.com/",
-      "score": 23,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49511007",
-      "author": "kushagrchitkar",
-      "publishedAt": "2026-08-31T15:34:34.000Z"
-    },
     {
       "id": "49508982",
       "source": "hn",
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "score": 97,
+      "score": 310,
       "commentsUrl": "https://news.ycombinator.com/item?id=49508982",
       "author": "thm",
       "publishedAt": "2026-08-31T12:41:22.000Z"
@@ -47,70 +17,80 @@
       "source": "hn",
       "title": "Smartphone LED detects hidden cameras with AI",
       "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "score": 14,
+      "score": 153,
       "commentsUrl": "https://news.ycombinator.com/item?id=49496292",
       "author": "geox",
       "publishedAt": "2026-08-30T06:52:04.000Z"
+    },
+    {
+      "id": "49511007",
+      "source": "hn",
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "url": "https://usealmanac.com/",
+      "score": 50,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49511007",
+      "author": "kushagrchitkar",
+      "publishedAt": "2026-08-31T15:34:34.000Z"
+    },
+    {
+      "id": "49424322",
+      "source": "hn",
+      "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
+      "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
+      "score": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49424322",
+      "author": "zdw",
+      "publishedAt": "2026-08-24T18:58:19.000Z"
+    },
+    {
+      "id": "49512856",
+      "source": "hn",
+      "title": "The safest job from AI may be writing",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "score": 114,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49512856",
+      "author": "ilreb",
+      "publishedAt": "2026-08-31T18:12:20.000Z"
     },
     {
       "id": "49506819",
       "source": "hn",
       "title": "Breaking Claude Code Opus 5 Auto Mode",
       "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "score": 301,
+      "score": 349,
       "commentsUrl": "https://news.ycombinator.com/item?id=49506819",
       "author": "Recursing",
       "publishedAt": "2026-08-31T07:49:18.000Z"
     },
     {
-      "id": "49512228",
+      "id": "49516354",
       "source": "hn",
-      "title": "How much of a problem is AI's water use?",
-      "url": "https://knowablemagazine.org/content/article/technology/2026/how-much-water-do-ai-data-centers-use",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49512228",
-      "author": "knowablemag",
-      "publishedAt": "2026-08-31T17:16:52.000Z"
+      "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49516354",
+      "author": "sbulaev",
+      "publishedAt": "2026-09-01T00:07:08.000Z"
     },
     {
-      "id": "49511824",
+      "id": "49510547",
       "source": "hn",
-      "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
-      "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49511824",
-      "author": "prabal97",
-      "publishedAt": "2026-08-31T16:44:15.000Z"
+      "title": "Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude",
+      "url": "https://fellowgeek.github.io/mcp-speak/",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49510547",
+      "author": "pcbmaker20",
+      "publishedAt": "2026-08-31T14:55:08.000Z"
     },
     {
       "id": "49509312",
       "source": "hn",
       "title": "A milestone in expanding access to AI",
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
-      "score": 6,
+      "score": 12,
       "commentsUrl": "https://news.ycombinator.com/item?id=49509312",
       "author": "tosh",
       "publishedAt": "2026-08-31T13:07:48.000Z"
-    },
-    {
-      "id": "49511912",
-      "source": "hn",
-      "title": "Anthropic legal fight with Pentagon shows shifting politics of AI",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-31/anthropic-legal-fight-with-pentagon-shows-shifting-politics-of-ai",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49511912",
-      "author": "rndsignals",
-      "publishedAt": "2026-08-31T16:52:24.000Z"
-    },
-    {
-      "id": "49510302",
-      "source": "hn",
-      "title": "Marx, Keynes, and AI",
-      "url": "https://www.unpopularfront.news/p/marx-keynes-and-ai",
-      "score": 50,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49510302",
-      "author": "speckx",
-      "publishedAt": "2026-08-31T14:36:03.000Z"
     }
   ]
 }
