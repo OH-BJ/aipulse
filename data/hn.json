@@ -1,156 +1,196 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-02T02:18:48.975Z",
+  "fetchedAt": "2026-09-02T15:45:29.588Z",
   "items": [
+    {
+      "id": "49537553",
+      "source": "hn",
+      "title": "Gemini 3.8 Flash",
+      "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+      "score": 62,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49537553",
+      "author": "bratao",
+      "publishedAt": "2026-09-02T15:12:40.000Z"
+    },
+    {
+      "id": "49535284",
+      "source": "hn",
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "score": 135,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49535284",
+      "author": "teekert",
+      "publishedAt": "2026-09-02T12:30:39.000Z"
+    },
+    {
+      "id": "49536375",
+      "source": "hn",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "score": 113,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49536375",
+      "author": "jakobgreenfeld",
+      "publishedAt": "2026-09-02T13:59:59.000Z"
+    },
+    {
+      "id": "49536411",
+      "source": "hn",
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49536411",
+      "author": "saikatsg",
+      "publishedAt": "2026-09-02T14:02:35.000Z"
+    },
+    {
+      "id": "49536114",
+      "source": "hn",
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "score": 72,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49536114",
+      "author": "goobreee",
+      "publishedAt": "2026-09-02T13:43:14.000Z"
+    },
+    {
+      "id": "49535201",
+      "source": "hn",
+      "title": "Check if a file was made with Claude",
+      "url": "https://claude.com/check-content",
+      "score": 58,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49535201",
+      "author": "frexs",
+      "publishedAt": "2026-09-02T12:23:20.000Z"
+    },
+    {
+      "id": "49534132",
+      "source": "hn",
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "score": 104,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49534132",
+      "author": "amunozo",
+      "publishedAt": "2026-09-02T10:02:41.000Z"
+    },
     {
       "id": "49525378",
       "source": "hn",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "score": 957,
+      "score": 1346,
       "commentsUrl": "https://news.ycombinator.com/item?id=49525378",
       "author": "denysvitali",
       "publishedAt": "2026-09-01T17:53:53.000Z"
     },
     {
-      "id": "49526069",
+      "id": "49508225",
       "source": "hn",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "score": 439,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49526069",
-      "author": "jatins",
-      "publishedAt": "2026-09-01T18:35:15.000Z"
-    },
-    {
-      "id": "49529898",
-      "source": "hn",
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "score": 45,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49529898",
-      "author": "philipkiely",
-      "publishedAt": "2026-09-01T23:48:05.000Z"
+      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "score": 125,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49508225",
+      "author": "joozio",
+      "publishedAt": "2026-08-31T11:01:19.000Z"
     },
     {
       "id": "49528895",
       "source": "hn",
       "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
       "url": "https://masteranza.github.io/weedout/",
-      "score": 60,
+      "score": 168,
       "commentsUrl": "https://news.ycombinator.com/item?id=49528895",
       "author": "masteranza",
       "publishedAt": "2026-09-01T22:06:57.000Z"
+    },
+    {
+      "id": "49529898",
+      "source": "hn",
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "score": 144,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49529898",
+      "author": "philipkiely",
+      "publishedAt": "2026-09-01T23:48:05.000Z"
+    },
+    {
+      "id": "49526069",
+      "source": "hn",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "score": 814,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49526069",
+      "author": "jatins",
+      "publishedAt": "2026-09-01T18:35:15.000Z"
+    },
+    {
+      "id": "49535163",
+      "source": "hn",
+      "title": "Show HN: Windrunner – AI-powered project collaboration workspace",
+      "url": "https://shzlw.github.io/windrunner/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49535163",
+      "author": "yuegui",
+      "publishedAt": "2026-09-02T12:19:55.000Z"
+    },
+    {
+      "id": "49535029",
+      "source": "hn",
+      "title": "Bassfinity for iOS – AI guide built on solunar data, weather, and bathymetry",
+      "url": "https://www.bassfinity.com/blog/bassfinity-for-ios-the-whole-lake-in-your-pocket",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49535029",
+      "author": "jequals5",
+      "publishedAt": "2026-09-02T12:05:48.000Z"
+    },
+    {
+      "id": "49534487",
+      "source": "hn",
+      "title": "VibeGuard – security linter for AI-generated code",
+      "url": "https://github.com/zeroFhacker/vibeguard",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49534487",
+      "author": "obadafid",
+      "publishedAt": "2026-09-02T10:53:53.000Z"
     },
     {
       "id": "49529329",
       "source": "hn",
       "title": "AI Coding Agent Skills for Real Engineers",
       "url": "https://github.com/mattpocock/skills",
-      "score": 10,
+      "score": 38,
       "commentsUrl": "https://news.ycombinator.com/item?id=49529329",
       "author": "gurjeet",
       "publishedAt": "2026-09-01T22:48:47.000Z"
     },
     {
-      "id": "49528663",
+      "id": "49533132",
       "source": "hn",
-      "title": "AI is making back-office work extinct",
-      "url": "https://www.whitecollardream.com/",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49528663",
-      "author": "edest28build",
-      "publishedAt": "2026-09-01T21:43:31.000Z"
+      "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
+      "url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49533132",
+      "author": "billybuckwheat",
+      "publishedAt": "2026-09-02T07:50:46.000Z"
     },
     {
       "id": "49518316",
       "source": "hn",
       "title": "AI Can Make You Suck Faster Too",
       "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "score": 149,
+      "score": 181,
       "commentsUrl": "https://news.ycombinator.com/item?id=49518316",
       "author": "degamad",
       "publishedAt": "2026-09-01T05:32:56.000Z"
-    },
-    {
-      "id": "49523720",
-      "source": "hn",
-      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-      "score": 203,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49523720",
-      "author": "Limb",
-      "publishedAt": "2026-09-01T15:53:42.000Z"
     },
     {
       "id": "49527573",
       "source": "hn",
       "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
       "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-      "score": 175,
+      "score": 230,
       "commentsUrl": "https://news.ycombinator.com/item?id=49527573",
       "author": "colinprince",
       "publishedAt": "2026-09-01T20:19:11.000Z"
-    },
-    {
-      "id": "49527051",
-      "source": "hn",
-      "title": "DeepSeek-V3: From Roofline to Reality",
-      "url": "https://deepseek-v3.ezyang.com/index.html",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49527051",
-      "author": "wavelander",
-      "publishedAt": "2026-09-01T19:42:14.000Z"
-    },
-    {
-      "id": "49496292",
-      "source": "hn",
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "score": 272,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49496292",
-      "author": "geox",
-      "publishedAt": "2026-08-30T06:52:04.000Z"
-    },
-    {
-      "id": "49506819",
-      "source": "hn",
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "score": 394,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49506819",
-      "author": "Recursing",
-      "publishedAt": "2026-08-31T07:49:18.000Z"
-    },
-    {
-      "id": "49526848",
-      "source": "hn",
-      "title": "Show HN: Claude and ChatGPT need a datacenter. This runs on my phone",
-      "url": "https://llmobi.pages.dev",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49526848",
-      "author": "12ziyad",
-      "publishedAt": "2026-09-01T19:28:47.000Z"
-    },
-    {
-      "id": "49508982",
-      "source": "hn",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "score": 491,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49508982",
-      "author": "thm",
-      "publishedAt": "2026-08-31T12:41:22.000Z"
-    },
-    {
-      "id": "49511007",
-      "source": "hn",
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "url": "https://usealmanac.com/",
-      "score": 57,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49511007",
-      "author": "kushagrchitkar",
-      "publishedAt": "2026-08-31T15:34:34.000Z"
     }
   ]
 }
