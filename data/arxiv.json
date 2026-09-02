@@ -1,6 +1,6 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-09-01T15:52:50.170Z",
+  "fetchedAt": "2026-09-02T02:18:48.312Z",
   "items": [
     {
       "id": "2608.27578",
@@ -10,15 +10,6 @@
       "author": "Nathaniel Chen, Kouroche Bouchiat, Peter Steiner +3",
       "publishedAt": "2026-09-01T04:00:00.000Z",
       "summary": "Training effective foundation models requires massive and organized datasets, yet scientific domains such as nuclear fusion present unique challenges due to largely heterogeneous and sparse data. Here…"
-    },
-    {
-      "id": "2608.25100",
-      "source": "arxiv",
-      "title": "Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2608.25100",
-      "author": "Xuzhong Wang, Maiqi Jiang, Tejal Nair +3",
-      "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Large Language Models (LLMs) are powerful but limited by static parametric knowledge that becomes outdated once pretraining ends. Knowledge editing addresses this problem by updating model behavior on…"
     },
     {
       "id": "2608.24894",
@@ -39,15 +30,6 @@
       "summary": "Satellite-based distributed learning promises to train machine-learning models directly in orbit using massive, globally dispersed sensor data, thereby avoiding large-scale data downloads to ground se…"
     },
     {
-      "id": "2608.23803",
-      "source": "arxiv",
-      "title": "LUCAID: Agentic Multimodal AI for Lung Cancer Precision Pathology",
-      "url": "https://arxiv.org/abs/2608.23803",
-      "author": "Marie-Lisa Eich, Kai Standvoss, Timo Milbich +30",
-      "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Lung cancer tissue diagnostics is complex, as therapy decisions in precision oncology rely on the integration of histomorphological, immunohistochemical, and molecular features. Yet pathological asses…"
-    },
-    {
       "id": "2608.22479",
       "source": "arxiv",
       "title": "GTA-RAG: Graph-Trajectory-Augmented Reinforcement Learning for Multi-Turn Retrieval-Augmented Reasoning",
@@ -55,15 +37,6 @@
       "author": "Jun Chen, Yongchao Liu, Pengyu Qiu +6",
       "publishedAt": "2026-09-01T04:00:00.000Z",
       "summary": "Retrieval-augmented generation (RAG) enables LLMs to access external knowledge for answering knowledge-intensive questions. For complex multi-hop questions, multi-turn retrieval-augmented reasoning ex…"
-    },
-    {
-      "id": "2608.22067",
-      "source": "arxiv",
-      "title": "DELE-w0.5: Inferring Action from Future Latent State for Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2608.22067",
-      "author": "Fenghao Lei, Zhixiong Huang, Long Yang +5",
-      "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "World-Action Models (WAMs) build robot control on video-generation backbones, which jointly predict dense future visual trajectories and robot actions. We argue that video generation is an unnecessary…"
     },
     {
       "id": "2608.18279",
@@ -120,42 +93,6 @@
       "summary": "The Discrete Fourier Transform (DFT), the Discrete Cosine Transform (DCT), and their block-wise variants underpin most deployed image and video codecs. Their effectiveness rests on three properties: t…"
     },
     {
-      "id": "2607.28628",
-      "source": "arxiv",
-      "title": "Learning to Trace Seiberg Dualities",
-      "url": "https://arxiv.org/abs/2607.28628",
-      "author": "Jonathan J. Heckman, Shani Meynet, Alessandro Mininno +1",
-      "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ…"
-    },
-    {
-      "id": "2607.23602",
-      "source": "arxiv",
-      "title": "Action from Adjacent Set in Physical Space Outperforms the Best Prediction in World Models",
-      "url": "https://arxiv.org/abs/2607.23602",
-      "author": "Liangyu Li, Qingwen Liu, Mingqing Liu +1",
-      "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Controllers based on sampling and latent world models assign a predicted terminal cost to each candidate action sequence, choose the minimum, execute its first action block, and replan. This rule can…"
-    },
-    {
-      "id": "2607.18084",
-      "source": "arxiv",
-      "title": "WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting",
-      "url": "https://arxiv.org/abs/2607.18084",
-      "author": "Zhaokai Wang, Tianlin Gui, Jiayuan Rao +3",
-      "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Predicting a football match before kickoff requires more than knowing past results: a model must use changing information and make a clear prediction before the answer is available. We present WorldCu…"
-    },
-    {
-      "id": "2607.17486",
-      "source": "arxiv",
-      "title": "SALT: Salience-Aware Lexical Trie for Long-Context Compression",
-      "url": "https://arxiv.org/abs/2607.17486",
-      "author": "Oteo Mamo, Hyunjin Yi, Joydhriti Choudhury +2",
-      "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "As large language models (LLMs) process increasingly longer prompts, computation and KV-cache memory costs have emerged as major bottlenecks in inference systems. Existing input-level prompt compressi…"
-    },
-    {
       "id": "2607.16676",
       "source": "arxiv",
       "title": "The Value of Depth in Message Passing on Sparse Graphs: A Kesten-Stigum Dichotomy",
@@ -192,24 +129,6 @@
       "summary": "Learning-based separation assurance for small Unmanned Aircraft Systems (sUAS) achieves near-zero collision rates in simulation, but assumes accurate position and velocity information from Global Navi…"
     },
     {
-      "id": "2607.02368",
-      "source": "arxiv",
-      "title": "Cultural Bias Without a Cultural Self:A Disassociation Study of LLM's Persona and Bias",
-      "url": "https://arxiv.org/abs/2607.02368",
-      "author": "Yuan Yuan",
-      "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Language models prompted with cultural personas increasingly stand in for human respondents in cross-cultural research. Their responses separate personas cleanly, and that separation is read as eviden…"
-    },
-    {
-      "id": "2606.29403",
-      "source": "arxiv",
-      "title": "Self-Organized Conformal Prediction: Reducing Regional Coverage Gaps with Unsupervised Group Discovery",
-      "url": "https://arxiv.org/abs/2606.29403",
-      "author": "Louis Berthier, Ahmed Shokry, Maxime Moreaud +2",
-      "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Conformal prediction guarantees marginal coverage, but a pooled calibration quantile can hide systematic undercoverage across heterogeneous regions of the feature space. We introduce Self-Organized Co…"
-    },
-    {
       "id": "2606.28712",
       "source": "arxiv",
       "title": "J-LAW: Joint Localization and Action-Conditioned World Modeling via Coupled Latent Factor Graphs",
@@ -217,15 +136,6 @@
       "author": "Guanqun Cao, Liang Chen",
       "publishedAt": "2026-09-01T04:00:00.000Z",
       "summary": "Classical simultaneous localization and mapping (SLAM) estimates metric poses and a geometric map but does not provide an action-conditioned predictive state. Action-conditioned world models learn com…"
-    },
-    {
-      "id": "2606.28057",
-      "source": "arxiv",
-      "title": "MultiHashFormer: Hash-based Generative Language Models",
-      "url": "https://arxiv.org/abs/2606.28057",
-      "author": "Huiyin Xue, Atsuki Yamaguchi, Nikolaos Aletras",
-      "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Language models (LMs) represent tokens using embedding matrices that scale linearly with the vocabulary size. To constrain the parameter footprint, prior work proposes hashing many tokens into a singl…"
     },
     {
       "id": "2606.26636",
@@ -237,40 +147,130 @@
       "summary": "Event cameras asynchronously report brightness changes with microsecond-level temporal resolution, but real event data remain difficult to collect at scale because specialized sensors, careful synchro…"
     },
     {
-      "id": "2606.20624",
+      "id": "2606.01294",
       "source": "arxiv",
-      "title": "In LLM Reasoning, there is Irrationality on top of Value Misalignment",
-      "url": "https://arxiv.org/abs/2606.20624",
-      "author": "Kejiang Qian, Fengxiang He",
+      "title": "Don't Read Everything: A Curvature-Conditioned Query for Linear Attention",
+      "url": "https://arxiv.org/abs/2606.01294",
+      "author": "Dong Le, Thong Nguyen, Cong-Duy Nguyen +1",
       "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Significant progress has been made in aligning LLMs with target value functions. We argue that, even when an LLM has been well aligned in (post-)training, it may still fail to maximise the aligned val…"
+      "summary": "Linear attention reduces the quadratic cost of softmax attention by maintaining a recurrent fast-weight state, but it consistently lags on in-context retrieval and long-context tasks. Existing remedie…"
     },
     {
-      "id": "2606.20621",
+      "id": "2605.30123",
       "source": "arxiv",
-      "title": "PEAR: Permutation-Equivariant Adaptive Routing Multi-Agent Debate",
-      "url": "https://arxiv.org/abs/2606.20621",
-      "author": "Yang Feng, Ziwei Xu, Xia Hu +1",
+      "title": "Privacy-Enhanced Zero-Order Federated Learning via xMK-CKKS over Wireless Channels",
+      "url": "https://arxiv.org/abs/2605.30123",
+      "author": "Anthony Ayli, Khalil Harris, Jihad Fahs +1",
       "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Multi-agent debate improves the reliability of large language models (LLMs) through iterative peer critiques. However, fixed topologies often introduce persistent positional biases, amplify unreliable…"
+      "summary": "Homomorphic encryption (HE) enables privacy-preserving aggregation in federated learning (FL) by allowing the server to operate on encrypted data without decryption. Existing HE-over-the-air (OTA) met…"
     },
     {
-      "id": "2606.12683",
+      "id": "2605.25903",
       "source": "arxiv",
-      "title": "From AGI to ASI",
-      "url": "https://arxiv.org/abs/2606.12683",
-      "author": "Tim Genewein, Matija Franklin, Alexander Lerchner +11",
+      "title": "Universal Activation Verbalizer: A Unified Framework for Cross-Model Activation Explanation",
+      "url": "https://arxiv.org/abs/2605.25903",
+      "author": "Haiyan Zhao, Zirui He, Guanchu Wang +3",
       "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Over the last decade, building human-level artificial general intelligence has moved from far-fetched speculation to being a concrete next-decade target for many of the largest AI organisations. Achie…"
+      "summary": "Activation verbalization explains hidden representations in natural language, but existing methods are mostly limited to self-explanation, where each model explains only its own activations. We introd…"
     },
     {
-      "id": "2606.08051",
+      "id": "2605.24818",
       "source": "arxiv",
-      "title": "How Small Can You Go? LoRA Fine-Tuning 270M-8B Models for Merchant Information Extraction in Financial Transactions",
-      "url": "https://arxiv.org/abs/2606.08051",
-      "author": "Donghao Huang, Tomas Drietomsky, Benjamin Barrett +1",
+      "title": "Correcting test set contamination by spiking the training data",
+      "url": "https://arxiv.org/abs/2605.24818",
+      "author": "Johnny Tian-Zheng Wei, Jerry Li, Ameya Godbole +1",
       "publishedAt": "2026-09-01T04:00:00.000Z",
-      "summary": "Merchant information extraction turns noisy financial transaction descriptors into structured fields at production scale. Our deployed LoRA-fine-tuned LLaMA~3.1-8B reaches 96.95\\% F1, but its memory a…"
+      "summary": "The literature on test set contamination largely focuses on detection, but the correction of contaminated test scores is underexplored. Our core proposal is to spike the training data by intentionally…"
+    },
+    {
+      "id": "2605.23971",
+      "source": "arxiv",
+      "title": "Physics-Guided Concentration Inference from Resistance Transients in a Mixed-Phase SnO-SnO$_2$ Carbon Monoxide Sensor with p-n Switching",
+      "url": "https://arxiv.org/abs/2605.23971",
+      "author": "Sani Biswas, Preetam Singh, Amit Kumar Gangwar",
+      "publishedAt": "2026-09-01T04:00:00.000Z",
+      "summary": "This work presents a physics-guided machine-learning framework for carbon monoxide concentration inference from experimentally measured resistance transients of a mixed-phase SnO-SnO$_2$ material gas…"
+    },
+    {
+      "id": "2605.11199",
+      "source": "arxiv",
+      "title": "Operator-Guided Model Reduction for Generative Sampling in Lattice Field Theory",
+      "url": "https://arxiv.org/abs/2605.11199",
+      "author": "Moxian Qian",
+      "publishedAt": "2026-09-01T04:00:00.000Z",
+      "summary": "Neural generative samplers for lattice field theory can be costly to train and evaluate. When they miss modes or assign them incorrect relative weights, biased observables do not reveal which collecti…"
+    },
+    {
+      "id": "2605.08211",
+      "source": "arxiv",
+      "title": "Learning the Channel Gain from Anywhere to Anywhere via Cross-environment Transformer Estimators",
+      "url": "https://arxiv.org/abs/2605.08211",
+      "author": "Prasenjit Dhara, Daniel Romero",
+      "publishedAt": "2026-09-01T04:00:00.000Z",
+      "summary": "Channel-gain maps provide the channel gain between any two locations in a geographical region. They find numerous applications, from resource allocation and interference control to path planning for a…"
+    },
+    {
+      "id": "2604.22938",
+      "source": "arxiv",
+      "title": "Large language model-enabled automated data extraction for concrete materials informatics",
+      "url": "https://arxiv.org/abs/2604.22938",
+      "author": "Zhanzhao Li, Kengran Yang, Qiyao He +1",
+      "publishedAt": "2026-09-01T04:00:00.000Z",
+      "summary": "The promise of data-driven materials discovery remains constrained by the scarcity of large, high-quality, and accessible experimental datasets. Here, we introduce a generalizable large language model…"
+    },
+    {
+      "id": "2604.22230",
+      "source": "arxiv",
+      "title": "Performance Manipulation: Labor Market Implications in AI-assisted Era",
+      "url": "https://arxiv.org/abs/2604.22230",
+      "author": "Xiaoyun Qiu, Yang Yu, Haifeng Xu",
+      "publishedAt": "2026-09-01T04:00:00.000Z",
+      "summary": "Performance manipulation arises when agents exploit easily measurable, routine tasks to inflate observable outcomes without contributing genuine innovation or expert judgment. We formalize this phenom…"
+    },
+    {
+      "id": "2604.12431",
+      "source": "arxiv",
+      "title": "VeriX-Anon: A Multi-Layered Framework for Mathematically Verifiable Outsourced Target-Driven Data Anonymization",
+      "url": "https://arxiv.org/abs/2604.12431",
+      "author": "Miit Daga, Swarna Priya Ramu",
+      "publishedAt": "2026-09-01T04:00:00.000Z",
+      "summary": "Organisations increasingly outsource privacy-sensitive data transformations to cloud providers, yet no practical mechanism lets the data owner verify that the contracted algorithm was faithfully execu…"
+    },
+    {
+      "id": "2604.12335",
+      "source": "arxiv",
+      "title": "SynMulti: Synthetic-to-Real Learning for Multimodal Video Understanding",
+      "url": "https://arxiv.org/abs/2604.12335",
+      "author": "Tanzila Rahman, Renjie Liao, Leonid Sigal",
+      "publishedAt": "2026-09-01T04:00:00.000Z",
+      "summary": "Training multimodal large language models (MLLMs) for video understanding requires large-scale annotated data spanning diverse tasks such as object counting, question answering, and segmentation. Howe…"
+    },
+    {
+      "id": "2604.06433",
+      "source": "arxiv",
+      "title": "Operator Learning for Predicting Bulk Wave Parameters of Spectral Wave Models",
+      "url": "https://arxiv.org/abs/2604.06433",
+      "author": "Shukai Cai, Sourav Dutta, Mark Loveland +4",
+      "publishedAt": "2026-09-01T04:00:00.000Z",
+      "summary": "The impact of wave-induced forcing on the mean water level and nearshore currents is typically modeled through excess momentum fluxes, also known as radiation stresses, and their spatial gradients. Ac…"
+    },
+    {
+      "id": "2603.21247",
+      "source": "arxiv",
+      "title": "Accelerate Vector Diffusion Maps by Landmarks",
+      "url": "https://arxiv.org/abs/2603.21247",
+      "author": "Sing-Yuan Yeh, Yi-An Wu, Hau-Tieng Wu +1",
+      "publishedAt": "2026-09-01T04:00:00.000Z",
+      "summary": "We propose a landmark-constrained algorithm, LA-VDM (Landmark Accelerated Vector Diffusion Maps), to accelerate the Vector Diffusion Maps (VDM) framework built upon the Graph Connection Laplacian (GCL…"
+    },
+    {
+      "id": "2603.19657",
+      "source": "arxiv",
+      "title": "Model Selection and Parameter Estimation for Multidimensional Gaussian Mixture Models with a Common Covariance Matrix",
+      "url": "https://arxiv.org/abs/2603.19657",
+      "author": "Xinyu Liu, Hai Zhang",
+      "publishedAt": "2026-09-01T04:00:00.000Z",
+      "summary": "We study model-order selection and component-mean estimation for multidimensional Gaussian mixture models with a known common covariance matrix. Using empirical characteristic-function measurements, w…"
     }
   ]
 }
