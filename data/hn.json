@@ -1,153 +1,93 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-03T02:26:10.782Z",
+  "fetchedAt": "2026-09-03T15:35:06.781Z",
   "items": [
     {
       "id": "49537553",
       "source": "hn",
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "score": 843,
+      "score": 1119,
       "commentsUrl": "https://news.ycombinator.com/item?id=49537553",
       "author": "bratao",
       "publishedAt": "2026-09-02T15:12:40.000Z"
+    },
+    {
+      "id": "49551096",
+      "source": "hn",
+      "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49551096",
+      "author": "halcdev",
+      "publishedAt": "2026-09-03T15:07:01.000Z"
     },
     {
       "id": "49536375",
       "source": "hn",
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "score": 318,
+      "score": 490,
       "commentsUrl": "https://news.ycombinator.com/item?id=49536375",
       "author": "jakobgreenfeld",
       "publishedAt": "2026-09-02T13:59:59.000Z"
+    },
+    {
+      "id": "49548530",
+      "source": "hn",
+      "title": "A dark horse enters China's AI race: StartLux",
+      "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+      "score": 46,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49548530",
+      "author": "try-working",
+      "publishedAt": "2026-09-03T11:12:57.000Z"
     },
     {
       "id": "49536411",
       "source": "hn",
       "title": "WebLLM: high-performance in-browser LLM inference engine",
       "url": "https://github.com/mlc-ai/web-llm",
-      "score": 92,
+      "score": 137,
       "commentsUrl": "https://news.ycombinator.com/item?id=49536411",
       "author": "saikatsg",
       "publishedAt": "2026-09-02T14:02:35.000Z"
-    },
-    {
-      "id": "49543841",
-      "source": "hn",
-      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-      "score": 94,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49543841",
-      "author": "stikit",
-      "publishedAt": "2026-09-02T23:08:47.000Z"
     },
     {
       "id": "49534132",
       "source": "hn",
       "title": "Quasar 438B: Europe's Leading AI Model",
       "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "score": 161,
+      "score": 186,
       "commentsUrl": "https://news.ycombinator.com/item?id=49534132",
       "author": "amunozo",
       "publishedAt": "2026-09-02T10:02:41.000Z"
-    },
-    {
-      "id": "49544650",
-      "source": "hn",
-      "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "score": 16,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49544650",
-      "author": "joshka",
-      "publishedAt": "2026-09-03T00:54:01.000Z"
-    },
-    {
-      "id": "49536114",
-      "source": "hn",
-      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-      "score": 154,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49536114",
-      "author": "goobreee",
-      "publishedAt": "2026-09-02T13:43:14.000Z"
-    },
-    {
-      "id": "49540078",
-      "source": "hn",
-      "title": "AI is stopping startups from completing puberty",
-      "url": "https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty/",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49540078",
-      "author": "mooreds",
-      "publishedAt": "2026-09-02T18:06:14.000Z"
-    },
-    {
-      "id": "49528174",
-      "source": "hn",
-      "title": "A docs page is a search query to find AI agents and route them to your company",
-      "url": "https://blog.val.town/aeo",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49528174",
-      "author": "stevekrouse",
-      "publishedAt": "2026-09-01T21:04:15.000Z"
     },
     {
       "id": "49525378",
       "source": "hn",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "score": 1377,
+      "score": 1400,
       "commentsUrl": "https://news.ycombinator.com/item?id=49525378",
       "author": "denysvitali",
       "publishedAt": "2026-09-01T17:53:53.000Z"
     },
     {
-      "id": "49535201",
+      "id": "49536114",
       "source": "hn",
-      "title": "Check if a file was made with Claude",
-      "url": "https://claude.com/check-content",
-      "score": 149,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49535201",
-      "author": "frexs",
-      "publishedAt": "2026-09-02T12:23:20.000Z"
-    },
-    {
-      "id": "49544762",
-      "source": "hn",
-      "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
-      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49544762",
-      "author": "gmays",
-      "publishedAt": "2026-09-03T01:11:22.000Z"
-    },
-    {
-      "id": "49542443",
-      "source": "hn",
-      "title": "Mamdani Bans AI in NYC Schools",
-      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-      "score": 142,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49542443",
-      "author": "handfuloflight",
-      "publishedAt": "2026-09-02T20:57:04.000Z"
-    },
-    {
-      "id": "49507370",
-      "source": "hn",
-      "title": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
-      "url": "https://www.fastcompany.com/91563020/aspire-rocket-design-spacex",
-      "score": 37,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49507370",
-      "author": "rbanffy",
-      "publishedAt": "2026-08-31T09:04:32.000Z"
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "score": 175,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49536114",
+      "author": "goobreee",
+      "publishedAt": "2026-09-02T13:43:14.000Z"
     },
     {
       "id": "49526069",
       "source": "hn",
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron/",
-      "score": 841,
+      "score": 857,
       "commentsUrl": "https://news.ycombinator.com/item?id=49526069",
       "author": "jatins",
       "publishedAt": "2026-09-01T18:35:15.000Z"
@@ -157,10 +97,70 @@
       "source": "hn",
       "title": "The efficient frontier of LLM inference",
       "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "score": 148,
+      "score": 153,
       "commentsUrl": "https://news.ycombinator.com/item?id=49529898",
       "author": "philipkiely",
       "publishedAt": "2026-09-01T23:48:05.000Z"
+    },
+    {
+      "id": "49547334",
+      "source": "hn",
+      "title": "Kids go from curious to frustrated playing with AI-stuffed toys, UW study finds",
+      "url": "https://www.geekwire.com/2026/kids-go-from-curious-to-frustrated-playing-with-ai-stuffed-toys-uw-study-finds/",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49547334",
+      "author": "01-_-",
+      "publishedAt": "2026-09-03T08:20:51.000Z"
+    },
+    {
+      "id": "49535201",
+      "source": "hn",
+      "title": "Check if a file was made with Claude",
+      "url": "https://claude.com/check-content",
+      "score": 176,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49535201",
+      "author": "frexs",
+      "publishedAt": "2026-09-02T12:23:20.000Z"
+    },
+    {
+      "id": "49540078",
+      "source": "hn",
+      "title": "AI is stopping startups from completing puberty",
+      "url": "https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty/",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49540078",
+      "author": "mooreds",
+      "publishedAt": "2026-09-02T18:06:14.000Z"
+    },
+    {
+      "id": "49542443",
+      "source": "hn",
+      "title": "Mamdani Bans AI in NYC Schools",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "score": 199,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49542443",
+      "author": "handfuloflight",
+      "publishedAt": "2026-09-02T20:57:04.000Z"
+    },
+    {
+      "id": "49528174",
+      "source": "hn",
+      "title": "A docs page is a search query to find AI agents and route them to your company",
+      "url": "https://blog.val.town/aeo",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49528174",
+      "author": "stevekrouse",
+      "publishedAt": "2026-09-01T21:04:15.000Z"
+    },
+    {
+      "id": "49507370",
+      "source": "hn",
+      "title": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
+      "url": "https://www.fastcompany.com/91563020/aspire-rocket-design-spacex",
+      "score": 42,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49507370",
+      "author": "rbanffy",
+      "publishedAt": "2026-08-31T09:04:32.000Z"
     }
   ]
 }
