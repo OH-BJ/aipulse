@@ -1,7 +1,106 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-09-05T14:21:17.386Z",
+  "fetchedAt": "2026-09-06T02:18:18.513Z",
   "items": [
+    {
+      "id": "33269",
+      "source": "geeknews",
+      "title": "unbash - Bash 명령의 구조를 실행 없이 분석하는 TypeScript 파서",
+      "url": "https://news.hada.io/topic?id=33269",
+      "commentsUrl": "https://news.hada.io/topic?id=33269",
+      "author": "xguru",
+      "publishedAt": "2026-09-06T00:30:02.000Z"
+    },
+    {
+      "id": "33268",
+      "source": "geeknews",
+      "title": "독일 민간 로켓, 서유럽 영토 최초로 궤도 진입",
+      "url": "https://news.hada.io/topic?id=33268",
+      "commentsUrl": "https://news.hada.io/topic?id=33268",
+      "author": "xguru",
+      "publishedAt": "2026-09-06T00:09:23.000Z"
+    },
+    {
+      "id": "33267",
+      "source": "geeknews",
+      "title": "유럽을 벗어나지 않는 Git 호스팅",
+      "url": "https://news.hada.io/topic?id=33267",
+      "commentsUrl": "https://news.hada.io/topic?id=33267",
+      "author": "neo",
+      "publishedAt": "2026-09-05T22:31:32.000Z"
+    },
+    {
+      "id": "33266",
+      "source": "geeknews",
+      "title": "삶의 진정한 사치",
+      "url": "https://news.hada.io/topic?id=33266",
+      "commentsUrl": "https://news.hada.io/topic?id=33266",
+      "author": "neo",
+      "publishedAt": "2026-09-05T21:31:30.000Z"
+    },
+    {
+      "id": "33265",
+      "source": "geeknews",
+      "title": "OpenRouter에서 GPT-6 Astra 사용하기: 가격과 성능 비교",
+      "url": "https://news.hada.io/topic?id=33265",
+      "commentsUrl": "https://news.hada.io/topic?id=33265",
+      "author": "neo",
+      "publishedAt": "2026-09-05T20:32:35.000Z"
+    },
+    {
+      "id": "33264",
+      "source": "geeknews",
+      "title": "교통 단속을 촬영한 해군 퇴역군인, Flock으로 100회 넘게 추적당해",
+      "url": "https://news.hada.io/topic?id=33264",
+      "commentsUrl": "https://news.hada.io/topic?id=33264",
+      "author": "neo",
+      "publishedAt": "2026-09-05T19:32:09.000Z"
+    },
+    {
+      "id": "33263",
+      "source": "geeknews",
+      "title": "AI가 장애를 처리할수록 엔지니어는 시스템 감각을 잃는다",
+      "url": "https://news.hada.io/topic?id=33263",
+      "commentsUrl": "https://news.hada.io/topic?id=33263",
+      "author": "neo",
+      "publishedAt": "2026-09-05T17:37:53.000Z"
+    },
+    {
+      "id": "33262",
+      "source": "geeknews",
+      "title": "네덜란드, 미국·캐나다 보관 금 86톤 회수",
+      "url": "https://news.hada.io/topic?id=33262",
+      "commentsUrl": "https://news.hada.io/topic?id=33262",
+      "author": "neo",
+      "publishedAt": "2026-09-05T17:34:53.000Z"
+    },
+    {
+      "id": "33261",
+      "source": "geeknews",
+      "title": "AI는 이제 회로 기판도 설계할 수 있을까?",
+      "url": "https://news.hada.io/topic?id=33261",
+      "commentsUrl": "https://news.hada.io/topic?id=33261",
+      "author": "neo",
+      "publishedAt": "2026-09-05T16:37:16.000Z"
+    },
+    {
+      "id": "33260",
+      "source": "geeknews",
+      "title": "미국 기업들이 오픈소스 AI에 빠져들고 있다",
+      "url": "https://news.hada.io/topic?id=33260",
+      "commentsUrl": "https://news.hada.io/topic?id=33260",
+      "author": "neo",
+      "publishedAt": "2026-09-05T16:34:16.000Z"
+    },
+    {
+      "id": "33259",
+      "source": "geeknews",
+      "title": "OpenTrailPaper - 오픈소스 전자잉크 자전거 컴퓨터",
+      "url": "https://news.hada.io/topic?id=33259",
+      "commentsUrl": "https://news.hada.io/topic?id=33259",
+      "author": "neo",
+      "publishedAt": "2026-09-05T15:31:57.000Z"
+    },
     {
       "id": "33258",
       "source": "geeknews",
@@ -172,105 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=33239",
       "author": "neo",
       "publishedAt": "2026-09-04T18:32:37.000Z"
-    },
-    {
-      "id": "33238",
-      "source": "geeknews",
-      "title": "Show GN: 귀래당 앱 모음 - 설치도 로그인도 없이 브라우저에서 도는 작은 도구와 게임 84개",
-      "url": "https://news.hada.io/topic?id=33238",
-      "commentsUrl": "https://news.hada.io/topic?id=33238",
-      "author": "ok981111",
-      "publishedAt": "2026-09-04T18:25:58.000Z"
-    },
-    {
-      "id": "33237",
-      "source": "geeknews",
-      "title": "Google AI Mode는 같은 제품을 기존 검색보다 21.6% 더 비싸게 보여줌",
-      "url": "https://news.hada.io/topic?id=33237",
-      "commentsUrl": "https://news.hada.io/topic?id=33237",
-      "author": "neo",
-      "publishedAt": "2026-09-04T17:32:11.000Z"
-    },
-    {
-      "id": "33236",
-      "source": "geeknews",
-      "title": "단순한 프로그램이 꼭 작은 것은 아니다",
-      "url": "https://news.hada.io/topic?id=33236",
-      "commentsUrl": "https://news.hada.io/topic?id=33236",
-      "author": "neo",
-      "publishedAt": "2026-09-04T17:01:50.000Z"
-    },
-    {
-      "id": "33235",
-      "source": "geeknews",
-      "title": "Show GN: FlowSuite - 노코드 화면 자동화, AI 파일 정리 등 윈도우 생산성 도구 모음",
-      "url": "https://news.hada.io/topic?id=33235",
-      "commentsUrl": "https://news.hada.io/topic?id=33235",
-      "author": "imageflowyjc",
-      "publishedAt": "2026-09-04T16:43:49.000Z"
-    },
-    {
-      "id": "33234",
-      "source": "geeknews",
-      "title": "NPC로 살고 싶다",
-      "url": "https://news.hada.io/topic?id=33234",
-      "commentsUrl": "https://news.hada.io/topic?id=33234",
-      "author": "neo",
-      "publishedAt": "2026-09-04T16:32:00.000Z"
-    },
-    {
-      "id": "33233",
-      "source": "geeknews",
-      "title": "인공 비버 댐 설치 후 어린 은연어 생존율이 8%에서 60%로 상승",
-      "url": "https://news.hada.io/topic?id=33233",
-      "commentsUrl": "https://news.hada.io/topic?id=33233",
-      "author": "neo",
-      "publishedAt": "2026-09-04T15:31:55.000Z"
-    },
-    {
-      "id": "33232",
-      "source": "geeknews",
-      "title": "Revo 프로그래밍 언어",
-      "url": "https://news.hada.io/topic?id=33232",
-      "commentsUrl": "https://news.hada.io/topic?id=33232",
-      "author": "neo",
-      "publishedAt": "2026-09-04T15:01:36.000Z"
-    },
-    {
-      "id": "33231",
-      "source": "geeknews",
-      "title": "신원 확인 업체가 스캔한 모든 ID를 해커들이 1년 넘게 실시간 탈취",
-      "url": "https://news.hada.io/topic?id=33231",
-      "commentsUrl": "https://news.hada.io/topic?id=33231",
-      "author": "neo",
-      "publishedAt": "2026-09-04T14:40:00.000Z"
-    },
-    {
-      "id": "33230",
-      "source": "geeknews",
-      "title": "OpenAI 에이전트의 새 메시지 보드 발견",
-      "url": "https://news.hada.io/topic?id=33230",
-      "commentsUrl": "https://news.hada.io/topic?id=33230",
-      "author": "neo",
-      "publishedAt": "2026-09-04T14:36:59.000Z"
-    },
-    {
-      "id": "33228",
-      "source": "geeknews",
-      "title": "LLM으로 1993년 Amiga 게임의 68000 어셈블리를 읽어 Godot에 포팅하기",
-      "url": "https://news.hada.io/topic?id=33228",
-      "commentsUrl": "https://news.hada.io/topic?id=33228",
-      "author": "neo",
-      "publishedAt": "2026-09-04T13:34:49.000Z"
-    },
-    {
-      "id": "33226",
-      "source": "geeknews",
-      "title": "ImHex로 미지의 파일 형식 리버스 엔지니어링하기",
-      "url": "https://news.hada.io/topic?id=33226",
-      "commentsUrl": "https://news.hada.io/topic?id=33226",
-      "author": "xguru",
-      "publishedAt": "2026-09-04T13:29:19.000Z"
     }
   ]
 }
