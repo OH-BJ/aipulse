@@ -1,7 +1,97 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-09-06T02:18:18.513Z",
+  "fetchedAt": "2026-09-06T14:44:03.434Z",
   "items": [
+    {
+      "id": "33282",
+      "source": "geeknews",
+      "title": "Isar Aerospace, 두 번째 비행에서 궤도 진입과 탑재체 배치 성공",
+      "url": "https://news.hada.io/topic?id=33282",
+      "commentsUrl": "https://news.hada.io/topic?id=33282",
+      "author": "neo",
+      "publishedAt": "2026-09-06T14:32:15.000Z"
+    },
+    {
+      "id": "33281",
+      "source": "geeknews",
+      "title": "‘60달러 게이밍 PC’ — AMD BC-250 (2025)",
+      "url": "https://news.hada.io/topic?id=33281",
+      "commentsUrl": "https://news.hada.io/topic?id=33281",
+      "author": "neo",
+      "publishedAt": "2026-09-06T11:33:14.000Z"
+    },
+    {
+      "id": "33280",
+      "source": "geeknews",
+      "title": "zopt - Zig를 위한 간결한 명령줄 인자 파서",
+      "url": "https://news.hada.io/topic?id=33280",
+      "commentsUrl": "https://news.hada.io/topic?id=33280",
+      "author": "neo",
+      "publishedAt": "2026-09-06T10:02:22.000Z"
+    },
+    {
+      "id": "33279",
+      "source": "geeknews",
+      "title": "독자의 반란",
+      "url": "https://news.hada.io/topic?id=33279",
+      "commentsUrl": "https://news.hada.io/topic?id=33279",
+      "author": "neo",
+      "publishedAt": "2026-09-06T09:34:59.000Z"
+    },
+    {
+      "id": "33278",
+      "source": "geeknews",
+      "title": "strip 유틸리티를 통한 Linux 배포판 전체의 Trusting-Trust 공격",
+      "url": "https://news.hada.io/topic?id=33278",
+      "commentsUrl": "https://news.hada.io/topic?id=33278",
+      "author": "neo",
+      "publishedAt": "2026-09-06T09:01:52.000Z"
+    },
+    {
+      "id": "33276",
+      "source": "geeknews",
+      "title": "Chrome, 사용자 사이트 데이터 설정에서 Google을 또다시 예외 처리",
+      "url": "https://news.hada.io/topic?id=33276",
+      "commentsUrl": "https://news.hada.io/topic?id=33276",
+      "author": "neo",
+      "publishedAt": "2026-09-06T08:32:03.000Z"
+    },
+    {
+      "id": "33275",
+      "source": "geeknews",
+      "title": "Cloud in a Bottle: 누구나 쉽게 쓸 수 있는 셀프 호스팅을 향해",
+      "url": "https://news.hada.io/topic?id=33275",
+      "commentsUrl": "https://news.hada.io/topic?id=33275",
+      "author": "neo",
+      "publishedAt": "2026-09-06T07:33:19.000Z"
+    },
+    {
+      "id": "33273",
+      "source": "geeknews",
+      "title": "grep이 LSP를 이긴다고? 코딩 에이전트가 더 정교한 도구를 무시하는 이유",
+      "url": "https://news.hada.io/topic?id=33273",
+      "commentsUrl": "https://news.hada.io/topic?id=33273",
+      "author": "xguru",
+      "publishedAt": "2026-09-06T05:27:15.000Z"
+    },
+    {
+      "id": "33272",
+      "source": "geeknews",
+      "title": "Show GN: PDF Simple Editor - WinUI 3로 만든 가벼운 PDF 편집기",
+      "url": "https://news.hada.io/topic?id=33272",
+      "commentsUrl": "https://news.hada.io/topic?id=33272",
+      "author": "kirinonakar",
+      "publishedAt": "2026-09-06T04:09:02.000Z"
+    },
+    {
+      "id": "33270",
+      "source": "geeknews",
+      "title": "Bespoke: ‘부탁합니다’라고 말하는 사람들을 위한 프로그래밍 언어",
+      "url": "https://news.hada.io/topic?id=33270",
+      "commentsUrl": "https://news.hada.io/topic?id=33270",
+      "author": "neo",
+      "publishedAt": "2026-09-06T03:03:25.000Z"
+    },
     {
       "id": "33269",
       "source": "geeknews",
@@ -181,96 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=33249",
       "author": "neo",
       "publishedAt": "2026-09-05T03:31:59.000Z"
-    },
-    {
-      "id": "33248",
-      "source": "geeknews",
-      "title": "AI가 내 두뇌를 망치고 있을까?",
-      "url": "https://news.hada.io/topic?id=33248",
-      "commentsUrl": "https://news.hada.io/topic?id=33248",
-      "author": "neo",
-      "publishedAt": "2026-09-05T03:01:26.000Z"
-    },
-    {
-      "id": "33247",
-      "source": "geeknews",
-      "title": "Claude Code,Codex,Cursor는 어떤 도구를 선택할까? 1만7천 회 실행 분석",
-      "url": "https://news.hada.io/topic?id=33247",
-      "commentsUrl": "https://news.hada.io/topic?id=33247",
-      "author": "neo",
-      "publishedAt": "2026-09-05T02:32:48.000Z"
-    },
-    {
-      "id": "33246",
-      "source": "geeknews",
-      "title": "wigolo - AI 에이전트를 위한 로컬 우선 웹 검색/수집 도구",
-      "url": "https://news.hada.io/topic?id=33246",
-      "commentsUrl": "https://news.hada.io/topic?id=33246",
-      "author": "xguru",
-      "publishedAt": "2026-09-05T00:30:02.000Z"
-    },
-    {
-      "id": "33245",
-      "source": "geeknews",
-      "title": "DHH가 바라본 프로그래밍의 미래: 직접 코딩에서 AI 에이전트 팀 운영으로 [유튜브]",
-      "url": "https://news.hada.io/topic?id=33245",
-      "commentsUrl": "https://news.hada.io/topic?id=33245",
-      "author": "neo",
-      "publishedAt": "2026-09-05T00:15:02.000Z"
-    },
-    {
-      "id": "33244",
-      "source": "geeknews",
-      "title": "AI 시대에 코드 리뷰에서 살아남는 방법은?",
-      "url": "https://news.hada.io/topic?id=33244",
-      "commentsUrl": "https://news.hada.io/topic?id=33244",
-      "author": "neo",
-      "publishedAt": "2026-09-05T00:03:25.000Z"
-    },
-    {
-      "id": "33243",
-      "source": "geeknews",
-      "title": "Stave - AWS 설정 사이에 숨어 있는 공격 경로를 찾는 보안 검증 도구",
-      "url": "https://news.hada.io/topic?id=33243",
-      "commentsUrl": "https://news.hada.io/topic?id=33243",
-      "author": "xguru",
-      "publishedAt": "2026-09-05T00:02:32.000Z"
-    },
-    {
-      "id": "33242",
-      "source": "geeknews",
-      "title": "IBM Bob - IBM의 AI 코딩 에이전트",
-      "url": "https://news.hada.io/topic?id=33242",
-      "commentsUrl": "https://news.hada.io/topic?id=33242",
-      "author": "xguru",
-      "publishedAt": "2026-09-04T22:50:10.000Z"
-    },
-    {
-      "id": "33241",
-      "source": "geeknews",
-      "title": "성인 영화 제작사, 토렌트로 파일 2만 개 받은 이용자를 Meta 임원으로 지목",
-      "url": "https://news.hada.io/topic?id=33241",
-      "commentsUrl": "https://news.hada.io/topic?id=33241",
-      "author": "xguru",
-      "publishedAt": "2026-09-04T22:48:16.000Z"
-    },
-    {
-      "id": "33240",
-      "source": "geeknews",
-      "title": "페르마의 마지막 정리 형식화",
-      "url": "https://news.hada.io/topic?id=33240",
-      "commentsUrl": "https://news.hada.io/topic?id=33240",
-      "author": "neo",
-      "publishedAt": "2026-09-04T21:32:38.000Z"
-    },
-    {
-      "id": "33239",
-      "source": "geeknews",
-      "title": "Jane Street ASIC 리버스 엔지니어링 챌린지, 칩 배치도에서 회로를 복원해 풀기",
-      "url": "https://news.hada.io/topic?id=33239",
-      "commentsUrl": "https://news.hada.io/topic?id=33239",
-      "author": "neo",
-      "publishedAt": "2026-09-04T18:32:37.000Z"
     }
   ]
 }
