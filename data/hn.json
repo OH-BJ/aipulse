@@ -1,116 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-07T02:15:19.487Z",
+  "fetchedAt": "2026-09-07T16:59:33.166Z",
   "items": [
     {
-      "id": "49585644",
+      "id": "49600233",
       "source": "hn",
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "score": 533,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49585644",
-      "author": "cyb0rg0",
-      "publishedAt": "2026-09-06T11:56:43.000Z"
+      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "url": "https://news.ycombinator.com/item?id=49600233",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49600233",
+      "author": "spwa4",
+      "publishedAt": "2026-09-07T16:40:32.000Z"
     },
     {
       "id": "49587217",
       "source": "hn",
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "score": 121,
+      "score": 196,
       "commentsUrl": "https://news.ycombinator.com/item?id=49587217",
       "author": "iamsyr",
       "publishedAt": "2026-09-06T15:08:44.000Z"
     },
     {
-      "id": "49582656",
+      "id": "49585644",
       "source": "hn",
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "score": 147,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49582656",
-      "author": "firexcy",
-      "publishedAt": "2026-09-06T02:12:46.000Z"
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "score": 686,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49585644",
+      "author": "cyb0rg0",
+      "publishedAt": "2026-09-06T11:56:43.000Z"
     },
     {
-      "id": "49592508",
+      "id": "49594008",
       "source": "hn",
-      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-      "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49592508",
-      "author": "metrofun",
-      "publishedAt": "2026-09-07T00:46:01.000Z"
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "url": "https://github.com/timgordontg/engrim",
+      "score": 76,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49594008",
+      "author": "timgordontg",
+      "publishedAt": "2026-09-07T04:49:36.000Z"
     },
     {
-      "id": "49592035",
+      "id": "49593842",
       "source": "hn",
-      "title": "Pivot to AI safety, I beg you",
-      "url": "https://ceselder.substack.com/p/pivot-to-ai-safety-i-beg-you",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49592035",
-      "author": "doitLP",
-      "publishedAt": "2026-09-06T23:37:04.000Z"
-    },
-    {
-      "id": "49591782",
-      "source": "hn",
-      "title": "GOP issues stark warning to AI companies",
-      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49591782",
-      "author": "cdrnsf",
-      "publishedAt": "2026-09-06T22:59:40.000Z"
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://github.com/trailofbits/coop",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49593842",
+      "author": "aggrrrh",
+      "publishedAt": "2026-09-07T04:18:28.000Z"
     },
     {
       "id": "49563355",
       "source": "hn",
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "score": 2265,
+      "score": 2284,
       "commentsUrl": "https://news.ycombinator.com/item?id=49563355",
       "author": "moultano",
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
-      "id": "49592456",
+      "id": "49582656",
       "source": "hn",
-      "title": "AI Is Already Making Us Less Human",
-      "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49592456",
-      "author": "pseudolus",
-      "publishedAt": "2026-09-07T00:38:24.000Z"
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "score": 153,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49582656",
+      "author": "firexcy",
+      "publishedAt": "2026-09-06T02:12:46.000Z"
     },
     {
       "id": "49554643",
       "source": "hn",
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
-      "score": 2246,
+      "score": 2257,
       "commentsUrl": "https://news.ycombinator.com/item?id=49554643",
       "author": "kibae",
       "publishedAt": "2026-09-03T18:41:05.000Z"
     },
     {
-      "id": "49582582",
+      "id": "49594296",
       "source": "hn",
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "score": 231,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49582582",
-      "author": "Anon84",
-      "publishedAt": "2026-09-06T01:52:45.000Z"
+      "title": "OpenAI 2025 financials $38.5B loss ahead of IPO",
+      "url": "https://qz.com/openai-leaked-financials-losses-revenue-ipo-061626",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49594296",
+      "author": "u1hcw9nx",
+      "publishedAt": "2026-09-07T05:41:13.000Z"
     },
     {
-      "id": "49570545",
+      "id": "49593776",
       "source": "hn",
-      "title": "GPT-6 Astra on OpenRouter",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "score": 318,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49570545",
-      "author": "Topfi",
-      "publishedAt": "2026-09-04T21:39:19.000Z"
+      "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
+      "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
+      "score": 35,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49593776",
+      "author": "sbulaev",
+      "publishedAt": "2026-09-07T04:07:07.000Z"
     }
   ]
 }
