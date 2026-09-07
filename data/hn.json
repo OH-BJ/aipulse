@@ -1,136 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-06T14:44:02.929Z",
+  "fetchedAt": "2026-09-07T02:15:19.487Z",
   "items": [
+    {
+      "id": "49585644",
+      "source": "hn",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "score": 533,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49585644",
+      "author": "cyb0rg0",
+      "publishedAt": "2026-09-06T11:56:43.000Z"
+    },
+    {
+      "id": "49587217",
+      "source": "hn",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "score": 121,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49587217",
+      "author": "iamsyr",
+      "publishedAt": "2026-09-06T15:08:44.000Z"
+    },
     {
       "id": "49582656",
       "source": "hn",
       "title": "AI, Tools and Transformation",
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "score": 104,
+      "score": 147,
       "commentsUrl": "https://news.ycombinator.com/item?id=49582656",
       "author": "firexcy",
       "publishedAt": "2026-09-06T02:12:46.000Z"
+    },
+    {
+      "id": "49592508",
+      "source": "hn",
+      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+      "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49592508",
+      "author": "metrofun",
+      "publishedAt": "2026-09-07T00:46:01.000Z"
+    },
+    {
+      "id": "49592035",
+      "source": "hn",
+      "title": "Pivot to AI safety, I beg you",
+      "url": "https://ceselder.substack.com/p/pivot-to-ai-safety-i-beg-you",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49592035",
+      "author": "doitLP",
+      "publishedAt": "2026-09-06T23:37:04.000Z"
+    },
+    {
+      "id": "49591782",
+      "source": "hn",
+      "title": "GOP issues stark warning to AI companies",
+      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49591782",
+      "author": "cdrnsf",
+      "publishedAt": "2026-09-06T22:59:40.000Z"
     },
     {
       "id": "49563355",
       "source": "hn",
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "score": 2227,
+      "score": 2265,
       "commentsUrl": "https://news.ycombinator.com/item?id=49563355",
       "author": "moultano",
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
-      "id": "49586590",
+      "id": "49592456",
       "source": "hn",
-      "title": "LLM representations have implicit symbolic structure",
-      "url": "https://twitter.com/RTomMcCoy/status/2094870131939684488",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49586590",
-      "author": "porridgeraisin",
-      "publishedAt": "2026-09-06T13:54:25.000Z"
-    },
-    {
-      "id": "49586011",
-      "source": "hn",
-      "title": "AI Slop",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49586011",
-      "author": "andy99",
-      "publishedAt": "2026-09-06T12:42:17.000Z"
-    },
-    {
-      "id": "49582582",
-      "source": "hn",
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "score": 213,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49582582",
-      "author": "Anon84",
-      "publishedAt": "2026-09-06T01:52:45.000Z"
+      "title": "AI Is Already Making Us Less Human",
+      "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49592456",
+      "author": "pseudolus",
+      "publishedAt": "2026-09-07T00:38:24.000Z"
     },
     {
       "id": "49554643",
       "source": "hn",
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
-      "score": 2240,
+      "score": 2246,
       "commentsUrl": "https://news.ycombinator.com/item?id=49554643",
       "author": "kibae",
       "publishedAt": "2026-09-03T18:41:05.000Z"
+    },
+    {
+      "id": "49582582",
+      "source": "hn",
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "score": 231,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49582582",
+      "author": "Anon84",
+      "publishedAt": "2026-09-06T01:52:45.000Z"
     },
     {
       "id": "49570545",
       "source": "hn",
       "title": "GPT-6 Astra on OpenRouter",
       "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "score": 315,
+      "score": 318,
       "commentsUrl": "https://news.ycombinator.com/item?id=49570545",
       "author": "Topfi",
       "publishedAt": "2026-09-04T21:39:19.000Z"
-    },
-    {
-      "id": "49574167",
-      "source": "hn",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "score": 391,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49574167",
-      "author": "sylvainkalache",
-      "publishedAt": "2026-09-05T07:52:50.000Z"
-    },
-    {
-      "id": "49581240",
-      "source": "hn",
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "score": 73,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49581240",
-      "author": "okf_memory",
-      "publishedAt": "2026-09-05T22:15:52.000Z"
-    },
-    {
-      "id": "49571465",
-      "source": "hn",
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "score": 261,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49571465",
-      "author": "cebert",
-      "publishedAt": "2026-09-04T23:38:50.000Z"
-    },
-    {
-      "id": "49569366",
-      "source": "hn",
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "score": 412,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49569366",
-      "author": "iopapa",
-      "publishedAt": "2026-09-04T19:48:29.000Z"
-    },
-    {
-      "id": "49573677",
-      "source": "hn",
-      "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
-      "url": "https://www.effort.news/revelation",
-      "score": 52,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49573677",
-      "author": "nullbio",
-      "publishedAt": "2026-09-05T06:31:31.000Z"
-    },
-    {
-      "id": "49554520",
-      "source": "hn",
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "score": 688,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49554520",
-      "author": "altertable",
-      "publishedAt": "2026-09-03T18:32:13.000Z"
     }
   ]
 }
