@@ -1,86 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-08T02:27:46.258Z",
+  "fetchedAt": "2026-09-08T15:47:08.424Z",
   "items": [
+    {
+      "id": "49610538",
+      "source": "hn",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "score": 339,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49610538",
+      "author": "rpgbr",
+      "publishedAt": "2026-09-08T14:05:57.000Z"
+    },
+    {
+      "id": "49605767",
+      "source": "hn",
+      "title": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "score": 680,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49605767",
+      "author": "kuberwastaken",
+      "publishedAt": "2026-09-08T05:06:23.000Z"
+    },
+    {
+      "id": "49605511",
+      "source": "hn",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "score": 75,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49605511",
+      "author": "Re-Tails",
+      "publishedAt": "2026-09-08T04:06:20.000Z"
+    },
+    {
+      "id": "49610229",
+      "source": "hn",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "score": 266,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49610229",
+      "author": "cainxinth",
+      "publishedAt": "2026-09-08T13:41:25.000Z"
+    },
+    {
+      "id": "49605822",
+      "source": "hn",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "score": 100,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49605822",
+      "author": "fittingopposite",
+      "publishedAt": "2026-09-08T05:20:23.000Z"
+    },
+    {
+      "id": "49605644",
+      "source": "hn",
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "score": 59,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49605644",
+      "author": "RohanAdwankar",
+      "publishedAt": "2026-09-08T04:36:26.000Z"
+    },
+    {
+      "id": "49610528",
+      "source": "hn",
+      "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
+      "url": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49610528",
+      "author": "sea-gold",
+      "publishedAt": "2026-09-08T14:05:06.000Z"
+    },
+    {
+      "id": "49611362",
+      "source": "hn",
+      "title": "Has OpenAI model solved 80-year-old Navier-Stokes problem?",
+      "url": "https://www.firstpost.com/tech/has-openai-model-solved-80-year-old-navier-stokes-problem-mathematician-raises-questions-14044080.html",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49611362",
+      "author": "bsilvereagle",
+      "publishedAt": "2026-09-08T15:02:35.000Z"
+    },
     {
       "id": "49596610",
       "source": "hn",
       "title": "Initial effects of AI technology on employment look positive",
       "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "score": 69,
+      "score": 92,
       "commentsUrl": "https://news.ycombinator.com/item?id=49596610",
       "author": "MrBuddyCasino",
       "publishedAt": "2026-09-07T10:38:32.000Z"
+    },
+    {
+      "id": "49610410",
+      "source": "hn",
+      "title": "AI may have just solved a million-dollar math problem",
+      "url": "https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49610410",
+      "author": "lanstin",
+      "publishedAt": "2026-09-08T13:55:46.000Z"
     },
     {
       "id": "49593842",
       "source": "hn",
       "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
       "url": "https://github.com/trailofbits/coop",
-      "score": 56,
+      "score": 64,
       "commentsUrl": "https://news.ycombinator.com/item?id=49593842",
       "author": "aggrrrh",
       "publishedAt": "2026-09-07T04:18:28.000Z"
-    },
-    {
-      "id": "49603011",
-      "source": "hn",
-      "title": "The smallest edge AI device for local LLMs",
-      "url": "https://tiiny.ai/",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49603011",
-      "author": "alex-moon",
-      "publishedAt": "2026-09-07T21:09:12.000Z"
-    },
-    {
-      "id": "49585644",
-      "source": "hn",
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "score": 710,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49585644",
-      "author": "cyb0rg0",
-      "publishedAt": "2026-09-06T11:56:43.000Z"
-    },
-    {
-      "id": "49594008",
-      "source": "hn",
-      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "url": "https://github.com/timgordontg/engrim",
-      "score": 82,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49594008",
-      "author": "timgordontg",
-      "publishedAt": "2026-09-07T04:49:36.000Z"
-    },
-    {
-      "id": "49602258",
-      "source": "hn",
-      "title": "El Yayster – a resident LLM that inhabits Emacs",
-      "url": "https://github.com/yayster/yayster.el",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49602258",
-      "author": "dTal",
-      "publishedAt": "2026-09-07T19:50:21.000Z"
-    },
-    {
-      "id": "49601810",
-      "source": "hn",
-      "title": "AI Cold Showers",
-      "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
-      "score": 72,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49601810",
-      "author": "mooreds",
-      "publishedAt": "2026-09-07T19:05:39.000Z"
-    },
-    {
-      "id": "49563355",
-      "source": "hn",
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "score": 2288,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49563355",
-      "author": "moultano",
-      "publishedAt": "2026-09-04T11:54:53.000Z"
     }
   ]
 }
