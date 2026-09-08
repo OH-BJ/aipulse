@@ -1,33 +1,43 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-07T16:59:33.166Z",
+  "fetchedAt": "2026-09-08T02:27:46.258Z",
   "items": [
     {
-      "id": "49600233",
+      "id": "49596610",
       "source": "hn",
-      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-      "url": "https://news.ycombinator.com/item?id=49600233",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49600233",
-      "author": "spwa4",
-      "publishedAt": "2026-09-07T16:40:32.000Z"
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "score": 69,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49596610",
+      "author": "MrBuddyCasino",
+      "publishedAt": "2026-09-07T10:38:32.000Z"
     },
     {
-      "id": "49587217",
+      "id": "49593842",
       "source": "hn",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "score": 196,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49587217",
-      "author": "iamsyr",
-      "publishedAt": "2026-09-06T15:08:44.000Z"
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://github.com/trailofbits/coop",
+      "score": 56,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49593842",
+      "author": "aggrrrh",
+      "publishedAt": "2026-09-07T04:18:28.000Z"
+    },
+    {
+      "id": "49603011",
+      "source": "hn",
+      "title": "The smallest edge AI device for local LLMs",
+      "url": "https://tiiny.ai/",
+      "score": 20,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49603011",
+      "author": "alex-moon",
+      "publishedAt": "2026-09-07T21:09:12.000Z"
     },
     {
       "id": "49585644",
       "source": "hn",
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "score": 686,
+      "score": 710,
       "commentsUrl": "https://news.ycombinator.com/item?id=49585644",
       "author": "cyb0rg0",
       "publishedAt": "2026-09-06T11:56:43.000Z"
@@ -37,70 +47,40 @@
       "source": "hn",
       "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
       "url": "https://github.com/timgordontg/engrim",
-      "score": 76,
+      "score": 82,
       "commentsUrl": "https://news.ycombinator.com/item?id=49594008",
       "author": "timgordontg",
       "publishedAt": "2026-09-07T04:49:36.000Z"
     },
     {
-      "id": "49593842",
+      "id": "49602258",
       "source": "hn",
-      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "url": "https://github.com/trailofbits/coop",
-      "score": 37,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49593842",
-      "author": "aggrrrh",
-      "publishedAt": "2026-09-07T04:18:28.000Z"
+      "title": "El Yayster – a resident LLM that inhabits Emacs",
+      "url": "https://github.com/yayster/yayster.el",
+      "score": 34,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49602258",
+      "author": "dTal",
+      "publishedAt": "2026-09-07T19:50:21.000Z"
+    },
+    {
+      "id": "49601810",
+      "source": "hn",
+      "title": "AI Cold Showers",
+      "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+      "score": 72,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49601810",
+      "author": "mooreds",
+      "publishedAt": "2026-09-07T19:05:39.000Z"
     },
     {
       "id": "49563355",
       "source": "hn",
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "score": 2284,
+      "score": 2288,
       "commentsUrl": "https://news.ycombinator.com/item?id=49563355",
       "author": "moultano",
       "publishedAt": "2026-09-04T11:54:53.000Z"
-    },
-    {
-      "id": "49582656",
-      "source": "hn",
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "score": 153,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49582656",
-      "author": "firexcy",
-      "publishedAt": "2026-09-06T02:12:46.000Z"
-    },
-    {
-      "id": "49554643",
-      "source": "hn",
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "score": 2257,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49554643",
-      "author": "kibae",
-      "publishedAt": "2026-09-03T18:41:05.000Z"
-    },
-    {
-      "id": "49594296",
-      "source": "hn",
-      "title": "OpenAI 2025 financials $38.5B loss ahead of IPO",
-      "url": "https://qz.com/openai-leaked-financials-losses-revenue-ipo-061626",
-      "score": 29,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49594296",
-      "author": "u1hcw9nx",
-      "publishedAt": "2026-09-07T05:41:13.000Z"
-    },
-    {
-      "id": "49593776",
-      "source": "hn",
-      "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
-      "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
-      "score": 35,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49593776",
-      "author": "sbulaev",
-      "publishedAt": "2026-09-07T04:07:07.000Z"
     }
   ]
 }
