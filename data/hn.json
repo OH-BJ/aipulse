@@ -1,146 +1,186 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-09T15:43:07.136Z",
+  "fetchedAt": "2026-09-10T02:30:19.857Z",
   "items": [
+    {
+      "id": "49627370",
+      "source": "hn",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "score": 355,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49627370",
+      "author": "ModelForge",
+      "publishedAt": "2026-09-09T14:37:47.000Z"
+    },
+    {
+      "id": "49630026",
+      "source": "hn",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "score": 178,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49630026",
+      "author": "wsxiaoys",
+      "publishedAt": "2026-09-09T17:24:28.000Z"
+    },
+    {
+      "id": "49636906",
+      "source": "hn",
+      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+      "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+      "score": 48,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49636906",
+      "author": "jryb",
+      "publishedAt": "2026-09-10T01:02:44.000Z"
+    },
     {
       "id": "49623754",
       "source": "hn",
-      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "title": "Claude, change the “Add to Cart” button to blue",
       "url": "https://opusfived.dev/",
-      "score": 475,
+      "score": 1028,
       "commentsUrl": "https://news.ycombinator.com/item?id=49623754",
       "author": "matthieu_bl",
       "publishedAt": "2026-09-09T09:39:46.000Z"
     },
     {
-      "id": "49627646",
+      "id": "49629868",
       "source": "hn",
-      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
-      "url": "https://github.com/Atomburstofficial/geiger",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49627646",
-      "author": "atomburst",
-      "publishedAt": "2026-09-09T14:54:49.000Z"
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.09153",
+      "score": 48,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49629868",
+      "author": "omarsar",
+      "publishedAt": "2026-09-09T17:13:52.000Z"
     },
     {
-      "id": "49624603",
+      "id": "49630606",
       "source": "hn",
-      "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
-      "url": "https://news.ycombinator.com/item?id=49624603",
-      "score": 272,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49624603",
-      "author": "nickweb",
-      "publishedAt": "2026-09-09T11:19:26.000Z"
-    },
-    {
-      "id": "49615537",
-      "source": "hn",
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "score": 590,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49615537",
-      "author": "yks",
-      "publishedAt": "2026-09-08T19:25:00.000Z"
-    },
-    {
-      "id": "49624163",
-      "source": "hn",
-      "title": "How An AI math breakthrough ignited a controversy",
-      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-      "score": 190,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49624163",
-      "author": "pseudolus",
-      "publishedAt": "2026-09-09T10:25:41.000Z"
+      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "url": "https://github.com/OtoDock/oto-dock",
+      "score": 42,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49630606",
+      "author": "dimitrismrtzs",
+      "publishedAt": "2026-09-09T17:57:55.000Z"
     },
     {
       "id": "49622561",
       "source": "hn",
       "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
       "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "score": 122,
+      "score": 144,
       "commentsUrl": "https://news.ycombinator.com/item?id=49622561",
       "author": "theanonymousone",
       "publishedAt": "2026-09-09T07:22:46.000Z"
+    },
+    {
+      "id": "49615537",
+      "source": "hn",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "score": 639,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49615537",
+      "author": "yks",
+      "publishedAt": "2026-09-08T19:25:00.000Z"
+    },
+    {
+      "id": "49628454",
+      "source": "hn",
+      "title": "Better AI code comment detector",
+      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+      "score": 40,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49628454",
+      "author": "ibobev",
+      "publishedAt": "2026-09-09T15:45:43.000Z"
+    },
+    {
+      "id": "49627646",
+      "source": "hn",
+      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
+      "url": "https://github.com/Atomburstofficial/geiger",
+      "score": 44,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49627646",
+      "author": "atomburst",
+      "publishedAt": "2026-09-09T14:54:49.000Z"
     },
     {
       "id": "49616968",
       "source": "hn",
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "score": 442,
+      "score": 468,
       "commentsUrl": "https://news.ycombinator.com/item?id=49616968",
       "author": "_alternator_",
       "publishedAt": "2026-09-08T21:00:52.000Z"
+    },
+    {
+      "id": "49629802",
+      "source": "hn",
+      "title": "Is OpenAI Taking Everyone for Fools?",
+      "url": "https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544",
+      "score": 61,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49629802",
+      "author": "lcubw",
+      "publishedAt": "2026-09-09T17:09:51.000Z"
+    },
+    {
+      "id": "49636547",
+      "source": "hn",
+      "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
+      "url": "https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09/",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49636547",
+      "author": "accountinhn",
+      "publishedAt": "2026-09-10T00:25:32.000Z"
+    },
+    {
+      "id": "49629118",
+      "source": "hn",
+      "title": "Teaching an AI My Taste",
+      "url": "https://lonriesberg.com/posts/teaching-an-ai-my-taste/",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49629118",
+      "author": "speckx",
+      "publishedAt": "2026-09-09T16:27:49.000Z"
+    },
+    {
+      "id": "49624163",
+      "source": "hn",
+      "title": "How An AI math breakthrough ignited a controversy",
+      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "score": 213,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49624163",
+      "author": "pseudolus",
+      "publishedAt": "2026-09-09T10:25:41.000Z"
+    },
+    {
+      "id": "49629242",
+      "source": "hn",
+      "title": "OpenAI's rogue agents used at least 10 more sites",
+      "url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
+      "score": 48,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49629242",
+      "author": "Betelbuddy",
+      "publishedAt": "2026-09-09T16:35:30.000Z"
     },
     {
       "id": "49613068",
       "source": "hn",
       "title": "Show HN: LLM Attention Visualization",
       "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "score": 160,
+      "score": 164,
       "commentsUrl": "https://news.ycombinator.com/item?id=49613068",
       "author": "ifz",
       "publishedAt": "2026-09-08T16:59:41.000Z"
-    },
-    {
-      "id": "49614101",
-      "source": "hn",
-      "title": "GrapheneOS on AI Usage",
-      "url": "https://grapheneos.social/@GrapheneOS/117236529351603001",
-      "score": 52,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49614101",
-      "author": "garo-pro",
-      "publishedAt": "2026-09-08T18:00:58.000Z"
     },
     {
       "id": "49605767",
       "source": "hn",
       "title": "Mistral raises €3B",
       "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "score": 835,
+      "score": 841,
       "commentsUrl": "https://news.ycombinator.com/item?id=49605767",
       "author": "kuberwastaken",
       "publishedAt": "2026-09-08T05:06:23.000Z"
-    },
-    {
-      "id": "49627887",
-      "source": "hn",
-      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
-      "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
-      "score": 32,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49627887",
-      "author": "jb1991",
-      "publishedAt": "2026-09-09T15:10:39.000Z"
-    },
-    {
-      "id": "49605511",
-      "source": "hn",
-      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "score": 83,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49605511",
-      "author": "Re-Tails",
-      "publishedAt": "2026-09-08T04:06:20.000Z"
-    },
-    {
-      "id": "49619227",
-      "source": "hn",
-      "title": "I resigned from Anthropic today",
-      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-      "score": 631,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49619227",
-      "author": "yurivish",
-      "publishedAt": "2026-09-09T00:40:40.000Z"
-    },
-    {
-      "id": "49624157",
-      "source": "hn",
-      "title": "I resigned from Anthropic today (Jacob Coxon)",
-      "url": "https://xcancel.com/hilbertspaess/status/2097476196791709843?s=20",
-      "score": 44,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49624157",
-      "author": "wrongful1520",
-      "publishedAt": "2026-09-09T10:25:03.000Z"
     }
   ]
 }
