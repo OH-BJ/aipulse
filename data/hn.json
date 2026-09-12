@@ -1,36 +1,56 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-12T02:32:27.151Z",
+  "fetchedAt": "2026-09-12T14:46:25.507Z",
   "items": [
     {
       "id": "49662371",
       "source": "hn",
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
-      "score": 673,
+      "score": 1066,
       "commentsUrl": "https://news.ycombinator.com/item?id=49662371",
       "author": "meredydd",
       "publishedAt": "2026-09-11T17:45:12.000Z"
+    },
+    {
+      "id": "49671159",
+      "source": "hn",
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "score": 58,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49671159",
+      "author": "ColinWright",
+      "publishedAt": "2026-09-12T11:13:38.000Z"
     },
     {
       "id": "49666735",
       "source": "hn",
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://www.rubyhack.ai/",
-      "score": 376,
+      "score": 833,
       "commentsUrl": "https://news.ycombinator.com/item?id=49666735",
       "author": "chao-",
       "publishedAt": "2026-09-11T23:17:42.000Z"
     },
     {
-      "id": "49665711",
+      "id": "49672281",
       "source": "hn",
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "score": 40,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49665711",
-      "author": "artninja1988",
-      "publishedAt": "2026-09-11T21:35:29.000Z"
+      "title": "LLMs are real, AI is fake",
+      "url": "https://pluralistic.net/2026/09/12/god-in-the-box/",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49672281",
+      "author": "danaris",
+      "publishedAt": "2026-09-12T13:47:28.000Z"
+    },
+    {
+      "id": "49656225",
+      "source": "hn",
+      "title": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "score": 656,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49656225",
+      "author": "Muhammad523",
+      "publishedAt": "2026-09-11T10:48:00.000Z"
     },
     {
       "id": "49661645",
@@ -43,41 +63,21 @@
       "publishedAt": "2026-09-11T17:00:17.000Z"
     },
     {
-      "id": "49656225",
+      "id": "49665711",
       "source": "hn",
-      "title": "Claude is only available to people over 18 years",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "score": 584,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49656225",
-      "author": "Muhammad523",
-      "publishedAt": "2026-09-11T10:48:00.000Z"
-    },
-    {
-      "id": "49667253",
-      "source": "hn",
-      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "url": "https://twitter.com/venturetwins/status/2098456905526211026",
-      "score": 17,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49667253",
-      "author": "bilsbie",
-      "publishedAt": "2026-09-12T00:24:36.000Z"
-    },
-    {
-      "id": "49666425",
-      "source": "hn",
-      "title": "Houthis used Anthropic to develop guided weapons",
-      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
-      "score": 25,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49666425",
-      "author": "Alien1Being",
-      "publishedAt": "2026-09-11T22:44:03.000Z"
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "score": 111,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49665711",
+      "author": "artninja1988",
+      "publishedAt": "2026-09-11T21:35:29.000Z"
     },
     {
       "id": "49659647",
       "source": "hn",
       "title": "Show HN: Hacker News, without AI",
       "url": "https://hcker.news/?ai=exclude",
-      "score": 175,
+      "score": 194,
       "commentsUrl": "https://news.ycombinator.com/item?id=49659647",
       "author": "postalcoder",
       "publishedAt": "2026-09-11T15:01:19.000Z"
@@ -87,57 +87,17 @@
       "source": "hn",
       "title": "Hacker News with reduced priority for AI driven content",
       "url": "https://sprinklz.io/public/pdwt4dve5uai",
-      "score": 111,
+      "score": 120,
       "commentsUrl": "https://news.ycombinator.com/item?id=49660482",
       "author": "sammy0910",
       "publishedAt": "2026-09-11T15:52:49.000Z"
-    },
-    {
-      "id": "49660783",
-      "source": "hn",
-      "title": "Show HN: Hacker News, Without AI",
-      "url": "https://www.unslop.news/",
-      "score": 175,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49660783",
-      "author": "otherayden",
-      "publishedAt": "2026-09-11T16:08:50.000Z"
-    },
-    {
-      "id": "49666267",
-      "source": "hn",
-      "title": "They do think AI might kill everyone",
-      "url": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49666267",
-      "author": "vladmashk",
-      "publishedAt": "2026-09-11T22:30:09.000Z"
-    },
-    {
-      "id": "49661856",
-      "source": "hn",
-      "title": "Show HN: Extension to filter LLM written articles",
-      "url": "https://hnslop.nilsherzig.com/",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49661856",
-      "author": "nilsherzig",
-      "publishedAt": "2026-09-11T17:14:49.000Z"
-    },
-    {
-      "id": "49658483",
-      "source": "hn",
-      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-      "url": "https://clawfight.ai/agents.md",
-      "score": 13,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49658483",
-      "author": "wesleyhales",
-      "publishedAt": "2026-09-11T13:54:17.000Z"
     },
     {
       "id": "49649213",
       "source": "hn",
       "title": "OpenAI Agents API",
       "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 338,
+      "score": 344,
       "commentsUrl": "https://news.ycombinator.com/item?id=49649213",
       "author": "aquir",
       "publishedAt": "2026-09-10T19:43:22.000Z"
@@ -147,40 +107,60 @@
       "source": "hn",
       "title": "Detecting and countering misuse of AI: September 2026",
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "score": 170,
+      "score": 179,
       "commentsUrl": "https://news.ycombinator.com/item?id=49647300",
       "author": "garo-pro",
       "publishedAt": "2026-09-10T17:23:42.000Z"
+    },
+    {
+      "id": "49667822",
+      "source": "hn",
+      "title": "\"What Is an 'AI Warning Shot'?\" (2024)",
+      "url": "https://gwern.net/blog/2024/sydney",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49667822",
+      "author": "simonpure",
+      "publishedAt": "2026-09-12T01:46:45.000Z"
+    },
+    {
+      "id": "49666425",
+      "source": "hn",
+      "title": "Houthis used Anthropic to develop guided weapons",
+      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49666425",
+      "author": "Alien1Being",
+      "publishedAt": "2026-09-11T22:44:03.000Z"
     },
     {
       "id": "49644179",
       "source": "hn",
       "title": "AI Is Breaking This Thing We Call Trust",
       "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-      "score": 114,
+      "score": 120,
       "commentsUrl": "https://news.ycombinator.com/item?id=49644179",
       "author": "matheusml",
       "publishedAt": "2026-09-10T14:21:20.000Z"
-    },
-    {
-      "id": "49662948",
-      "source": "hn",
-      "title": "GPT-6 Astra does 3D camera tracking and VFX in Blender",
-      "url": "https://twitter.com/ryanvogel/status/2098477000843211081",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49662948",
-      "author": "ryanvogel",
-      "publishedAt": "2026-09-11T18:21:58.000Z"
     },
     {
       "id": "49639090",
       "source": "hn",
       "title": "DeepSeek v4.1 Flash",
       "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "score": 994,
+      "score": 1004,
       "commentsUrl": "https://news.ycombinator.com/item?id=49639090",
       "author": "Liwink",
       "publishedAt": "2026-09-10T06:11:05.000Z"
+    },
+    {
+      "id": "49660783",
+      "source": "hn",
+      "title": "Show HN: Hacker News, Without AI",
+      "url": "https://www.unslop.news/",
+      "score": 189,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49660783",
+      "author": "otherayden",
+      "publishedAt": "2026-09-11T16:08:50.000Z"
     }
   ]
 }
