@@ -1,156 +1,186 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-11T15:39:27.697Z",
+  "fetchedAt": "2026-09-12T02:32:27.151Z",
   "items": [
     {
-      "id": "49656496",
+      "id": "49662371",
       "source": "hn",
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-      "score": 278,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49656496",
-      "author": "JohnHammersley",
-      "publishedAt": "2026-09-11T11:17:50.000Z"
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 673,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49662371",
+      "author": "meredydd",
+      "publishedAt": "2026-09-11T17:45:12.000Z"
     },
     {
-      "id": "49657850",
+      "id": "49666735",
       "source": "hn",
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "url": "https://news.ycombinator.com/item?id=49657850",
-      "score": 550,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49657850",
-      "author": "cromka",
-      "publishedAt": "2026-09-11T13:11:04.000Z"
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "score": 376,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49666735",
+      "author": "chao-",
+      "publishedAt": "2026-09-11T23:17:42.000Z"
+    },
+    {
+      "id": "49665711",
+      "source": "hn",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "score": 40,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49665711",
+      "author": "artninja1988",
+      "publishedAt": "2026-09-11T21:35:29.000Z"
+    },
+    {
+      "id": "49661645",
+      "source": "hn",
+      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+      "url": "https://www.getzep.com/careers/",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49661645",
+      "author": "roseway4",
+      "publishedAt": "2026-09-11T17:00:17.000Z"
+    },
+    {
+      "id": "49656225",
+      "source": "hn",
+      "title": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "score": 584,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49656225",
+      "author": "Muhammad523",
+      "publishedAt": "2026-09-11T10:48:00.000Z"
+    },
+    {
+      "id": "49667253",
+      "source": "hn",
+      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+      "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49667253",
+      "author": "bilsbie",
+      "publishedAt": "2026-09-12T00:24:36.000Z"
+    },
+    {
+      "id": "49666425",
+      "source": "hn",
+      "title": "Houthis used Anthropic to develop guided weapons",
+      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+      "score": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49666425",
+      "author": "Alien1Being",
+      "publishedAt": "2026-09-11T22:44:03.000Z"
     },
     {
       "id": "49659647",
       "source": "hn",
       "title": "Show HN: Hacker News, without AI",
       "url": "https://hcker.news/?ai=exclude",
-      "score": 12,
+      "score": 175,
       "commentsUrl": "https://news.ycombinator.com/item?id=49659647",
       "author": "postalcoder",
       "publishedAt": "2026-09-11T15:01:19.000Z"
+    },
+    {
+      "id": "49660482",
+      "source": "hn",
+      "title": "Hacker News with reduced priority for AI driven content",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "score": 111,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49660482",
+      "author": "sammy0910",
+      "publishedAt": "2026-09-11T15:52:49.000Z"
+    },
+    {
+      "id": "49660783",
+      "source": "hn",
+      "title": "Show HN: Hacker News, Without AI",
+      "url": "https://www.unslop.news/",
+      "score": 175,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49660783",
+      "author": "otherayden",
+      "publishedAt": "2026-09-11T16:08:50.000Z"
+    },
+    {
+      "id": "49666267",
+      "source": "hn",
+      "title": "They do think AI might kill everyone",
+      "url": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49666267",
+      "author": "vladmashk",
+      "publishedAt": "2026-09-11T22:30:09.000Z"
+    },
+    {
+      "id": "49661856",
+      "source": "hn",
+      "title": "Show HN: Extension to filter LLM written articles",
+      "url": "https://hnslop.nilsherzig.com/",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49661856",
+      "author": "nilsherzig",
+      "publishedAt": "2026-09-11T17:14:49.000Z"
+    },
+    {
+      "id": "49658483",
+      "source": "hn",
+      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+      "url": "https://clawfight.ai/agents.md",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49658483",
+      "author": "wesleyhales",
+      "publishedAt": "2026-09-11T13:54:17.000Z"
     },
     {
       "id": "49649213",
       "source": "hn",
       "title": "OpenAI Agents API",
       "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 313,
+      "score": 338,
       "commentsUrl": "https://news.ycombinator.com/item?id=49649213",
       "author": "aquir",
       "publishedAt": "2026-09-10T19:43:22.000Z"
-    },
-    {
-      "id": "49656225",
-      "source": "hn",
-      "title": "Claude is no longer available for minors",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "score": 273,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49656225",
-      "author": "Muhammad523",
-      "publishedAt": "2026-09-11T10:48:00.000Z"
-    },
-    {
-      "id": "49639408",
-      "source": "hn",
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 845,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49639408",
-      "author": "pred_",
-      "publishedAt": "2026-09-10T06:49:43.000Z"
-    },
-    {
-      "id": "49645443",
-      "source": "hn",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "score": 433,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49645443",
-      "author": "seelos",
-      "publishedAt": "2026-09-10T15:29:47.000Z"
     },
     {
       "id": "49647300",
       "source": "hn",
       "title": "Detecting and countering misuse of AI: September 2026",
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "score": 159,
+      "score": 170,
       "commentsUrl": "https://news.ycombinator.com/item?id=49647300",
       "author": "garo-pro",
       "publishedAt": "2026-09-10T17:23:42.000Z"
-    },
-    {
-      "id": "49652039",
-      "source": "hn",
-      "title": "DeepSeek 4.1 Flash",
-      "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
-      "score": 38,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49652039",
-      "author": "thatxliner",
-      "publishedAt": "2026-09-11T00:34:20.000Z"
     },
     {
       "id": "49644179",
       "source": "hn",
       "title": "AI Is Breaking This Thing We Call Trust",
       "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-      "score": 105,
+      "score": 114,
       "commentsUrl": "https://news.ycombinator.com/item?id=49644179",
       "author": "matheusml",
       "publishedAt": "2026-09-10T14:21:20.000Z"
+    },
+    {
+      "id": "49662948",
+      "source": "hn",
+      "title": "GPT-6 Astra does 3D camera tracking and VFX in Blender",
+      "url": "https://twitter.com/ryanvogel/status/2098477000843211081",
+      "score": 20,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49662948",
+      "author": "ryanvogel",
+      "publishedAt": "2026-09-11T18:21:58.000Z"
     },
     {
       "id": "49639090",
       "source": "hn",
       "title": "DeepSeek v4.1 Flash",
       "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "score": 979,
+      "score": 994,
       "commentsUrl": "https://news.ycombinator.com/item?id=49639090",
       "author": "Liwink",
       "publishedAt": "2026-09-10T06:11:05.000Z"
-    },
-    {
-      "id": "49651372",
-      "source": "hn",
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
-      "score": 116,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49651372",
-      "author": "jonifico",
-      "publishedAt": "2026-09-10T23:10:06.000Z"
-    },
-    {
-      "id": "49654387",
-      "source": "hn",
-      "title": "DeepSeek v4.1 Flash Uncensored",
-      "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
-      "score": 54,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49654387",
-      "author": "soltanov",
-      "publishedAt": "2026-09-11T06:46:19.000Z"
-    },
-    {
-      "id": "49650326",
-      "source": "hn",
-      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
-      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-      "score": 172,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49650326",
-      "author": "ibobev",
-      "publishedAt": "2026-09-10T21:22:59.000Z"
-    },
-    {
-      "id": "49653699",
-      "source": "hn",
-      "title": "The Gemini app is now available for Windows",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-      "score": 53,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49653699",
-      "author": "quysala12",
-      "publishedAt": "2026-09-11T04:52:20.000Z"
     }
   ]
 }
