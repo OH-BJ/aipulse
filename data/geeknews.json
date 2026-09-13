@@ -1,7 +1,223 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-09-12T14:46:26.111Z",
+  "fetchedAt": "2026-09-13T02:31:27.486Z",
   "items": [
+    {
+      "id": "33607",
+      "source": "geeknews",
+      "title": "Show GN: irasutoya - (Claude Skill) いらすとや 이라스토야 일러스트를 검색·다운로드해 활용",
+      "url": "https://news.hada.io/topic?id=33607",
+      "commentsUrl": "https://news.hada.io/topic?id=33607",
+      "author": "molmoty",
+      "publishedAt": "2026-09-13T01:35:28.000Z"
+    },
+    {
+      "id": "33606",
+      "source": "geeknews",
+      "title": "Dreeve - 운동 데이터를 직접 보관하고 분석하는 셀프 호스팅 대시보드",
+      "url": "https://news.hada.io/topic?id=33606",
+      "commentsUrl": "https://news.hada.io/topic?id=33606",
+      "author": "xguru",
+      "publishedAt": "2026-09-13T01:10:02.000Z"
+    },
+    {
+      "id": "33605",
+      "source": "geeknews",
+      "title": "LG, Gamers Nexus를 가짜 뉴스라고 부인 [영상]",
+      "url": "https://news.hada.io/topic?id=33605",
+      "commentsUrl": "https://news.hada.io/topic?id=33605",
+      "author": "neo",
+      "publishedAt": "2026-09-13T00:36:42.000Z"
+    },
+    {
+      "id": "33604",
+      "source": "geeknews",
+      "title": "Shopify, AI 에이전트로 Shop 앱을 12주 만에 네이티브로 전환",
+      "url": "https://news.hada.io/topic?id=33604",
+      "commentsUrl": "https://news.hada.io/topic?id=33604",
+      "author": "xguru",
+      "publishedAt": "2026-09-13T00:32:08.000Z"
+    },
+    {
+      "id": "33603",
+      "source": "geeknews",
+      "title": "NVIDIA Personal AI Router - 여러 컴퓨터에 로컬 AI 요청을 나눠 보내는 도구",
+      "url": "https://news.hada.io/topic?id=33603",
+      "commentsUrl": "https://news.hada.io/topic?id=33603",
+      "author": "xguru",
+      "publishedAt": "2026-09-13T00:30:03.000Z"
+    },
+    {
+      "id": "33602",
+      "source": "geeknews",
+      "title": "Waymo, 차량을 세우고 ‘고스트 건’을 소지한 미성년 승객들을 경찰에 신고",
+      "url": "https://news.hada.io/topic?id=33602",
+      "commentsUrl": "https://news.hada.io/topic?id=33602",
+      "author": "neo",
+      "publishedAt": "2026-09-12T23:38:55.000Z"
+    },
+    {
+      "id": "33601",
+      "source": "geeknews",
+      "title": "Linux용 Zoom 클라이언트, X11 클립보드에 기록되는 모든 내용을 선제적으로 읽음",
+      "url": "https://news.hada.io/topic?id=33601",
+      "commentsUrl": "https://news.hada.io/topic?id=33601",
+      "author": "neo",
+      "publishedAt": "2026-09-12T23:35:55.000Z"
+    },
+    {
+      "id": "33600",
+      "source": "geeknews",
+      "title": "AI가 스스로 더 나은 AI를 만드는 날은 얼마나 가까웠나?",
+      "url": "https://news.hada.io/topic?id=33600",
+      "commentsUrl": "https://news.hada.io/topic?id=33600",
+      "author": "neo",
+      "publishedAt": "2026-09-12T23:11:55.000Z"
+    },
+    {
+      "id": "33599",
+      "source": "geeknews",
+      "title": "60년간 삶을 지켜본 7 Up 출연자들, 이제 작별을 고하다",
+      "url": "https://news.hada.io/topic?id=33599",
+      "commentsUrl": "https://news.hada.io/topic?id=33599",
+      "author": "neo",
+      "publishedAt": "2026-09-12T23:08:55.000Z"
+    },
+    {
+      "id": "33598",
+      "source": "geeknews",
+      "title": "네이쥐안 - 뒤처지지 않으려고 더 노력하지만 나아지지 않는 경쟁",
+      "url": "https://news.hada.io/topic?id=33598",
+      "commentsUrl": "https://news.hada.io/topic?id=33598",
+      "author": "neo",
+      "publishedAt": "2026-09-12T21:40:05.000Z"
+    },
+    {
+      "id": "33597",
+      "source": "geeknews",
+      "title": "Usenet-Rewind, Usenet 아카이브 검색 엔진",
+      "url": "https://news.hada.io/topic?id=33597",
+      "commentsUrl": "https://news.hada.io/topic?id=33597",
+      "author": "neo",
+      "publishedAt": "2026-09-12T21:37:04.000Z"
+    },
+    {
+      "id": "33596",
+      "source": "geeknews",
+      "title": "OpenStreetMap에서 첫 편집하기",
+      "url": "https://news.hada.io/topic?id=33596",
+      "commentsUrl": "https://news.hada.io/topic?id=33596",
+      "author": "neo",
+      "publishedAt": "2026-09-12T20:38:50.000Z"
+    },
+    {
+      "id": "33595",
+      "source": "geeknews",
+      "title": "다리오에게 보내는 공개서한: 진심이라면 모델 가중치를 공개하라",
+      "url": "https://news.hada.io/topic?id=33595",
+      "commentsUrl": "https://news.hada.io/topic?id=33595",
+      "author": "neo",
+      "publishedAt": "2026-09-12T20:35:50.000Z"
+    },
+    {
+      "id": "33594",
+      "source": "geeknews",
+      "title": "커넥톰과 물리학을 활용한 초파리 시뮬레이션",
+      "url": "https://news.hada.io/topic?id=33594",
+      "commentsUrl": "https://news.hada.io/topic?id=33594",
+      "author": "neorchid",
+      "publishedAt": "2026-09-12T20:28:52.000Z"
+    },
+    {
+      "id": "33593",
+      "source": "geeknews",
+      "title": "AI 중심 콘텐츠의 우선순위를 낮춘 Hacker News",
+      "url": "https://news.hada.io/topic?id=33593",
+      "commentsUrl": "https://news.hada.io/topic?id=33593",
+      "author": "neo",
+      "publishedAt": "2026-09-12T18:41:14.000Z"
+    },
+    {
+      "id": "33592",
+      "source": "geeknews",
+      "title": "Thelio Mira AI - GPU 메모리 192GB를 지원하는 Linux 워크스테이션",
+      "url": "https://news.hada.io/topic?id=33592",
+      "commentsUrl": "https://news.hada.io/topic?id=33592",
+      "author": "neo",
+      "publishedAt": "2026-09-12T18:38:14.000Z"
+    },
+    {
+      "id": "33591",
+      "source": "geeknews",
+      "title": "Android, VPN 차단 설정을 켜도 실제 IP가 노출되는 문제 발견",
+      "url": "https://news.hada.io/topic?id=33591",
+      "commentsUrl": "https://news.hada.io/topic?id=33591",
+      "author": "neo",
+      "publishedAt": "2026-09-12T17:53:25.000Z"
+    },
+    {
+      "id": "33590",
+      "source": "geeknews",
+      "title": "1,000달러로 좋은 차를 사는 방법",
+      "url": "https://news.hada.io/topic?id=33590",
+      "commentsUrl": "https://news.hada.io/topic?id=33590",
+      "author": "neo",
+      "publishedAt": "2026-09-12T17:50:25.000Z"
+    },
+    {
+      "id": "33589",
+      "source": "geeknews",
+      "title": "Starlink 신호 누출, 전파천문학의 가장 중요한 주파수를 위협",
+      "url": "https://news.hada.io/topic?id=33589",
+      "commentsUrl": "https://news.hada.io/topic?id=33589",
+      "author": "neo",
+      "publishedAt": "2026-09-12T17:47:25.000Z"
+    },
+    {
+      "id": "33588",
+      "source": "geeknews",
+      "title": "Nvidia는 AI의 중앙은행이다",
+      "url": "https://news.hada.io/topic?id=33588",
+      "commentsUrl": "https://news.hada.io/topic?id=33588",
+      "author": "neo",
+      "publishedAt": "2026-09-12T17:44:25.000Z"
+    },
+    {
+      "id": "33587",
+      "source": "geeknews",
+      "title": "Google에 더 나은 모습을 기대했다 - 코드는 가져가고 출처는 지운 Artemis",
+      "url": "https://news.hada.io/topic?id=33587",
+      "commentsUrl": "https://news.hada.io/topic?id=33587",
+      "author": "neo",
+      "publishedAt": "2026-09-12T16:44:18.000Z"
+    },
+    {
+      "id": "33586",
+      "source": "geeknews",
+      "title": "다리오 아모데이: 최첨단 AI의 발전 속도를 늦춰야 한다",
+      "url": "https://news.hada.io/topic?id=33586",
+      "commentsUrl": "https://news.hada.io/topic?id=33586",
+      "author": "neo",
+      "publishedAt": "2026-09-12T16:41:18.000Z"
+    },
+    {
+      "id": "33585",
+      "source": "geeknews",
+      "title": "CIA, 9/11을 기념해 대통령 일일 정보보고 공개",
+      "url": "https://news.hada.io/topic?id=33585",
+      "commentsUrl": "https://news.hada.io/topic?id=33585",
+      "author": "neo",
+      "publishedAt": "2026-09-12T15:37:59.000Z"
+    },
+    {
+      "id": "33584",
+      "source": "geeknews",
+      "title": "Matt Mullenweg, 축출 후 Automattic 직원들에게 Slack으로 경영권 복귀 알려",
+      "url": "https://news.hada.io/topic?id=33584",
+      "commentsUrl": "https://news.hada.io/topic?id=33584",
+      "author": "neo",
+      "publishedAt": "2026-09-12T15:34:59.000Z"
+    },
     {
       "id": "33583",
       "source": "geeknews",
@@ -55,222 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=33577",
       "author": "neo",
       "publishedAt": "2026-09-12T08:39:49.000Z"
-    },
-    {
-      "id": "33576",
-      "source": "geeknews",
-      "title": "Pandas는 멸종해야 한다",
-      "url": "https://news.hada.io/topic?id=33576",
-      "commentsUrl": "https://news.hada.io/topic?id=33576",
-      "author": "neo",
-      "publishedAt": "2026-09-12T08:36:49.000Z"
-    },
-    {
-      "id": "33573",
-      "source": "geeknews",
-      "title": "뮤팟 개인정보 유출, 일부 회원은 계좌정보와 암호화된 주민번호도 포함",
-      "url": "https://news.hada.io/topic?id=33573",
-      "commentsUrl": "https://news.hada.io/topic?id=33573",
-      "author": "neo",
-      "publishedAt": "2026-09-12T06:30:02.000Z"
-    },
-    {
-      "id": "33571",
-      "source": "geeknews",
-      "title": "Google 검색, 목적지 주소를 바로 읽을 수 없는 리디렉션 링크 확대",
-      "url": "https://news.hada.io/topic?id=33571",
-      "commentsUrl": "https://news.hada.io/topic?id=33571",
-      "author": "neo",
-      "publishedAt": "2026-09-12T05:32:34.000Z"
-    },
-    {
-      "id": "33569",
-      "source": "geeknews",
-      "title": "RTK는 토큰 절감을 보고하지만, 비용 벤치마크 결과는 다르다",
-      "url": "https://news.hada.io/topic?id=33569",
-      "commentsUrl": "https://news.hada.io/topic?id=33569",
-      "author": "neo",
-      "publishedAt": "2026-09-12T03:34:38.000Z"
-    },
-    {
-      "id": "33568",
-      "source": "geeknews",
-      "title": "Rune, 오픈 소스로 공개",
-      "url": "https://news.hada.io/topic?id=33568",
-      "commentsUrl": "https://news.hada.io/topic?id=33568",
-      "author": "neo",
-      "publishedAt": "2026-09-12T01:33:40.000Z"
-    },
-    {
-      "id": "33567",
-      "source": "geeknews",
-      "title": "RubyGems 대규모 공격, OpenAI 에이전트 소행으로 추정",
-      "url": "https://news.hada.io/topic?id=33567",
-      "commentsUrl": "https://news.hada.io/topic?id=33567",
-      "author": "neo",
-      "publishedAt": "2026-09-12T00:35:31.000Z"
-    },
-    {
-      "id": "33566",
-      "source": "geeknews",
-      "title": "Switchyard - OpenAI/Anthropic API 그대로 모델을 바꿔 쓰는 LLM 라우터",
-      "url": "https://news.hada.io/topic?id=33566",
-      "commentsUrl": "https://news.hada.io/topic?id=33566",
-      "author": "xguru",
-      "publishedAt": "2026-09-12T00:30:02.000Z"
-    },
-    {
-      "id": "33565",
-      "source": "geeknews",
-      "title": "evergarden - 자연에서 영감을 얻은 색상 테마",
-      "url": "https://news.hada.io/topic?id=33565",
-      "commentsUrl": "https://news.hada.io/topic?id=33565",
-      "author": "neo",
-      "publishedAt": "2026-09-12T00:17:56.000Z"
-    },
-    {
-      "id": "33564",
-      "source": "geeknews",
-      "title": "모델은 스스로 통제를 벗어나지 않는다",
-      "url": "https://news.hada.io/topic?id=33564",
-      "commentsUrl": "https://news.hada.io/topic?id=33564",
-      "author": "neo",
-      "publishedAt": "2026-09-12T00:14:56.000Z"
-    },
-    {
-      "id": "33563",
-      "source": "geeknews",
-      "title": "Omarchy의 권력 장악",
-      "url": "https://news.hada.io/topic?id=33563",
-      "commentsUrl": "https://news.hada.io/topic?id=33563",
-      "author": "neo",
-      "publishedAt": "2026-09-12T00:11:55.000Z"
-    },
-    {
-      "id": "33562",
-      "source": "geeknews",
-      "title": "Room 641A, AT&T의 NSA 통신 감청실",
-      "url": "https://news.hada.io/topic?id=33562",
-      "commentsUrl": "https://news.hada.io/topic?id=33562",
-      "author": "neo",
-      "publishedAt": "2026-09-11T23:39:59.000Z"
-    },
-    {
-      "id": "33561",
-      "source": "geeknews",
-      "title": "Show HN: 인체의 특이 현상을 모은 Bodily Oddities",
-      "url": "https://news.hada.io/topic?id=33561",
-      "commentsUrl": "https://news.hada.io/topic?id=33561",
-      "author": "neo",
-      "publishedAt": "2026-09-11T23:36:59.000Z"
-    },
-    {
-      "id": "33560",
-      "source": "geeknews",
-      "title": "GrapheneOS, 재작성한 Messages 앱 출시",
-      "url": "https://news.hada.io/topic?id=33560",
-      "commentsUrl": "https://news.hada.io/topic?id=33560",
-      "author": "neo",
-      "publishedAt": "2026-09-11T22:39:08.000Z"
-    },
-    {
-      "id": "33559",
-      "source": "geeknews",
-      "title": "Google 앱 광고에 220달러를 썼는데, 설치의 60%가 봇이었다",
-      "url": "https://news.hada.io/topic?id=33559",
-      "commentsUrl": "https://news.hada.io/topic?id=33559",
-      "author": "neo",
-      "publishedAt": "2026-09-11T22:36:08.000Z"
-    },
-    {
-      "id": "33558",
-      "source": "geeknews",
-      "title": "Show HN: AI 없는 Hacker News",
-      "url": "https://news.hada.io/topic?id=33558",
-      "commentsUrl": "https://news.hada.io/topic?id=33558",
-      "author": "neo",
-      "publishedAt": "2026-09-11T21:31:15.000Z"
-    },
-    {
-      "id": "33557",
-      "source": "geeknews",
-      "title": "Show HN: AI 없는 Hacker News",
-      "url": "https://news.hada.io/topic?id=33557",
-      "commentsUrl": "https://news.hada.io/topic?id=33557",
-      "author": "neo",
-      "publishedAt": "2026-09-11T20:44:41.000Z"
-    },
-    {
-      "id": "33556",
-      "source": "geeknews",
-      "title": "EPA, 데이터센터 오염 관련 주민 공개 검토 규정 폐지 추진",
-      "url": "https://news.hada.io/topic?id=33556",
-      "commentsUrl": "https://news.hada.io/topic?id=33556",
-      "author": "neo",
-      "publishedAt": "2026-09-11T20:41:41.000Z"
-    },
-    {
-      "id": "33554",
-      "source": "geeknews",
-      "title": "운동 강도는 심혈관·대사 건강과 연관되어 있음",
-      "url": "https://news.hada.io/topic?id=33554",
-      "commentsUrl": "https://news.hada.io/topic?id=33554",
-      "author": "neo",
-      "publishedAt": "2026-09-11T20:03:15.000Z"
-    },
-    {
-      "id": "33553",
-      "source": "geeknews",
-      "title": "전 세계 빙하 소멸 탐색기",
-      "url": "https://news.hada.io/topic?id=33553",
-      "commentsUrl": "https://news.hada.io/topic?id=33553",
-      "author": "neo",
-      "publishedAt": "2026-09-11T20:00:15.000Z"
-    },
-    {
-      "id": "33552",
-      "source": "geeknews",
-      "title": "Proof of Capture - 스테가노그래피로 만든 오픈소스판 Apple Reference Image",
-      "url": "https://news.hada.io/topic?id=33552",
-      "commentsUrl": "https://news.hada.io/topic?id=33552",
-      "author": "neo",
-      "publishedAt": "2026-09-11T19:57:14.000Z"
-    },
-    {
-      "id": "33551",
-      "source": "geeknews",
-      "title": "RSA-260 소인수분해",
-      "url": "https://news.hada.io/topic?id=33551",
-      "commentsUrl": "https://news.hada.io/topic?id=33551",
-      "author": "neo",
-      "publishedAt": "2026-09-11T19:54:14.000Z"
-    },
-    {
-      "id": "33550",
-      "source": "geeknews",
-      "title": "필즈상 수상자 25명의 경고: AI의 문제 풀이 경쟁이 놓치는 수학의 목적",
-      "url": "https://news.hada.io/topic?id=33550",
-      "commentsUrl": "https://news.hada.io/topic?id=33550",
-      "author": "neo",
-      "publishedAt": "2026-09-11T19:51:14.000Z"
-    },
-    {
-      "id": "33549",
-      "source": "geeknews",
-      "title": "나의 HTML 보일러플레이트",
-      "url": "https://news.hada.io/topic?id=33549",
-      "commentsUrl": "https://news.hada.io/topic?id=33549",
-      "author": "neo",
-      "publishedAt": "2026-09-11T19:03:31.000Z"
-    },
-    {
-      "id": "33548",
-      "source": "geeknews",
-      "title": "AI 때문에 느끼는 슬픔",
-      "url": "https://news.hada.io/topic?id=33548",
-      "commentsUrl": "https://news.hada.io/topic?id=33548",
-      "author": "neo",
-      "publishedAt": "2026-09-11T18:40:35.000Z"
     }
   ]
 }

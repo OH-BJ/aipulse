@@ -1,56 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-12T14:46:25.507Z",
+  "fetchedAt": "2026-09-13T02:31:27.064Z",
   "items": [
     {
-      "id": "49662371",
+      "id": "49676820",
       "source": "hn",
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "score": 1066,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49662371",
-      "author": "meredydd",
-      "publishedAt": "2026-09-11T17:45:12.000Z"
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "score": 128,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49676820",
+      "author": "theanonymousone",
+      "publishedAt": "2026-09-12T20:25:48.000Z"
+    },
+    {
+      "id": "49673098",
+      "source": "hn",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "score": 406,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49673098",
+      "author": "tolugenius",
+      "publishedAt": "2026-09-12T15:08:27.000Z"
+    },
+    {
+      "id": "49678783",
+      "source": "hn",
+      "title": "Align AI and Mathematics–To Something Else",
+      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49678783",
+      "author": "nitrogenpuddle",
+      "publishedAt": "2026-09-13T00:47:48.000Z"
+    },
+    {
+      "id": "49678969",
+      "source": "hn",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49678969",
+      "author": "jonifico",
+      "publishedAt": "2026-09-13T01:22:31.000Z"
+    },
+    {
+      "id": "49678683",
+      "source": "hn",
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "score": 142,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49678683",
+      "author": "xena",
+      "publishedAt": "2026-09-13T00:30:44.000Z"
+    },
+    {
+      "id": "49678435",
+      "source": "hn",
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49678435",
+      "author": "ZihuiGeorgia",
+      "publishedAt": "2026-09-12T23:45:58.000Z"
     },
     {
       "id": "49671159",
       "source": "hn",
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "title": "The worst spam emails: iLands AI agent hustle",
       "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "score": 58,
+      "score": 107,
       "commentsUrl": "https://news.ycombinator.com/item?id=49671159",
       "author": "ColinWright",
       "publishedAt": "2026-09-12T11:13:38.000Z"
     },
     {
-      "id": "49666735",
+      "id": "49662371",
       "source": "hn",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
-      "score": 833,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49666735",
-      "author": "chao-",
-      "publishedAt": "2026-09-11T23:17:42.000Z"
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 1180,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49662371",
+      "author": "meredydd",
+      "publishedAt": "2026-09-11T17:45:12.000Z"
     },
     {
-      "id": "49672281",
+      "id": "49677519",
       "source": "hn",
-      "title": "LLMs are real, AI is fake",
-      "url": "https://pluralistic.net/2026/09/12/god-in-the-box/",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49672281",
-      "author": "danaris",
-      "publishedAt": "2026-09-12T13:47:28.000Z"
+      "title": "An Advanced System Architecture Breakdown of OpenAI's Jalapeno Accelerator",
+      "url": "https://www.siliconcodesign.com/p/an-advanced-system-architecture-breakdown",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49677519",
+      "author": "porridgeraisin",
+      "publishedAt": "2026-09-12T21:44:28.000Z"
     },
     {
-      "id": "49656225",
+      "id": "49677986",
       "source": "hn",
-      "title": "Claude is only available to people over 18 years",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "score": 656,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49656225",
-      "author": "Muhammad523",
-      "publishedAt": "2026-09-11T10:48:00.000Z"
+      "title": "A full-duplex AI phone agent that listens while speaking",
+      "url": "https://www.famulor.io",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49677986",
+      "author": "imankoma",
+      "publishedAt": "2026-09-12T22:42:43.000Z"
+    },
+    {
+      "id": "49676849",
+      "source": "hn",
+      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "score": 75,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49676849",
+      "author": "humanlion87",
+      "publishedAt": "2026-09-12T20:28:29.000Z"
     },
     {
       "id": "49661645",
@@ -63,104 +123,44 @@
       "publishedAt": "2026-09-11T17:00:17.000Z"
     },
     {
-      "id": "49665711",
+      "id": "49678566",
       "source": "hn",
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "score": 111,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49665711",
-      "author": "artninja1988",
-      "publishedAt": "2026-09-11T21:35:29.000Z"
+      "title": "Apple A20 Pro 2nm Crushes Geekbench, Anthropic Cyber Misuse and Vision Pro 2",
+      "url": "https://www.youtube.com/watch?v=X_65gfY3wV0",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49678566",
+      "author": "LebToki",
+      "publishedAt": "2026-09-13T00:10:12.000Z"
     },
     {
-      "id": "49659647",
+      "id": "49678555",
       "source": "hn",
-      "title": "Show HN: Hacker News, without AI",
-      "url": "https://hcker.news/?ai=exclude",
-      "score": 194,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49659647",
-      "author": "postalcoder",
-      "publishedAt": "2026-09-11T15:01:19.000Z"
+      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
+      "url": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49678555",
+      "author": "usernomdeguerre",
+      "publishedAt": "2026-09-13T00:07:29.000Z"
     },
     {
-      "id": "49660482",
+      "id": "49678542",
       "source": "hn",
-      "title": "Hacker News with reduced priority for AI driven content",
-      "url": "https://sprinklz.io/public/pdwt4dve5uai",
-      "score": 120,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49660482",
-      "author": "sammy0910",
-      "publishedAt": "2026-09-11T15:52:49.000Z"
+      "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
+      "url": "https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49678542",
+      "author": "encyclopedism",
+      "publishedAt": "2026-09-13T00:04:15.000Z"
     },
     {
-      "id": "49649213",
+      "id": "49674280",
       "source": "hn",
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 344,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49649213",
-      "author": "aquir",
-      "publishedAt": "2026-09-10T19:43:22.000Z"
-    },
-    {
-      "id": "49647300",
-      "source": "hn",
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "score": 179,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49647300",
-      "author": "garo-pro",
-      "publishedAt": "2026-09-10T17:23:42.000Z"
-    },
-    {
-      "id": "49667822",
-      "source": "hn",
-      "title": "\"What Is an 'AI Warning Shot'?\" (2024)",
-      "url": "https://gwern.net/blog/2024/sydney",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49667822",
-      "author": "simonpure",
-      "publishedAt": "2026-09-12T01:46:45.000Z"
-    },
-    {
-      "id": "49666425",
-      "source": "hn",
-      "title": "Houthis used Anthropic to develop guided weapons",
-      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
-      "score": 57,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49666425",
-      "author": "Alien1Being",
-      "publishedAt": "2026-09-11T22:44:03.000Z"
-    },
-    {
-      "id": "49644179",
-      "source": "hn",
-      "title": "AI Is Breaking This Thing We Call Trust",
-      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-      "score": 120,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49644179",
-      "author": "matheusml",
-      "publishedAt": "2026-09-10T14:21:20.000Z"
-    },
-    {
-      "id": "49639090",
-      "source": "hn",
-      "title": "DeepSeek v4.1 Flash",
-      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "score": 1004,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49639090",
-      "author": "Liwink",
-      "publishedAt": "2026-09-10T06:11:05.000Z"
-    },
-    {
-      "id": "49660783",
-      "source": "hn",
-      "title": "Show HN: Hacker News, Without AI",
-      "url": "https://www.unslop.news/",
-      "score": 189,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49660783",
-      "author": "otherayden",
-      "publishedAt": "2026-09-11T16:08:50.000Z"
+      "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+      "url": "https://www.tokendelivery.ai/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49674280",
+      "author": "carsonpoole",
+      "publishedAt": "2026-09-12T16:45:14.000Z"
     }
   ]
 }
