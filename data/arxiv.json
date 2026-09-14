@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-09-14T02:47:26.294Z",
-  "items": []
+  "fetchedAt": "2026-09-14T17:22:09.545Z",
+  "items": [
+    {
+      "id": "2609.10706",
+      "source": "arxiv",
+      "title": "HuRo: Robotizing Human Videos for Scalable VLA Pretraining",
+      "url": "https://arxiv.org/abs/2609.10706",
+      "author": "Jinho Jeong, Se June Joo, Jaehyun Kang +4",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Human video datasets have emerged as a compelling alternative to expensive real-robot data, offering rich diversity at scale. To bridge the human-to-robot embodiment gap, existing approaches either ro…"
+    },
+    {
+      "id": "2609.06993",
+      "source": "arxiv",
+      "title": "LatentMD: Benchmarking Markdown Boundary Failures in LLM-Generated Text",
+      "url": "https://arxiv.org/abs/2609.06993",
+      "author": "Sungjune Lee, Myungjoo Kang",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Large language models (LLMs) increasingly generate Markdown that is consumed by renderers, agents, code extractors, and structured downstream pipelines. Yet existing evaluations often conflate content…"
+    },
+    {
+      "id": "2609.06444",
+      "source": "arxiv",
+      "title": "Decomposing LLM-Judge Uncertainty to Target Expert Labels",
+      "url": "https://arxiv.org/abs/2609.06444",
+      "author": "Ryan Lail",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "An LLM judge evaluates outputs at scale. Experts should label only where it is least sure. Its natural escalation signal conflates two uncertainties: aleatoric, real disagreement in the expert pool, w…"
+    },
+    {
+      "id": "2609.03846",
+      "source": "arxiv",
+      "title": "EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments",
+      "url": "https://arxiv.org/abs/2609.03846",
+      "author": "Zih-Sian Yang, Yi-Hao Chen, Yu-Te Kuan +3",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "We study the allocation of indivisible goods among agents with identical additive valuations, focusing on envy-freeness up to one good (EF1) and Nash social welfare (NSW). Since every maximum-NSW allo…"
+    },
+    {
+      "id": "2609.03210",
+      "source": "arxiv",
+      "title": "Improving precipitation forecasts in an AI weather model using observational data",
+      "url": "https://arxiv.org/abs/2609.03210",
+      "author": "Julian F. Schmitt, Bertrand Delorme, Robert C. King +4",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Artificial intelligence weather prediction systems now surpass state-of-the-art physical models for medium-range forecasting. However, because these models are trained almost exclusively on historical…"
+    },
+    {
+      "id": "2608.29208",
+      "source": "arxiv",
+      "title": "AdaVLA: Adaptive Step Flow Matching for Training-free Acceleration of Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2608.29208",
+      "author": "Sunghwan Han, Youngtae Han, Youngmin Yi",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Vision-Language-Action (VLA) models, built upon Vision-Language Models (VLMs), have significantly enhanced robotic capabilities by leveraging internet-scale knowledge and multimodal reasoning. However…"
+    },
+    {
+      "id": "2608.02100",
+      "source": "arxiv",
+      "title": "From Information to Delegation: Mapping Human-AI Financial Decision Making",
+      "url": "https://arxiv.org/abs/2608.02100",
+      "author": "Iman Munire Bilal, Yingcan Carol Wang, Ajan Raj +5",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "As AI increasingly participates in human decision making, understanding how decision-making authority is distributed between humans and AI has become a fundamental behavioural question. We introduce a…"
+    },
+    {
+      "id": "2608.01473",
+      "source": "arxiv",
+      "title": "Slot2Text: Object-Centric Visual Tokenization for Efficient and Spatially Traceable Surgical MLLMs",
+      "url": "https://arxiv.org/abs/2608.01473",
+      "author": "Guiqiu Liao, Matjaz Jogan, Daniel A. Hashimoto",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Multimodal large language models (MLLM) for surgical scene understanding typically inject hundreds of dense visual tokens into a language model, leading to costly inference and limited spatial traceab…"
+    },
+    {
+      "id": "2607.24077",
+      "source": "arxiv",
+      "title": "When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents",
+      "url": "https://arxiv.org/abs/2607.24077",
+      "author": "Marina Gardella, Camilo Mari\\~no, Diego Belzarena +3",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Optical Character Recognition (OCR) is a key component in the digitization of historical archives. Recently, Vision-Language Models (VLMs) have emerged as strong alternatives to traditional OCR system…"
+    },
+    {
+      "id": "2607.03671",
+      "source": "arxiv",
+      "title": "Diffusion learning reveals viable parameter manifolds and compensation geometry in biological dynamical systems",
+      "url": "https://arxiv.org/abs/2607.03671",
+      "author": "Ruilin Zhang, Louis Tao, Zhuo-Cheng Xiao",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Models of complex systems often have many parameters, yet are constrained by far fewer experimentally accessible observables; consequently, similar activity can emerge from coordinated parameter chang…"
+    },
+    {
+      "id": "2606.26723",
+      "source": "arxiv",
+      "title": "State-specific respiratory signatures for affective and stress recognition: Interpretable respiratory markers, autocorrelation lags, and compact CNN models",
+      "url": "https://arxiv.org/abs/2606.26723",
+      "author": "Andrei Velichko, Mehmet Tahir Huyut",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Respiratory activity is a direct and interpretable physiological channel for wearable stress and affective-state recognition, yet many studies emphasize classification accuracy without identifying whi…"
+    },
+    {
+      "id": "2606.16000",
+      "source": "arxiv",
+      "title": "GRACE-DS: a Guarded Reward-guided Agent Correction Environment in Data Science",
+      "url": "https://arxiv.org/abs/2606.16000",
+      "author": "Aleksandr Tsymbalov, Danis Zaripov, Artem Epifanov +1",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "We introduce GRACE-DS, a Guarded Reward-guided Agent Correction Environment in Data Science for pre-deployment evaluation of LLM-powered AutoML agents. GRACE-DS is a set of evaluation metrics in an is…"
+    },
+    {
+      "id": "2606.08496",
+      "source": "arxiv",
+      "title": "SAEExplainer: Interpreting SAE Features with Activation-Guided Preference Optimization",
+      "url": "https://arxiv.org/abs/2606.08496",
+      "author": "Jingyi He, Haiyan Zhao, Ruxue Shi +4",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Although Sparse Autoencoders (SAEs) have mitigated the opacity of large language models (LLMs) by decomposing dense representations into sparse features, explaining these features still remains a cent…"
+    },
+    {
+      "id": "2605.21081",
+      "source": "arxiv",
+      "title": "Musical Attention Transformer: Music Generation Using a Music-Specific Attention Model",
+      "url": "https://arxiv.org/abs/2605.21081",
+      "author": "Shinnosuke Takasuka, Hideo Mukai",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "This study aims to enhance the quality of music generation using Transformers by incorporating meta-information. While Transformer-based approaches are effective at capturing long-term dependencies in…"
+    },
+    {
+      "id": "2605.06377",
+      "source": "arxiv",
+      "title": "Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics",
+      "url": "https://arxiv.org/abs/2605.06377",
+      "author": "Philip Jordan, Maryam Kamgarpour",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "We study Nash equilibrium learning in partially observable Markov games (POMGs), a multi-agent reinforcement learning framework in which agents cannot fully observe the underlying state. Prior work in…"
+    },
+    {
+      "id": "2605.04269",
+      "source": "arxiv",
+      "title": "Adapt or Forget: Provable Tradeoffs Between Adam and SGD in Nonstationary Optimization",
+      "url": "https://arxiv.org/abs/2605.04269",
+      "author": "Sharan Sahu, Abir Sarkar, Cameron J. Hogan +1",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "We provide a theoretical analysis of Adam under non-stationary stochastic objectives, separating two regimes: Euclidean tracking under adaptive strong monotonicity of the Adam-preconditioned mean-grad…"
+    },
+    {
+      "id": "2605.02439",
+      "source": "arxiv",
+      "title": "Anomaly-Preference Image Generation",
+      "url": "https://arxiv.org/abs/2605.02439",
+      "author": "Fuyun Wang, Yuanzhi Wang, Xu Guo +6",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Synthesizing realistic and diverse anomalous samples from limited data is vital for robust model generalization. However, existing methods struggle to reconcile fidelity and diversity, often hampered…"
+    },
+    {
+      "id": "2604.13050",
+      "source": "arxiv",
+      "title": "Exploring Urban Land Use Patterns by Pattern Mining and Unsupervised Learning",
+      "url": "https://arxiv.org/abs/2604.13050",
+      "author": "Zdena Dobesova, Tai Dinh, Pavel Novak",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Comparative planning needs reproducible methods for identifying recurring land-use configurations across cities. Using Urban Atlas 2018 data for 100 European urban areas, we construct 290,396 focal-ne…"
+    },
+    {
+      "id": "2603.27909",
+      "source": "arxiv",
+      "title": "An Empirical Markov Chain Car-Following (MC-CF) Model",
+      "url": "https://arxiv.org/abs/2603.27909",
+      "author": "Sungyong Chung, Yanlin Zhang, Nachuan Li +2",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Car-following behavior is fundamental to traffic flow theory, yet traditional models often fail to capture the stochasticity of naturalistic driving. This paper proposes an empirical probabilistic sam…"
+    },
+    {
+      "id": "2602.13177",
+      "source": "arxiv",
+      "title": "Block-Norm Geometries for Online Mirror Descent with Sparse Losses",
+      "url": "https://arxiv.org/abs/2602.13177",
+      "author": "Swati Gupta, Jai Moondra, Mohit Singh",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "The performance of online mirror descent depends critically on the geometry induced by its mirror map, yet standard algorithms largely rely on two canonical choices: Euclidean and entropic geometry. W…"
+    },
+    {
+      "id": "2601.18685",
+      "source": "arxiv",
+      "title": "LLAMA LIMA: A Living Meta-Analysis on the Effects of Generative AI on Learning Mathematics",
+      "url": "https://arxiv.org/abs/2601.18685",
+      "author": "Anselm Strohmaier, Samira B\\\"odefeld, Oliver Straser +1",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "The capabilities of generative AI in mathematics education are rapidly evolving, posing significant challenges for research to keep pace. Research syntheses remain scarce and risk being outdated by th…"
+    },
+    {
+      "id": "2601.16982",
+      "source": "arxiv",
+      "title": "AnyView: Synthesizing Any Novel View in Dynamic Scenes",
+      "url": "https://arxiv.org/abs/2601.16982",
+      "author": "Basile Van Hoorick, Dian Chen, Shun Iwase +7",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Modern generative video models excel at producing convincing, high-quality outputs, but struggle to maintain multi-view and spatiotemporal consistency in highly dynamic real-world environments. In thi…"
+    },
+    {
+      "id": "2601.10657",
+      "source": "arxiv",
+      "title": "PACEvolve: Enabling Progress-Aware Consistent Evolution",
+      "url": "https://arxiv.org/abs/2601.10657",
+      "author": "Minghao Yan, Bo Peng, Benjamin Coleman +13",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Self-evolving agents powered by Large Language Models (LLMs) have emerged as a promising direction across diverse domains, including code optimization and scientific discovery, yet their core failure…"
+    },
+    {
+      "id": "2512.23829",
+      "source": "arxiv",
+      "title": "Deep learning methods for inverse problems using connections between proximal operators and Hamilton-Jacobi equations",
+      "url": "https://arxiv.org/abs/2512.23829",
+      "author": "Oluwatosin Akande, Gabriel P. Langlois, Akwum Onwunta",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Inverse problems are important mathematical problems that seek to recover model parameters from noisy data. Since inverse problems are often ill-posed, they require regularization or incorporation of…"
+    },
+    {
+      "id": "2511.20941",
+      "source": "arxiv",
+      "title": "Classical and quantum kernel fusion for two-sample testing",
+      "url": "https://arxiv.org/abs/2511.20941",
+      "author": "Yu Terada, Yugo Ogio, Ken Arai +2",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Two-sample tests have been extensively employed in various scientific fields and machine learning to discriminate whether two sets of samples come from the same distribution or not. Kernel-based proce…"
+    },
+    {
+      "id": "2510.26046",
+      "source": "arxiv",
+      "title": "Bias-Corrected Data Synthesis for Imbalanced Learning",
+      "url": "https://arxiv.org/abs/2510.26046",
+      "author": "Pengfei Lyu, Zhengchi Ma, Linjun Zhang +1",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Class imbalance complicates probabilistic classification because standard training objectives emphasize majority-class performance. Synthetic oversampling can reduce imbalance, but discrepancies betwe…"
+    },
+    {
+      "id": "2510.15435",
+      "source": "arxiv",
+      "title": "Nonlinear Dimensionality Reduction Techniques for Bayesian Optimization",
+      "url": "https://arxiv.org/abs/2510.15435",
+      "author": "Luo Long, Coralia Cartis, Paz Fink Shustin",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Bayesian optimisation (BO) enables sample-efficient global optimisation of expensive black-box functions but remains challenging in high dimensions. We investigate nonlinear dimensionality reduction t…"
+    },
+    {
+      "id": "2508.08096",
+      "source": "arxiv",
+      "title": "Limits of LLM Text Detectors in Education",
+      "url": "https://arxiv.org/abs/2508.08096",
+      "author": "Lukas Gehring, Benjamin Paa{\\ss}en",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Students increasingly use the assistance of large language models (LLMs) in their academic writing. While slight assistance (e.g., grammar and style correction, as well as feedback) is permitted under…"
+    },
+    {
+      "id": "2506.23010",
+      "source": "arxiv",
+      "title": "On Universality of Non-Separable Approximate Message Passing Algorithms",
+      "url": "https://arxiv.org/abs/2506.23010",
+      "author": "Max Lovig, Tianhao Wang, Zhou Fan",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Mean-field characterizations of first-order iterative algorithms -- including Approximate Message Passing (AMP), stochastic and proximal gradient descent, and Langevin diffusions -- have enabled a pre…"
+    },
+    {
+      "id": "2505.09552",
+      "source": "arxiv",
+      "title": "Scalable Krylov Subspace Methods for Generalized Mixed-Effects Models with Crossed Random Effects",
+      "url": "https://arxiv.org/abs/2505.09552",
+      "author": "Pascal K\\\"undig, Fabio Sigrist",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "summary": "Mixed-effects models are widely used to model data with complex grouping structures and high-cardinality categorical predictor variables. However, for high-dimensional crossed random effects, current…"
+    }
+  ]
 }
