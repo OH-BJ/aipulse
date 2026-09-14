@@ -1,96 +1,156 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-13T15:25:31.729Z",
+  "fetchedAt": "2026-09-14T02:47:26.862Z",
   "items": [
+    {
+      "id": "49690260",
+      "source": "hn",
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49690260",
+      "author": "simonpure",
+      "publishedAt": "2026-09-14T00:22:51.000Z"
+    },
+    {
+      "id": "49690529",
+      "source": "hn",
+      "title": "AI is not a normal technology",
+      "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49690529",
+      "author": "theahura",
+      "publishedAt": "2026-09-14T01:00:09.000Z"
+    },
+    {
+      "id": "49690139",
+      "source": "hn",
+      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49690139",
+      "author": "sbulaev",
+      "publishedAt": "2026-09-14T00:07:09.000Z"
+    },
+    {
+      "id": "49653311",
+      "source": "hn",
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "score": 62,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49653311",
+      "author": "rzk",
+      "publishedAt": "2026-09-11T03:45:42.000Z"
+    },
+    {
+      "id": "49690411",
+      "source": "hn",
+      "title": "AI Robots – When will they be in our homes",
+      "url": "https://spectrum.ieee.org/ai-robots",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49690411",
+      "author": "andsoitis",
+      "publishedAt": "2026-09-14T00:44:23.000Z"
+    },
+    {
+      "id": "49685253",
+      "source": "hn",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "score": 365,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49685253",
+      "author": "TheJCDenton",
+      "publishedAt": "2026-09-13T15:44:38.000Z"
+    },
+    {
+      "id": "49685991",
+      "source": "hn",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "score": 277,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49685991",
+      "author": "kolanos",
+      "publishedAt": "2026-09-13T16:52:33.000Z"
+    },
     {
       "id": "49678969",
       "source": "hn",
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "score": 414,
+      "score": 597,
       "commentsUrl": "https://news.ycombinator.com/item?id=49678969",
       "author": "jonifico",
       "publishedAt": "2026-09-13T01:22:31.000Z"
     },
     {
-      "id": "49684266",
+      "id": "49689534",
       "source": "hn",
-      "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
-      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49684266",
-      "author": "delichon",
-      "publishedAt": "2026-09-13T14:15:40.000Z"
+      "title": "The Three AI Pills",
+      "url": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49689534",
+      "author": "maxutility",
+      "publishedAt": "2026-09-13T22:47:20.000Z"
     },
     {
-      "id": "49673098",
+      "id": "49689664",
       "source": "hn",
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "score": 525,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49673098",
-      "author": "tolugenius",
-      "publishedAt": "2026-09-12T15:08:27.000Z"
+      "title": "It's All Fun and Games Until You Give AI Your Credit Card",
+      "url": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49689664",
+      "author": "fortran77",
+      "publishedAt": "2026-09-13T23:05:13.000Z"
+    },
+    {
+      "id": "49687869",
+      "source": "hn",
+      "title": "There Is No AI (It's Just People) with Jaron Lanier",
+      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+      "score": 70,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49687869",
+      "author": "andsoitis",
+      "publishedAt": "2026-09-13T19:41:06.000Z"
+    },
+    {
+      "id": "49690627",
+      "source": "hn",
+      "title": "Opportunistic AI detects colorectal cancer using routine, noncontrast CT",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49690627",
+      "author": "pseudolus",
+      "publishedAt": "2026-09-14T01:16:43.000Z"
+    },
+    {
+      "id": "49687334",
+      "source": "hn",
+      "title": "AI recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "score": 66,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49687334",
+      "author": "dgellow",
+      "publishedAt": "2026-09-13T18:49:44.000Z"
     },
     {
       "id": "49678683",
       "source": "hn",
       "title": "Everyone should slow down AI development except for me",
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "score": 646,
+      "score": 753,
       "commentsUrl": "https://news.ycombinator.com/item?id=49678683",
       "author": "xena",
       "publishedAt": "2026-09-13T00:30:44.000Z"
     },
     {
-      "id": "49678435",
+      "id": "49689696",
       "source": "hn",
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "url": "https://agentsdock.net/",
-      "score": 74,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49678435",
-      "author": "ZihuiGeorgia",
-      "publishedAt": "2026-09-12T23:45:58.000Z"
-    },
-    {
-      "id": "49676820",
-      "source": "hn",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "score": 254,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49676820",
-      "author": "theanonymousone",
-      "publishedAt": "2026-09-12T20:25:48.000Z"
-    },
-    {
-      "id": "49684180",
-      "source": "hn",
-      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
-      "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49684180",
-      "author": "CoderLim110",
-      "publishedAt": "2026-09-13T14:08:51.000Z"
-    },
-    {
-      "id": "49662371",
-      "source": "hn",
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "score": 1204,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49662371",
-      "author": "meredydd",
-      "publishedAt": "2026-09-11T17:45:12.000Z"
-    },
-    {
-      "id": "49671159",
-      "source": "hn",
-      "title": "The worst spam emails: iLands AI agent hustle",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "score": 116,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49671159",
-      "author": "ColinWright",
-      "publishedAt": "2026-09-12T11:13:38.000Z"
+      "title": "Ask HN: Would a startup for young creatives who reject AI be feasible?",
+      "url": "https://news.ycombinator.com/item?id=49689696",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49689696",
+      "author": "mondobe",
+      "publishedAt": "2026-09-13T23:09:37.000Z"
     },
     {
       "id": "49661645",
@@ -103,44 +163,14 @@
       "publishedAt": "2026-09-11T17:00:17.000Z"
     },
     {
-      "id": "49683834",
+      "id": "49662371",
       "source": "hn",
-      "title": "AI models don't kill people – people kill people",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
-      "score": 33,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49683834",
-      "author": "Bender",
-      "publishedAt": "2026-09-13T13:33:34.000Z"
-    },
-    {
-      "id": "49679685",
-      "source": "hn",
-      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
-      "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
-      "score": 40,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49679685",
-      "author": "pseudolus",
-      "publishedAt": "2026-09-13T03:25:32.000Z"
-    },
-    {
-      "id": "49677986",
-      "source": "hn",
-      "title": "A full-duplex AI phone agent that listens while speaking",
-      "url": "https://www.famulor.io",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49677986",
-      "author": "imankoma",
-      "publishedAt": "2026-09-12T22:42:43.000Z"
-    },
-    {
-      "id": "49676849",
-      "source": "hn",
-      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "score": 94,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49676849",
-      "author": "humanlion87",
-      "publishedAt": "2026-09-12T20:28:29.000Z"
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 1223,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49662371",
+      "author": "meredydd",
+      "publishedAt": "2026-09-11T17:45:12.000Z"
     }
   ]
 }
