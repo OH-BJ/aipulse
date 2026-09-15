@@ -1,43 +1,133 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-15T02:50:21.580Z",
+  "fetchedAt": "2026-09-15T16:00:26.519Z",
   "items": [
     {
-      "id": "49706656",
+      "id": "49713999",
       "source": "hn",
-      "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
-      "url": "https://sunkcost.ai/",
-      "score": 24,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49706656",
-      "author": "rlindsey123",
-      "publishedAt": "2026-09-15T01:37:43.000Z"
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "url": "https://www.formas.ai/cartesian",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49713999",
+      "author": "eustoria",
+      "publishedAt": "2026-09-15T15:26:45.000Z"
+    },
+    {
+      "id": "49712416",
+      "source": "hn",
+      "title": "AI is breaking our proxies for expertise",
+      "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+      "score": 55,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49712416",
+      "author": "jbkcc",
+      "publishedAt": "2026-09-15T13:41:55.000Z"
+    },
+    {
+      "id": "49711240",
+      "source": "hn",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "score": 101,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49711240",
+      "author": "myth_drannon",
+      "publishedAt": "2026-09-15T12:01:31.000Z"
     },
     {
       "id": "49697477",
       "source": "hn",
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
       "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "score": 41,
+      "score": 148,
       "commentsUrl": "https://news.ycombinator.com/item?id=49697477",
       "author": "nathannaveen",
       "publishedAt": "2026-09-14T14:29:23.000Z"
+    },
+    {
+      "id": "49712719",
+      "source": "hn",
+      "title": "German companies rely almost exclusively on AI models and services from the USA",
+      "url": "https://www.heise.de/en/news/US-AI-dominates-companies-China-models-hardly-used-EU-AI-plays-no-role-11446969.html",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49712719",
+      "author": "raincole",
+      "publishedAt": "2026-09-15T14:05:42.000Z"
+    },
+    {
+      "id": "49713132",
+      "source": "hn",
+      "title": "OpenAI Wants to Know If an AI Industry Slowdown Would Even Be Legal",
+      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49713132",
+      "author": "ent101",
+      "publishedAt": "2026-09-15T14:31:43.000Z"
+    },
+    {
+      "id": "49713671",
+      "source": "hn",
+      "title": "Building your first LLM API call in Python (step by step)",
+      "url": "https://heymeraki.substack.com/p/aie_10-building-it",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49713671",
+      "author": "heyy-meraki",
+      "publishedAt": "2026-09-15T15:05:56.000Z"
+    },
+    {
+      "id": "49712120",
+      "source": "hn",
+      "title": "AI Regulation as Anthropic's Business Model",
+      "url": "https://twitter.com/kevinnbass/status/2099621874279817638",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49712120",
+      "author": "hsuduebc2",
+      "publishedAt": "2026-09-15T13:21:34.000Z"
+    },
+    {
+      "id": "49712714",
+      "source": "hn",
+      "title": "Experience Necessary. The Irony of Building a Skilled Team in the Age of AI",
+      "url": "https://benversh.substack.com/p/experience-necessary-the-irony-of",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49712714",
+      "author": "another-dave",
+      "publishedAt": "2026-09-15T14:05:13.000Z"
     },
     {
       "id": "49695876",
       "source": "hn",
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "score": 386,
+      "score": 498,
       "commentsUrl": "https://news.ycombinator.com/item?id=49695876",
       "author": "gregnavis",
       "publishedAt": "2026-09-14T12:40:57.000Z"
+    },
+    {
+      "id": "49697094",
+      "source": "hn",
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "score": 107,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49697094",
+      "author": "rbanffy",
+      "publishedAt": "2026-09-14T14:04:53.000Z"
+    },
+    {
+      "id": "49711455",
+      "source": "hn",
+      "title": "Open weights are not open source: Why AI's favorite label is under dispute",
+      "url": "https://www.theregister.com/columnists/2026/09/15/open-weights-are-not-open-source-why-ais-favorite-label-is-under-dispute/5295436",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49711455",
+      "author": "pseudolus",
+      "publishedAt": "2026-09-15T12:21:26.000Z"
     },
     {
       "id": "49706223",
       "source": "hn",
       "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-      "score": 37,
+      "score": 202,
       "commentsUrl": "https://news.ycombinator.com/item?id=49706223",
       "author": "throwworhtthrow",
       "publishedAt": "2026-09-15T00:40:14.000Z"
@@ -47,140 +137,10 @@
       "source": "hn",
       "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
       "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "score": 117,
+      "score": 154,
       "commentsUrl": "https://news.ycombinator.com/item?id=49703003",
       "author": "theanonymousone",
       "publishedAt": "2026-09-14T19:56:20.000Z"
-    },
-    {
-      "id": "49697094",
-      "source": "hn",
-      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "url": "https://spectrum.ieee.org/adversarial-fashion",
-      "score": 95,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49697094",
-      "author": "rbanffy",
-      "publishedAt": "2026-09-14T14:04:53.000Z"
-    },
-    {
-      "id": "49705630",
-      "source": "hn",
-      "title": "Anthropic is in regulatory-capture financial loop",
-      "url": "https://twitter.com/kevinnbass/status/2099626156660043891",
-      "score": 29,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49705630",
-      "author": "762236",
-      "publishedAt": "2026-09-14T23:23:46.000Z"
-    },
-    {
-      "id": "49699373",
-      "source": "hn",
-      "title": "Claude is a Contrarian",
-      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-      "score": 115,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49699373",
-      "author": "rdsubhas",
-      "publishedAt": "2026-09-14T16:14:24.000Z"
-    },
-    {
-      "id": "49693384",
-      "source": "hn",
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "url": "https://github.com/anuj0456/OpenArch",
-      "score": 133,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49693384",
-      "author": "anuj0456",
-      "publishedAt": "2026-09-14T07:55:19.000Z"
-    },
-    {
-      "id": "49699590",
-      "source": "hn",
-      "title": "When LLM judges agree, should we believe them?",
-      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-      "score": 51,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49699590",
-      "author": "Betelbuddy",
-      "publishedAt": "2026-09-14T16:29:30.000Z"
-    },
-    {
-      "id": "49704018",
-      "source": "hn",
-      "title": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
-      "url": "https://arxiv.org/abs/2609.12551",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49704018",
-      "author": "matt_d",
-      "publishedAt": "2026-09-14T21:06:23.000Z"
-    },
-    {
-      "id": "49695409",
-      "source": "hn",
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "score": 219,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49695409",
-      "author": "tosh",
-      "publishedAt": "2026-09-14T12:01:32.000Z"
-    },
-    {
-      "id": "49690260",
-      "source": "hn",
-      "title": "Open-source AI and open models reading list",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "score": 152,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49690260",
-      "author": "simonpure",
-      "publishedAt": "2026-09-14T00:22:51.000Z"
-    },
-    {
-      "id": "49694596",
-      "source": "hn",
-      "title": "Big AI sets out its terms for regulatory capture",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
-      "score": 116,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49694596",
-      "author": "joebuckwilliams",
-      "publishedAt": "2026-09-14T10:28:28.000Z"
-    },
-    {
-      "id": "49696084",
-      "source": "hn",
-      "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
-      "url": "https://triangllabs.ai/otis",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49696084",
-      "author": "petrenk0n",
-      "publishedAt": "2026-09-14T12:58:32.000Z"
-    },
-    {
-      "id": "49678969",
-      "source": "hn",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "score": 646,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49678969",
-      "author": "jonifico",
-      "publishedAt": "2026-09-13T01:22:31.000Z"
-    },
-    {
-      "id": "49694035",
-      "source": "hn",
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "url": "https://arxiv.org/abs/2511.07885",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49694035",
-      "author": "pythonic_hell",
-      "publishedAt": "2026-09-14T09:16:39.000Z"
-    },
-    {
-      "id": "49698952",
-      "source": "hn",
-      "title": "ProGantt: Gantt charts your AI agent can read and write via MCP",
-      "url": "https://progantt.com",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49698952",
-      "author": "supermafete",
-      "publishedAt": "2026-09-14T15:48:32.000Z"
     }
   ]
 }
