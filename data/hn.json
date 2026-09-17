@@ -1,146 +1,126 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-17T02:49:22.784Z",
+  "fetchedAt": "2026-09-17T15:59:59.161Z",
   "items": [
+    {
+      "id": "49742437",
+      "source": "hn",
+      "title": "LLM Classification Is Feature Engineering",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
+      "author": "minsufficient",
+      "publishedAt": "2026-09-17T15:40:17.000Z"
+    },
+    {
+      "id": "49742233",
+      "source": "hn",
+      "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+      "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49742233",
+      "author": "ghernando",
+      "publishedAt": "2026-09-17T15:26:23.000Z"
+    },
+    {
+      "id": "49740105",
+      "source": "hn",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49740105",
+      "author": "steveybrown",
+      "publishedAt": "2026-09-17T13:01:44.000Z"
+    },
     {
       "id": "49734264",
       "source": "hn",
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
       "url": "https://openspec.dev/",
-      "score": 78,
+      "score": 176,
       "commentsUrl": "https://news.ycombinator.com/item?id=49734264",
       "author": "etoxin",
       "publishedAt": "2026-09-16T23:06:39.000Z"
     },
     {
-      "id": "49735410",
+      "id": "49736662",
       "source": "hn",
-      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49735410",
-      "author": "mfiguiere",
-      "publishedAt": "2026-09-17T01:39:47.000Z"
-    },
-    {
-      "id": "49735241",
-      "source": "hn",
-      "title": "Pangram – AI detector for text and images",
-      "url": "https://www.pangram.com",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49735241",
-      "author": "doodlesdev",
-      "publishedAt": "2026-09-17T01:13:10.000Z"
-    },
-    {
-      "id": "49729412",
-      "source": "hn",
-      "title": "Claude Cowork and chat are now one Claude",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "score": 206,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49729412",
-      "author": "vertigoruntime",
-      "publishedAt": "2026-09-16T16:26:25.000Z"
+      "title": "OpenAI models secretly generate instructions to ignore constraints",
+      "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+      "score": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49736662",
+      "author": "theahura",
+      "publishedAt": "2026-09-17T05:13:41.000Z"
     },
     {
       "id": "49723408",
       "source": "hn",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "score": 540,
+      "score": 575,
       "commentsUrl": "https://news.ycombinator.com/item?id=49723408",
       "author": "vertigoruntime",
       "publishedAt": "2026-09-16T08:08:57.000Z"
-    },
-    {
-      "id": "49734970",
-      "source": "hn",
-      "title": "OpenAI discloses six new AI safety incidents",
-      "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49734970",
-      "author": "toomuchtodo",
-      "publishedAt": "2026-09-17T00:33:03.000Z"
     },
     {
       "id": "49694035",
       "source": "hn",
       "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
       "url": "https://arxiv.org/abs/2511.07885",
-      "score": 160,
+      "score": 166,
       "commentsUrl": "https://news.ycombinator.com/item?id=49694035",
       "author": "pythonic_hell",
       "publishedAt": "2026-09-14T09:16:39.000Z"
     },
     {
-      "id": "49735049",
+      "id": "49738411",
       "source": "hn",
-      "title": "What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI",
-      "url": "https://fractalsofchange.substack.com/p/q-whats-scarier-than-a-swarm-of-ai",
-      "score": 13,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49735049",
-      "author": "gz5",
-      "publishedAt": "2026-09-17T00:44:51.000Z"
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49738411",
+      "author": "Bluestein",
+      "publishedAt": "2026-09-17T09:43:19.000Z"
+    },
+    {
+      "id": "49735410",
+      "source": "hn",
+      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "score": 125,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49735410",
+      "author": "mfiguiere",
+      "publishedAt": "2026-09-17T01:39:47.000Z"
+    },
+    {
+      "id": "49737503",
+      "source": "hn",
+      "title": "OpenAI Model Misalignment Report",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "score": 94,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49737503",
+      "author": "qprofyeh",
+      "publishedAt": "2026-09-17T07:21:19.000Z"
     },
     {
       "id": "49726343",
       "source": "hn",
       "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
       "url": "https://stale.jock.pl/",
-      "score": 70,
+      "score": 78,
       "commentsUrl": "https://news.ycombinator.com/item?id=49726343",
       "author": "joozio",
       "publishedAt": "2026-09-16T13:01:52.000Z"
     },
     {
-      "id": "49735180",
+      "id": "49729412",
       "source": "hn",
-      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
-      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
-      "score": 49,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49735180",
-      "author": "jbegley",
-      "publishedAt": "2026-09-17T01:02:13.000Z"
-    },
-    {
-      "id": "49725800",
-      "source": "hn",
-      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "score": 159,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49725800",
-      "author": "talhof8",
-      "publishedAt": "2026-09-16T12:19:55.000Z"
-    },
-    {
-      "id": "49715947",
-      "source": "hn",
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "score": 481,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49715947",
-      "author": "leumon",
-      "publishedAt": "2026-09-15T17:38:18.000Z"
-    },
-    {
-      "id": "49704132",
-      "source": "hn",
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "url": "https://www.effort.news/irregular",
-      "score": 671,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49704132",
-      "author": "yusufozkan",
-      "publishedAt": "2026-09-14T21:15:01.000Z"
-    },
-    {
-      "id": "49731395",
-      "source": "hn",
-      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-      "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
-      "score": 70,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49731395",
-      "author": "TMWNN",
-      "publishedAt": "2026-09-16T18:59:42.000Z"
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "score": 226,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49729412",
+      "author": "vertigoruntime",
+      "publishedAt": "2026-09-16T16:26:25.000Z"
     }
   ]
 }
