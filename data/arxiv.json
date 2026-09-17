@@ -1,6 +1,6 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-09-16T15:53:46.032Z",
+  "fetchedAt": "2026-09-17T02:49:22.748Z",
   "items": [
     {
       "id": "2609.14036",
@@ -66,42 +66,6 @@
       "summary": "We present LaGSplat (Latent Lagrangian Gaussian Splatting), a framework that infers interactive, physics-governed dynamics from one or a few monocular videos. At inference it lets a user push on the f…"
     },
     {
-      "id": "2608.08485",
-      "source": "arxiv",
-      "title": "HoloAegis: Frozen Representation, Topological Inference --- Minimally Parametric Safety Manifolds and Their Capability Boundaries for LLM Guardrails",
-      "url": "https://arxiv.org/abs/2608.08485",
-      "author": "Tak Ho Alex Li, Kaijie Liu, Lik-Hang Lee +3",
-      "publishedAt": "2026-09-16T04:00:00.000Z",
-      "summary": "Current LLM safety guardrails face a fundamental tension: fine-tuning distorts pre-trained representations while generative judges incur prohibitive inference costs. We ask a complementary question: h…"
-    },
-    {
-      "id": "2608.07705",
-      "source": "arxiv",
-      "title": "Protecting patient privacy in clinical foundation models: Technical and legal perspectives",
-      "url": "https://arxiv.org/abs/2608.07705",
-      "author": "Sana Tonekaboni, Lena Stempfle, Sasha Ronaghi +4",
-      "publishedAt": "2026-09-16T04:00:00.000Z",
-      "summary": "Clinical foundation models trained on large-scale patient data are increasingly used for decision support, screening, and public health planning. As deployment expands, privacy risk arises from model-…"
-    },
-    {
-      "id": "2607.22511",
-      "source": "arxiv",
-      "title": "CausalSmith: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
-      "url": "https://arxiv.org/abs/2607.22511",
-      "author": "Jiyuan Tan, Vasilis Syrgkanis",
-      "publishedAt": "2026-09-16T04:00:00.000Z",
-      "summary": "Automating theoretical research requires generating candidate results and evaluating them reliably. Models keep getting better at the first, while the second remains hard. A common approach asks one l…"
-    },
-    {
-      "id": "2607.19837",
-      "source": "arxiv",
-      "title": "Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents",
-      "url": "https://arxiv.org/abs/2607.19837",
-      "author": "Or Zion Eliav, Eyal Lenga, Shir Bernstien +1",
-      "publishedAt": "2026-09-16T04:00:00.000Z",
-      "summary": "Traditional pentesting uses reconnaissance at each step to uncover unseen weaknesses, build stronger attacks, and advance the objective; we argue that AI agents require the same treatment. We formaliz…"
-    },
-    {
       "id": "2607.03641",
       "source": "arxiv",
       "title": "Missing Data Imputation under Manifold Hypothesis",
@@ -109,15 +73,6 @@
       "author": "Zelong Bi, Amuchechukwu Ibenegbu, Sarat Moka",
       "publishedAt": "2026-09-16T04:00:00.000Z",
       "summary": "The manifold hypothesis posits that high-dimensional data are concentrated near a low-dimensional embedded manifold. Recent advances in mixture variational autoencoders (VAEs) provide a powerful tool…"
-    },
-    {
-      "id": "2606.13621",
-      "source": "arxiv",
-      "title": "Shielded Analysis: Certification and Characterization of Defensibility in Systems under Adversarial Interaction",
-      "url": "https://arxiv.org/abs/2606.13621",
-      "author": "Achraf Hsain, Sultan Almuhammadi",
-      "publishedAt": "2026-09-16T04:00:00.000Z",
-      "summary": "Formal safety analysis determines whether a system admits a safe defense; adaptive evaluation characterizes the operating quality sustained under adversarial interaction. Both answers matter because s…"
     },
     {
       "id": "2606.10692",
@@ -145,15 +100,6 @@
       "author": "Duy Anh Nguyen",
       "publishedAt": "2026-09-16T04:00:00.000Z",
       "summary": "Automated Essay Scoring (AES) for English proficiency assessment increasingly relies on pretrained transformer models, yet these models are typically trained on general-domain English and may under-re…"
-    },
-    {
-      "id": "2605.24934",
-      "source": "arxiv",
-      "title": "HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos",
-      "url": "https://arxiv.org/abs/2605.24934",
-      "author": "Zhi Wang, Botao He, Kelin Yu +4",
-      "publishedAt": "2026-09-16T04:00:00.000Z",
-      "summary": "Human egocentric video captures rich manipulation demonstrations without any robot hardware, yet transferring these skills to robots remains challenging due to the embodiment gap between human and rob…"
     },
     {
       "id": "2605.24696",
@@ -210,24 +156,6 @@
       "summary": "Continuous inference over concurrent video streams imposes substantial compute and memory demands on vision-language model (VLM) serving. Streaming inference uses sliding windows to maintain a bounded…"
     },
     {
-      "id": "2603.13478",
-      "source": "arxiv",
-      "title": "Equivalence of approximation by networks of single- and multi-spike neurons",
-      "url": "https://arxiv.org/abs/2603.13478",
-      "author": "Dominik Dold, Philipp Christian Petersen",
-      "publishedAt": "2026-09-16T04:00:00.000Z",
-      "summary": "In a spiking neural network, is it enough for each neuron to spike at most once? In recent work, approximation bounds for spiking neural networks have been derived, quantifying how well they can fit t…"
-    },
-    {
-      "id": "2603.01098",
-      "source": "arxiv",
-      "title": "Differential privacy representation geometry for medical image analysis",
-      "url": "https://arxiv.org/abs/2603.01098",
-      "author": "Soroosh Tayebi Arasteh, Marziyeh Mohammadi, Sven Nebelung +1",
-      "publishedAt": "2026-09-16T04:00:00.000Z",
-      "summary": "Differential privacy (DP)'s effect in medical imaging is typically evaluated only through end-to-end performance, leaving the mechanism of privacy-induced utility loss unclear. We introduce Differenti…"
-    },
-    {
       "id": "2602.00532",
       "source": "arxiv",
       "title": "Meta-Learning-Assisted Constraint Relaxation for Constrained Black-Box Optimization",
@@ -271,6 +199,78 @@
       "author": "Arnav Sukhija, Lenart Treven, Jin Cheng +3",
       "publishedAt": "2026-09-16T04:00:00.000Z",
       "summary": "Most robotic systems rely on fixed-frequency discrete-time controllers, creating a trade-off between the efficiency of low-frequency control and the responsiveness of high-frequency feedback. As a res…"
+    },
+    {
+      "id": "2510.09619",
+      "source": "arxiv",
+      "title": "Risk-Calibrated Bayesian Streaming Intrusion Detection with SRE-Aligned Decisions",
+      "url": "https://arxiv.org/abs/2510.09619",
+      "author": "Michel A. Youssef (Independent Researcher)",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
+      "summary": "[Corrected v2: an audit found that the score, threshold, and latency descriptions below are not what the shared codebase implements, and that the evaluation streams are assembled constructions. See th…"
+    },
+    {
+      "id": "2508.17090",
+      "source": "arxiv",
+      "title": "Neural Stochastic Differential Equations on Compact State Spaces: Theory, Methods, and Application to Suicide Risk Modeling",
+      "url": "https://arxiv.org/abs/2508.17090",
+      "author": "Malinda Lu, Yue-Jane Liu, Matthew K. Nock +1",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
+      "summary": "Ecological Momentary Assessment (EMA) studies enable the collection of high-frequency self-reports of suicidal thoughts and behaviors (STBs) via smartphones. Latent stochastic differential equations (…"
+    },
+    {
+      "id": "2507.23248",
+      "source": "arxiv",
+      "title": "Script Fragmentation and Format: What Drives the English-Bengali Performance Gap in Open LLMs?",
+      "url": "https://arxiv.org/abs/2507.23248",
+      "author": "Shimanto Bhowmik, Tawsif Tashwar Dipto, Md Sazzad Islam +2",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
+      "summary": "Bengali is spoken by more than 230 million people, yet no standardized instrument evaluates large language models (LLMs) on Bengali across the task categories used to benchmark frontier models. We rel…"
+    },
+    {
+      "id": "2609.15903",
+      "source": "arxiv",
+      "title": "Discrete Beckmann Transport Models for One-Step Language Modeling and Reasoning",
+      "url": "https://arxiv.org/abs/2609.15903",
+      "author": "Sophia Tang, Shiyi Wang",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
+      "summary": "Discrete diffusion and flow models are a promising alternative to autoregressive language models, but compressing many-step sampling into fewer steps typically requires distilling a pretrained teacher…"
+    },
+    {
+      "id": "2609.15545",
+      "source": "arxiv",
+      "title": "The Token Before the Value Is the Key: How Hybrid Architectures Organize Induction Circuits",
+      "url": "https://arxiv.org/abs/2609.15545",
+      "author": "Ke Cheng, Xin Xu, Yixiao Chen +6",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
+      "summary": "Hybrid language models can improve capability as well as efficiency, raising the question of how architectural complementarity becomes learned computation. We examine the established induction roles o…"
+    },
+    {
+      "id": "2609.13197",
+      "source": "arxiv",
+      "title": "Algorithmic Information Dynamics of Learning: A Certified, Differentiable Complexity Controller for Grokking",
+      "url": "https://arxiv.org/abs/2609.13197",
+      "author": "Luan Ozelim, Abicumaran Uthamacumaran, Hector Zenil",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
+      "summary": "Algorithmic Information Dynamics (AID) studies systems by perturbing them and measuring changes in algorithmic complexity, but its usual estimator, the Block Decomposition Method, is piecewise constan…"
+    },
+    {
+      "id": "2609.11910",
+      "source": "arxiv",
+      "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
+      "url": "https://arxiv.org/abs/2609.11910",
+      "author": "Nitesh V. Chawla, Paulo Benanti",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
+      "summary": "Claims that Artificial Intelligence systems improve decisions, broaden access, reduce harm, or empower users can exceed what their evaluation establishes. Predictive performance alone does not establi…"
+    },
+    {
+      "id": "2609.09907",
+      "source": "arxiv",
+      "title": "Meta-LinEXP3: Online-within-Online Learning for Adversarial Linear Contextual Bandits",
+      "url": "https://arxiv.org/abs/2609.09907",
+      "author": "Hao Li, Jie Xu, Zheng Xie",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
+      "summary": "Meta-learning has emerged as an effective paradigm for transferring knowledge across sequential bandit tasks. While substantial progress has been made for stochastic bandits and non-contextual adversa…"
     }
   ]
 }

@@ -1,186 +1,146 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-16T15:53:46.128Z",
+  "fetchedAt": "2026-09-17T02:49:22.784Z",
   "items": [
     {
-      "id": "49728159",
+      "id": "49734264",
       "source": "hn",
-      "title": "Show HN: Give your AI agents access to WhatsApp",
-      "url": "https://news.ycombinator.com/item?id=49728159",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49728159",
-      "author": "fabian_shipamax",
-      "publishedAt": "2026-09-16T15:04:08.000Z"
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "score": 78,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49734264",
+      "author": "etoxin",
+      "publishedAt": "2026-09-16T23:06:39.000Z"
+    },
+    {
+      "id": "49735410",
+      "source": "hn",
+      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49735410",
+      "author": "mfiguiere",
+      "publishedAt": "2026-09-17T01:39:47.000Z"
+    },
+    {
+      "id": "49735241",
+      "source": "hn",
+      "title": "Pangram – AI detector for text and images",
+      "url": "https://www.pangram.com",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49735241",
+      "author": "doodlesdev",
+      "publishedAt": "2026-09-17T01:13:10.000Z"
+    },
+    {
+      "id": "49729412",
+      "source": "hn",
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "score": 206,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49729412",
+      "author": "vertigoruntime",
+      "publishedAt": "2026-09-16T16:26:25.000Z"
     },
     {
       "id": "49723408",
       "source": "hn",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "score": 314,
+      "score": 540,
       "commentsUrl": "https://news.ycombinator.com/item?id=49723408",
       "author": "vertigoruntime",
       "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
-      "id": "49727661",
+      "id": "49734970",
       "source": "hn",
-      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
-      "score": 27,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49727661",
-      "author": "pluc",
-      "publishedAt": "2026-09-16T14:32:15.000Z"
-    },
-    {
-      "id": "49726343",
-      "source": "hn",
-      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-      "url": "https://stale.jock.pl/",
-      "score": 24,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49726343",
-      "author": "joozio",
-      "publishedAt": "2026-09-16T13:01:52.000Z"
-    },
-    {
-      "id": "49726329",
-      "source": "hn",
-      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-      "url": "https://github.com/officefloor/ImpactGate",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49726329",
-      "author": "sagenschneider",
-      "publishedAt": "2026-09-16T13:01:09.000Z"
-    },
-    {
-      "id": "49727041",
-      "source": "hn",
-      "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-      "score": 97,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49727041",
-      "author": "vertigoruntime",
-      "publishedAt": "2026-09-16T13:51:15.000Z"
-    },
-    {
-      "id": "49715947",
-      "source": "hn",
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "score": 464,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49715947",
-      "author": "leumon",
-      "publishedAt": "2026-09-15T17:38:18.000Z"
-    },
-    {
-      "id": "49725800",
-      "source": "hn",
-      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "score": 81,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49725800",
-      "author": "talhof8",
-      "publishedAt": "2026-09-16T12:19:55.000Z"
+      "title": "OpenAI discloses six new AI safety incidents",
+      "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49734970",
+      "author": "toomuchtodo",
+      "publishedAt": "2026-09-17T00:33:03.000Z"
     },
     {
       "id": "49694035",
       "source": "hn",
       "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
       "url": "https://arxiv.org/abs/2511.07885",
-      "score": 117,
+      "score": 160,
       "commentsUrl": "https://news.ycombinator.com/item?id=49694035",
       "author": "pythonic_hell",
       "publishedAt": "2026-09-14T09:16:39.000Z"
     },
     {
-      "id": "49721435",
+      "id": "49735049",
       "source": "hn",
-      "title": "Stay discoverable in search while disallowing AI training",
-      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "score": 83,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49721435",
-      "author": "djfergus",
-      "publishedAt": "2026-09-16T02:25:18.000Z"
+      "title": "What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI",
+      "url": "https://fractalsofchange.substack.com/p/q-whats-scarier-than-a-swarm-of-ai",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49735049",
+      "author": "gz5",
+      "publishedAt": "2026-09-17T00:44:51.000Z"
+    },
+    {
+      "id": "49726343",
+      "source": "hn",
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "url": "https://stale.jock.pl/",
+      "score": 70,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49726343",
+      "author": "joozio",
+      "publishedAt": "2026-09-16T13:01:52.000Z"
+    },
+    {
+      "id": "49735180",
+      "source": "hn",
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "score": 49,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49735180",
+      "author": "jbegley",
+      "publishedAt": "2026-09-17T01:02:13.000Z"
+    },
+    {
+      "id": "49725800",
+      "source": "hn",
+      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+      "score": 159,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49725800",
+      "author": "talhof8",
+      "publishedAt": "2026-09-16T12:19:55.000Z"
+    },
+    {
+      "id": "49715947",
+      "source": "hn",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "score": 481,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49715947",
+      "author": "leumon",
+      "publishedAt": "2026-09-15T17:38:18.000Z"
     },
     {
       "id": "49704132",
       "source": "hn",
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://www.effort.news/irregular",
-      "score": 651,
+      "score": 671,
       "commentsUrl": "https://news.ycombinator.com/item?id=49704132",
       "author": "yusufozkan",
       "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
-      "id": "49727714",
+      "id": "49731395",
       "source": "hn",
-      "title": "The Bannon-Bernie Bromance over AI and Oligarchs",
-      "url": "https://www.theatlantic.com/politics/2026/09/steve-bannon-bernie-sanders-ai-oligarch/688642/",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49727714",
-      "author": "smnthermes",
-      "publishedAt": "2026-09-16T14:36:07.000Z"
-    },
-    {
-      "id": "49713999",
-      "source": "hn",
-      "title": "Cartesian – AI 3D Modeling for Design",
-      "url": "https://www.formas.ai/cartesian",
-      "score": 111,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49713999",
-      "author": "eustoria",
-      "publishedAt": "2026-09-15T15:26:45.000Z"
-    },
-    {
-      "id": "49725197",
-      "source": "hn",
-      "title": "Uncanny and unappetizing: appetites spoil as AI images take over food menus",
-      "url": "https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49725197",
-      "author": "edward",
-      "publishedAt": "2026-09-16T11:38:57.000Z"
-    },
-    {
-      "id": "49713894",
-      "source": "hn",
-      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-      "url": "https://github.com/pizza-bot-app/pizza-bot",
-      "score": 54,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49713894",
-      "author": "jd_",
-      "publishedAt": "2026-09-15T15:20:26.000Z"
-    },
-    {
-      "id": "49710015",
-      "source": "hn",
-      "title": "How much of F-Droid is LLM generated?",
-      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-      "score": 139,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49710015",
-      "author": "_ZeD_",
-      "publishedAt": "2026-09-15T09:47:48.000Z"
-    },
-    {
-      "id": "49712409",
-      "source": "hn",
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
-      "score": 59,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49712409",
-      "author": "Betelbuddy",
-      "publishedAt": "2026-09-15T13:41:28.000Z"
-    },
-    {
-      "id": "49697477",
-      "source": "hn",
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "score": 152,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49697477",
-      "author": "nathannaveen",
-      "publishedAt": "2026-09-14T14:29:23.000Z"
+      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+      "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+      "score": 70,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49731395",
+      "author": "TMWNN",
+      "publishedAt": "2026-09-16T18:59:42.000Z"
     }
   ]
 }
