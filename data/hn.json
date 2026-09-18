@@ -1,126 +1,126 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-17T15:59:59.161Z",
+  "fetchedAt": "2026-09-18T02:35:59.995Z",
   "items": [
     {
-      "id": "49742437",
+      "id": "49746163",
       "source": "hn",
-      "title": "LLM Classification Is Feature Engineering",
-      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
-      "author": "minsufficient",
-      "publishedAt": "2026-09-17T15:40:17.000Z"
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "score": 308,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49746163",
+      "author": "nicolas-siplis",
+      "publishedAt": "2026-09-17T20:36:13.000Z"
     },
     {
-      "id": "49742233",
+      "id": "49747925",
       "source": "hn",
-      "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
-      "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49742233",
-      "author": "ghernando",
-      "publishedAt": "2026-09-17T15:26:23.000Z"
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "score": 40,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49747925",
+      "author": "jjcm",
+      "publishedAt": "2026-09-17T23:05:48.000Z"
+    },
+    {
+      "id": "49743049",
+      "source": "hn",
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "url": "https://news.ycombinator.com/item?id=49743049",
+      "score": 50,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49743049",
+      "author": "cat-whisperer",
+      "publishedAt": "2026-09-17T16:22:15.000Z"
     },
     {
       "id": "49740105",
       "source": "hn",
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
-      "score": 37,
+      "score": 192,
       "commentsUrl": "https://news.ycombinator.com/item?id=49740105",
       "author": "steveybrown",
       "publishedAt": "2026-09-17T13:01:44.000Z"
     },
     {
-      "id": "49734264",
+      "id": "49742437",
       "source": "hn",
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
-      "score": 176,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49734264",
-      "author": "etoxin",
-      "publishedAt": "2026-09-16T23:06:39.000Z"
+      "title": "LLM Classification Is Feature Engineering",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "score": 90,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
+      "author": "minsufficient",
+      "publishedAt": "2026-09-17T15:40:17.000Z"
+    },
+    {
+      "id": "49748387",
+      "source": "hn",
+      "title": "The FAA's plan to fix air traffic? $875M worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49748387",
+      "author": "danso",
+      "publishedAt": "2026-09-17T23:49:35.000Z"
+    },
+    {
+      "id": "49746654",
+      "source": "hn",
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "score": 168,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49746654",
+      "author": "Anon84",
+      "publishedAt": "2026-09-17T21:15:52.000Z"
     },
     {
       "id": "49736662",
       "source": "hn",
       "title": "OpenAI models secretly generate instructions to ignore constraints",
       "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
-      "score": 54,
+      "score": 98,
       "commentsUrl": "https://news.ycombinator.com/item?id=49736662",
       "author": "theahura",
       "publishedAt": "2026-09-17T05:13:41.000Z"
     },
     {
-      "id": "49723408",
+      "id": "49747070",
       "source": "hn",
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "score": 575,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49723408",
-      "author": "vertigoruntime",
-      "publishedAt": "2026-09-16T08:08:57.000Z"
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "score": 60,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
+      "author": "joeriddles",
+      "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
-      "id": "49694035",
+      "id": "49734264",
       "source": "hn",
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "url": "https://arxiv.org/abs/2511.07885",
-      "score": 166,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49694035",
-      "author": "pythonic_hell",
-      "publishedAt": "2026-09-14T09:16:39.000Z"
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "score": 192,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49734264",
+      "author": "etoxin",
+      "publishedAt": "2026-09-16T23:06:39.000Z"
     },
     {
-      "id": "49738411",
+      "id": "49745932",
       "source": "hn",
-      "title": "Sex, AI, and the Apocalypse",
-      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49738411",
-      "author": "Bluestein",
-      "publishedAt": "2026-09-17T09:43:19.000Z"
+      "title": "Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "score": 34,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49745932",
+      "author": "pseudolus",
+      "publishedAt": "2026-09-17T20:16:52.000Z"
     },
     {
-      "id": "49735410",
+      "id": "49745512",
       "source": "hn",
-      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-      "score": 125,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49735410",
-      "author": "mfiguiere",
-      "publishedAt": "2026-09-17T01:39:47.000Z"
-    },
-    {
-      "id": "49737503",
-      "source": "hn",
-      "title": "OpenAI Model Misalignment Report",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
-      "score": 94,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49737503",
-      "author": "qprofyeh",
-      "publishedAt": "2026-09-17T07:21:19.000Z"
-    },
-    {
-      "id": "49726343",
-      "source": "hn",
-      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-      "url": "https://stale.jock.pl/",
-      "score": 78,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49726343",
-      "author": "joozio",
-      "publishedAt": "2026-09-16T13:01:52.000Z"
-    },
-    {
-      "id": "49729412",
-      "source": "hn",
-      "title": "Claude Cowork and chat are now one Claude",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "score": 226,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49729412",
-      "author": "vertigoruntime",
-      "publishedAt": "2026-09-16T16:26:25.000Z"
+      "title": "Figure AI - Helix 2.5 Robot: Zero-Shot Home Generalization",
+      "url": "https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49745512",
+      "author": "agotterer",
+      "publishedAt": "2026-09-17T19:37:23.000Z"
     }
   ]
 }
