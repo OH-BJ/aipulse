@@ -1,13 +1,23 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-18T02:35:59.995Z",
+  "fetchedAt": "2026-09-18T15:35:03.914Z",
   "items": [
+    {
+      "id": "49752056",
+      "source": "hn",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "score": 616,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49752056",
+      "author": "pluc",
+      "publishedAt": "2026-09-18T09:45:07.000Z"
+    },
     {
       "id": "49746163",
       "source": "hn",
       "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
       "url": "https://bend-lang.com/",
-      "score": 308,
+      "score": 556,
       "commentsUrl": "https://news.ycombinator.com/item?id=49746163",
       "author": "nicolas-siplis",
       "publishedAt": "2026-09-17T20:36:13.000Z"
@@ -15,112 +25,152 @@
     {
       "id": "49747925",
       "source": "hn",
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "title": "Qwen 3.8 Omni Flash",
       "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "score": 40,
+      "score": 293,
       "commentsUrl": "https://news.ycombinator.com/item?id=49747925",
       "author": "jjcm",
       "publishedAt": "2026-09-17T23:05:48.000Z"
-    },
-    {
-      "id": "49743049",
-      "source": "hn",
-      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-      "url": "https://news.ycombinator.com/item?id=49743049",
-      "score": 50,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49743049",
-      "author": "cat-whisperer",
-      "publishedAt": "2026-09-17T16:22:15.000Z"
-    },
-    {
-      "id": "49740105",
-      "source": "hn",
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "url": "https://mysetup.ai/",
-      "score": 192,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49740105",
-      "author": "steveybrown",
-      "publishedAt": "2026-09-17T13:01:44.000Z"
-    },
-    {
-      "id": "49742437",
-      "source": "hn",
-      "title": "LLM Classification Is Feature Engineering",
-      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-      "score": 90,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
-      "author": "minsufficient",
-      "publishedAt": "2026-09-17T15:40:17.000Z"
-    },
-    {
-      "id": "49748387",
-      "source": "hn",
-      "title": "The FAA's plan to fix air traffic? $875M worth of AI",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "score": 17,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49748387",
-      "author": "danso",
-      "publishedAt": "2026-09-17T23:49:35.000Z"
-    },
-    {
-      "id": "49746654",
-      "source": "hn",
-      "title": "Sex, AI, and the Apocalypse",
-      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-      "score": 168,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49746654",
-      "author": "Anon84",
-      "publishedAt": "2026-09-17T21:15:52.000Z"
-    },
-    {
-      "id": "49736662",
-      "source": "hn",
-      "title": "OpenAI models secretly generate instructions to ignore constraints",
-      "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
-      "score": 98,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49736662",
-      "author": "theahura",
-      "publishedAt": "2026-09-17T05:13:41.000Z"
     },
     {
       "id": "49747070",
       "source": "hn",
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 60,
+      "score": 255,
       "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
       "author": "joeriddles",
       "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
-      "id": "49734264",
+      "id": "49755468",
       "source": "hn",
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
-      "score": 192,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49734264",
-      "author": "etoxin",
-      "publishedAt": "2026-09-16T23:06:39.000Z"
-    },
-    {
-      "id": "49745932",
-      "source": "hn",
-      "title": "Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",
-      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49745932",
-      "author": "pseudolus",
-      "publishedAt": "2026-09-17T20:16:52.000Z"
-    },
-    {
-      "id": "49745512",
-      "source": "hn",
-      "title": "Figure AI - Helix 2.5 Robot: Zero-Shot Home Generalization",
-      "url": "https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization",
+      "title": "OpenAI 'ethically hacked' with help of Anthropic's Claude chatbot",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
       "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49745512",
-      "author": "agotterer",
-      "publishedAt": "2026-09-17T19:37:23.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=49755468",
+      "author": "sbulaev",
+      "publishedAt": "2026-09-18T15:07:08.000Z"
+    },
+    {
+      "id": "49755590",
+      "source": "hn",
+      "title": "AI is an elite crime spree",
+      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49755590",
+      "author": "chmaynard",
+      "publishedAt": "2026-09-18T15:15:33.000Z"
+    },
+    {
+      "id": "49749656",
+      "source": "hn",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "score": 406,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49749656",
+      "author": "Handy-Man",
+      "publishedAt": "2026-09-18T02:47:24.000Z"
+    },
+    {
+      "id": "49749393",
+      "source": "hn",
+      "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+      "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+      "score": 91,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49749393",
+      "author": "syntaxing",
+      "publishedAt": "2026-09-18T02:04:19.000Z"
+    },
+    {
+      "id": "49755568",
+      "source": "hn",
+      "title": "With a Shovel of Salt: AI Success Stories and the Retraction Gap",
+      "url": "https://read.misalignedmag.com/with-a-shovel-of-salt-ai-success-stories-and-the-retraction-gap-6ad5093b547d",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49755568",
+      "author": "lcubw",
+      "publishedAt": "2026-09-18T15:14:06.000Z"
+    },
+    {
+      "id": "49740105",
+      "source": "hn",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "score": 228,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49740105",
+      "author": "steveybrown",
+      "publishedAt": "2026-09-17T13:01:44.000Z"
+    },
+    {
+      "id": "49754903",
+      "source": "hn",
+      "title": "US judge denies OpenAI bid to review X Corp's settlement with Apple",
+      "url": "https://www.reuters.com/legal/litigation/us-judge-denies-openai-bid-review-x-corps-settlement-with-apple-2026-09-18/",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49754903",
+      "author": "vertigoruntime",
+      "publishedAt": "2026-09-18T14:26:35.000Z"
+    },
+    {
+      "id": "49753965",
+      "source": "hn",
+      "title": "What Using AI Therapy Gets Wrong",
+      "url": "https://emilylee293105.substack.com/p/what-ai-therapy-gets-wrong-904",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49753965",
+      "author": "fhe",
+      "publishedAt": "2026-09-18T13:14:07.000Z"
+    },
+    {
+      "id": "49743049",
+      "source": "hn",
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "url": "https://news.ycombinator.com/item?id=49743049",
+      "score": 60,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49743049",
+      "author": "cat-whisperer",
+      "publishedAt": "2026-09-17T16:22:15.000Z"
+    },
+    {
+      "id": "49742437",
+      "source": "hn",
+      "title": "LLM Classification Is Feature Engineering",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "score": 109,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
+      "author": "minsufficient",
+      "publishedAt": "2026-09-17T15:40:17.000Z"
+    },
+    {
+      "id": "49754406",
+      "source": "hn",
+      "title": "Researchers used Claude to hack OpenAI",
+      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49754406",
+      "author": "CharlesW",
+      "publishedAt": "2026-09-18T13:49:37.000Z"
+    },
+    {
+      "id": "49755162",
+      "source": "hn",
+      "title": "AI Protest in Montreal",
+      "url": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
+      "score": 42,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49755162",
+      "author": "hmokiguess",
+      "publishedAt": "2026-09-18T14:45:41.000Z"
+    },
+    {
+      "id": "49736662",
+      "source": "hn",
+      "title": "OpenAI models secretly generate instructions to ignore constraints",
+      "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+      "score": 110,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49736662",
+      "author": "theahura",
+      "publishedAt": "2026-09-17T05:13:41.000Z"
     }
   ]
 }
