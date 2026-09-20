@@ -1,7 +1,214 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-09-19T15:08:42.429Z",
+  "fetchedAt": "2026-09-20T02:47:12.130Z",
   "items": [
+    {
+      "id": "33971",
+      "source": "geeknews",
+      "title": "모델 가중치를 외부로 유출하기",
+      "url": "https://news.hada.io/topic?id=33971",
+      "commentsUrl": "https://news.hada.io/topic?id=33971",
+      "author": "neo",
+      "publishedAt": "2026-09-20T02:32:23.000Z"
+    },
+    {
+      "id": "33970",
+      "source": "geeknews",
+      "title": "Microsoft 디렉터: AI 스크래핑은 ‘인류 역사상 최대 규모의 노동 도둑질’",
+      "url": "https://news.hada.io/topic?id=33970",
+      "commentsUrl": "https://news.hada.io/topic?id=33970",
+      "author": "neo",
+      "publishedAt": "2026-09-20T01:42:24.000Z"
+    },
+    {
+      "id": "33969",
+      "source": "geeknews",
+      "title": "Hacker News 순위의 작동 방식: 점수, 논쟁, 페널티 (2013)",
+      "url": "https://news.hada.io/topic?id=33969",
+      "commentsUrl": "https://news.hada.io/topic?id=33969",
+      "author": "neo",
+      "publishedAt": "2026-09-20T01:42:23.000Z"
+    },
+    {
+      "id": "33968",
+      "source": "geeknews",
+      "title": "AI는 엘리트의 연쇄 범죄다",
+      "url": "https://news.hada.io/topic?id=33968",
+      "commentsUrl": "https://news.hada.io/topic?id=33968",
+      "author": "neo",
+      "publishedAt": "2026-09-20T01:02:25.000Z"
+    },
+    {
+      "id": "33967",
+      "source": "geeknews",
+      "title": "AI 챗봇이 사람들의 생각을 바꾸는 데 전문가가 되고 있음",
+      "url": "https://news.hada.io/topic?id=33967",
+      "commentsUrl": "https://news.hada.io/topic?id=33967",
+      "author": "neo",
+      "publishedAt": "2026-09-20T01:02:24.000Z"
+    },
+    {
+      "id": "33966",
+      "source": "geeknews",
+      "title": "Brood War Bench",
+      "url": "https://news.hada.io/topic?id=33966",
+      "commentsUrl": "https://news.hada.io/topic?id=33966",
+      "author": "neo",
+      "publishedAt": "2026-09-20T01:02:23.000Z"
+    },
+    {
+      "id": "33965",
+      "source": "geeknews",
+      "title": "Rust 개발자가 경험한 Zig",
+      "url": "https://news.hada.io/topic?id=33965",
+      "commentsUrl": "https://news.hada.io/topic?id=33965",
+      "author": "neo",
+      "publishedAt": "2026-09-20T00:52:23.000Z"
+    },
+    {
+      "id": "33964",
+      "source": "geeknews",
+      "title": "px0 - 브라우저에서 코드를 빠르게 탐색하고 검토하는 초경량 도구",
+      "url": "https://news.hada.io/topic?id=33964",
+      "commentsUrl": "https://news.hada.io/topic?id=33964",
+      "author": "xguru",
+      "publishedAt": "2026-09-20T00:30:03.000Z"
+    },
+    {
+      "id": "33963",
+      "source": "geeknews",
+      "title": "아키텍처 우주비행사들에게 겁먹지 말라 (2001)",
+      "url": "https://news.hada.io/topic?id=33963",
+      "commentsUrl": "https://news.hada.io/topic?id=33963",
+      "author": "neo",
+      "publishedAt": "2026-09-20T00:02:24.000Z"
+    },
+    {
+      "id": "33962",
+      "source": "geeknews",
+      "title": "Waymo의 싱가포르 진출",
+      "url": "https://news.hada.io/topic?id=33962",
+      "commentsUrl": "https://news.hada.io/topic?id=33962",
+      "author": "neo",
+      "publishedAt": "2026-09-20T00:02:23.000Z"
+    },
+    {
+      "id": "33961",
+      "source": "geeknews",
+      "title": "ZX Spectrum용 그래픽 데스크톱",
+      "url": "https://news.hada.io/topic?id=33961",
+      "commentsUrl": "https://news.hada.io/topic?id=33961",
+      "author": "neo",
+      "publishedAt": "2026-09-19T23:52:24.000Z"
+    },
+    {
+      "id": "33960",
+      "source": "geeknews",
+      "title": "두 신경외배엽 전구세포 계통이 병렬적으로 뇌 발달에 기여함",
+      "url": "https://news.hada.io/topic?id=33960",
+      "commentsUrl": "https://news.hada.io/topic?id=33960",
+      "author": "neo",
+      "publishedAt": "2026-09-19T23:52:23.000Z"
+    },
+    {
+      "id": "33959",
+      "source": "geeknews",
+      "title": "Stagehand v4, Playwright보다 2배 빠르고 토큰 효율 80% 높은 브라우저 자동화",
+      "url": "https://news.hada.io/topic?id=33959",
+      "commentsUrl": "https://news.hada.io/topic?id=33959",
+      "author": "neo",
+      "publishedAt": "2026-09-19T22:52:25.000Z"
+    },
+    {
+      "id": "33958",
+      "source": "geeknews",
+      "title": "미 제2연방항소법원, 정부의 국경 전자기기 수색 허용",
+      "url": "https://news.hada.io/topic?id=33958",
+      "commentsUrl": "https://news.hada.io/topic?id=33958",
+      "author": "neo",
+      "publishedAt": "2026-09-19T22:52:24.000Z"
+    },
+    {
+      "id": "33957",
+      "source": "geeknews",
+      "title": "Alibaba, 암을 포함한 약 150개 질환을 탐지하는 AI 모델 오픈소스로 공개",
+      "url": "https://news.hada.io/topic?id=33957",
+      "commentsUrl": "https://news.hada.io/topic?id=33957",
+      "author": "neo",
+      "publishedAt": "2026-09-19T22:52:23.000Z"
+    },
+    {
+      "id": "33956",
+      "source": "geeknews",
+      "title": "글쓰기를 AI에 거의 맡기지 말아야 하는 이유",
+      "url": "https://news.hada.io/topic?id=33956",
+      "commentsUrl": "https://news.hada.io/topic?id=33956",
+      "author": "neo",
+      "publishedAt": "2026-09-19T22:52:22.000Z"
+    },
+    {
+      "id": "33955",
+      "source": "geeknews",
+      "title": "TIN - PlanetScale의 Postgres 전문 검색 엔진",
+      "url": "https://news.hada.io/topic?id=33955",
+      "commentsUrl": "https://news.hada.io/topic?id=33955",
+      "author": "neo",
+      "publishedAt": "2026-09-19T21:42:22.000Z"
+    },
+    {
+      "id": "33954",
+      "source": "geeknews",
+      "title": "과학은 오픈 소프트웨어다 (2025)",
+      "url": "https://news.hada.io/topic?id=33954",
+      "commentsUrl": "https://news.hada.io/topic?id=33954",
+      "author": "neo",
+      "publishedAt": "2026-09-19T20:42:22.000Z"
+    },
+    {
+      "id": "33953",
+      "source": "geeknews",
+      "title": "Xcode 27.1 베타, iPhone Duo 시뮬레이터 지원",
+      "url": "https://news.hada.io/topic?id=33953",
+      "commentsUrl": "https://news.hada.io/topic?id=33953",
+      "author": "neo",
+      "publishedAt": "2026-09-19T18:42:23.000Z"
+    },
+    {
+      "id": "33952",
+      "source": "geeknews",
+      "title": "Microsoft, 네가 싫다",
+      "url": "https://news.hada.io/topic?id=33952",
+      "commentsUrl": "https://news.hada.io/topic?id=33952",
+      "author": "neo",
+      "publishedAt": "2026-09-19T18:42:22.000Z"
+    },
+    {
+      "id": "33951",
+      "source": "geeknews",
+      "title": "외국 중앙은행과 정부에 매력을 잃은 미국 국채",
+      "url": "https://news.hada.io/topic?id=33951",
+      "commentsUrl": "https://news.hada.io/topic?id=33951",
+      "author": "neo",
+      "publishedAt": "2026-09-19T17:52:23.000Z"
+    },
+    {
+      "id": "33950",
+      "source": "geeknews",
+      "title": "가장 중요한 제품 결정은 무엇을 만들지 않을 것인가",
+      "url": "https://news.hada.io/topic?id=33950",
+      "commentsUrl": "https://news.hada.io/topic?id=33950",
+      "author": "neo",
+      "publishedAt": "2026-09-19T17:52:22.000Z"
+    },
+    {
+      "id": "33949",
+      "source": "geeknews",
+      "title": "Stallman: 수천 명 사망, 수백만 명의 자유 박탈 (2001)",
+      "url": "https://news.hada.io/topic?id=33949",
+      "commentsUrl": "https://news.hada.io/topic?id=33949",
+      "author": "neo",
+      "publishedAt": "2026-09-19T17:42:22.000Z"
+    },
     {
       "id": "33945",
       "source": "geeknews",
@@ -14,7 +221,7 @@
     {
       "id": "33944",
       "source": "geeknews",
-      "title": "Laya - Jev의 오픈소스 버전",
+      "title": "Laya - 직접 실행하고 학습할 수 있는 Jev의 오픈소스 대안",
       "url": "https://news.hada.io/topic?id=33944",
       "commentsUrl": "https://news.hada.io/topic?id=33944",
       "author": "neo",
@@ -64,213 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=33939",
       "author": "neo",
       "publishedAt": "2026-09-19T11:42:21.000Z"
-    },
-    {
-      "id": "33937",
-      "source": "geeknews",
-      "title": "Warez: 불법 복제의 인프라와 미학 (2021)",
-      "url": "https://news.hada.io/topic?id=33937",
-      "commentsUrl": "https://news.hada.io/topic?id=33937",
-      "author": "neo",
-      "publishedAt": "2026-09-19T10:42:21.000Z"
-    },
-    {
-      "id": "33936",
-      "source": "geeknews",
-      "title": "C++26: 단순 무한 루프는 더 이상 미정의 동작이 아님",
-      "url": "https://news.hada.io/topic?id=33936",
-      "commentsUrl": "https://news.hada.io/topic?id=33936",
-      "author": "neo",
-      "publishedAt": "2026-09-19T09:42:22.000Z"
-    },
-    {
-      "id": "33935",
-      "source": "geeknews",
-      "title": "인간의 뇌는 서로 다른 두 기관, Stanford Medicine 주도 연구에서 확인",
-      "url": "https://news.hada.io/topic?id=33935",
-      "commentsUrl": "https://news.hada.io/topic?id=33935",
-      "author": "neo",
-      "publishedAt": "2026-09-19T09:42:20.000Z"
-    },
-    {
-      "id": "33934",
-      "source": "geeknews",
-      "title": "샌프란시스코 양파 선물 회사",
-      "url": "https://news.hada.io/topic?id=33934",
-      "commentsUrl": "https://news.hada.io/topic?id=33934",
-      "author": "neo",
-      "publishedAt": "2026-09-19T08:32:20.000Z"
-    },
-    {
-      "id": "33933",
-      "source": "geeknews",
-      "title": "Show GN: 발품 - 발품 팔아서 스크린 타임 벌어요",
-      "url": "https://news.hada.io/topic?id=33933",
-      "commentsUrl": "https://news.hada.io/topic?id=33933",
-      "author": "andtomorrow",
-      "publishedAt": "2026-09-19T07:09:21.000Z"
-    },
-    {
-      "id": "33931",
-      "source": "geeknews",
-      "title": "광자 방출로 유도한 레이저 결함 주입으로 RP2350의 보안 디버그 활성화",
-      "url": "https://news.hada.io/topic?id=33931",
-      "commentsUrl": "https://news.hada.io/topic?id=33931",
-      "author": "neo",
-      "publishedAt": "2026-09-19T04:42:20.000Z"
-    },
-    {
-      "id": "33930",
-      "source": "geeknews",
-      "title": "Jev의 아키텍처를 파헤치다",
-      "url": "https://news.hada.io/topic?id=33930",
-      "commentsUrl": "https://news.hada.io/topic?id=33930",
-      "author": "xguru",
-      "publishedAt": "2026-09-19T02:22:19.000Z"
-    },
-    {
-      "id": "33929",
-      "source": "geeknews",
-      "title": "SQPOLL은 불안형 여친이다",
-      "url": "https://news.hada.io/topic?id=33929",
-      "commentsUrl": "https://news.hada.io/topic?id=33929",
-      "author": "gg5823",
-      "publishedAt": "2026-09-19T02:01:09.000Z"
-    },
-    {
-      "id": "33928",
-      "source": "geeknews",
-      "title": "이란 전쟁 중 미군 사망자, 국방부 집계보다 최소 4명 많아",
-      "url": "https://news.hada.io/topic?id=33928",
-      "commentsUrl": "https://news.hada.io/topic?id=33928",
-      "author": "neo",
-      "publishedAt": "2026-09-19T01:52:20.000Z"
-    },
-    {
-      "id": "33927",
-      "source": "geeknews",
-      "title": "SpaceX는 Raptor 엔진을 어떻게 간결하게 만들었나",
-      "url": "https://news.hada.io/topic?id=33927",
-      "commentsUrl": "https://news.hada.io/topic?id=33927",
-      "author": "neo",
-      "publishedAt": "2026-09-19T01:52:19.000Z"
-    },
-    {
-      "id": "33926",
-      "source": "geeknews",
-      "title": "100년 만에 발견된 새로운 야생 고양이",
-      "url": "https://news.hada.io/topic?id=33926",
-      "commentsUrl": "https://news.hada.io/topic?id=33926",
-      "author": "neo",
-      "publishedAt": "2026-09-19T01:42:19.000Z"
-    },
-    {
-      "id": "33925",
-      "source": "geeknews",
-      "title": "Claude Code, 이제 AGENTS.md도 지원",
-      "url": "https://news.hada.io/topic?id=33925",
-      "commentsUrl": "https://news.hada.io/topic?id=33925",
-      "author": "winterjung",
-      "publishedAt": "2026-09-19T01:38:31.000Z"
-    },
-    {
-      "id": "33924",
-      "source": "geeknews",
-      "title": "Typst, 큰 진전을 이루다",
-      "url": "https://news.hada.io/topic?id=33924",
-      "commentsUrl": "https://news.hada.io/topic?id=33924",
-      "author": "neo",
-      "publishedAt": "2026-09-19T01:12:19.000Z"
-    },
-    {
-      "id": "33923",
-      "source": "geeknews",
-      "title": "Needle 3 - 작은 기기에서 자연어 명령을 처리하는 8~29MB AI 모델",
-      "url": "https://news.hada.io/topic?id=33923",
-      "commentsUrl": "https://news.hada.io/topic?id=33923",
-      "author": "neo",
-      "publishedAt": "2026-09-19T00:42:19.000Z"
-    },
-    {
-      "id": "33922",
-      "source": "geeknews",
-      "title": "jina-ocr-v1 - 저가형 GPU에서 더 빠르게 문서를 파싱하는 모델",
-      "url": "https://news.hada.io/topic?id=33922",
-      "commentsUrl": "https://news.hada.io/topic?id=33922",
-      "author": "xguru",
-      "publishedAt": "2026-09-19T00:32:20.000Z"
-    },
-    {
-      "id": "33921",
-      "source": "geeknews",
-      "title": "Claude, 생체분자 모델 30여 개를 평균 4배 가속",
-      "url": "https://news.hada.io/topic?id=33921",
-      "commentsUrl": "https://news.hada.io/topic?id=33921",
-      "author": "xguru",
-      "publishedAt": "2026-09-19T00:32:19.000Z"
-    },
-    {
-      "id": "33920",
-      "source": "geeknews",
-      "title": "Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크",
-      "url": "https://news.hada.io/topic?id=33920",
-      "commentsUrl": "https://news.hada.io/topic?id=33920",
-      "author": "xguru",
-      "publishedAt": "2026-09-19T00:30:02.000Z"
-    },
-    {
-      "id": "33919",
-      "source": "geeknews",
-      "title": "GPT Image 2.5 프롬프트 가이드 - 무엇을 바꾸고 무엇을 유지할까",
-      "url": "https://news.hada.io/topic?id=33919",
-      "commentsUrl": "https://news.hada.io/topic?id=33919",
-      "author": "neo",
-      "publishedAt": "2026-09-19T00:25:02.000Z"
-    },
-    {
-      "id": "33918",
-      "source": "geeknews",
-      "title": "Databricks는 어떻게 10년 만에 ARR 100만 달러에서 70억 달러 이상으로 성장했나 [동영상]",
-      "url": "https://news.hada.io/topic?id=33918",
-      "commentsUrl": "https://news.hada.io/topic?id=33918",
-      "author": "neo",
-      "publishedAt": "2026-09-19T00:15:02.000Z"
-    },
-    {
-      "id": "33917",
-      "source": "geeknews",
-      "title": "기술 분야에서 여전히 가슴 뛰게 하는 것은 무엇인가요?",
-      "url": "https://news.hada.io/topic?id=33917",
-      "commentsUrl": "https://news.hada.io/topic?id=33917",
-      "author": "neo",
-      "publishedAt": "2026-09-19T00:12:19.000Z"
-    },
-    {
-      "id": "33916",
-      "source": "geeknews",
-      "title": "Minimal Phone 2",
-      "url": "https://news.hada.io/topic?id=33916",
-      "commentsUrl": "https://news.hada.io/topic?id=33916",
-      "author": "neo",
-      "publishedAt": "2026-09-18T23:42:20.000Z"
-    },
-    {
-      "id": "33915",
-      "source": "geeknews",
-      "title": "Cloudflare, 수학과 Rust로 RAM 100TB 추가 절감",
-      "url": "https://news.hada.io/topic?id=33915",
-      "commentsUrl": "https://news.hada.io/topic?id=33915",
-      "author": "neo",
-      "publishedAt": "2026-09-18T23:42:19.000Z"
-    },
-    {
-      "id": "33914",
-      "source": "geeknews",
-      "title": "국경 요원, 영장이나 합리적 의심 없이 휴대전화 수색 가능",
-      "url": "https://news.hada.io/topic?id=33914",
-      "commentsUrl": "https://news.hada.io/topic?id=33914",
-      "author": "neo",
-      "publishedAt": "2026-09-18T23:02:19.000Z"
     }
   ]
 }
