@@ -1,13 +1,23 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-20T02:47:11.832Z",
+  "fetchedAt": "2026-09-20T15:13:18.058Z",
   "items": [
+    {
+      "id": "49775499",
+      "source": "hn",
+      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "score": 136,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49775499",
+      "author": "jmillikin",
+      "publishedAt": "2026-09-20T13:09:25.000Z"
+    },
     {
       "id": "49764791",
       "source": "hn",
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 1408,
+      "score": 1697,
       "commentsUrl": "https://news.ycombinator.com/item?id=49764791",
       "author": "ereiamjh",
       "publishedAt": "2026-09-19T09:20:58.000Z"
@@ -17,160 +27,110 @@
       "source": "hn",
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 633,
+      "score": 691,
       "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
       "author": "joeriddles",
       "publishedAt": "2026-09-17T21:48:38.000Z"
+    },
+    {
+      "id": "49774991",
+      "source": "hn",
+      "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+      "score": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49774991",
+      "author": "sbulaev",
+      "publishedAt": "2026-09-20T12:07:10.000Z"
+    },
+    {
+      "id": "49774329",
+      "source": "hn",
+      "title": "AI and the Destruction of the Creative Commons",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "score": 195,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49774329",
+      "author": "rakel_rakel",
+      "publishedAt": "2026-09-20T10:07:51.000Z"
     },
     {
       "id": "49767937",
       "source": "hn",
       "title": "I think you should almost never use AI to write",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "score": 245,
+      "score": 318,
       "commentsUrl": "https://news.ycombinator.com/item?id=49767937",
       "author": "erwald",
       "publishedAt": "2026-09-19T16:35:24.000Z"
-    },
-    {
-      "id": "49770807",
-      "source": "hn",
-      "title": "AI in schools – The choice we keep making",
-      "url": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
-      "score": 16,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49770807",
-      "author": "MetallicCloud",
-      "publishedAt": "2026-09-19T22:55:39.000Z"
     },
     {
       "id": "49770847",
       "source": "hn",
       "title": "Can you tell which images are AI-generated?",
       "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-      "score": 51,
+      "score": 97,
       "commentsUrl": "https://news.ycombinator.com/item?id=49770847",
       "author": "hckr78",
       "publishedAt": "2026-09-19T23:02:34.000Z"
-    },
-    {
-      "id": "49768921",
-      "source": "hn",
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "score": 134,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49768921",
-      "author": "jonbaer",
-      "publishedAt": "2026-09-19T18:21:30.000Z"
-    },
-    {
-      "id": "49770070",
-      "source": "hn",
-      "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
-      "url": "https://github.com/xanpavle/rocmfix",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49770070",
-      "author": "Xanpavle",
-      "publishedAt": "2026-09-19T20:57:23.000Z"
     },
     {
       "id": "49763987",
       "source": "hn",
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
       "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "score": 368,
+      "score": 384,
       "commentsUrl": "https://news.ycombinator.com/item?id=49763987",
       "author": "nsoonhui",
       "publishedAt": "2026-09-19T06:41:44.000Z"
     },
     {
-      "id": "49761432",
+      "id": "49768921",
       "source": "hn",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "score": 198,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49761432",
-      "author": "maxall4",
-      "publishedAt": "2026-09-18T23:04:17.000Z"
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "score": 175,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49768921",
+      "author": "jonbaer",
+      "publishedAt": "2026-09-19T18:21:30.000Z"
+    },
+    {
+      "id": "49774795",
+      "source": "hn",
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49774795",
+      "author": "bucket2015",
+      "publishedAt": "2026-09-20T11:37:10.000Z"
+    },
+    {
+      "id": "49772745",
+      "source": "hn",
+      "title": "VoltGrid AI: Mitigating GPU cluster dI/dt power surges in software",
+      "url": "https://zenodo.org/records/22824778",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49772745",
+      "author": "samganyx",
+      "publishedAt": "2026-09-20T05:32:16.000Z"
+    },
+    {
+      "id": "49773624",
+      "source": "hn",
+      "title": "OpenAI and Microsoft knew they were starting a 'doom loop' for the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "score": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49773624",
+      "author": "sbulaev",
+      "publishedAt": "2026-09-20T08:07:08.000Z"
     },
     {
       "id": "49763379",
       "source": "hn",
       "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
       "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "score": 51,
+      "score": 53,
       "commentsUrl": "https://news.ycombinator.com/item?id=49763379",
       "author": "noobplus",
       "publishedAt": "2026-09-19T04:44:35.000Z"
-    },
-    {
-      "id": "49768826",
-      "source": "hn",
-      "title": "Ask HN: How do you interview devs in a post-AI world?",
-      "url": "https://news.ycombinator.com/item?id=49768826",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49768826",
-      "author": "mdwelsh",
-      "publishedAt": "2026-09-19T18:10:34.000Z"
-    },
-    {
-      "id": "49758689",
-      "source": "hn",
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "url": "https://arxiv.org/abs/2609.02852",
-      "score": 76,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49758689",
-      "author": "tomjakubowski",
-      "publishedAt": "2026-09-18T19:00:06.000Z"
-    },
-    {
-      "id": "49754250",
-      "source": "hn",
-      "title": "AI chatbots are becoming experts at changing people's minds",
-      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-      "score": 122,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49754250",
-      "author": "rbanffy",
-      "publishedAt": "2026-09-18T13:39:27.000Z"
-    },
-    {
-      "id": "49760187",
-      "source": "hn",
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "score": 714,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49760187",
-      "author": "datadrivenangel",
-      "publishedAt": "2026-09-18T21:00:32.000Z"
-    },
-    {
-      "id": "49748553",
-      "source": "hn",
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
-      "score": 225,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49748553",
-      "author": "HenryNdubuaku",
-      "publishedAt": "2026-09-18T00:11:44.000Z"
-    },
-    {
-      "id": "49749656",
-      "source": "hn",
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "score": 484,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49749656",
-      "author": "Handy-Man",
-      "publishedAt": "2026-09-18T02:47:24.000Z"
-    },
-    {
-      "id": "49770971",
-      "source": "hn",
-      "title": "AI safety conversations have gotten unbelievable",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49770971",
-      "author": "jnord",
-      "publishedAt": "2026-09-19T23:22:06.000Z"
     }
   ]
 }
