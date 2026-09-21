@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-09-21T02:44:20.755Z",
-  "items": []
+  "fetchedAt": "2026-09-21T17:36:09.146Z",
+  "items": [
+    {
+      "id": "2609.19150",
+      "source": "arxiv",
+      "title": "Sampling Reveals Style: Unsupervised, Training-Free Discovery of Prompt-Conditional Stylistic Axes in LLM Activations",
+      "url": "https://arxiv.org/abs/2609.19150",
+      "author": "Ajit Mallavarapu, Ziwei Gu",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Large language models (LLMs) encode rich stylistic structure in their hidden activations, but discovering which stylistic dimensions are salient for a given prompt typically requires supervised contra…"
+    },
+    {
+      "id": "2609.18704",
+      "source": "arxiv",
+      "title": "Toward Composable Network Digital Twins: A Subgraph-Based Latency Prediction Study",
+      "url": "https://arxiv.org/abs/2609.18704",
+      "author": "Shenjia Ding, David Flynn, Paul Harvey +2",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Modern networks must support changing topologies, configurations, and performance objectives, motivating fast and reliable performance estimation. Network digital twins (NDTs) enable what-if analysis…"
+    },
+    {
+      "id": "2609.15044",
+      "source": "arxiv",
+      "title": "Data Attribution via Sketched Metadifferentiation",
+      "url": "https://arxiv.org/abs/2609.15044",
+      "author": "Yuxi Chen, Hamza Golubovic, Han Tong +2",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Data attribution seeks to quantify how individual training examples shape a model's predictions and underpins problems including data valuation, machine unlearning, and model interpretability. Despite…"
+    },
+    {
+      "id": "2609.10706",
+      "source": "arxiv",
+      "title": "HuRo: Robotizing Human Videos for Scalable VLA Pretraining",
+      "url": "https://arxiv.org/abs/2609.10706",
+      "author": "Jinho Jeong, Se June Joo, Jaehyun Kang +4",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Human video datasets offer an abundant and diverse source of interaction data that can complement expensive real-robot data. To bridge the human-to-robot embodiment gap, existing approaches either rob…"
+    },
+    {
+      "id": "2607.27320",
+      "source": "arxiv",
+      "title": "Emulating Cosmic Structure Formation with a Lagrangian Neural Cellular Automaton",
+      "url": "https://arxiv.org/abs/2607.27320",
+      "author": "Cooper Jacobus, Beatriz Tucci, Oliver Philcox",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Field-level inference of cosmological initial conditions from galaxy surveys requires a forward model that is simultaneously accurate in the non-linear regime, computationally efficient, and fully dif…"
+    },
+    {
+      "id": "2607.24251",
+      "source": "arxiv",
+      "title": "Decision trees, Frobenius traces, and Weierstrass coefficients of elliptic curves",
+      "url": "https://arxiv.org/abs/2607.24251",
+      "author": "Barinder S. Banwait, Xiaoyu Huang, Kyu-Hwan Lee +3",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "We investigate the extent to which the coefficients $(w_1,w_2,w_3,w_4,w_6)$ of the reduced minimal Weierstrass model of an elliptic curve $E/\\mathbb{Q}$ are determined by the Dirichlet coefficients $a…"
+    },
+    {
+      "id": "2607.08370",
+      "source": "arxiv",
+      "title": "Tubular Neighbourhoods of Pfaffian Sets and Applications to Neural Networks",
+      "url": "https://arxiv.org/abs/2607.08370",
+      "author": "Paul Lezeau, Martin Lotz",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "We derive bounds for the volume of tubular neighbourhoods of smooth Pfaffian hypersurfaces, generalising known results for algebraic varieties. The bounds are given in terms of the Pfaffian format of…"
+    },
+    {
+      "id": "2607.00876",
+      "source": "arxiv",
+      "title": "The Binary Tree Mechanism is Optimal for Differentially Private Continual Counting",
+      "url": "https://arxiv.org/abs/2607.00876",
+      "author": "Konstantina Bairaktari, Markus Engelund Dahl, Kasper Green Larsen",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Private continual counting is a fundamental problem in differential privacy: given a binary stream of length $n$, where each $1$ corresponds to the contribution of one individual, the goal is to relea…"
+    },
+    {
+      "id": "2606.27401",
+      "source": "arxiv",
+      "title": "Recall Before Rerank: Benchmarking Deep Learning Models for Large-Scale Code-to-Code Retrieval",
+      "url": "https://arxiv.org/abs/2606.27401",
+      "author": "Leonardo Venuta, Francesco Tosoni, Paolo Ferragina",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Semantic code search and clone detection are essential for software development, maintenance, and reuse. This paper evaluates the effectiveness, efficiency, and scalability of contemporary deep learni…"
+    },
+    {
+      "id": "2606.08228",
+      "source": "arxiv",
+      "title": "Post-Rejection Follow-up Sampling: Measuring Outcomes of Rejected Decisions in Algorithmic DEX Trading",
+      "url": "https://arxiv.org/abs/2606.08228",
+      "author": "Arati Uday Kamat",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Filter-gated algorithmic trading systems on decentralised exchanges reject most candidate tokens they evaluate, yet the observed forward market trajectory of those rejected candidates is rarely measur…"
+    },
+    {
+      "id": "2605.22330",
+      "source": "arxiv",
+      "title": "Symbolic Classification-Enabled LHC Limits for BSM Global Fits",
+      "url": "https://arxiv.org/abs/2605.22330",
+      "author": "Shehu AbdusSalam",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Global fits of Beyond the Standard Model (BSM) physics often involve a two-way interplay between theory and experiment. Theoretical models provide guidance for experimental searches, while experimenta…"
+    },
+    {
+      "id": "2605.12768",
+      "source": "arxiv",
+      "title": "ISOMORPH: A Supply Chain Digital Twin for Simulation, Dataset Generation, and Forecasting Benchmarks",
+      "url": "https://arxiv.org/abs/2605.12768",
+      "author": "Zhizhen Zhang, Hyemin Gu, Benjamin J. Zhang +6",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Open time-series forecasting (TSF) benchmarks cover retail, energy, weather, and traffic, but supply-chain logistics remains underserved. We introduce ISOMORPH, the first public digital twin of a mult…"
+    },
+    {
+      "id": "2604.07169",
+      "source": "arxiv",
+      "title": "Amortized Filtering and Smoothing with Conditional Normalizing Flows",
+      "url": "https://arxiv.org/abs/2604.07169",
+      "author": "Tiangang Cui, Xiaodong Feng, Chenlong Pei +2",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Bayesian filtering and smoothing are central to data assimilation in nonlinear dynamical systems. Recent advances in deep generative models provide flexible approximations of the associated non-Gaussi…"
+    },
+    {
+      "id": "2604.05478",
+      "source": "arxiv",
+      "title": "Transcriptomic Models for Immunotherapy Response Prediction Show Limited Cross-cohort Generalisability",
+      "url": "https://arxiv.org/abs/2604.05478",
+      "author": "Yuheng Liang, Lucy Chhuo, Ahmadreza Argha +8",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Immune checkpoint inhibitors (ICIs) have transformed cancer therapy; yet substantial proportion of patients exhibit intrinsic or acquired resistance, making accurate pre-treatment response prediction…"
+    },
+    {
+      "id": "2603.29532",
+      "source": "arxiv",
+      "title": "Learning Surrogate LPV State-Space Models with Uncertainty Quantification",
+      "url": "https://arxiv.org/abs/2603.29532",
+      "author": "E. Javier Olucha, Amritam Das, Roland T\\'oth",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "The Linear Parameter-Varying (LPV) framework enables the construction of surrogate models of complex nonlinear and high-dimensional systems, facilitating efficient stability and performance analysis t…"
+    },
+    {
+      "id": "2602.23461",
+      "source": "arxiv",
+      "title": "Neural ensemble Kalman filter: Data assimilation for compressible flows with shocks",
+      "url": "https://arxiv.org/abs/2602.23461",
+      "author": "Xu-Hui Zhou, Lorenzo Beronilla, Michael K. Sleeman +4",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Data assimilation (DA) for compressible flows with shocks is challenging because many classical DA methods generate spurious oscillations and nonphysical features near uncertain shocks. We focus here…"
+    },
+    {
+      "id": "2602.02759",
+      "source": "arxiv",
+      "title": "Near-Universal Multiplicative Updates for Nonnegative Einsum Factorization",
+      "url": "https://arxiv.org/abs/2602.02759",
+      "author": "John Hood, Aaron Schein",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Despite the ubiquity of multiway data across scientific domains, there are few performant and user-friendly methods that fit non-standard nonnegative tensor factorization models tailored to the data a…"
+    },
+    {
+      "id": "2602.00279",
+      "source": "arxiv",
+      "title": "Semantic Calibration Prevails Where Token Confidence Fails: Benchmarking Long-Form Scientific QA",
+      "url": "https://arxiv.org/abs/2602.00279",
+      "author": "Philip M\\\"uller, Nicholas Popovi\\v{c}, Michael F\\\"arber +1",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Reliable uncertainty quantification (UQ) is essential for safe deployment of large language models (LLMs) in scientific question answering, where long-form outputs exceed practical human verification…"
+    },
+    {
+      "id": "2601.20771",
+      "source": "arxiv",
+      "title": "Cross-Country Learning for National Infectious Disease Forecasting Using European Data",
+      "url": "https://arxiv.org/abs/2601.20771",
+      "author": "Zacharias Komodromos, Kleanthis Malialis, Artemis Kontou +1",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Accurate forecasting of infectious disease incidence is critical for public health planning and timely intervention. While most data-driven forecasting approaches rely primarily on historical data fro…"
+    },
+    {
+      "id": "2512.16607",
+      "source": "arxiv",
+      "title": "Boltzmann generators for amorphous particle systems",
+      "url": "https://arxiv.org/abs/2512.16607",
+      "author": "Louis Grenioux, Leonardo Galliano, Ludovic Berthier +2",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Sampling configurations in thermodynamic equilibrium is a long-standing challenge in statistical physics. Boltzmann generators address this problem by employing generative models to propose independen…"
+    },
+    {
+      "id": "2511.14301",
+      "source": "arxiv",
+      "title": "SteganoBackdoor: Evading Data-Poisoning Defenses via Steganographic Backdoors",
+      "url": "https://arxiv.org/abs/2511.14301",
+      "author": "Eric Xue, Ruiyi Zhang, Pengtao Xie",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Transformer-based models are highly susceptible to backdoor attacks via supervised fine-tuning (SFT). To red-team existing data-poisoning defenses, prior work has increasingly focused on stylized trig…"
+    },
+    {
+      "id": "2509.21653",
+      "source": "arxiv",
+      "title": "A regret minimization approach to fixed-point iterations",
+      "url": "https://arxiv.org/abs/2509.21653",
+      "author": "Joon Kwon",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "We propose a conversion scheme that turns regret minimizing algorithms into fixed point iterations, with convergence guarantees following from regret bounds. The resulting iterations can be seen as a…"
+    },
+    {
+      "id": "2509.17411",
+      "source": "arxiv",
+      "title": "Robust Mixture Models for Algorithmic Fairness Under Latent Heterogeneity",
+      "url": "https://arxiv.org/abs/2509.17411",
+      "author": "Siqi Li, Molei Liu, Yiwei Lyu +3",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Machine learning models optimized for average performance can perform poorly on vulnerable subpopulations. Existing approaches often rely on groups specified in advance, yet fairness-relevant subgroup…"
+    },
+    {
+      "id": "2506.07327",
+      "source": "arxiv",
+      "title": "CASE: Contrastive Activation for Class-Sensitive Explanations",
+      "url": "https://arxiv.org/abs/2506.07327",
+      "author": "Dane Williamson, Yangfeng Ji, Matthew Dwyer",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Saliency methods are widely used to visualize which input features are deemed relevant to a model's prediction. However, their visual plausibility can obscure critical limitations. In this work, we pr…"
+    },
+    {
+      "id": "2401.03580",
+      "source": "arxiv",
+      "title": "Multi-Objective Hyperparameter Search via Damped Gauss--Newton Optimization",
+      "url": "https://arxiv.org/abs/2401.03580",
+      "author": "Qinwu Xu, Yifan Jiang",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "We study hyperparameter optimization (HPO) from a numerical-optimization perspective and propose a multi-objective damped Newton--Gauss--Newton search method. Rather than perturbing each hyperparamete…"
+    },
+    {
+      "id": "2609.20539",
+      "source": "arxiv",
+      "title": "Parallelism, critical windows, and separations among diffusion language models",
+      "url": "https://arxiv.org/abs/2609.20539",
+      "author": "Sitan Chen, Liye Wang",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "A popular selling point of diffusion large language models (dLLMs) is their capacity for parallelism: the ability to generate sequences of text far more efficiently than autoregressive models, which r…"
+    },
+    {
+      "id": "2609.20166",
+      "source": "arxiv",
+      "title": "Small Enough to Know Everything: The Fully-Enumerable Transformer as an Instrument for the Science of Delayed Generalization",
+      "url": "https://arxiv.org/abs/2609.20166",
+      "author": "Yoshiyuki Ootani",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Tiny transformers trained on fully-enumerable tasks occupy an unusual position in the study of grokking: every input can be evaluated, every generalization ceiling can be computed exactly, and hundred…"
+    },
+    {
+      "id": "2609.17995",
+      "source": "arxiv",
+      "title": "QuanText: Protecting Dataset-Level Secrets in Textual Data Sharing",
+      "url": "https://arxiv.org/abs/2609.17995",
+      "author": "Shuaiqi Wang, Zinan Lin, Giulia Fanti",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Natural-language datasets support many downstream applications and research studies, but releasing text can reveal sensitive global properties of the underlying data source, such as the proportion of…"
+    },
+    {
+      "id": "2609.17763",
+      "source": "arxiv",
+      "title": "Modular Deep Learning Mechanisms for Auditable Next-Day Wildfire Spread Prediction",
+      "url": "https://arxiv.org/abs/2609.17763",
+      "author": "Miguel Esparza, Aydin Ayanzadeh, Ahmad Mousavi +1",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "Next-day wildfire prediction requires models whose forecasts can be evaluated alongside the assumptions and historical evidence used in their computation. Although deep learning can learn spatial patt…"
+    },
+    {
+      "id": "2609.17652",
+      "source": "arxiv",
+      "title": "Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches",
+      "url": "https://arxiv.org/abs/2609.17652",
+      "author": "Vivek Kalyanarangan",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "summary": "When agentic sessions run to a million tokens with many sessions resident at once, the KV cache and the index that ranks it live in host memory, and the scan that ranks all n keys for a top-k step bec…"
+    }
+  ]
 }
