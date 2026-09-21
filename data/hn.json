@@ -1,23 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-20T15:13:18.058Z",
+  "fetchedAt": "2026-09-21T02:44:21.021Z",
   "items": [
     {
       "id": "49775499",
       "source": "hn",
-      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "title": "Qwen Image 2.1",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 136,
+      "score": 517,
       "commentsUrl": "https://news.ycombinator.com/item?id=49775499",
       "author": "jmillikin",
       "publishedAt": "2026-09-20T13:09:25.000Z"
+    },
+    {
+      "id": "49776699",
+      "source": "hn",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "score": 457,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49776699",
+      "author": "skepticalgenius",
+      "publishedAt": "2026-09-20T15:16:07.000Z"
+    },
+    {
+      "id": "49780849",
+      "source": "hn",
+      "title": "Show HN: jevals – replacing LLM judges with typed Jev decisions",
+      "url": "https://github.com/openlayer-ai/jevals",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49780849",
+      "author": "gbayomi",
+      "publishedAt": "2026-09-20T22:39:47.000Z"
+    },
+    {
+      "id": "49774795",
+      "source": "hn",
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "score": 73,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49774795",
+      "author": "bucket2015",
+      "publishedAt": "2026-09-20T11:37:10.000Z"
     },
     {
       "id": "49764791",
       "source": "hn",
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 1697,
+      "score": 1786,
       "commentsUrl": "https://news.ycombinator.com/item?id=49764791",
       "author": "ereiamjh",
       "publishedAt": "2026-09-19T09:20:58.000Z"
@@ -27,110 +57,60 @@
       "source": "hn",
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 691,
+      "score": 723,
       "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
       "author": "joeriddles",
       "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
-      "id": "49774991",
+      "id": "49781977",
       "source": "hn",
-      "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-      "score": 25,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49774991",
-      "author": "sbulaev",
-      "publishedAt": "2026-09-20T12:07:10.000Z"
+      "title": "Flock Partnered with Nonprofit That Uses AI to Rally Public Support",
+      "url": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49781977",
+      "author": "dp-hackernews",
+      "publishedAt": "2026-09-21T01:23:53.000Z"
     },
     {
-      "id": "49774329",
+      "id": "49779802",
       "source": "hn",
-      "title": "AI and the Destruction of the Creative Commons",
-      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-      "score": 195,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49774329",
-      "author": "rakel_rakel",
-      "publishedAt": "2026-09-20T10:07:51.000Z"
+      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
+      "score": 48,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49779802",
+      "author": "layer8",
+      "publishedAt": "2026-09-20T20:32:43.000Z"
+    },
+    {
+      "id": "49780162",
+      "source": "hn",
+      "title": "I stopped drinking the AI Kool-Aid",
+      "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
+      "score": 58,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49780162",
+      "author": "joshtronic",
+      "publishedAt": "2026-09-20T21:17:26.000Z"
+    },
+    {
+      "id": "49781170",
+      "source": "hn",
+      "title": "How Anthropic CEO Dario Amodei's Writings Help Explain A.I. Fears",
+      "url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49781170",
+      "author": "gmays",
+      "publishedAt": "2026-09-20T23:22:20.000Z"
     },
     {
       "id": "49767937",
       "source": "hn",
       "title": "I think you should almost never use AI to write",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "score": 318,
+      "score": 343,
       "commentsUrl": "https://news.ycombinator.com/item?id=49767937",
       "author": "erwald",
       "publishedAt": "2026-09-19T16:35:24.000Z"
-    },
-    {
-      "id": "49770847",
-      "source": "hn",
-      "title": "Can you tell which images are AI-generated?",
-      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-      "score": 97,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49770847",
-      "author": "hckr78",
-      "publishedAt": "2026-09-19T23:02:34.000Z"
-    },
-    {
-      "id": "49763987",
-      "source": "hn",
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "score": 384,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49763987",
-      "author": "nsoonhui",
-      "publishedAt": "2026-09-19T06:41:44.000Z"
-    },
-    {
-      "id": "49768921",
-      "source": "hn",
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "score": 175,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49768921",
-      "author": "jonbaer",
-      "publishedAt": "2026-09-19T18:21:30.000Z"
-    },
-    {
-      "id": "49774795",
-      "source": "hn",
-      "title": "If AI coding is lowering your code quality, you're not managing quality right",
-      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "score": 57,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49774795",
-      "author": "bucket2015",
-      "publishedAt": "2026-09-20T11:37:10.000Z"
-    },
-    {
-      "id": "49772745",
-      "source": "hn",
-      "title": "VoltGrid AI: Mitigating GPU cluster dI/dt power surges in software",
-      "url": "https://zenodo.org/records/22824778",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49772745",
-      "author": "samganyx",
-      "publishedAt": "2026-09-20T05:32:16.000Z"
-    },
-    {
-      "id": "49773624",
-      "source": "hn",
-      "title": "OpenAI and Microsoft knew they were starting a 'doom loop' for the web",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "score": 27,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49773624",
-      "author": "sbulaev",
-      "publishedAt": "2026-09-20T08:07:08.000Z"
-    },
-    {
-      "id": "49763379",
-      "source": "hn",
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "score": 53,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49763379",
-      "author": "noobplus",
-      "publishedAt": "2026-09-19T04:44:35.000Z"
     }
   ]
 }
