@@ -1,23 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-21T17:36:09.307Z",
+  "fetchedAt": "2026-09-22T02:45:15.278Z",
   "items": [
     {
-      "id": "49789982",
+      "id": "49795579",
       "source": "hn",
-      "title": "Amazon Blocks Meta's New Muse AI Agent from Shopping on Amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-      "score": 24,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49789982",
-      "author": "simianwords",
-      "publishedAt": "2026-09-21T17:00:23.000Z"
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "score": 67,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49795579",
+      "author": "corvad",
+      "publishedAt": "2026-09-22T01:05:19.000Z"
+    },
+    {
+      "id": "49792067",
+      "source": "hn",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "score": 153,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49792067",
+      "author": "julian_digital",
+      "publishedAt": "2026-09-21T19:23:33.000Z"
+    },
+    {
+      "id": "49795718",
+      "source": "hn",
+      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "score": 47,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49795718",
+      "author": "CharlesW",
+      "publishedAt": "2026-09-22T01:24:49.000Z"
+    },
+    {
+      "id": "49791647",
+      "source": "hn",
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "score": 108,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49791647",
+      "author": "pretext",
+      "publishedAt": "2026-09-21T18:53:01.000Z"
     },
     {
       "id": "49787535",
       "source": "hn",
       "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
       "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "score": 119,
+      "score": 214,
       "commentsUrl": "https://news.ycombinator.com/item?id=49787535",
       "author": "ano-ther",
       "publishedAt": "2026-09-21T14:10:49.000Z"
@@ -27,27 +57,27 @@
       "source": "hn",
       "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
       "url": "https://github.com/aru-labs/lossless-memory",
-      "score": 41,
+      "score": 58,
       "commentsUrl": "https://news.ycombinator.com/item?id=49786419",
       "author": "aru-labs",
       "publishedAt": "2026-09-21T12:28:17.000Z"
     },
     {
-      "id": "49789120",
+      "id": "49792965",
       "source": "hn",
-      "title": "Amazon blocks Meta's Muse AI shopping agent",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49789120",
-      "author": "beardyw",
-      "publishedAt": "2026-09-21T16:08:50.000Z"
+      "title": "New bill to protect American citizens access to AI – Please read and share",
+      "url": "https://righttorun.us",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49792965",
+      "author": "howdoweknowit",
+      "publishedAt": "2026-09-21T20:30:38.000Z"
     },
     {
       "id": "49786210",
       "source": "hn",
       "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
       "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
-      "score": 13,
+      "score": 38,
       "commentsUrl": "https://news.ycombinator.com/item?id=49786210",
       "author": "meep_meep_meep",
       "publishedAt": "2026-09-21T12:07:16.000Z"
@@ -57,37 +87,27 @@
       "source": "hn",
       "title": "Qwen Image 2.1",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 711,
+      "score": 722,
       "commentsUrl": "https://news.ycombinator.com/item?id=49775499",
       "author": "jmillikin",
       "publishedAt": "2026-09-20T13:09:25.000Z"
     },
     {
-      "id": "49787765",
+      "id": "49795260",
       "source": "hn",
-      "title": "The Claude Delusion",
-      "url": "https://pluralistic.net/2026/09/21/sunsetting/",
-      "score": 83,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49787765",
-      "author": "hn_acker",
-      "publishedAt": "2026-09-21T14:30:24.000Z"
-    },
-    {
-      "id": "49784816",
-      "source": "hn",
-      "title": "Don't Use AI to Write",
-      "url": "https://paulbakker.io/writing/no-ai-for-writing/",
-      "score": 114,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49784816",
-      "author": "eigenBasis",
-      "publishedAt": "2026-09-21T08:54:44.000Z"
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49795260",
+      "author": "tomjakubowski",
+      "publishedAt": "2026-09-22T00:24:00.000Z"
     },
     {
       "id": "49747070",
       "source": "hn",
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 737,
+      "score": 743,
       "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
       "author": "joeriddles",
       "publishedAt": "2026-09-17T21:48:38.000Z"
@@ -97,50 +117,50 @@
       "source": "hn",
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 1846,
+      "score": 1856,
       "commentsUrl": "https://news.ycombinator.com/item?id=49764791",
       "author": "ereiamjh",
       "publishedAt": "2026-09-19T09:20:58.000Z"
-    },
-    {
-      "id": "49783062",
-      "source": "hn",
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "score": 143,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49783062",
-      "author": "1vuio0pswjnm7",
-      "publishedAt": "2026-09-21T04:28:44.000Z"
     },
     {
       "id": "49774795",
       "source": "hn",
       "title": "If AI coding is lowering your code quality, you're not managing quality right",
       "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "score": 112,
+      "score": 119,
       "commentsUrl": "https://news.ycombinator.com/item?id=49774795",
       "author": "bucket2015",
       "publishedAt": "2026-09-20T11:37:10.000Z"
     },
     {
-      "id": "49780849",
+      "id": "49790322",
       "source": "hn",
-      "title": "Show HN: jevals – replacing LLM judges with typed Jev decisions",
-      "url": "https://github.com/openlayer-ai/jevals",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49780849",
-      "author": "gbayomi",
-      "publishedAt": "2026-09-20T22:39:47.000Z"
+      "title": "Big AI to humanity: drop dead",
+      "url": "https://matthewbutterick.com/chron/drop-dead.html",
+      "score": 38,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49790322",
+      "author": "Tomte",
+      "publishedAt": "2026-09-21T17:23:19.000Z"
     },
     {
-      "id": "49787453",
+      "id": "49791384",
       "source": "hn",
-      "title": "Google Rolls Out $899-Plus 'Ai laptops'",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/google-rolls-out-899-plus-googlebooks-from-dell-hp-lenovo-acer-asus",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49787453",
-      "author": "evo_9",
-      "publishedAt": "2026-09-21T14:05:04.000Z"
+      "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+      "score": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49791384",
+      "author": "MC995",
+      "publishedAt": "2026-09-21T18:33:56.000Z"
+    },
+    {
+      "id": "49789982",
+      "source": "hn",
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "score": 142,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49789982",
+      "author": "simianwords",
+      "publishedAt": "2026-09-21T17:00:23.000Z"
     }
   ]
 }
