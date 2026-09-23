@@ -1,6 +1,6 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-09-22T16:03:16.974Z",
+  "fetchedAt": "2026-09-23T02:45:39.962Z",
   "items": [
     {
       "id": "2609.21651",
@@ -10,24 +10,6 @@
       "author": "Naga Ganesh, Chandrashekar M S, Lakshmi Pedapudi +2",
       "publishedAt": "2026-09-22T04:00:00.000Z",
       "summary": "FarmerChat is Digital Green's farm advisory service for smallholder farmers. When something looks wrong with a crop, the farmer takes a photograph and sends it, and that photograph is the whole questi…"
-    },
-    {
-      "id": "2609.20816",
-      "source": "arxiv",
-      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
-      "url": "https://arxiv.org/abs/2609.20816",
-      "author": "Ji Xie, Dewei Zhou, Xinyu Huang +2",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, ed…"
-    },
-    {
-      "id": "2609.20812",
-      "source": "arxiv",
-      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
-      "url": "https://arxiv.org/abs/2609.20812",
-      "author": "Nolan Smyth, Yorguin-Jose Mantilla-Ramos, Pascal Jr Tikeng Notsawo +6",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of f…"
     },
     {
       "id": "2609.20761",
@@ -48,15 +30,6 @@
       "summary": "Quantum communication underpins secure information processing and scalable quantum networks. In particular, remote state preparation (RSP) enables efficient quantum state transfer, but accurately esti…"
     },
     {
-      "id": "2609.18842",
-      "source": "arxiv",
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "url": "https://arxiv.org/abs/2609.18842",
-      "author": "Jinli Hu, Ross M. Clarke, Yichuan Zhang +1",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "Scaling laws hold that language models grow more capable with more parameters and more training data. Mixture-of-Experts (MoE) architectures are a remarkable demonstration of these laws, activating on…"
-    },
-    {
       "id": "2609.18644",
       "source": "arxiv",
       "title": "Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection",
@@ -75,15 +48,6 @@
       "summary": "Active perception is essential for robotic manipulation when fixed viewpoints leave task-relevant information occluded or unobserved. However, enabling vision-language-action (VLA) models to reason ac…"
     },
     {
-      "id": "2609.18368",
-      "source": "arxiv",
-      "title": "Semantic CSI Feedback for Beam Selection: When Task-Aware Embeddings from Sparse Pilots Outperform Full-Bandwidth Reconstruction",
-      "url": "https://arxiv.org/abs/2609.18368",
-      "author": "Cristian J. Vaca-Rubio, Konstantinos Vandikas, Aneta Vulgarakis Feljan",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "Classical CSI feedback in FDD massive MIMO transmits a compressed reconstruction of the channel, optimizing fidelity to the original signal regardless of the downstream task. We propose a semantic com…"
-    },
-    {
       "id": "2609.18243",
       "source": "arxiv",
       "title": "Acting in Meters: Learning Metric Interactions for Precise Robotic Manipulation",
@@ -91,15 +55,6 @@
       "author": "Lijie Wang, Zheng Lu, Yiming Wang +12",
       "publishedAt": "2026-09-22T04:00:00.000Z",
       "summary": "Vision-Language-Action models and World-Action Models have advanced language-conditioned robotic manipulation, yet often leave metric relations among actions, objects, and scene geometry implicit. Hum…"
-    },
-    {
-      "id": "2609.17637",
-      "source": "arxiv",
-      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
-      "url": "https://arxiv.org/abs/2609.17637",
-      "author": "Narcis Marincat",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "Restricting what a module can read may improve what a system learns to compute. We test this in a preregistered confirmation with sixty four-cell systems sharing a frozen language-model backbone and c…"
     },
     {
       "id": "2609.16751",
@@ -156,33 +111,6 @@
       "summary": "Autism Spectrum Disorder (ASD) is a neurodevelopmental condition whose early diagnosis remains challenging because conventional clinical assessments are often subjective, time-consuming, and require e…"
     },
     {
-      "id": "2609.14145",
-      "source": "arxiv",
-      "title": "A New Transformer-Based Approach for Audio-Based Kinship Verification and a New Uncontrolled Mandarin Kinship Speech Dataset",
-      "url": "https://arxiv.org/abs/2609.14145",
-      "author": "Qiyang Sun, Langqing Zhang, Yupei Li +1",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "Kinship verification is a task involving determining whether two individuals share a first-order kin relation. To tackle this task, we propose CONVTRAP-TN, a new architecture for audio-based kinship v…"
-    },
-    {
-      "id": "2609.13047",
-      "source": "arxiv",
-      "title": "Diffusion Models and Concept Formation",
-      "url": "https://arxiv.org/abs/2609.13047",
-      "author": "Zekun Wang, Karthik Singaravadivelan, Christopher J. MacLellan",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "Humans organize knowledge into a taxonomy of concepts with nested levels of abstraction and a \\emph{basic level} at which people recognize and name objects with the least cognitive effort. Cobweb is a…"
-    },
-    {
-      "id": "2609.11737",
-      "source": "arxiv",
-      "title": "Organizational Principles Enable Collective Intelligence in Embodied AI",
-      "url": "https://arxiv.org/abs/2609.11737",
-      "author": "Zhengran Ji, Jonathan Hyun, Boyuan Chen",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "Collective intelligence depends not only on the capabilities of individual members, but also on how those members are organized. Yet artificial multi-agent systems are typically assembled using fixed…"
-    },
-    {
       "id": "2609.11689",
       "source": "arxiv",
       "title": "Geospatial Foundation Models Capture Health-Relevant Dimensions of Place Beyond Conventional Social Risk Indices",
@@ -199,24 +127,6 @@
       "author": "Jinho Jeong, Se June Joo, Jaehyun Kang +4",
       "publishedAt": "2026-09-22T04:00:00.000Z",
       "summary": "Human video datasets offer an abundant and diverse source of interaction data that can complement expensive real-robot data. To bridge the human-to-robot embodiment gap, existing approaches either rob…"
-    },
-    {
-      "id": "2609.06983",
-      "source": "arxiv",
-      "title": "Input-to-State Stability Framework for Fully Distributed Primal-Dual Dynamics for Quadratic GNEPs Without Multiplier Consensus",
-      "url": "https://arxiv.org/abs/2609.06983",
-      "author": "Shao-An Yin",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "Generalized Nash Equilibrium Problems (GNEPs) often arise in multi-agent engineering applications that require distributed algorithms. Unlike traditional approaches that enforce consensus on multiplie…"
-    },
-    {
-      "id": "2609.03565",
-      "source": "arxiv",
-      "title": "Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning",
-      "url": "https://arxiv.org/abs/2609.03565",
-      "author": "Muyuan Liu (GENISOM AI, Beijing, China) +9",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "Action-conditioned JEPA world models enable planning toward visually specified goals without reconstructing future pixels, yet latent prediction alone does not explicitly encourage the learned represe…"
     },
     {
       "id": "2609.03203",
@@ -237,15 +147,6 @@
       "summary": "Predicting the thermodynamic properties of an alloy requires sampling its configurations across many chemical conditions and recovering free energies on a common absolute scale. Markov chain Monte Car…"
     },
     {
-      "id": "2608.30703",
-      "source": "arxiv",
-      "title": "SingProbe Technical Report",
-      "url": "https://arxiv.org/abs/2608.30703",
-      "author": "Sing Team",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "We present SingProbe, an open intrinsic guardrail framework for generation-time monitoring of LLMs. Intrinsic guardrails reuse hidden states already produced by the base model during autoregressive de…"
-    },
-    {
       "id": "2608.29601",
       "source": "arxiv",
       "title": "$N_0$-Foundation: Towards the Age of Tactile Intelligence",
@@ -264,13 +165,112 @@
       "summary": "This paper proposes a novel data-driven algorithm to approximate the dominant eigenfunctions (aka.~modes) of the Koopman operator of nonlinear dynamical systems using neural networks. The relevance of…"
     },
     {
-      "id": "2608.18531",
+      "id": "2608.03360",
       "source": "arxiv",
-      "title": "Pairwise Ranking Outperforms Single-Action RL for Offline Explanation Selection: A Practical Lesson",
-      "url": "https://arxiv.org/abs/2608.18531",
-      "author": "Tanay Chowdhury, Saeideh Shahrokh Esfahani",
+      "title": "Conformal risk control for model-form uncertainty in parametric non-intrusive reduced-order models",
+      "url": "https://arxiv.org/abs/2608.03360",
+      "author": "Edgar Jaber (CB, ENS Paris Saclay), R\\'emy Vallot (CB +6",
       "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "Industrial explainable-recommendation systems built on LLMs incur a substantial serving cost: each request triggers an LLM generation, with latency in the hundreds of milliseconds and cost that scales…"
+      "summary": "Non-intrusive reduced-order models (NIROMs) have become a standard tool for approximating parametric partial differential equations from computer design of experiments while significantly reducing com…"
+    },
+    {
+      "id": "2608.01281",
+      "source": "arxiv",
+      "title": "Latent Softmax for Data-Efficient Phoneme-Based Multilingual ASR Across Tonal and Non-Tonal Languages",
+      "url": "https://arxiv.org/abs/2608.01281",
+      "author": "Saierdaer Yusuyin, Nanling Jiang, Hao Huang +1",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "Phoneme-based multilingual automatic speech recognition (ASR) can share acoustic evidence across languages more directly than language-specific subword modeling. When tonal and non-tonal languages are…"
+    },
+    {
+      "id": "2608.01041",
+      "source": "arxiv",
+      "title": "On the Limits of Machine-Learned Ranking for Modern Microarchitectural Policies",
+      "url": "https://arxiv.org/abs/2608.01041",
+      "author": "Yanxin Zhang, Shayne Wadle, Yuxuan Xiong +3",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "Machine-learning predictors estimate processor performance far faster than cycle-level simulation. For design-space exploration, however, the valuable test is not merely reproducing the usual hardware…"
+    },
+    {
+      "id": "2607.22201",
+      "source": "arxiv",
+      "title": "Trajectory-Regularized Stochastic Optimal Control via KL Divergence",
+      "url": "https://arxiv.org/abs/2607.22201",
+      "author": "Mintae Kim, Koushil Sreenath",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "We introduce trajectory-regularized stochastic optimal control (TRSOC), which augments standard stochastic optimal control (SOC) with a Kullback--Leibler (KL) divergence between controlled and referen…"
+    },
+    {
+      "id": "2607.22068",
+      "source": "arxiv",
+      "title": "Rethinking Multi-Branch and Cross-Backbone Fusion for Vehicle Re-Identification under Foundation-Model Pretraining",
+      "url": "https://arxiv.org/abs/2607.22068",
+      "author": "Yu Wang, Hongyu Yang",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "Multi-branch architectures and CNN-Transformer fusion are widely believed to improve vehicle re-identification (Re-ID) by combining complementary representations. We revisit this for a DINOv3-pretrain…"
+    },
+    {
+      "id": "2607.14293",
+      "source": "arxiv",
+      "title": "Real-Time Detection of Charge Jumps in Superconducting Qubits with a Convolutional Neural Network",
+      "url": "https://arxiv.org/abs/2607.14293",
+      "author": "Daniel Gaytan-Villarreal, Peter Meiring, Daniel Baxter +6",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "Ionizing radiation from cosmic rays and gammas can induce discontinuous jumps in the environmental charge of superconducting qubits (charge jumps), causing correlated errors that challenge fault-toler…"
+    },
+    {
+      "id": "2607.04733",
+      "source": "arxiv",
+      "title": "LP-SFT: Local-Preserving Supervised Fine-Tuning via Multimodal Entropy Structure",
+      "url": "https://arxiv.org/abs/2607.04733",
+      "author": "Yueyang Wang, Baolong Bi, Shuo Lu +3",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "Supervised fine-tuning (SFT) is the standard approach for adapting pretrained language models to downstream domains, yet it often improves target-domain behavior at the cost of degrading pre-existing…"
+    },
+    {
+      "id": "2606.23933",
+      "source": "arxiv",
+      "title": "Flow-Corrected Thompson Sampling for Non-Stationary Contextual Bandits",
+      "url": "https://arxiv.org/abs/2606.23933",
+      "author": "AmirHossein Naghdi, Ali Baheri",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "We study non-stationary linear contextual bandits where the reward model drifts over time, rendering classical contextual bandit algorithms brittle because historical data becomes systematically biase…"
+    },
+    {
+      "id": "2606.14053",
+      "source": "arxiv",
+      "title": "Hybrid Uncertainty Sensitivity Analysis Based on the HSIC for High-Dimensional Responses with Aleatory--Epistemic Separation",
+      "url": "https://arxiv.org/abs/2606.14053",
+      "author": "Shijie Zhong, Jiangfeng Fu, Pengfei Wei",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "Quantifying the influence of hybrid aleatory and epistemic uncertainties on high-dimensional system responses remains a major challenge in global sensitivity analysis (GSA). Existing Hilbert--Schmidt…"
+    },
+    {
+      "id": "2606.13633",
+      "source": "arxiv",
+      "title": "Aerial Wildfire Suppression Planning with a Hybrid CNN-Cellular Automata Fire Model",
+      "url": "https://arxiv.org/abs/2606.13633",
+      "author": "Ion Matei, Maksym Zhenirovskyy, Takuya Kurihana +2",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "Aerial wildfire suppression requires decisions about when, where, and how to deploy limited aircraft. We present an intervention-design framework built on a frozen hybrid convolutional neural network…"
+    },
+    {
+      "id": "2606.08372",
+      "source": "arxiv",
+      "title": "SoK: Reconstruction Attacks on Synthetic Tabular Data (Insights from Winning the NIST CRC)",
+      "url": "https://arxiv.org/abs/2606.08372",
+      "author": "Steven Golob, Sikha Pentyala, Martine De Cock",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "Synthetic data is increasingly promoted as a privacy-preserving substitute for releasing sensitive tabular records, yet its central adversarial threat (reconstruction, the recovery of an individual's…"
+    },
+    {
+      "id": "2606.04160",
+      "source": "arxiv",
+      "title": "Decomposing Refusal Steering in Mixture-of-Experts Models",
+      "url": "https://arxiv.org/abs/2606.04160",
+      "author": "Anna C. Marbut, Daniel R. Olson, Travis J. Wheeler",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "summary": "Safety alignment in instruction-tuned large language models (LLMs) depends on a model's ability to reliably refuse harmful or disallowed requests. Recent work has shown that a steering vector can be a…"
     }
   ]
 }
