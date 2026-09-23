@@ -1,13 +1,43 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-23T02:45:39.742Z",
+  "fetchedAt": "2026-09-23T15:53:47.197Z",
   "items": [
+    {
+      "id": "49817404",
+      "source": "hn",
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "url": "https://drivingbench.com/",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49817404",
+      "author": "plurby",
+      "publishedAt": "2026-09-23T15:14:22.000Z"
+    },
+    {
+      "id": "49815982",
+      "source": "hn",
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "score": 72,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49815982",
+      "author": "ltononro",
+      "publishedAt": "2026-09-23T13:38:00.000Z"
+    },
+    {
+      "id": "49814947",
+      "source": "hn",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "score": 336,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49814947",
+      "author": "pszypowicz",
+      "publishedAt": "2026-09-23T12:15:33.000Z"
+    },
     {
       "id": "49805509",
       "source": "hn",
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "score": 1227,
+      "score": 1660,
       "commentsUrl": "https://news.ycombinator.com/item?id=49805509",
       "author": "OfficialTurkey",
       "publishedAt": "2026-09-22T18:00:34.000Z"
@@ -17,7 +47,7 @@
       "source": "hn",
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
-      "score": 1247,
+      "score": 1683,
       "commentsUrl": "https://news.ycombinator.com/item?id=49803892",
       "author": "km144",
       "publishedAt": "2026-09-22T16:29:05.000Z"
@@ -27,37 +57,47 @@
       "source": "hn",
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "score": 573,
+      "score": 705,
       "commentsUrl": "https://news.ycombinator.com/item?id=49801324",
       "author": "sohkamyung",
       "publishedAt": "2026-09-22T13:52:15.000Z"
-    },
-    {
-      "id": "49804316",
-      "source": "hn",
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "score": 240,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49804316",
-      "author": "theanonymousone",
-      "publishedAt": "2026-09-22T16:51:31.000Z"
     },
     {
       "id": "49806430",
       "source": "hn",
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "score": 458,
+      "score": 795,
       "commentsUrl": "https://news.ycombinator.com/item?id=49806430",
       "author": "devonnull",
       "publishedAt": "2026-09-22T19:03:38.000Z"
+    },
+    {
+      "id": "49804316",
+      "source": "hn",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "score": 319,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49804316",
+      "author": "theanonymousone",
+      "publishedAt": "2026-09-22T16:51:31.000Z"
+    },
+    {
+      "id": "49816553",
+      "source": "hn",
+      "title": "Community condemn Bedminster AI mural as 'insult' to artists",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyq09jp49eo",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49816553",
+      "author": "edward",
+      "publishedAt": "2026-09-23T14:16:12.000Z"
     },
     {
       "id": "49802161",
       "source": "hn",
       "title": "OpenAI is well positioned to fast-follow Jev",
       "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "score": 266,
+      "score": 305,
       "commentsUrl": "https://news.ycombinator.com/item?id=49802161",
       "author": "JohnBerryman",
       "publishedAt": "2026-09-22T14:42:59.000Z"
@@ -67,7 +107,7 @@
       "source": "hn",
       "title": "Show HN: Training a model to identify AI web content from structure alone",
       "url": "https://arxiv.org/abs/2609.15369",
-      "score": 44,
+      "score": 62,
       "commentsUrl": "https://news.ycombinator.com/item?id=49800566",
       "author": "jochenmadler",
       "publishedAt": "2026-09-22T13:00:49.000Z"
@@ -77,70 +117,50 @@
       "source": "hn",
       "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
       "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-      "score": 96,
+      "score": 114,
       "commentsUrl": "https://news.ycombinator.com/item?id=49795260",
       "author": "tomjakubowski",
       "publishedAt": "2026-09-22T00:24:00.000Z"
+    },
+    {
+      "id": "49814019",
+      "source": "hn",
+      "title": "GPT-6 Astra has made a major breakthrough in the Goldbach Conjecture",
+      "url": "https://twitter.com/captain_sude/status/2100277626120163664",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49814019",
+      "author": "nsoonhui",
+      "publishedAt": "2026-09-23T10:36:59.000Z"
     },
     {
       "id": "49803683",
       "source": "hn",
       "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
       "url": "https://ai-rete-rag.com/",
-      "score": 34,
+      "score": 40,
       "commentsUrl": "https://news.ycombinator.com/item?id=49803683",
       "author": "ZaharaHussain",
       "publishedAt": "2026-09-22T16:15:06.000Z"
     },
     {
-      "id": "49809806",
+      "id": "49815127",
       "source": "hn",
-      "title": "The new CC, an AI agent built for families",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-      "score": 36,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49809806",
-      "author": "grigy",
-      "publishedAt": "2026-09-22T23:46:07.000Z"
-    },
-    {
-      "id": "49806301",
-      "source": "hn",
-      "title": "GPT-6 Sol (Max) Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/gpt-6-sol",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49806301",
-      "author": "theanonymousone",
-      "publishedAt": "2026-09-22T18:54:40.000Z"
-    },
-    {
-      "id": "49792067",
-      "source": "hn",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "score": 310,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49792067",
-      "author": "julian_digital",
-      "publishedAt": "2026-09-21T19:23:33.000Z"
+      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "score": 181,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49815127",
+      "author": "cdrnsf",
+      "publishedAt": "2026-09-23T12:32:00.000Z"
     },
     {
       "id": "49747070",
       "source": "hn",
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 753,
+      "score": 758,
       "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
       "author": "joeriddles",
       "publishedAt": "2026-09-17T21:48:38.000Z"
-    },
-    {
-      "id": "49808850",
-      "source": "hn",
-      "title": "AI staff complain of mental toll over fears of threat to society",
-      "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49808850",
-      "author": "macleginn",
-      "publishedAt": "2026-09-22T22:05:47.000Z"
     }
   ]
 }
