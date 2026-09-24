@@ -1,11 +1,236 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-09-23T15:53:47.767Z",
+  "fetchedAt": "2026-09-24T02:35:18.526Z",
   "items": [
+    {
+      "id": "34210",
+      "source": "geeknews",
+      "title": "Snapdragon X2 Series에 Linux 지원이 도입될 예정",
+      "url": "https://news.hada.io/topic?id=34210",
+      "commentsUrl": "https://news.hada.io/topic?id=34210",
+      "author": "neo",
+      "publishedAt": "2026-09-24T02:33:10.000Z"
+    },
+    {
+      "id": "34208",
+      "source": "geeknews",
+      "title": "Meta VR 안경",
+      "url": "https://news.hada.io/topic?id=34208",
+      "commentsUrl": "https://news.hada.io/topic?id=34208",
+      "author": "neo",
+      "publishedAt": "2026-09-24T01:32:20.000Z"
+    },
+    {
+      "id": "34207",
+      "source": "geeknews",
+      "title": "Z80 REPL (2018)",
+      "url": "https://news.hada.io/topic?id=34207",
+      "commentsUrl": "https://news.hada.io/topic?id=34207",
+      "author": "neo",
+      "publishedAt": "2026-09-24T00:39:55.000Z"
+    },
+    {
+      "id": "34206",
+      "source": "geeknews",
+      "title": "Claude는 측정할 수 있는 것을 더 빠르게 만들 수 있다",
+      "url": "https://news.hada.io/topic?id=34206",
+      "commentsUrl": "https://news.hada.io/topic?id=34206",
+      "author": "neo",
+      "publishedAt": "2026-09-24T00:36:55.000Z"
+    },
+    {
+      "id": "34204",
+      "source": "geeknews",
+      "title": "Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안",
+      "url": "https://news.hada.io/topic?id=34204",
+      "commentsUrl": "https://news.hada.io/topic?id=34204",
+      "author": "xguru",
+      "publishedAt": "2026-09-24T00:30:02.000Z"
+    },
+    {
+      "id": "34203",
+      "source": "geeknews",
+      "title": "Show GN: Modeleaf - 키보드 중심의 가벼운 macOS 읽기 전용 PDF 뷰어",
+      "url": "https://news.hada.io/topic?id=34203",
+      "commentsUrl": "https://news.hada.io/topic?id=34203",
+      "author": "argus95",
+      "publishedAt": "2026-09-24T00:22:48.000Z"
+    },
+    {
+      "id": "34202",
+      "source": "geeknews",
+      "title": "내가 바라는 GNOME의 LLM 정책",
+      "url": "https://news.hada.io/topic?id=34202",
+      "commentsUrl": "https://news.hada.io/topic?id=34202",
+      "author": "neo",
+      "publishedAt": "2026-09-24T00:13:16.000Z"
+    },
+    {
+      "id": "34201",
+      "source": "geeknews",
+      "title": "사람을 위한 KDE",
+      "url": "https://news.hada.io/topic?id=34201",
+      "commentsUrl": "https://news.hada.io/topic?id=34201",
+      "author": "neo",
+      "publishedAt": "2026-09-24T00:10:16.000Z"
+    },
+    {
+      "id": "34200",
+      "source": "geeknews",
+      "title": "Radicle: 네트워크 프로토콜 취약점 공개",
+      "url": "https://news.hada.io/topic?id=34200",
+      "commentsUrl": "https://news.hada.io/topic?id=34200",
+      "author": "neo",
+      "publishedAt": "2026-09-24T00:07:16.000Z"
+    },
+    {
+      "id": "34199",
+      "source": "geeknews",
+      "title": "GitHub 위키는 안티패턴이다 (2022)",
+      "url": "https://news.hada.io/topic?id=34199",
+      "commentsUrl": "https://news.hada.io/topic?id=34199",
+      "author": "neo",
+      "publishedAt": "2026-09-23T22:40:09.000Z"
+    },
+    {
+      "id": "34198",
+      "source": "geeknews",
+      "title": "Stripe의 사내 업무용 AI 플랫폼, Kai",
+      "url": "https://news.hada.io/topic?id=34198",
+      "commentsUrl": "https://news.hada.io/topic?id=34198",
+      "author": "neo",
+      "publishedAt": "2026-09-23T22:37:09.000Z"
+    },
+    {
+      "id": "34197",
+      "source": "geeknews",
+      "title": "기업 채용 사이트 공고의 28%, 90일 넘게 게시 중",
+      "url": "https://news.hada.io/topic?id=34197",
+      "commentsUrl": "https://news.hada.io/topic?id=34197",
+      "author": "neo",
+      "publishedAt": "2026-09-23T21:39:10.000Z"
+    },
+    {
+      "id": "34196",
+      "source": "geeknews",
+      "title": "DoorDash가 Mamdani의 시장 당선을 막으려 140만 달러를 쓴 이유가 이제 드러났다",
+      "url": "https://news.hada.io/topic?id=34196",
+      "commentsUrl": "https://news.hada.io/topic?id=34196",
+      "author": "neo",
+      "publishedAt": "2026-09-23T21:36:09.000Z"
+    },
+    {
+      "id": "34195",
+      "source": "geeknews",
+      "title": "Claude, CRISPR 유사 반복 서열을 가진 새로운 효소 시스템 발견",
+      "url": "https://news.hada.io/topic?id=34195",
+      "commentsUrl": "https://news.hada.io/topic?id=34195",
+      "author": "neo",
+      "publishedAt": "2026-09-23T20:34:35.000Z"
+    },
+    {
+      "id": "34194",
+      "source": "geeknews",
+      "title": "Google, 목소리를 만들고 연기까지 지시하는 Gemini 3.8 TTS 공개",
+      "url": "https://news.hada.io/topic?id=34194",
+      "commentsUrl": "https://news.hada.io/topic?id=34194",
+      "author": "neo",
+      "publishedAt": "2026-09-23T19:58:51.000Z"
+    },
+    {
+      "id": "34193",
+      "source": "geeknews",
+      "title": "일일이 과금하기엔 너무 저렴한 토큰",
+      "url": "https://news.hada.io/topic?id=34193",
+      "commentsUrl": "https://news.hada.io/topic?id=34193",
+      "author": "neo",
+      "publishedAt": "2026-09-23T19:55:51.000Z"
+    },
+    {
+      "id": "34192",
+      "source": "geeknews",
+      "title": "시애틀 시의회, 식료품 판매에서 감시 기반 가격 책정 금지 법안 가결",
+      "url": "https://news.hada.io/topic?id=34192",
+      "commentsUrl": "https://news.hada.io/topic?id=34192",
+      "author": "neo",
+      "publishedAt": "2026-09-23T19:52:50.000Z"
+    },
+    {
+      "id": "34191",
+      "source": "geeknews",
+      "title": "이탈리아 의회, 원자력 에너지 복귀에 찬성 표결",
+      "url": "https://news.hada.io/topic?id=34191",
+      "commentsUrl": "https://news.hada.io/topic?id=34191",
+      "author": "neo",
+      "publishedAt": "2026-09-23T19:49:50.000Z"
+    },
+    {
+      "id": "34189",
+      "source": "geeknews",
+      "title": "시의회 회의에서 Flock에 관해 발언한 여성, 체포돼 끌려나가",
+      "url": "https://news.hada.io/topic?id=34189",
+      "commentsUrl": "https://news.hada.io/topic?id=34189",
+      "author": "neo",
+      "publishedAt": "2026-09-23T18:42:03.000Z"
+    },
+    {
+      "id": "34188",
+      "source": "geeknews",
+      "title": "Hacker News는 왜 그런가?",
+      "url": "https://news.hada.io/topic?id=34188",
+      "commentsUrl": "https://news.hada.io/topic?id=34188",
+      "author": "neo",
+      "publishedAt": "2026-09-23T18:39:03.000Z"
+    },
+    {
+      "id": "34187",
+      "source": "geeknews",
+      "title": "GPT-6 Astra, 실제 자동차를 운전해 주행 코스 완주",
+      "url": "https://news.hada.io/topic?id=34187",
+      "commentsUrl": "https://news.hada.io/topic?id=34187",
+      "author": "neo",
+      "publishedAt": "2026-09-23T17:38:33.000Z"
+    },
+    {
+      "id": "34186",
+      "source": "geeknews",
+      "title": "Portobello 경찰서 시계 고치기",
+      "url": "https://news.hada.io/topic?id=34186",
+      "commentsUrl": "https://news.hada.io/topic?id=34186",
+      "author": "neo",
+      "publishedAt": "2026-09-23T17:35:33.000Z"
+    },
+    {
+      "id": "34184",
+      "source": "geeknews",
+      "title": "\"완벽주의라는 자기검열을 깨고 일단 빌드하라\" — 피터 신(Outsome CEO) 세션 요약",
+      "url": "https://news.hada.io/topic?id=34184",
+      "commentsUrl": "https://news.hada.io/topic?id=34184",
+      "author": "testofschool",
+      "publishedAt": "2026-09-23T16:46:27.000Z"
+    },
+    {
+      "id": "34183",
+      "source": "geeknews",
+      "title": "세부 사항은 듣고 싶지 않습니다",
+      "url": "https://news.hada.io/topic?id=34183",
+      "commentsUrl": "https://news.hada.io/topic?id=34183",
+      "author": "neo",
+      "publishedAt": "2026-09-23T16:38:09.000Z"
+    },
+    {
+      "id": "34182",
+      "source": "geeknews",
+      "title": "삼성, 소프트웨어 업데이트 실수로 스마트 냉장고 먹통",
+      "url": "https://news.hada.io/topic?id=34182",
+      "commentsUrl": "https://news.hada.io/topic?id=34182",
+      "author": "neo",
+      "publishedAt": "2026-09-23T16:35:09.000Z"
+    },
     {
       "id": "34181",
       "source": "geeknews",
-      "title": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단",
+      "title": "Amazon, Meta의 새 Muse AI 에이전트가 아마존닷컴에서 쇼핑하지 못하도록 차단",
       "url": "https://news.hada.io/topic?id=34181",
       "commentsUrl": "https://news.hada.io/topic?id=34181",
       "author": "neo",
@@ -23,7 +248,7 @@
     {
       "id": "34179",
       "source": "geeknews",
-      "title": "Claude Code는 텔레메트리가 켜져 있을 때만 AGENTS.md를 읽음",
+      "title": "Claude Code, 텔레메트리를 끄면 AGENTS.md를 읽지 않는 문제 발견",
       "url": "https://news.hada.io/topic?id=34179",
       "commentsUrl": "https://news.hada.io/topic?id=34179",
       "author": "neo",
@@ -41,236 +266,11 @@
     {
       "id": "34176",
       "source": "geeknews",
-      "title": "이딴 짓거리는 이제 끝",
+      "title": "이딴 짓은 이제 못 해 먹겠다",
       "url": "https://news.hada.io/topic?id=34176",
       "commentsUrl": "https://news.hada.io/topic?id=34176",
       "author": "neo",
       "publishedAt": "2026-09-23T13:44:02.000Z"
-    },
-    {
-      "id": "34175",
-      "source": "geeknews",
-      "title": "의사로 살아가는 일의 어두운 면",
-      "url": "https://news.hada.io/topic?id=34175",
-      "commentsUrl": "https://news.hada.io/topic?id=34175",
-      "author": "neo",
-      "publishedAt": "2026-09-23T13:41:02.000Z"
-    },
-    {
-      "id": "34174",
-      "source": "geeknews",
-      "title": "No Sloptober - 10월 한 달 LLM 도구 사용하지 않기",
-      "url": "https://news.hada.io/topic?id=34174",
-      "commentsUrl": "https://news.hada.io/topic?id=34174",
-      "author": "neo",
-      "publishedAt": "2026-09-23T13:02:07.000Z"
-    },
-    {
-      "id": "34173",
-      "source": "geeknews",
-      "title": "Show GN: jgrep - diff 하나로 어떤 테스트를 돌릴지 Jev에게 묻는 CLI",
-      "url": "https://news.hada.io/topic?id=34173",
-      "commentsUrl": "https://news.hada.io/topic?id=34173",
-      "author": "kyu1204",
-      "publishedAt": "2026-09-23T12:45:40.000Z"
-    },
-    {
-      "id": "34172",
-      "source": "geeknews",
-      "title": "대중교통 리워드",
-      "url": "https://news.hada.io/topic?id=34172",
-      "commentsUrl": "https://news.hada.io/topic?id=34172",
-      "author": "neo",
-      "publishedAt": "2026-09-23T12:32:46.000Z"
-    },
-    {
-      "id": "34171",
-      "source": "geeknews",
-      "title": "프로그래밍 언어를 제대로 설계하자! (2024)",
-      "url": "https://news.hada.io/topic?id=34171",
-      "commentsUrl": "https://news.hada.io/topic?id=34171",
-      "author": "neo",
-      "publishedAt": "2026-09-23T12:02:52.000Z"
-    },
-    {
-      "id": "34170",
-      "source": "geeknews",
-      "title": "LLM Ass Bench",
-      "url": "https://news.hada.io/topic?id=34170",
-      "commentsUrl": "https://news.hada.io/topic?id=34170",
-      "author": "neo",
-      "publishedAt": "2026-09-23T11:31:24.000Z"
-    },
-    {
-      "id": "34169",
-      "source": "geeknews",
-      "title": "Mac 기본 UI를 고집할 이유는 이제 거의 사라졌다",
-      "url": "https://news.hada.io/topic?id=34169",
-      "commentsUrl": "https://news.hada.io/topic?id=34169",
-      "author": "neo",
-      "publishedAt": "2026-09-23T11:02:45.000Z"
-    },
-    {
-      "id": "34168",
-      "source": "geeknews",
-      "title": "구독 취소를 시도하면 모든 사용자에게 상식 밖의 메시지를 보내는 Grammarly",
-      "url": "https://news.hada.io/topic?id=34168",
-      "commentsUrl": "https://news.hada.io/topic?id=34168",
-      "author": "neo",
-      "publishedAt": "2026-09-23T10:37:01.000Z"
-    },
-    {
-      "id": "34167",
-      "source": "geeknews",
-      "title": "Python 25줄로 구현한 Jev",
-      "url": "https://news.hada.io/topic?id=34167",
-      "commentsUrl": "https://news.hada.io/topic?id=34167",
-      "author": "neo",
-      "publishedAt": "2026-09-23T10:34:01.000Z"
-    },
-    {
-      "id": "34166",
-      "source": "geeknews",
-      "title": "일반 텍스트 파일이 위기에 처해 있다",
-      "url": "https://news.hada.io/topic?id=34166",
-      "commentsUrl": "https://news.hada.io/topic?id=34166",
-      "author": "neo",
-      "publishedAt": "2026-09-23T09:02:55.000Z"
-    },
-    {
-      "id": "34164",
-      "source": "geeknews",
-      "title": "전자담배에 중독된 사람들이 끊기 위해 시도하는 새 방법: 일반 담배",
-      "url": "https://news.hada.io/topic?id=34164",
-      "commentsUrl": "https://news.hada.io/topic?id=34164",
-      "author": "neo",
-      "publishedAt": "2026-09-23T07:33:07.000Z"
-    },
-    {
-      "id": "34163",
-      "source": "geeknews",
-      "title": "Unreal Agent",
-      "url": "https://news.hada.io/topic?id=34163",
-      "commentsUrl": "https://news.hada.io/topic?id=34163",
-      "author": "neo",
-      "publishedAt": "2026-09-23T06:34:06.000Z"
-    },
-    {
-      "id": "34162",
-      "source": "geeknews",
-      "title": "캘리포니아가 관개 수로 위 태양광 패널에서 배우고 있는 것",
-      "url": "https://news.hada.io/topic?id=34162",
-      "commentsUrl": "https://news.hada.io/topic?id=34162",
-      "author": "neo",
-      "publishedAt": "2026-09-23T04:34:26.000Z"
-    },
-    {
-      "id": "34161",
-      "source": "geeknews",
-      "title": "Show GN: 무료 AI 문서작성 에디터(canvas) 만들었습니다.",
-      "url": "https://news.hada.io/topic?id=34161",
-      "commentsUrl": "https://news.hada.io/topic?id=34161",
-      "author": "greekr4",
-      "publishedAt": "2026-09-23T04:26:52.000Z"
-    },
-    {
-      "id": "34160",
-      "source": "geeknews",
-      "title": "WordPress: 인증 없이 악용 가능한 경로 순회 취약점, 조건 충족 시 원격 코드 실행으로 이어짐",
-      "url": "https://news.hada.io/topic?id=34160",
-      "commentsUrl": "https://news.hada.io/topic?id=34160",
-      "author": "neo",
-      "publishedAt": "2026-09-23T02:42:55.000Z"
-    },
-    {
-      "id": "34159",
-      "source": "geeknews",
-      "title": "SAML: 잘못된 설계의 프랙털",
-      "url": "https://news.hada.io/topic?id=34159",
-      "commentsUrl": "https://news.hada.io/topic?id=34159",
-      "author": "neo",
-      "publishedAt": "2026-09-23T02:39:55.000Z"
-    },
-    {
-      "id": "34158",
-      "source": "geeknews",
-      "title": "Show GN: xsoft comply - 대화 원문 없이 AI 운영 기록을 AI기본법 근거자료로 남기는 SDK",
-      "url": "https://news.hada.io/topic?id=34158",
-      "commentsUrl": "https://news.hada.io/topic?id=34158",
-      "author": "raxsoft",
-      "publishedAt": "2026-09-23T01:38:17.000Z"
-    },
-    {
-      "id": "34157",
-      "source": "geeknews",
-      "title": "Microsoft가 개발을 중단한 FoxPro, FoxDev Studio로 되살아나다",
-      "url": "https://news.hada.io/topic?id=34157",
-      "commentsUrl": "https://news.hada.io/topic?id=34157",
-      "author": "neo",
-      "publishedAt": "2026-09-23T01:34:25.000Z"
-    },
-    {
-      "id": "34155",
-      "source": "geeknews",
-      "title": "Colab이 이제 Google AI 요금제에 포함됨",
-      "url": "https://news.hada.io/topic?id=34155",
-      "commentsUrl": "https://news.hada.io/topic?id=34155",
-      "author": "xguru",
-      "publishedAt": "2026-09-23T01:06:41.000Z"
-    },
-    {
-      "id": "34153",
-      "source": "geeknews",
-      "title": "샤오미 MiMo-V2.6-Pro, 성능과 API 비용 분석",
-      "url": "https://news.hada.io/topic?id=34153",
-      "commentsUrl": "https://news.hada.io/topic?id=34153",
-      "author": "neo",
-      "publishedAt": "2026-09-23T00:40:52.000Z"
-    },
-    {
-      "id": "34152",
-      "source": "geeknews",
-      "title": "Filament - 데이터베이스와 SaaS 데이터를 옮기고 동기화하는 오픈소스 도구",
-      "url": "https://news.hada.io/topic?id=34152",
-      "commentsUrl": "https://news.hada.io/topic?id=34152",
-      "author": "xguru",
-      "publishedAt": "2026-09-23T00:40:01.000Z"
-    },
-    {
-      "id": "34151",
-      "source": "geeknews",
-      "title": "Drop - gVisor를 지원하는 루트 권한 없는 Linux 샌드박스",
-      "url": "https://news.hada.io/topic?id=34151",
-      "commentsUrl": "https://news.hada.io/topic?id=34151",
-      "author": "neo",
-      "publishedAt": "2026-09-23T00:37:52.000Z"
-    },
-    {
-      "id": "34150",
-      "source": "geeknews",
-      "title": "Fluree DB - 이력과 검증, 브랜치 병합을 갖춘 그래프 데이터베이스",
-      "url": "https://news.hada.io/topic?id=34150",
-      "commentsUrl": "https://news.hada.io/topic?id=34150",
-      "author": "xguru",
-      "publishedAt": "2026-09-23T00:30:02.000Z"
-    },
-    {
-      "id": "34149",
-      "source": "geeknews",
-      "title": "Husky - MLX보다 최대 4.5배 빠른 모델 특화 추론 엔진",
-      "url": "https://news.hada.io/topic?id=34149",
-      "commentsUrl": "https://news.hada.io/topic?id=34149",
-      "author": "xguru",
-      "publishedAt": "2026-09-23T00:22:34.000Z"
-    },
-    {
-      "id": "34148",
-      "source": "geeknews",
-      "title": "Java 클래스 파일은 왜 0xCAFEBABE로 시작할까?",
-      "url": "https://news.hada.io/topic?id=34148",
-      "commentsUrl": "https://news.hada.io/topic?id=34148",
-      "author": "neo",
-      "publishedAt": "2026-09-23T00:10:47.000Z"
     }
   ]
 }
