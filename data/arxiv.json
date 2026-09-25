@@ -1,6 +1,6 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-09-24T16:16:18.176Z",
+  "fetchedAt": "2026-09-25T02:52:28.699Z",
   "items": [
     {
       "id": "2609.26624",
@@ -19,15 +19,6 @@
       "author": "Zhe Feng, Longfei Liu, Wei Liu +7",
       "publishedAt": "2026-09-24T04:00:00.000Z",
       "summary": "Self-attention-based vision backbones perform well on dense prediction, but the quadratic computational cost of global softmax attention limits their efficiency as image resolution increases. We intro…"
-    },
-    {
-      "id": "2609.23065",
-      "source": "arxiv",
-      "title": "From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness",
-      "url": "https://arxiv.org/abs/2609.23065",
-      "author": "Qianli Wang, Yilong Wang, Dennis Wei +5",
-      "publishedAt": "2026-09-24T04:00:00.000Z",
-      "summary": "Chain-of-thought (CoT) can sound plausible yet be unfaithful to the model's underlying reasoning. Most prior work probes CoT faithfulness through input--output behavior or input attributions, leaving…"
     },
     {
       "id": "2609.22991",
@@ -75,15 +66,6 @@
       "summary": "Quantum Signal Processing is a powerful quantum framework for generating and approximating univariate polynomials. However, QSP is often limited by circuit-depth bottlenecks and parity constraints on…"
     },
     {
-      "id": "2609.19513",
-      "source": "arxiv",
-      "title": "QVAC Genesis III: A Large-Scale, High-Quality Open Synthetic STEM Corpus for Efficient Language Model Pre-Training",
-      "url": "https://arxiv.org/abs/2609.19513",
-      "author": "Davide Vitabile, N. Ranjan, Akshay Nambiar +2",
-      "publishedAt": "2026-09-24T04:00:00.000Z",
-      "summary": "High-quality pre-training data is a critical bottleneck for educational and STEM-specific language models targeting edge AI and on-device deployment where token budgets are tightly constrained. While…"
-    },
-    {
       "id": "2609.12831",
       "source": "arxiv",
       "title": "VertexCBF: Improving Neural Control Barrier Functions via Vertex-Restricted Control Search",
@@ -111,15 +93,6 @@
       "summary": "Ride-sharing, which allows multiple passengers with different origin-destination (OD) pairs to share a single vehicle, is a challenging operational problem, as it requires orders with different OD pai…"
     },
     {
-      "id": "2608.23982",
-      "source": "arxiv",
-      "title": "Memory Is Not Always Needed: Characterizing Conditional Memory in Scientific Reasoning",
-      "url": "https://arxiv.org/abs/2608.23982",
-      "author": "Zhen Bi, Xueshu Chen, Yan Wang +6",
-      "publishedAt": "2026-09-24T04:00:00.000Z",
-      "summary": "Scientific reasoning requires language models to retrieve specialized knowledge and incorporate it reliably into multi-step computation. Conditional memory provides an explicit lookup pathway that com…"
-    },
-    {
       "id": "2608.14929",
       "source": "arxiv",
       "title": "Training Leaves Traces: Centered Residual Signatures for Language Model Lineage Verification",
@@ -145,24 +118,6 @@
       "author": "Cyrill B\\\"osch, Yigithan Gediz, Clara C. Wanjura +1",
       "publishedAt": "2026-09-24T04:00:00.000Z",
       "summary": "Physical computing systems exploit device dynamics for computation, but their gradient-based optimization is challenging: backpropagation through a digital twin suffers from a model-reality gap. On-de…"
-    },
-    {
-      "id": "2607.14236",
-      "source": "arxiv",
-      "title": "Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection",
-      "url": "https://arxiv.org/abs/2607.14236",
-      "author": "Yi Wang, Wendi Chen, Zimo Wen +8",
-      "publishedAt": "2026-09-24T04:00:00.000Z",
-      "summary": "Pretrained vision-language-action (VLA) policies provide strong language-conditioned manipulation knowledge, but they remain largely vision-driven and can struggle once manipulation enters contact sta…"
-    },
-    {
-      "id": "2607.02175",
-      "source": "arxiv",
-      "title": "A rubric-based controlled comparison of frontier language models on expert-authored clinical reasoning tasks",
-      "url": "https://arxiv.org/abs/2607.02175",
-      "author": "Samiha A. Ismail, Fan X. Chen, Ali Merali",
-      "publishedAt": "2026-09-24T04:00:00.000Z",
-      "summary": "Multiple-choice medical benchmarks are increasingly saturated, and recent rubric-based evaluations such as HealthBench have shown that open-ended clinical performance is far from solved - its \"Hard\" s…"
     },
     {
       "id": "2606.25886",
@@ -210,15 +165,6 @@
       "summary": "Database vendors recently released AI functions that can be used in filter predicates. As such functions often rely on costly, black-box ML models, they unveil new data management challenges. Concrete…"
     },
     {
-      "id": "2605.16268",
-      "source": "arxiv",
-      "title": "Helping Customers in Distress: An LLM-powered Agent that Converses, Probes, and Routes",
-      "url": "https://arxiv.org/abs/2605.16268",
-      "author": "Alankar Atreya, Stefan Sylvius Wagner, Devesh Batra +7",
-      "publishedAt": "2026-09-24T04:00:00.000Z",
-      "summary": "Banks receive millions of reports of fraud, scams, and disputed transactions every year, making it challenging to accurately direct customers to the appropriate specialist teams for assistance. The ex…"
-    },
-    {
       "id": "2605.16023",
       "source": "arxiv",
       "title": "Judge Circuits Explain Format-Induced Inconsistency in LLM-as-a-Judge",
@@ -237,24 +183,6 @@
       "summary": "We present an SMT-based active learning algorithm for nondeterministic weighted automata (WFAs) as a practical and robust alternative to Hankel/L*-style methods. Our algorithm is parametric in a given…"
     },
     {
-      "id": "2605.02320",
-      "source": "arxiv",
-      "title": "ANO: Robust Policy Optimization via Bounded, Redescending Gain Fields",
-      "url": "https://arxiv.org/abs/2605.02320",
-      "author": "Yiheng Zhang, Yiming Wang, Kaiyan Zhao +3",
-      "publishedAt": "2026-09-24T04:00:00.000Z",
-      "summary": "Proximal Policy Optimization (PPO) dominates reinforcement learning and LLM alignment, yet its hard-clipping mechanism and unconstrained alternatives (e.g., SPO) sit at two extremes of a stability-eff…"
-    },
-    {
-      "id": "2605.02317",
-      "source": "arxiv",
-      "title": "Anon: Extrapolating Adaptivity Beyond SGD and Adam",
-      "url": "https://arxiv.org/abs/2605.02317",
-      "author": "Yiheng Zhang, Kaiyan Zhao, Shaowu Wu +5",
-      "publishedAt": "2026-09-24T04:00:00.000Z",
-      "summary": "Adaptive optimizers such as Adam and non-adaptive methods like SGD exhibit distinct generalization capabilities across different architectures. Prior tunable optimizers attempt to bridge this gap by s…"
-    },
-    {
       "id": "2604.26160",
       "source": "arxiv",
       "title": "Fitting Large Nonlinear Mixed Effects Models Using Variational Expectation Maximization",
@@ -271,6 +199,78 @@
       "author": "Xu Bai, Muhammed Tawfiqul Islam, Chen Wang +1",
       "publishedAt": "2026-09-24T04:00:00.000Z",
       "summary": "Pipeline parallelism (PP) is widely used to partition layers of large language models (LLMs) across GPUs, enabling scalable inference for large models. However, existing systems rely on static PP conf…"
+    },
+    {
+      "id": "2604.06039",
+      "source": "arxiv",
+      "title": "Value Mirror Descent for Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.06039",
+      "author": "Zhichao Jia, Guanghui Lan",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "summary": "Value iteration-type methods have been extensively studied for computing a nearly optimal value function in reinforcement learning (RL). Under a generative sampling model, these methods can achieve sh…"
+    },
+    {
+      "id": "2604.01173",
+      "source": "arxiv",
+      "title": "Safe learning-based control via function-based uncertainty quantification",
+      "url": "https://arxiv.org/abs/2604.01173",
+      "author": "Abdullah Tokmak, Toni Karvonen, Thomas B. Sch\\\"on +1",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "summary": "Uncertainty quantification is essential when deploying learning-based control methods in safety-critical systems. This is commonly realized by constructing uncertainty tubes that enclose the unknown f…"
+    },
+    {
+      "id": "2603.28790",
+      "source": "arxiv",
+      "title": "Learning to Remember: Attentive Reinforcement Learning for Edge Serverless Autoscaling",
+      "url": "https://arxiv.org/abs/2603.28790",
+      "author": "Faraz Shaikh, Gianluca Reali, Mauro Femminella",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "summary": "In edge computing, the stochastic and bursty nature of serverless workloads challenges autonomous resource orchestration. Traditional reactive controllers, such as the Kubernetes Horizontal Pod Autosc…"
+    },
+    {
+      "id": "2603.27001",
+      "source": "arxiv",
+      "title": "PHONOS: PHOnetic Neutralization for Online Streaming Applications",
+      "url": "https://arxiv.org/abs/2603.27001",
+      "author": "Waris Quamer, Mu-Ruei Tseng, Ghady Nasrallah +1",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "summary": "Speaker anonymization (SA) systems modify timbre while leaving regional or non-native accent cues intact, which is problematic because such cues can reveal a speaker's first-language or geographic bac…"
+    },
+    {
+      "id": "2603.19561",
+      "source": "arxiv",
+      "title": "An Adaptive Machine Learning Framework for Fluid Flow in Dual-Network Porous Media",
+      "url": "https://arxiv.org/abs/2603.19561",
+      "author": "V. S. Maduri, K. B. Nakshatrala",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "summary": "Porous materials -- natural or engineered -- often exhibit dual pore-network structures that govern processes such as mineral exploration and hydrocarbon recovery from tight shales. Double porosity/pe…"
+    },
+    {
+      "id": "2603.18482",
+      "source": "arxiv",
+      "title": "The Truncation Blind Spot: How Decoding Strategies Systematically Exclude Human-Like Token Choices",
+      "url": "https://arxiv.org/abs/2603.18482",
+      "author": "Esteban Garces Arias, Nurzhan Sapargali, Christian Heumann +1",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "summary": "Why does machine-generated text remain detectable? We investigate a mechanistic explanation at the decoding stage: standard strategies such as top-$k$ and nucleus sampling restrict generation to high-…"
+    },
+    {
+      "id": "2602.23006",
+      "source": "arxiv",
+      "title": "Regular Fourier Features for Nonstationary Gaussian Processes",
+      "url": "https://arxiv.org/abs/2602.23006",
+      "author": "Arsalan Jawaid, Abdullah Karatas, J\\\"org Seewig",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "summary": "Simulating a Gaussian process requires sampling from a high-dimensional Gaussian distribution, which scales cubically with the number of sample locations. Spectral methods address this challenge by ex…"
+    },
+    {
+      "id": "2601.18932",
+      "source": "arxiv",
+      "title": "Advances in Diffusion-Based Generative Compression",
+      "url": "https://arxiv.org/abs/2601.18932",
+      "author": "Yibo Yang, Stephan Mandt",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "summary": "Popularized by their strong image generation performance, diffusion and related methods for generative modeling have found widespread success in visual media applications. In particular, diffusion met…"
     }
   ]
 }

@@ -1,236 +1,186 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-24T16:16:18.188Z",
+  "fetchedAt": "2026-09-25T02:52:28.913Z",
   "items": [
     {
-      "id": "49820134",
+      "id": "49793957",
       "source": "hn",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 741,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49820134",
-      "author": "raahelb",
-      "publishedAt": "2026-09-23T18:06:47.000Z"
-    },
-    {
-      "id": "49831690",
-      "source": "hn",
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "score": 33,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49831690",
-      "author": "theanonymousone",
-      "publishedAt": "2026-09-24T15:09:38.000Z"
-    },
-    {
-      "id": "49830866",
-      "source": "hn",
-      "title": "Best LLM for every budget, updated daily",
-      "url": "https://bestmodelforyourbudget.terrydjony.com/",
-      "score": 115,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49830866",
-      "author": "terryds",
-      "publishedAt": "2026-09-24T14:09:57.000Z"
-    },
-    {
-      "id": "49825580",
-      "source": "hn",
-      "title": "OpenAI agent hacked Australian government website, PM says",
-      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-      "score": 237,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49825580",
-      "author": "rudy6912",
-      "publishedAt": "2026-09-24T02:44:48.000Z"
-    },
-    {
-      "id": "49827794",
-      "source": "hn",
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "score": 523,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49827794",
-      "author": "pieterr",
-      "publishedAt": "2026-09-24T08:23:03.000Z"
-    },
-    {
-      "id": "49829387",
-      "source": "hn",
-      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "score": 86,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49829387",
-      "author": "ArielSimon",
-      "publishedAt": "2026-09-24T11:54:38.000Z"
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "score": 73,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49793957",
+      "author": "aray07",
+      "publishedAt": "2026-09-21T21:53:01.000Z"
     },
     {
       "id": "49826565",
       "source": "hn",
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "url": "https://transluce.org/agent-activity",
-      "score": 199,
+      "score": 247,
       "commentsUrl": "https://news.ycombinator.com/item?id=49826565",
       "author": "snikolaev",
       "publishedAt": "2026-09-24T05:21:10.000Z"
+    },
+    {
+      "id": "49831690",
+      "source": "hn",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "score": 85,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49831690",
+      "author": "theanonymousone",
+      "publishedAt": "2026-09-24T15:09:38.000Z"
+    },
+    {
+      "id": "49829650",
+      "source": "hn",
+      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "score": 125,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49829650",
+      "author": "YeGoblynQueenne",
+      "publishedAt": "2026-09-24T12:23:41.000Z"
+    },
+    {
+      "id": "49839401",
+      "source": "hn",
+      "title": "Snowden on AI Surveillance and Freedom of Speech [video]",
+      "url": "https://www.youtube.com/watch?v=wytH7dPlCVw",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49839401",
+      "author": "hauget",
+      "publishedAt": "2026-09-25T02:04:44.000Z"
+    },
+    {
+      "id": "49820134",
+      "source": "hn",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "score": 760,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49820134",
+      "author": "raahelb",
+      "publishedAt": "2026-09-23T18:06:47.000Z"
+    },
+    {
+      "id": "49831269",
+      "source": "hn",
+      "title": "AI safety is mostly a sex cult in Berkeley",
+      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
+      "score": 105,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49831269",
+      "author": "martythemaniak",
+      "publishedAt": "2026-09-24T14:38:31.000Z"
     },
     {
       "id": "49823348",
       "source": "hn",
       "title": "Mercury 2.5 LLM hits 770 tokens per second",
       "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "score": 141,
+      "score": 147,
       "commentsUrl": "https://news.ycombinator.com/item?id=49823348",
       "author": "Retro_Dev",
       "publishedAt": "2026-09-23T22:16:19.000Z"
     },
     {
-      "id": "49817615",
+      "id": "49830866",
       "source": "hn",
-      "title": "Gemini 3.8 text-to-speech",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "score": 319,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49817615",
-      "author": "swolpers",
-      "publishedAt": "2026-09-23T15:29:23.000Z"
+      "title": "Best LLM for every budget, updated daily",
+      "url": "https://bestmodelforyourbudget.terrydjony.com/",
+      "score": 166,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49830866",
+      "author": "terryds",
+      "publishedAt": "2026-09-24T14:09:57.000Z"
+    },
+    {
+      "id": "49839078",
+      "source": "hn",
+      "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
+      "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49839078",
+      "author": "CharlesW",
+      "publishedAt": "2026-09-25T01:21:30.000Z"
     },
     {
       "id": "49805509",
       "source": "hn",
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "score": 1758,
+      "score": 1762,
       "commentsUrl": "https://news.ycombinator.com/item?id=49805509",
       "author": "OfficialTurkey",
       "publishedAt": "2026-09-22T18:00:34.000Z"
     },
     {
-      "id": "49826163",
+      "id": "49834235",
       "source": "hn",
-      "title": "Nori LLM: Achieving Over 1M tok / s",
-      "url": "https://noriagentic.com/nori-llm.html",
-      "score": 22,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49826163",
-      "author": "theahura",
-      "publishedAt": "2026-09-24T04:11:08.000Z"
+      "title": "AI Workers' Inquiry 2026",
+      "url": "https://techworkersinquiry.org/ai/",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49834235",
+      "author": "utiiiD",
+      "publishedAt": "2026-09-24T17:44:38.000Z"
+    },
+    {
+      "id": "49829387",
+      "source": "hn",
+      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "score": 134,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49829387",
+      "author": "ArielSimon",
+      "publishedAt": "2026-09-24T11:54:38.000Z"
     },
     {
       "id": "49803892",
       "source": "hn",
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
-      "score": 1786,
+      "score": 1791,
       "commentsUrl": "https://news.ycombinator.com/item?id=49803892",
       "author": "km144",
       "publishedAt": "2026-09-22T16:29:05.000Z"
     },
     {
-      "id": "49820267",
+      "id": "49817615",
       "source": "hn",
-      "title": "Cloud Agents Are Inevitable AI Prisons",
-      "url": "https://normanponte.io/19df691f",
-      "score": 66,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49820267",
-      "author": "nponte",
-      "publishedAt": "2026-09-23T18:16:41.000Z"
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "score": 328,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49817615",
+      "author": "swolpers",
+      "publishedAt": "2026-09-23T15:29:23.000Z"
     },
     {
-      "id": "49822556",
+      "id": "49836378",
       "source": "hn",
-      "title": "OpenAI breaches Medicare, Albanese reveals",
-      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "score": 238,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49822556",
-      "author": "jonnonz",
-      "publishedAt": "2026-09-23T21:01:48.000Z"
+      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+      "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49836378",
+      "author": "MBCook",
+      "publishedAt": "2026-09-24T20:29:34.000Z"
     },
     {
-      "id": "49814947",
+      "id": "49838266",
       "source": "hn",
-      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "score": 474,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49814947",
-      "author": "pszypowicz",
-      "publishedAt": "2026-09-23T12:15:33.000Z"
+      "title": "AI is deciding whether or not people receive medical care",
+      "url": "https://www.vox.com/good-medicine-newsletter/503932/ai-health-insurance-united-medicare-cigna-humana",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49838266",
+      "author": "dabinat",
+      "publishedAt": "2026-09-24T23:38:45.000Z"
     },
     {
-      "id": "49824686",
+      "id": "49838260",
       "source": "hn",
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "score": 345,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49824686",
-      "author": "nmeagent",
-      "publishedAt": "2026-09-24T00:41:31.000Z"
-    },
-    {
-      "id": "49817404",
-      "source": "hn",
-      "title": "GPT-6 Astra has gained the ability to drive a car",
-      "url": "https://drivingbench.com/",
-      "score": 303,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49817404",
-      "author": "plurby",
-      "publishedAt": "2026-09-23T15:14:22.000Z"
-    },
-    {
-      "id": "49806430",
-      "source": "hn",
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "score": 936,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49806430",
-      "author": "devonnull",
-      "publishedAt": "2026-09-22T19:03:38.000Z"
-    },
-    {
-      "id": "49801324",
-      "source": "hn",
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "score": 732,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49801324",
-      "author": "sohkamyung",
-      "publishedAt": "2026-09-22T13:52:15.000Z"
-    },
-    {
-      "id": "49815982",
-      "source": "hn",
-      "title": "Stripe's Knowledge AI Platform",
-      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "score": 182,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49815982",
-      "author": "ltononro",
-      "publishedAt": "2026-09-23T13:38:00.000Z"
-    },
-    {
-      "id": "49821196",
-      "source": "hn",
-      "title": "Once Claude can measure something, it can make it faster",
-      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-      "score": 216,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49821196",
-      "author": "matthieu_bl",
-      "publishedAt": "2026-09-23T19:23:40.000Z"
-    },
-    {
-      "id": "49802161",
-      "source": "hn",
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "score": 322,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49802161",
-      "author": "JohnBerryman",
-      "publishedAt": "2026-09-22T14:42:59.000Z"
-    },
-    {
-      "id": "49827376",
-      "source": "hn",
-      "title": "Nuros – AI study tools from notes, PDFs, videos, and links",
-      "url": "https://nuros.app/",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49827376",
-      "author": "AntoineValton",
-      "publishedAt": "2026-09-24T07:22:20.000Z"
+      "title": "Rails and AI",
+      "url": "https://rubyonrails.org/ai",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49838260",
+      "author": "duck",
+      "publishedAt": "2026-09-24T23:38:18.000Z"
     }
   ]
 }
