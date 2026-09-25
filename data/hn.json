@@ -1,13 +1,73 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-25T02:52:28.913Z",
+  "fetchedAt": "2026-09-25T16:16:48.868Z",
   "items": [
+    {
+      "id": "49846391",
+      "source": "hn",
+      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+      "url": "https://github.com/Avinash-jetwani/jevmem",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49846391",
+      "author": "avinashjetwani",
+      "publishedAt": "2026-09-25T16:04:04.000Z"
+    },
+    {
+      "id": "49845952",
+      "source": "hn",
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "score": 55,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49845952",
+      "author": "rdmuser",
+      "publishedAt": "2026-09-25T15:27:35.000Z"
+    },
+    {
+      "id": "49845977",
+      "source": "hn",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49845977",
+      "author": "cramer4next",
+      "publishedAt": "2026-09-25T15:29:25.000Z"
+    },
+    {
+      "id": "49844896",
+      "source": "hn",
+      "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "score": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49844896",
+      "author": "sbulaev",
+      "publishedAt": "2026-09-25T14:07:08.000Z"
+    },
+    {
+      "id": "49829650",
+      "source": "hn",
+      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "score": 183,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49829650",
+      "author": "YeGoblynQueenne",
+      "publishedAt": "2026-09-24T12:23:41.000Z"
+    },
+    {
+      "id": "49831690",
+      "source": "hn",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "score": 130,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49831690",
+      "author": "theanonymousone",
+      "publishedAt": "2026-09-24T15:09:38.000Z"
+    },
     {
       "id": "49793957",
       "source": "hn",
       "title": "Security auditing in the age of (good enough) AI",
       "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "score": 73,
+      "score": 93,
       "commentsUrl": "https://news.ycombinator.com/item?id=49793957",
       "author": "aray07",
       "publishedAt": "2026-09-21T21:53:01.000Z"
@@ -17,127 +77,37 @@
       "source": "hn",
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "url": "https://transluce.org/agent-activity",
-      "score": 247,
+      "score": 262,
       "commentsUrl": "https://news.ycombinator.com/item?id=49826565",
       "author": "snikolaev",
       "publishedAt": "2026-09-24T05:21:10.000Z"
-    },
-    {
-      "id": "49831690",
-      "source": "hn",
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "score": 85,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49831690",
-      "author": "theanonymousone",
-      "publishedAt": "2026-09-24T15:09:38.000Z"
-    },
-    {
-      "id": "49829650",
-      "source": "hn",
-      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "score": 125,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49829650",
-      "author": "YeGoblynQueenne",
-      "publishedAt": "2026-09-24T12:23:41.000Z"
-    },
-    {
-      "id": "49839401",
-      "source": "hn",
-      "title": "Snowden on AI Surveillance and Freedom of Speech [video]",
-      "url": "https://www.youtube.com/watch?v=wytH7dPlCVw",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49839401",
-      "author": "hauget",
-      "publishedAt": "2026-09-25T02:04:44.000Z"
     },
     {
       "id": "49820134",
       "source": "hn",
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 760,
+      "score": 772,
       "commentsUrl": "https://news.ycombinator.com/item?id=49820134",
       "author": "raahelb",
       "publishedAt": "2026-09-23T18:06:47.000Z"
-    },
-    {
-      "id": "49831269",
-      "source": "hn",
-      "title": "AI safety is mostly a sex cult in Berkeley",
-      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-      "score": 105,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49831269",
-      "author": "martythemaniak",
-      "publishedAt": "2026-09-24T14:38:31.000Z"
-    },
-    {
-      "id": "49823348",
-      "source": "hn",
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "score": 147,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49823348",
-      "author": "Retro_Dev",
-      "publishedAt": "2026-09-23T22:16:19.000Z"
-    },
-    {
-      "id": "49830866",
-      "source": "hn",
-      "title": "Best LLM for every budget, updated daily",
-      "url": "https://bestmodelforyourbudget.terrydjony.com/",
-      "score": 166,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49830866",
-      "author": "terryds",
-      "publishedAt": "2026-09-24T14:09:57.000Z"
-    },
-    {
-      "id": "49839078",
-      "source": "hn",
-      "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
-      "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49839078",
-      "author": "CharlesW",
-      "publishedAt": "2026-09-25T01:21:30.000Z"
     },
     {
       "id": "49805509",
       "source": "hn",
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "score": 1762,
+      "score": 1769,
       "commentsUrl": "https://news.ycombinator.com/item?id=49805509",
       "author": "OfficialTurkey",
       "publishedAt": "2026-09-22T18:00:34.000Z"
-    },
-    {
-      "id": "49834235",
-      "source": "hn",
-      "title": "AI Workers' Inquiry 2026",
-      "url": "https://techworkersinquiry.org/ai/",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49834235",
-      "author": "utiiiD",
-      "publishedAt": "2026-09-24T17:44:38.000Z"
-    },
-    {
-      "id": "49829387",
-      "source": "hn",
-      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "score": 134,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49829387",
-      "author": "ArielSimon",
-      "publishedAt": "2026-09-24T11:54:38.000Z"
     },
     {
       "id": "49803892",
       "source": "hn",
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
-      "score": 1791,
+      "score": 1797,
       "commentsUrl": "https://news.ycombinator.com/item?id=49803892",
       "author": "km144",
       "publishedAt": "2026-09-22T16:29:05.000Z"
@@ -147,40 +117,10 @@
       "source": "hn",
       "title": "Gemini 3.8 text-to-speech",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "score": 328,
+      "score": 330,
       "commentsUrl": "https://news.ycombinator.com/item?id=49817615",
       "author": "swolpers",
       "publishedAt": "2026-09-23T15:29:23.000Z"
-    },
-    {
-      "id": "49836378",
-      "source": "hn",
-      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-      "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49836378",
-      "author": "MBCook",
-      "publishedAt": "2026-09-24T20:29:34.000Z"
-    },
-    {
-      "id": "49838266",
-      "source": "hn",
-      "title": "AI is deciding whether or not people receive medical care",
-      "url": "https://www.vox.com/good-medicine-newsletter/503932/ai-health-insurance-united-medicare-cigna-humana",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49838266",
-      "author": "dabinat",
-      "publishedAt": "2026-09-24T23:38:45.000Z"
-    },
-    {
-      "id": "49838260",
-      "source": "hn",
-      "title": "Rails and AI",
-      "url": "https://rubyonrails.org/ai",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49838260",
-      "author": "duck",
-      "publishedAt": "2026-09-24T23:38:18.000Z"
     }
   ]
 }
