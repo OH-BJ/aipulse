@@ -1,23 +1,43 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-26T02:55:59.229Z",
+  "fetchedAt": "2026-09-26T15:30:17.609Z",
   "items": [
     {
       "id": "49849985",
       "source": "hn",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
-      "score": 249,
+      "score": 589,
       "commentsUrl": "https://news.ycombinator.com/item?id=49849985",
       "author": "specked-citrus",
       "publishedAt": "2026-09-25T21:09:27.000Z"
+    },
+    {
+      "id": "49856149",
+      "source": "hn",
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "score": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49856149",
+      "author": "nisosguy",
+      "publishedAt": "2026-09-26T13:05:36.000Z"
+    },
+    {
+      "id": "49855018",
+      "source": "hn",
+      "title": "One Month Without AI",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "score": 138,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49855018",
+      "author": "saibotk",
+      "publishedAt": "2026-09-26T10:08:21.000Z"
     },
     {
       "id": "49845977",
       "source": "hn",
       "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
       "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "score": 403,
+      "score": 470,
       "commentsUrl": "https://news.ycombinator.com/item?id=49845977",
       "author": "cramer4next",
       "publishedAt": "2026-09-25T15:29:25.000Z"
@@ -27,7 +47,7 @@
       "source": "hn",
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
       "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "score": 86,
+      "score": 133,
       "commentsUrl": "https://news.ycombinator.com/item?id=49844896",
       "author": "sbulaev",
       "publishedAt": "2026-09-25T14:07:08.000Z"
@@ -37,70 +57,90 @@
       "source": "hn",
       "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
       "url": "https://mouse.dev/blog/muse-special/",
-      "score": 118,
+      "score": 137,
       "commentsUrl": "https://news.ycombinator.com/item?id=49848095",
       "author": "Aeroi",
       "publishedAt": "2026-09-25T18:18:06.000Z"
+    },
+    {
+      "id": "49836579",
+      "source": "hn",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "score": 89,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49836579",
+      "author": "azhenley",
+      "publishedAt": "2026-09-24T20:51:50.000Z"
+    },
+    {
+      "id": "49851883",
+      "source": "hn",
+      "title": "Generate fonts where every LLM token is the same width",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49851883",
+      "author": "z-mach9",
+      "publishedAt": "2026-09-26T00:30:03.000Z"
     },
     {
       "id": "49850999",
       "source": "hn",
       "title": "FTC chair suggests AI developers should be liable for conduct of agents",
       "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-      "score": 26,
+      "score": 57,
       "commentsUrl": "https://news.ycombinator.com/item?id=49850999",
       "author": "usernomdeguerre",
       "publishedAt": "2026-09-25T22:49:41.000Z"
-    },
-    {
-      "id": "49851355",
-      "source": "hn",
-      "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49851355",
-      "author": "jbegley",
-      "publishedAt": "2026-09-25T23:22:18.000Z"
-    },
-    {
-      "id": "49841605",
-      "source": "hn",
-      "title": "Tell HN: OpenAI $500 ProMax plan listed in API",
-      "url": "https://news.ycombinator.com/item?id=49841605",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49841605",
-      "author": "GustavHartz",
-      "publishedAt": "2026-09-25T08:12:24.000Z"
-    },
-    {
-      "id": "49846953",
-      "source": "hn",
-      "title": "Show HN: Doom or Bloom, map your AI worldview",
-      "url": "https://www.doom-or-bloom.com",
-      "score": 55,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49846953",
-      "author": "transitivebs",
-      "publishedAt": "2026-09-25T16:51:28.000Z"
-    },
-    {
-      "id": "49831690",
-      "source": "hn",
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "score": 133,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49831690",
-      "author": "theanonymousone",
-      "publishedAt": "2026-09-24T15:09:38.000Z"
     },
     {
       "id": "49829650",
       "source": "hn",
       "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
       "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "score": 197,
+      "score": 205,
       "commentsUrl": "https://news.ycombinator.com/item?id=49829650",
       "author": "YeGoblynQueenne",
       "publishedAt": "2026-09-24T12:23:41.000Z"
+    },
+    {
+      "id": "49831690",
+      "source": "hn",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "score": 138,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49831690",
+      "author": "theanonymousone",
+      "publishedAt": "2026-09-24T15:09:38.000Z"
+    },
+    {
+      "id": "49820134",
+      "source": "hn",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "score": 775,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49820134",
+      "author": "raahelb",
+      "publishedAt": "2026-09-23T18:06:47.000Z"
+    },
+    {
+      "id": "49805509",
+      "source": "hn",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "score": 1773,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49805509",
+      "author": "OfficialTurkey",
+      "publishedAt": "2026-09-22T18:00:34.000Z"
+    },
+    {
+      "id": "49803892",
+      "source": "hn",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "score": 1798,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49803892",
+      "author": "km144",
+      "publishedAt": "2026-09-22T16:29:05.000Z"
     }
   ]
 }
