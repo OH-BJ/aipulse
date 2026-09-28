@@ -1,13 +1,113 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-28T02:57:32.259Z",
+  "fetchedAt": "2026-09-28T19:03:50.913Z",
   "items": [
+    {
+      "id": "49881777",
+      "source": "hn",
+      "title": "I made a visual workspace for AI Automations",
+      "url": "https://www.biom.dev/",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49881777",
+      "author": "jduhking",
+      "publishedAt": "2026-09-28T17:53:14.000Z"
+    },
+    {
+      "id": "49876148",
+      "source": "hn",
+      "title": "What Would a Serious AI Product Look Like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "score": 78,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49876148",
+      "author": "lumpa",
+      "publishedAt": "2026-09-28T11:02:12.000Z"
+    },
+    {
+      "id": "49880312",
+      "source": "hn",
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "score": 289,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49880312",
+      "author": "zazuke",
+      "publishedAt": "2026-09-28T16:11:42.000Z"
+    },
+    {
+      "id": "49881484",
+      "source": "hn",
+      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "score": 56,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49881484",
+      "author": "mikelgan",
+      "publishedAt": "2026-09-28T17:33:34.000Z"
+    },
+    {
+      "id": "49873241",
+      "source": "hn",
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "score": 166,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49873241",
+      "author": "teleforce",
+      "publishedAt": "2026-09-28T03:23:53.000Z"
+    },
+    {
+      "id": "49881135",
+      "source": "hn",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49881135",
+      "author": "hn_acker",
+      "publishedAt": "2026-09-28T17:08:06.000Z"
+    },
+    {
+      "id": "49868753",
+      "source": "hn",
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "url": "https://earnanhonestdollar.com/bench",
+      "score": 78,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49868753",
+      "author": "FKJ",
+      "publishedAt": "2026-09-27T17:24:17.000Z"
+    },
+    {
+      "id": "49880706",
+      "source": "hn",
+      "title": "I built a native Apple app for 4 platforms in one afternoon with my AI workflow",
+      "url": "https://twitter.com/danielhayesmith/status/2103976394338271515",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49880706",
+      "author": "schutzsmith",
+      "publishedAt": "2026-09-28T16:37:11.000Z"
+    },
+    {
+      "id": "49874728",
+      "source": "hn",
+      "title": "Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "score": 188,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49874728",
+      "author": "Michelangelo11",
+      "publishedAt": "2026-09-28T07:33:29.000Z"
+    },
+    {
+      "id": "49880968",
+      "source": "hn",
+      "title": "We Can't Let Enormous Weirdos Regulate AI",
+      "url": "https://little-flying-robots.ghost.io/why-we-cant-let-enormous-weirdos-regulate-ai/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49880968",
+      "author": "SLHamlet",
+      "publishedAt": "2026-09-28T16:55:50.000Z"
+    },
     {
       "id": "49859982",
       "source": "hn",
       "title": "Faster prompt lookup drafting in llama.cpp",
       "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-      "score": 72,
+      "score": 83,
       "commentsUrl": "https://news.ycombinator.com/item?id=49859982",
       "author": "pptadversary",
       "publishedAt": "2026-09-26T19:57:24.000Z"
@@ -17,120 +117,50 @@
       "source": "hn",
       "title": "Show HN: TinyAIArena watch AI agents battle it out",
       "url": "https://tinyaiarena.com/",
-      "score": 103,
+      "score": 117,
       "commentsUrl": "https://news.ycombinator.com/item?id=49867775",
       "author": "hp6",
       "publishedAt": "2026-09-27T15:51:28.000Z"
     },
     {
-      "id": "49872468",
+      "id": "49879883",
       "source": "hn",
-      "title": "OpenAI pauses training of latest models after agents probed US Government sites",
-      "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49872468",
-      "author": "daniel_iversen",
-      "publishedAt": "2026-09-28T01:20:50.000Z"
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/",
+      "score": 38,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49879883",
+      "author": "jonbaer",
+      "publishedAt": "2026-09-28T15:46:36.000Z"
     },
     {
-      "id": "49863864",
+      "id": "49877374",
       "source": "hn",
-      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "score": 605,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49863864",
-      "author": "papergirl",
-      "publishedAt": "2026-09-27T06:19:33.000Z"
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Agents Target Government",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49877374",
+      "author": "chunky1994",
+      "publishedAt": "2026-09-28T13:09:38.000Z"
     },
     {
-      "id": "49868083",
+      "id": "49872200",
       "source": "hn",
-      "title": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "score": 338,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49868083",
-      "author": "zzzeek",
-      "publishedAt": "2026-09-27T16:19:46.000Z"
-    },
-    {
-      "id": "49868753",
-      "source": "hn",
-      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "url": "https://earnanhonestdollar.com/bench",
-      "score": 29,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49868753",
-      "author": "FKJ",
-      "publishedAt": "2026-09-27T17:24:17.000Z"
-    },
-    {
-      "id": "49851883",
-      "source": "hn",
-      "title": "Generate fonts where every LLM token is the same width",
-      "url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "score": 87,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49851883",
-      "author": "z-mach9",
-      "publishedAt": "2026-09-26T00:30:03.000Z"
-    },
-    {
-      "id": "49859112",
-      "source": "hn",
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "score": 315,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49859112",
-      "author": "shenli3514",
-      "publishedAt": "2026-09-26T18:22:41.000Z"
-    },
-    {
-      "id": "49871139",
-      "source": "hn",
-      "title": "George Hotz’s opinion on AI coding",
-      "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+      "title": "Cambrian Explosion of AI",
+      "url": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion",
       "score": 16,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49871139",
-      "author": "sashank_1509",
-      "publishedAt": "2026-09-27T21:40:54.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=49872200",
+      "author": "debarshri",
+      "publishedAt": "2026-09-28T00:25:57.000Z"
     },
     {
-      "id": "49849985",
+      "id": "49875347",
       "source": "hn",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "score": 741,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49849985",
-      "author": "specked-citrus",
-      "publishedAt": "2026-09-25T21:09:27.000Z"
-    },
-    {
-      "id": "49865343",
-      "source": "hn",
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "score": 101,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49865343",
-      "author": "yu3zhou4",
-      "publishedAt": "2026-09-27T10:26:25.000Z"
-    },
-    {
-      "id": "49836579",
-      "source": "hn",
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "score": 284,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49836579",
-      "author": "azhenley",
-      "publishedAt": "2026-09-24T20:51:50.000Z"
-    },
-    {
-      "id": "49839567",
-      "source": "hn",
-      "title": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
-      "score": 135,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49839567",
-      "author": "pjm331",
-      "publishedAt": "2026-09-25T02:34:39.000Z"
+      "title": "Big AI's content problem: Take the work, keep the money",
+      "url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
+      "score": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49875347",
+      "author": "samizdis",
+      "publishedAt": "2026-09-28T09:04:17.000Z"
     }
   ]
 }

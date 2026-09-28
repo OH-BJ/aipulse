@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-09-28T02:57:31.822Z",
-  "items": []
+  "fetchedAt": "2026-09-28T19:03:50.778Z",
+  "items": [
+    {
+      "id": "2609.28684",
+      "source": "arxiv",
+      "title": "M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals",
+      "url": "https://arxiv.org/abs/2609.28684",
+      "author": "Vin\\'icius da Silva, Isabelle Melo, Matheus Bessa +8",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Encoding input coordinates with sinusoidal functions into multi-layer perceptrons (MLPs) has proven effective for implicit neural representations (INRs) of surfaces defined as zero-level sets. However…"
+    },
+    {
+      "id": "2609.25576",
+      "source": "arxiv",
+      "title": "Scalable Minimum-Volume Simplex Estimation with Non-asymptotic Analysis",
+      "url": "https://arxiv.org/abs/2609.25576",
+      "author": "Jun Li, Yanlong Guo, Zhaozhao Zeng",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "We study the estimation of a $K$-dimensional simplex from $N$ i.i.d.\\ points sampled uniformly from its interior; the observations are convex combinations of $K+1$ unknown prototypes. Existing polynom…"
+    },
+    {
+      "id": "2609.25454",
+      "source": "arxiv",
+      "title": "MIND the Gap: A Geographic Implicit Neural Representation with Adjustable Spatial Scale",
+      "url": "https://arxiv.org/abs/2609.25454",
+      "author": "Isaac Corley, Arjun Rao, Esther Rolf +7",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Geographic measurements are often sparse, leaving large areas without labels for the quantities we want to map. Geographic implicit neural representations (INRs) provide coordinate-based embeddings th…"
+    },
+    {
+      "id": "2609.24791",
+      "source": "arxiv",
+      "title": "Detecting Agitation Before Behavioral Escalation in Autistic Youth Through Multimodal Wearable Sensing",
+      "url": "https://arxiv.org/abs/2609.24791",
+      "author": "Nibraas Khan, Abigale Plunk, John Staubitz +8",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Challenging behaviors including aggression, self-injury, and property destruction are observed in 68% of autistic youth and pose risks to youth and caregivers. These episodes are preceded by agitation…"
+    },
+    {
+      "id": "2609.15437",
+      "source": "arxiv",
+      "title": "Graph Matching Relaxations and Amortization for Supervised Graph Prediction",
+      "url": "https://arxiv.org/abs/2609.15437",
+      "author": "Federico M\\'endez, Paul Krzakala, Gabriel Melo +3",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "End-to-end Supervised Graph Prediction (SGP) requires a permutation-invariant loss to compare predicted and target graphs with arbitrary node orderings. Such losses typically involve a costly graph-ma…"
+    },
+    {
+      "id": "2609.05533",
+      "source": "arxiv",
+      "title": "SimpleMemVLA: A Simple but Effective Native-Video Memory for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2609.05533",
+      "author": "Cheng Yin, Wang Xu, Junpeng Yang +8",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Long-horizon manipulation is partially observable: the information needed to choose the next action may appear only in observations from minutes earlier. Existing memory mechanisms for VLAs, such as r…"
+    },
+    {
+      "id": "2608.24527",
+      "source": "arxiv",
+      "title": "Provable Quantum-Classical Separation for Continuous Gibbs Sampling",
+      "url": "https://arxiv.org/abs/2608.24527",
+      "author": "Enrico Olivucci, Mariia Sobchuk, Sehmimul Hoque +4",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "We prove the first quantum-classical separation for a sampling problem over a continuous domain. For a class of Gibbs states $p\\propto e^{-\\beta E}$ on the torus $\\mathbb{T}^d$ with smooth ($s$-Gevrey…"
+    },
+    {
+      "id": "2608.16340",
+      "source": "arxiv",
+      "title": "LiD-GLM: Lipschitz-constrained Deep Generalized Linear Models",
+      "url": "https://arxiv.org/abs/2608.16340",
+      "author": "Tom Splittgerber, Niklas Koenen, Marvin N. Wright +1",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "The combination of traditional statistical models and neural network (NN) components into semi-structured hybrid models is an intriguing approach to construct models that, ideally, combine traditional…"
+    },
+    {
+      "id": "2608.02769",
+      "source": "arxiv",
+      "title": "DAIF: A Data-Driven Intermediate Fusion Framework for Multimodal Supervised Learning via Approximate Message Passing",
+      "url": "https://arxiv.org/abs/2608.02769",
+      "author": "Sagnik Nandy, Samriddha Lahiry, Pragya Sur +1",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Multimodal supervised learning seeks to leverage multiple heterogeneous data sources to improve predictive performance. A central challenge is determining the fusion granularity across modalities: ove…"
+    },
+    {
+      "id": "2607.27000",
+      "source": "arxiv",
+      "title": "On the robustness of noisy solutions in non-convex neural networks",
+      "url": "https://arxiv.org/abs/2607.27000",
+      "author": "Enrico M. Malatesta, Alessandra Passalacqua, Riccardo Zecchina",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Optimization in non-convex neural network models is strongly influenced by the geometry of the solution space: sparse, isolated, point-like clusters are typically algorithmically inaccessible, whereas…"
+    },
+    {
+      "id": "2607.13449",
+      "source": "arxiv",
+      "title": "DreamSat-Pose: Spacecraft Pose Estimation from Single-View 3D Reconstructions and Learned 2D-3D Feature Matching",
+      "url": "https://arxiv.org/abs/2607.13449",
+      "author": "Josiane Uwumukiza, Jocelyn Zhao, Giovanni Lavezzi +5",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "6-DoF pose estimation is a critical task in autonomous rendezvous and proximity operations. In the case of an unknown target, this task becomes challenging as it shall be paired with the reconstructio…"
+    },
+    {
+      "id": "2607.09250",
+      "source": "arxiv",
+      "title": "Influence Diagnostics in High-dimensional M-estimation: Precise Asymptotics",
+      "url": "https://arxiv.org/abs/2607.09250",
+      "author": "Hugo Cui",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "The impact of a given training point on a statistical model can be measured through its leave-one-out influence on the model parameters, which quantifies how its removal from the training set affects…"
+    },
+    {
+      "id": "2607.02387",
+      "source": "arxiv",
+      "title": "Bringing Agentic Search to Earth Observation Data Discovery",
+      "url": "https://arxiv.org/abs/2607.02387",
+      "author": "Minghan Yu, Youran Sun, Chugang Yi +2",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "NASA and its data centers hold thousands of geoscience datasets and tools like Worldview, Giovanni, the Science Discovery Engine, and Harmony. Finding the right one is hard even for domain experts. We…"
+    },
+    {
+      "id": "2606.25601",
+      "source": "arxiv",
+      "title": "Statistically Valid Post-Training Hyperparameter Selection: From Tuning to Guarantees",
+      "url": "https://arxiv.org/abs/2606.25601",
+      "author": "Amirmohammad Farzaneh, Osvaldo Simeone",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Post-training hyperparameter selection is a critical step in the deployment of modern artificial intelligence systems, given the need to tune degrees of freedom of pre-trained models such as inference…"
+    },
+    {
+      "id": "2606.24983",
+      "source": "arxiv",
+      "title": "ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential",
+      "url": "https://arxiv.org/abs/2606.24983",
+      "author": "Linying Zhang, Julija Zavadlav",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Implicit solvent machine learning potentials (MLPs) offer a powerful route to bridging the gap between accuracy and efficiency in molecular simulations. However, existing models have largely focused o…"
+    },
+    {
+      "id": "2606.21372",
+      "source": "arxiv",
+      "title": "NAC: Neural Action Codec for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2606.21372",
+      "author": "Ahad Jawaid, Yu Xiang",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Vision-language-action (VLA) models rely on discrete action tokenizers to bridge continuous robot control and autoregressive sequence modeling, yet existing tokenizers often trade off between compress…"
+    },
+    {
+      "id": "2606.15871",
+      "source": "arxiv",
+      "title": "Amortized quadrature for posterior expectations in inverse problems",
+      "url": "https://arxiv.org/abs/2606.15871",
+      "author": "Ali Siahkoohi",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Uncertainty in the solution of an inverse problem and in the tasks performed on it is quantified by posterior expectations, each an average of an integrand over $M$ posterior samples. While designed q…"
+    },
+    {
+      "id": "2606.11891",
+      "source": "arxiv",
+      "title": "Critic Architecture Matters: Dual vs. Unified Critics for Humanoid Loco-Manipulation",
+      "url": "https://arxiv.org/abs/2606.11891",
+      "author": "Mehmet Turan Yard{\\i}mc{\\i}",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Multi-objective reinforcement learning for humanoid robots must coordinate locomotion and manipulation within one policy. A natural design choice is between a single (unified) critic that estimates th…"
+    },
+    {
+      "id": "2605.24981",
+      "source": "arxiv",
+      "title": "Large Language Model Selection with Limited Annotations",
+      "url": "https://arxiv.org/abs/2605.24981",
+      "author": "Yavuz Durmazkeser, Patrik Okanovic, Andreas Kirsch +2",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Choosing a Large Language Model (LLM) for a given task requires comparing many strong candidates, yet standard evaluation relies on costly annotations over fixed evaluation sets. To address this chall…"
+    },
+    {
+      "id": "2605.19565",
+      "source": "arxiv",
+      "title": "HiLiftAeroML: A High-Fidelity Computational Fluid Dynamics Dataset for High-Lift Aircraft Aerodynamics",
+      "url": "https://arxiv.org/abs/2605.19565",
+      "author": "Neil Ashton, Adam Clark, Konrad Goc +11",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "HiLiftAeroML is, to our knowledge, the first open high-fidelity computational fluid dynamics dataset dedicated to high-lift aircraft aerodynamics. It contains 1,800 simulations spanning 180 variants o…"
+    },
+    {
+      "id": "2605.08187",
+      "source": "arxiv",
+      "title": "Towards Interpretable Damage Detection based on Aerodynamic Pressure Measurements",
+      "url": "https://arxiv.org/abs/2605.08187",
+      "author": "Philip Franz, Max von Danwitz, Gregory Duth\\'e +2",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "The increasing flexibility of modern large wind turbine blades necessitates cost-efficient and reliable structural monitoring solutions. For this purpose, we propose to use aerodynamic pressure measur…"
+    },
+    {
+      "id": "2604.09135",
+      "source": "arxiv",
+      "title": "Identifying Causal Effects Using a Single Proxy Variable",
+      "url": "https://arxiv.org/abs/2604.09135",
+      "author": "Silvan Vollmer, Niklas Pfister, Sebastian Weichwald",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Unobserved confounding is a key challenge when estimating causal effects from a treatment on an outcome. In this work, we assume that we observe a single, potentially multi-dimensional proxy variable…"
+    },
+    {
+      "id": "2604.05904",
+      "source": "arxiv",
+      "title": "Neural Parameter Estimation of RC Thermal Building Models for Model Predictive Control",
+      "url": "https://arxiv.org/abs/2604.05904",
+      "author": "Fabian Raisch, Timo Germann, Sang-Woo Ham +3",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Gray-box RC models are widely used to enable energy-efficient model predictive control (MPC) in buildings. However, estimating RC parameters remains difficult, as conventional optimization-based algor…"
+    },
+    {
+      "id": "2604.01525",
+      "source": "arxiv",
+      "title": "A Sharp Norm Inequality and Buzano's Inequality via Determinants",
+      "url": "https://arxiv.org/abs/2604.01525",
+      "author": "Jose Antonio Lara Benitez",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "We give a short linear-algebraic proof of the inequality $$ \\|x\\|_1\\,\\|x\\|_\\infty \\le \\frac{1+\\sqrt{n}}{2}\\,\\|x\\|_2^2, $$ valid for every $x\\in\\mathbb{R}^n$. This inequality relates three fundamental…"
+    },
+    {
+      "id": "2603.26217",
+      "source": "arxiv",
+      "title": "On associative neural networks for sparse patterns with huge capacities",
+      "url": "https://arxiv.org/abs/2603.26217",
+      "author": "Matthias L\\\"owe, Franck Vermet",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Generalized Hopfield models with higher-order or exponential interaction terms are known to have substantially larger storage capacities than the classical quadratic model. On the other hand, associat…"
+    },
+    {
+      "id": "2603.25860",
+      "source": "arxiv",
+      "title": "On the Expressive Power of Transformers for Contextual Relations",
+      "url": "https://arxiv.org/abs/2603.25860",
+      "author": "Demi\\'an Fraiman",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Transformers have revolutionized machine learning by making attention a central mechanism for modeling interactions within a context. Despite the central role of attention, the theoretical capabilitie…"
+    },
+    {
+      "id": "2603.19703",
+      "source": "arxiv",
+      "title": "Minimax and Adaptive Covariance Matrix Estimation under Differential Privacy",
+      "url": "https://arxiv.org/abs/2603.19703",
+      "author": "T. Tony Cai, Yicheng Li",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Estimating covariance matrices is fundamental to a wide range of statistical applications. This paper studies minimax and adaptive estimation of high-dimensional covariance matrices under $\\rho$-zero-…"
+    },
+    {
+      "id": "2603.02843",
+      "source": "arxiv",
+      "title": "Scale-invariant Gaussian derivative residual networks",
+      "url": "https://arxiv.org/abs/2603.02843",
+      "author": "Andrzej Perzanowski, Tony Lindeberg",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Generalisation across image scales remains a fundamental challenge for deep networks, which often fail to handle images at scales not seen during training (the out-of-distribution problem). In this pa…"
+    },
+    {
+      "id": "2601.21831",
+      "source": "arxiv",
+      "title": "Generative Modeling of Discrete Data Using Geometric Latent Subspaces",
+      "url": "https://arxiv.org/abs/2601.21831",
+      "author": "Daniel Gonzalez-Alvarado, Jonas Cassel, Stefania Petra +1",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "We propose a geometric latent-subspace framework for generative modeling of discrete data. Specifically, we introduce latent subspaces in the exponential parameter space of product manifolds of catego…"
+    },
+    {
+      "id": "2509.22796",
+      "source": "arxiv",
+      "title": "What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs",
+      "url": "https://arxiv.org/abs/2509.22796",
+      "author": "Xingyu Li (UC Riverside), Juefei Pu (UC Riverside), Yifan Wu (UC Riverside) +11",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "summary": "Open-source software projects are foundational to modern software ecosystems, with the Linux kernel standing out as a critical exemplar due to its ubiquity and complexity. Although security patches ar…"
+    }
+  ]
 }
