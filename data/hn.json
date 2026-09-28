@@ -1,43 +1,113 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-27T16:09:41.365Z",
+  "fetchedAt": "2026-09-28T02:57:32.259Z",
   "items": [
+    {
+      "id": "49859982",
+      "source": "hn",
+      "title": "Faster prompt lookup drafting in llama.cpp",
+      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+      "score": 72,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49859982",
+      "author": "pptadversary",
+      "publishedAt": "2026-09-26T19:57:24.000Z"
+    },
     {
       "id": "49867775",
       "source": "hn",
       "title": "Show HN: TinyAIArena watch AI agents battle it out",
       "url": "https://tinyaiarena.com/",
-      "score": 4,
+      "score": 103,
       "commentsUrl": "https://news.ycombinator.com/item?id=49867775",
       "author": "hp6",
       "publishedAt": "2026-09-27T15:51:28.000Z"
+    },
+    {
+      "id": "49872468",
+      "source": "hn",
+      "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+      "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49872468",
+      "author": "daniel_iversen",
+      "publishedAt": "2026-09-28T01:20:50.000Z"
     },
     {
       "id": "49863864",
       "source": "hn",
       "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
       "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "score": 540,
+      "score": 605,
       "commentsUrl": "https://news.ycombinator.com/item?id=49863864",
       "author": "papergirl",
       "publishedAt": "2026-09-27T06:19:33.000Z"
+    },
+    {
+      "id": "49868083",
+      "source": "hn",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "score": 338,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49868083",
+      "author": "zzzeek",
+      "publishedAt": "2026-09-27T16:19:46.000Z"
+    },
+    {
+      "id": "49868753",
+      "source": "hn",
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "url": "https://earnanhonestdollar.com/bench",
+      "score": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49868753",
+      "author": "FKJ",
+      "publishedAt": "2026-09-27T17:24:17.000Z"
+    },
+    {
+      "id": "49851883",
+      "source": "hn",
+      "title": "Generate fonts where every LLM token is the same width",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "score": 87,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49851883",
+      "author": "z-mach9",
+      "publishedAt": "2026-09-26T00:30:03.000Z"
     },
     {
       "id": "49859112",
       "source": "hn",
       "title": "DeepSeek Elastic Compute (DSec)",
       "url": "https://arxiv.org/abs/2609.22978",
-      "score": 299,
+      "score": 315,
       "commentsUrl": "https://news.ycombinator.com/item?id=49859112",
       "author": "shenli3514",
       "publishedAt": "2026-09-26T18:22:41.000Z"
+    },
+    {
+      "id": "49871139",
+      "source": "hn",
+      "title": "George Hotz’s opinion on AI coding",
+      "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49871139",
+      "author": "sashank_1509",
+      "publishedAt": "2026-09-27T21:40:54.000Z"
+    },
+    {
+      "id": "49849985",
+      "source": "hn",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "score": 741,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49849985",
+      "author": "specked-citrus",
+      "publishedAt": "2026-09-25T21:09:27.000Z"
     },
     {
       "id": "49865343",
       "source": "hn",
       "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
       "url": "https://arxiv.org/abs/2609.25021",
-      "score": 83,
+      "score": 101,
       "commentsUrl": "https://news.ycombinator.com/item?id=49865343",
       "author": "yu3zhou4",
       "publishedAt": "2026-09-27T10:26:25.000Z"
@@ -47,70 +117,20 @@
       "source": "hn",
       "title": "How I changed teaching after AI managed to do all my homework assignments",
       "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "score": 264,
+      "score": 284,
       "commentsUrl": "https://news.ycombinator.com/item?id=49836579",
       "author": "azhenley",
       "publishedAt": "2026-09-24T20:51:50.000Z"
-    },
-    {
-      "id": "49851883",
-      "source": "hn",
-      "title": "Generate fonts where every LLM token is the same width",
-      "url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "score": 81,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49851883",
-      "author": "z-mach9",
-      "publishedAt": "2026-09-26T00:30:03.000Z"
     },
     {
       "id": "49839567",
       "source": "hn",
       "title": "Evolving programming languages in the AI era",
       "url": "https://dashbit.co/blog/evolving-ai-era",
-      "score": 126,
+      "score": 135,
       "commentsUrl": "https://news.ycombinator.com/item?id=49839567",
       "author": "pjm331",
       "publishedAt": "2026-09-25T02:34:39.000Z"
-    },
-    {
-      "id": "49849985",
-      "source": "hn",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "score": 731,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49849985",
-      "author": "specked-citrus",
-      "publishedAt": "2026-09-25T21:09:27.000Z"
-    },
-    {
-      "id": "49856665",
-      "source": "hn",
-      "title": "OpenAI bots meddled with multiple US Government agency sites",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "score": 124,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49856665",
-      "author": "Betelbuddy",
-      "publishedAt": "2026-09-26T14:03:54.000Z"
-    },
-    {
-      "id": "49845977",
-      "source": "hn",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "score": 493,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49845977",
-      "author": "cramer4next",
-      "publishedAt": "2026-09-25T15:29:25.000Z"
-    },
-    {
-      "id": "49844896",
-      "source": "hn",
-      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "score": 152,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49844896",
-      "author": "sbulaev",
-      "publishedAt": "2026-09-25T14:07:08.000Z"
     }
   ]
 }
