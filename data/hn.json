@@ -1,156 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-29T17:26:12.832Z",
+  "fetchedAt": "2026-09-30T03:24:12.144Z",
   "items": [
     {
       "id": "49896586",
       "source": "hn",
-      "title": "GPT 6.1 Sol",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "score": 155,
+      "score": 820,
       "commentsUrl": "https://news.ycombinator.com/item?id=49896586",
       "author": "crorella",
       "publishedAt": "2026-09-29T17:06:45.000Z"
-    },
-    {
-      "id": "49896050",
-      "source": "hn",
-      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "score": 102,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49896050",
-      "author": "paimapi",
-      "publishedAt": "2026-09-29T16:30:48.000Z"
     },
     {
       "id": "49890226",
       "source": "hn",
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "score": 372,
+      "score": 412,
       "commentsUrl": "https://news.ycombinator.com/item?id=49890226",
       "author": "damaru2",
       "publishedAt": "2026-09-29T09:03:41.000Z"
     },
     {
-      "id": "49882781",
+      "id": "49899734",
       "source": "hn",
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "score": 272,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49882781",
-      "author": "logicallee",
-      "publishedAt": "2026-09-28T18:58:53.000Z"
+      "title": "Is open-weight AI banned yet?",
+      "url": "https://isopenweightaibannedyet.com",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49899734",
+      "author": "kartikarti",
+      "publishedAt": "2026-09-29T20:16:25.000Z"
     },
     {
-      "id": "49879883",
+      "id": "49902354",
       "source": "hn",
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "score": 216,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49879883",
-      "author": "jonbaer",
-      "publishedAt": "2026-09-28T15:46:36.000Z"
+      "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
+      "url": "https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874/",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49902354",
+      "author": "hn_acker",
+      "publishedAt": "2026-09-29T23:38:39.000Z"
     },
     {
-      "id": "49893876",
+      "id": "49899453",
       "source": "hn",
-      "title": "Claude partial outage",
-      "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
-      "score": 163,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49893876",
-      "author": "sidcool",
-      "publishedAt": "2026-09-29T14:25:41.000Z"
+      "title": "McDonald's push to have AI price your Big Mac",
+      "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
+      "score": 47,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49899453",
+      "author": "Betelbuddy",
+      "publishedAt": "2026-09-29T19:58:50.000Z"
+    },
+    {
+      "id": "49901900",
+      "source": "hn",
+      "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+      "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
+      "score": 21,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49901900",
+      "author": "DeepLogin",
+      "publishedAt": "2026-09-29T22:52:30.000Z"
+    },
+    {
+      "id": "49896050",
+      "source": "hn",
+      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "score": 532,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49896050",
+      "author": "paimapi",
+      "publishedAt": "2026-09-29T16:30:48.000Z"
+    },
+    {
+      "id": "49897336",
+      "source": "hn",
+      "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49897336",
+      "author": "spenvo",
+      "publishedAt": "2026-09-29T17:44:21.000Z"
     },
     {
       "id": "49883471",
       "source": "hn",
       "title": "It's Time to Investigate the AI Labs",
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "score": 575,
+      "score": 597,
       "commentsUrl": "https://news.ycombinator.com/item?id=49883471",
       "author": "ibobev",
       "publishedAt": "2026-09-28T19:53:35.000Z"
-    },
-    {
-      "id": "49893709",
-      "source": "hn",
-      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-      "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
-      "score": 141,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49893709",
-      "author": "dkobia",
-      "publishedAt": "2026-09-29T14:15:24.000Z"
-    },
-    {
-      "id": "49893248",
-      "source": "hn",
-      "title": "Stupid Over-Reliance on Palantir AI Helped Lead to US Bombing of Iranian School",
-      "url": "https://www.techdirt.com/2026/09/29/reporting-confirms-stupid-over-reliance-on-palantir-ai-helped-lead-to-us-bombing-of-iranian-schoolgirls/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49893248",
-      "author": "cdrnsf",
-      "publishedAt": "2026-09-29T13:50:30.000Z"
-    },
-    {
-      "id": "49891721",
-      "source": "hn",
-      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
-      "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49891721",
-      "author": "cramer4next",
-      "publishedAt": "2026-09-29T12:01:07.000Z"
     },
     {
       "id": "49876148",
       "source": "hn",
       "title": "What would a serious AI product look like?",
       "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "score": 166,
+      "score": 170,
       "commentsUrl": "https://news.ycombinator.com/item?id=49876148",
       "author": "lumpa",
       "publishedAt": "2026-09-28T11:02:12.000Z"
     },
     {
-      "id": "49873241",
+      "id": "49882781",
       "source": "hn",
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "url": "https://arxiv.org/abs/2110.01834",
-      "score": 175,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49873241",
-      "author": "teleforce",
-      "publishedAt": "2026-09-28T03:23:53.000Z"
-    },
-    {
-      "id": "49888937",
-      "source": "hn",
-      "title": "Uncensored and Offensive Security AI Models Benchmark",
-      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-      "score": 37,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49888937",
-      "author": "soltanov",
-      "publishedAt": "2026-09-29T06:16:04.000Z"
-    },
-    {
-      "id": "49861755",
-      "source": "hn",
-      "title": "What reversing, modernising old games tells us about the economic impact of AI",
-      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-      "score": 130,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49861755",
-      "author": "keeda",
-      "publishedAt": "2026-09-26T23:49:01.000Z"
-    },
-    {
-      "id": "49886228",
-      "source": "hn",
-      "title": "GPT-6 Astra Is the Best Vision Model We Have Tested",
-      "url": "https://blog.roboflow.com/gpt-6-astra-vision/",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49886228",
-      "author": "gmays",
-      "publishedAt": "2026-09-29T00:10:30.000Z"
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "score": 275,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49882781",
+      "author": "logicallee",
+      "publishedAt": "2026-09-28T18:58:53.000Z"
     }
   ]
 }
