@@ -1,116 +1,86 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-09-30T03:24:12.144Z",
+  "fetchedAt": "2026-09-30T17:23:10.078Z",
   "items": [
+    {
+      "id": "49911531",
+      "source": "hn",
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49911531",
+      "author": "rooppal",
+      "publishedAt": "2026-09-30T17:00:20.000Z"
+    },
     {
       "id": "49896586",
       "source": "hn",
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "score": 820,
+      "score": 1033,
       "commentsUrl": "https://news.ycombinator.com/item?id=49896586",
       "author": "crorella",
       "publishedAt": "2026-09-29T17:06:45.000Z"
+    },
+    {
+      "id": "49911520",
+      "source": "hn",
+      "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
+      "url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49911520",
+      "author": "sdlkj-",
+      "publishedAt": "2026-09-30T16:59:37.000Z"
+    },
+    {
+      "id": "49907601",
+      "source": "hn",
+      "title": "Muse.ai gets me kicked off fb marketplace",
+      "url": "https://news.ycombinator.com/item?id=49907601",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49907601",
+      "author": "zcalvin",
+      "publishedAt": "2026-09-30T11:54:50.000Z"
     },
     {
       "id": "49890226",
       "source": "hn",
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "score": 412,
+      "score": 420,
       "commentsUrl": "https://news.ycombinator.com/item?id=49890226",
       "author": "damaru2",
       "publishedAt": "2026-09-29T09:03:41.000Z"
     },
     {
-      "id": "49899734",
+      "id": "49910553",
       "source": "hn",
-      "title": "Is open-weight AI banned yet?",
-      "url": "https://isopenweightaibannedyet.com",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49899734",
-      "author": "kartikarti",
-      "publishedAt": "2026-09-29T20:16:25.000Z"
+      "title": "The AI Race Just Got Awkward",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "score": 324,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49910553",
+      "author": "allisdust",
+      "publishedAt": "2026-09-30T15:50:11.000Z"
     },
     {
-      "id": "49902354",
+      "id": "49906669",
       "source": "hn",
-      "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
-      "url": "https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874/",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49902354",
-      "author": "hn_acker",
-      "publishedAt": "2026-09-29T23:38:39.000Z"
+      "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+      "score": 76,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49906669",
+      "author": "theanonymousone",
+      "publishedAt": "2026-09-30T09:59:03.000Z"
     },
     {
-      "id": "49899453",
+      "id": "49909966",
       "source": "hn",
-      "title": "McDonald's push to have AI price your Big Mac",
-      "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
-      "score": 47,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49899453",
-      "author": "Betelbuddy",
-      "publishedAt": "2026-09-29T19:58:50.000Z"
-    },
-    {
-      "id": "49901900",
-      "source": "hn",
-      "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
-      "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49901900",
-      "author": "DeepLogin",
-      "publishedAt": "2026-09-29T22:52:30.000Z"
-    },
-    {
-      "id": "49896050",
-      "source": "hn",
-      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "score": 532,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49896050",
-      "author": "paimapi",
-      "publishedAt": "2026-09-29T16:30:48.000Z"
-    },
-    {
-      "id": "49897336",
-      "source": "hn",
-      "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
-      "score": 41,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49897336",
-      "author": "spenvo",
-      "publishedAt": "2026-09-29T17:44:21.000Z"
-    },
-    {
-      "id": "49883471",
-      "source": "hn",
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "score": 597,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49883471",
-      "author": "ibobev",
-      "publishedAt": "2026-09-28T19:53:35.000Z"
-    },
-    {
-      "id": "49876148",
-      "source": "hn",
-      "title": "What would a serious AI product look like?",
-      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "score": 170,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49876148",
-      "author": "lumpa",
-      "publishedAt": "2026-09-28T11:02:12.000Z"
-    },
-    {
-      "id": "49882781",
-      "source": "hn",
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "score": 275,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49882781",
-      "author": "logicallee",
-      "publishedAt": "2026-09-28T18:58:53.000Z"
+      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+      "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+      "score": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49909966",
+      "author": "CharlesW",
+      "publishedAt": "2026-09-30T15:04:33.000Z"
     }
   ]
 }
