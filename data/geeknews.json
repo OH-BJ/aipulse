@@ -1,11 +1,128 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-10-03T03:14:14.449Z",
+  "fetchedAt": "2026-10-03T15:31:55.958Z",
   "items": [
+    {
+      "id": "34714",
+      "source": "geeknews",
+      "title": "GLM 5.3 Flash로 한 달간 코딩하기",
+      "url": "https://news.hada.io/topic?id=34714",
+      "commentsUrl": "https://news.hada.io/topic?id=34714",
+      "author": "neo",
+      "publishedAt": "2026-10-03T14:34:43.000Z"
+    },
+    {
+      "id": "34713",
+      "source": "geeknews",
+      "title": "에이전트 코딩의 묵시록 4기사",
+      "url": "https://news.hada.io/topic?id=34713",
+      "commentsUrl": "https://news.hada.io/topic?id=34713",
+      "author": "neo",
+      "publishedAt": "2026-10-03T14:03:28.000Z"
+    },
+    {
+      "id": "34712",
+      "source": "geeknews",
+      "title": "암을 유발한다는 것들",
+      "url": "https://news.hada.io/topic?id=34712",
+      "commentsUrl": "https://news.hada.io/topic?id=34712",
+      "author": "neo",
+      "publishedAt": "2026-10-03T13:36:14.000Z"
+    },
+    {
+      "id": "34709",
+      "source": "geeknews",
+      "title": "내가 표적이 됐다: git post-checkout 훅으로 자격 증명 탈취를 노린 시도",
+      "url": "https://news.hada.io/topic?id=34709",
+      "commentsUrl": "https://news.hada.io/topic?id=34709",
+      "author": "neo",
+      "publishedAt": "2026-10-03T10:02:14.000Z"
+    },
+    {
+      "id": "34708",
+      "source": "geeknews",
+      "title": "Newgrounds - 게임·애니메이션·음악·그림을 공유하는 창작 커뮤니티",
+      "url": "https://news.hada.io/topic?id=34708",
+      "commentsUrl": "https://news.hada.io/topic?id=34708",
+      "author": "neo",
+      "publishedAt": "2026-10-03T08:35:50.000Z"
+    },
+    {
+      "id": "34707",
+      "source": "geeknews",
+      "title": "Extra Big Ass Intelligence - 엄청나게 거대한 지능",
+      "url": "https://news.hada.io/topic?id=34707",
+      "commentsUrl": "https://news.hada.io/topic?id=34707",
+      "author": "neo",
+      "publishedAt": "2026-10-03T08:32:50.000Z"
+    },
+    {
+      "id": "34706",
+      "source": "geeknews",
+      "title": "Apple, macOS ‘전체 디스크 접근’ 권한 통제 강화 예고",
+      "url": "https://news.hada.io/topic?id=34706",
+      "commentsUrl": "https://news.hada.io/topic?id=34706",
+      "author": "neo",
+      "publishedAt": "2026-10-03T07:32:55.000Z"
+    },
+    {
+      "id": "34705",
+      "source": "geeknews",
+      "title": "Show GN: ALPS Writer·ADR Writer - Claude Code와 Codex용 제품 명세·설계 결정 관리 플러그인",
+      "url": "https://news.hada.io/topic?id=34705",
+      "commentsUrl": "https://news.hada.io/topic?id=34705",
+      "author": "haandol",
+      "publishedAt": "2026-10-03T07:25:22.000Z"
+    },
+    {
+      "id": "34704",
+      "source": "geeknews",
+      "title": "잘 잊어버리는 CPU(M4에서 Linux 구동하기)",
+      "url": "https://news.hada.io/topic?id=34704",
+      "commentsUrl": "https://news.hada.io/topic?id=34704",
+      "author": "neo",
+      "publishedAt": "2026-10-03T06:34:35.000Z"
+    },
+    {
+      "id": "34703",
+      "source": "geeknews",
+      "title": "Show GN: soom - 바탕화면 깔끔한 척 정리하는 macOS 앱",
+      "url": "https://news.hada.io/topic?id=34703",
+      "commentsUrl": "https://news.hada.io/topic?id=34703",
+      "author": "jhk0530",
+      "publishedAt": "2026-10-03T06:11:47.000Z"
+    },
+    {
+      "id": "34702",
+      "source": "geeknews",
+      "title": "Muse Gadgets - Meta의 AI 에이전트를 직접 만든 기기에 연결하기",
+      "url": "https://news.hada.io/topic?id=34702",
+      "commentsUrl": "https://news.hada.io/topic?id=34702",
+      "author": "neo",
+      "publishedAt": "2026-10-03T05:33:52.000Z"
+    },
+    {
+      "id": "34701",
+      "source": "geeknews",
+      "title": "Show GN: 당신이 직접 관계를 고르는 AI 컴패니언, Inanna",
+      "url": "https://news.hada.io/topic?id=34701",
+      "commentsUrl": "https://news.hada.io/topic?id=34701",
+      "author": "nonasking",
+      "publishedAt": "2026-10-03T04:13:44.000Z"
+    },
+    {
+      "id": "34700",
+      "source": "geeknews",
+      "title": "중국의 사회적 현실에 관하여",
+      "url": "https://news.hada.io/topic?id=34700",
+      "commentsUrl": "https://news.hada.io/topic?id=34700",
+      "author": "neo",
+      "publishedAt": "2026-10-03T03:37:49.000Z"
+    },
     {
       "id": "34698",
       "source": "geeknews",
-      "title": "Redis 개발자가 만든 ds4, LLM을 로컬에서 실행",
+      "title": "ds4, DeepSeek 전용에서 Qwen·GLM도 실행하는 로컬 추론 엔진으로",
       "url": "https://news.hada.io/topic?id=34698",
       "commentsUrl": "https://news.hada.io/topic?id=34698",
       "author": "neo",
@@ -30,6 +147,15 @@
       "publishedAt": "2026-10-03T02:06:15.000Z"
     },
     {
+      "id": "34695",
+      "source": "geeknews",
+      "title": "Show GN: Piano: Soloist - 악보 파일(MusicXML)을 올리면 악보와 건반으로 재생해 주는 웹 피아노 비주얼라이저",
+      "url": "https://news.hada.io/topic?id=34695",
+      "commentsUrl": "https://news.hada.io/topic?id=34695",
+      "author": "geox5527",
+      "publishedAt": "2026-10-03T00:41:41.000Z"
+    },
+    {
       "id": "34694",
       "source": "geeknews",
       "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
@@ -50,7 +176,7 @@
     {
       "id": "34692",
       "source": "geeknews",
-      "title": "실제 RFC 1149 패킷이 경매에 출품됨",
+      "title": "비둘기로 전송한 실제 인터넷 RFC 1149 패킷, 크리스티 경매에 출품",
       "url": "https://news.hada.io/topic?id=34692",
       "commentsUrl": "https://news.hada.io/topic?id=34692",
       "author": "neo",
@@ -95,11 +221,20 @@
     {
       "id": "34686",
       "source": "geeknews",
-      "title": "마이크 톰린이 12년에 걸쳐 건설한 Minecraft 도시",
+      "title": "NFL 감독 마이크 톰린이 12년에 걸쳐 만든 Minecraft 도시",
       "url": "https://news.hada.io/topic?id=34686",
       "commentsUrl": "https://news.hada.io/topic?id=34686",
       "author": "neo",
       "publishedAt": "2026-10-02T22:37:12.000Z"
+    },
+    {
+      "id": "34685",
+      "source": "geeknews",
+      "title": "Show GN: LibreDB Studio - 드라이버 18개로 엔진 46개에 붙는 셀프호스팅 브라우저 DB IDE",
+      "url": "https://news.hada.io/topic?id=34685",
+      "commentsUrl": "https://news.hada.io/topic?id=34685",
+      "author": "devgundogdu",
+      "publishedAt": "2026-10-02T22:15:09.000Z"
     },
     {
       "id": "34684",
@@ -136,141 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=34681",
       "author": "neo",
       "publishedAt": "2026-10-02T20:41:15.000Z"
-    },
-    {
-      "id": "34680",
-      "source": "geeknews",
-      "title": "Apple Pass Designer - 애플 지갑용 티켓·카드 디자인 도구",
-      "url": "https://news.hada.io/topic?id=34680",
-      "commentsUrl": "https://news.hada.io/topic?id=34680",
-      "author": "neo",
-      "publishedAt": "2026-10-02T20:38:15.000Z"
-    },
-    {
-      "id": "34679",
-      "source": "geeknews",
-      "title": "Opus 5.5에게 가상 캔버스를 주고 그림을 그리게 해봤다",
-      "url": "https://news.hada.io/topic?id=34679",
-      "commentsUrl": "https://news.hada.io/topic?id=34679",
-      "author": "neo",
-      "publishedAt": "2026-10-02T19:45:57.000Z"
-    },
-    {
-      "id": "34678",
-      "source": "geeknews",
-      "title": "FLUX 3 Image - 구도를 직접 지정하고 부분 편집하는 이미지 모델",
-      "url": "https://news.hada.io/topic?id=34678",
-      "commentsUrl": "https://news.hada.io/topic?id=34678",
-      "author": "neo",
-      "publishedAt": "2026-10-02T19:42:57.000Z"
-    },
-    {
-      "id": "34677",
-      "source": "geeknews",
-      "title": "ICC 판사가 말하는 미국 제재가 자신과 국제 법원에 미치는 영향",
-      "url": "https://news.hada.io/topic?id=34677",
-      "commentsUrl": "https://news.hada.io/topic?id=34677",
-      "author": "neo",
-      "publishedAt": "2026-10-02T18:46:47.000Z"
-    },
-    {
-      "id": "34676",
-      "source": "geeknews",
-      "title": "Supabase, Turso 인수 발표",
-      "url": "https://news.hada.io/topic?id=34676",
-      "commentsUrl": "https://news.hada.io/topic?id=34676",
-      "author": "neo",
-      "publishedAt": "2026-10-02T18:43:46.000Z"
-    },
-    {
-      "id": "34675",
-      "source": "geeknews",
-      "title": "법원, EFF에 동의: 유타주 VPN 법은 기술적으로 불가능한 일을 요구함",
-      "url": "https://news.hada.io/topic?id=34675",
-      "commentsUrl": "https://news.hada.io/topic?id=34675",
-      "author": "neo",
-      "publishedAt": "2026-10-02T18:40:46.000Z"
-    },
-    {
-      "id": "34674",
-      "source": "geeknews",
-      "title": "폰 노이만의 전설(1973) [PDF]",
-      "url": "https://news.hada.io/topic?id=34674",
-      "commentsUrl": "https://news.hada.io/topic?id=34674",
-      "author": "neo",
-      "publishedAt": "2026-10-02T17:39:36.000Z"
-    },
-    {
-      "id": "34673",
-      "source": "geeknews",
-      "title": "AI는 나를 슬프게 한다",
-      "url": "https://news.hada.io/topic?id=34673",
-      "commentsUrl": "https://news.hada.io/topic?id=34673",
-      "author": "neo",
-      "publishedAt": "2026-10-02T16:43:09.000Z"
-    },
-    {
-      "id": "34672",
-      "source": "geeknews",
-      "title": "빅테크가 클라우드를 망쳐 놓았기에, 우리 서비스의 이름을 바꿉니다",
-      "url": "https://news.hada.io/topic?id=34672",
-      "commentsUrl": "https://news.hada.io/topic?id=34672",
-      "author": "neo",
-      "publishedAt": "2026-10-02T16:40:09.000Z"
-    },
-    {
-      "id": "34671",
-      "source": "geeknews",
-      "title": "SlutCon에서 안전하게 지내기",
-      "url": "https://news.hada.io/topic?id=34671",
-      "commentsUrl": "https://news.hada.io/topic?id=34671",
-      "author": "neo",
-      "publishedAt": "2026-10-02T15:36:50.000Z"
-    },
-    {
-      "id": "34670",
-      "source": "geeknews",
-      "title": "타입클래스와 모듈 비교",
-      "url": "https://news.hada.io/topic?id=34670",
-      "commentsUrl": "https://news.hada.io/topic?id=34670",
-      "author": "neo",
-      "publishedAt": "2026-10-02T14:05:45.000Z"
-    },
-    {
-      "id": "34669",
-      "source": "geeknews",
-      "title": "터보 하스켈(Turbo Haskell)",
-      "url": "https://news.hada.io/topic?id=34669",
-      "commentsUrl": "https://news.hada.io/topic?id=34669",
-      "author": "neo",
-      "publishedAt": "2026-10-02T12:33:48.000Z"
-    },
-    {
-      "id": "34668",
-      "source": "geeknews",
-      "title": "Shimano 자전거 박물관 방문기",
-      "url": "https://news.hada.io/topic?id=34668",
-      "commentsUrl": "https://news.hada.io/topic?id=34668",
-      "author": "neo",
-      "publishedAt": "2026-10-02T11:33:46.000Z"
-    },
-    {
-      "id": "34667",
-      "source": "geeknews",
-      "title": "Rust 1.99.0 발표",
-      "url": "https://news.hada.io/topic?id=34667",
-      "commentsUrl": "https://news.hada.io/topic?id=34667",
-      "author": "neo",
-      "publishedAt": "2026-10-02T11:03:15.000Z"
-    },
-    {
-      "id": "34665",
-      "source": "geeknews",
-      "title": "arXiv, AI 논문 제출 급증에 제출자당 월 2건으로 제한",
-      "url": "https://news.hada.io/topic?id=34665",
-      "commentsUrl": "https://news.hada.io/topic?id=34665",
-      "author": "neo",
-      "publishedAt": "2026-10-02T10:33:53.000Z"
     }
   ]
 }
