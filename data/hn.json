@@ -1,106 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-03T15:31:55.558Z",
+  "fetchedAt": "2026-10-04T03:43:05.541Z",
   "items": [
     {
-      "id": "49943034",
+      "id": "49950052",
       "source": "hn",
-      "title": "Show HN: Germany's new sovereign AI model Kolibri",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "score": 203,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49943034",
-      "author": "tejaskumar__",
-      "publishedAt": "2026-10-03T10:43:51.000Z"
+      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49950052",
+      "author": "bookofjoe",
+      "publishedAt": "2026-10-04T02:34:22.000Z"
     },
     {
-      "id": "49936575",
+      "id": "49948332",
       "source": "hn",
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "score": 296,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49936575",
-      "author": "fibo",
-      "publishedAt": "2026-10-02T18:01:16.000Z"
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "score": 219,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49948332",
+      "author": "jethronethro",
+      "publishedAt": "2026-10-03T22:18:13.000Z"
     },
     {
-      "id": "49929391",
+      "id": "49946567",
       "source": "hn",
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "score": 279,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49929391",
-      "author": "usernomdeguerre",
-      "publishedAt": "2026-10-02T02:51:27.000Z"
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "score": 179,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49946567",
+      "author": "saikatsg",
+      "publishedAt": "2026-10-03T18:29:30.000Z"
     },
     {
-      "id": "49933740",
+      "id": "49938326",
       "source": "hn",
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "score": 253,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49933740",
-      "author": "PaulHoule",
-      "publishedAt": "2026-10-02T14:11:24.000Z"
-    },
-    {
-      "id": "49944127",
-      "source": "hn",
-      "title": "US killer's sentence quashed because of AI video of victim shown in court",
-      "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
       "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49944127",
-      "author": "porridgeraisin",
-      "publishedAt": "2026-10-03T13:34:18.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=49938326",
+      "author": "effects",
+      "publishedAt": "2026-10-02T20:39:05.000Z"
+    },
+    {
+      "id": "49950288",
+      "source": "hn",
+      "title": "AI can clone your indie game, but not its soul",
+      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49950288",
+      "author": "robertvaradan",
+      "publishedAt": "2026-10-04T03:18:55.000Z"
+    },
+    {
+      "id": "49950108",
+      "source": "hn",
+      "title": "How the bad science of AI doomerism is good for big business",
+      "url": "https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49950108",
+      "author": "paimapi",
+      "publishedAt": "2026-10-04T02:43:55.000Z"
+    },
+    {
+      "id": "49946228",
+      "source": "hn",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "score": 85,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49946228",
+      "author": "Anon84",
+      "publishedAt": "2026-10-03T17:44:29.000Z"
     },
     {
       "id": "49937916",
       "source": "hn",
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://github.com/anteloc/ldraw-nova",
-      "score": 126,
+      "score": 145,
       "commentsUrl": "https://news.ycombinator.com/item?id=49937916",
       "author": "antelocnova",
       "publishedAt": "2026-10-02T20:00:15.000Z"
+    },
+    {
+      "id": "49942429",
+      "source": "hn",
+      "title": "I made my iPhone a second GPU for my MacBook-Qwen 3.8 27B prefills 29–44% faster",
+      "url": "https://reddit.com/comments/1wvz1ex/",
+      "score": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49942429",
+      "author": "thunderbong",
+      "publishedAt": "2026-10-03T08:39:06.000Z"
+    },
+    {
+      "id": "49929391",
+      "source": "hn",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "score": 328,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49929391",
+      "author": "usernomdeguerre",
+      "publishedAt": "2026-10-02T02:51:27.000Z"
+    },
+    {
+      "id": "49936575",
+      "source": "hn",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "score": 345,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49936575",
+      "author": "fibo",
+      "publishedAt": "2026-10-02T18:01:16.000Z"
+    },
+    {
+      "id": "49933740",
+      "source": "hn",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "score": 279,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49933740",
+      "author": "PaulHoule",
+      "publishedAt": "2026-10-02T14:11:24.000Z"
     },
     {
       "id": "49913571",
       "source": "hn",
       "title": "Gemini 4 Argon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "score": 1688,
+      "score": 1694,
       "commentsUrl": "https://news.ycombinator.com/item?id=49913571",
       "author": "bradleyg223",
       "publishedAt": "2026-09-30T20:04:37.000Z"
-    },
-    {
-      "id": "49929489",
-      "source": "hn",
-      "title": "DeepSeek Harness Desktop for macOS and Windows",
-      "url": "https://www.deepseek.com/en/harness/",
-      "score": 392,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49929489",
-      "author": "Kuyawa",
-      "publishedAt": "2026-10-02T03:11:20.000Z"
-    },
-    {
-      "id": "49924618",
-      "source": "hn",
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "url": "https://stoppels.ch/goalposts/",
-      "score": 198,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49924618",
-      "author": "stabbles",
-      "publishedAt": "2026-10-01T17:32:43.000Z"
-    },
-    {
-      "id": "49919910",
-      "source": "hn",
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "score": 188,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49919910",
-      "author": "giuliomagnifico",
-      "publishedAt": "2026-10-01T10:21:36.000Z"
     }
   ]
 }
