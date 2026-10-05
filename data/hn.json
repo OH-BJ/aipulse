@@ -1,63 +1,83 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-04T16:15:57.566Z",
+  "fetchedAt": "2026-10-05T03:26:23.006Z",
   "items": [
     {
       "id": "49953495",
       "source": "hn",
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "url": "https://github.com/Niko1221/Strata",
-      "score": 240,
+      "score": 644,
       "commentsUrl": "https://news.ycombinator.com/item?id=49953495",
       "author": "snehesht",
       "publishedAt": "2026-10-04T12:51:53.000Z"
+    },
+    {
+      "id": "49957117",
+      "source": "hn",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "score": 62,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49957117",
+      "author": "signa11",
+      "publishedAt": "2026-10-04T19:42:25.000Z"
+    },
+    {
+      "id": "49951891",
+      "source": "hn",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49951891",
+      "author": "simonjgreen",
+      "publishedAt": "2026-10-04T08:41:58.000Z"
     },
     {
       "id": "49952111",
       "source": "hn",
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
       "url": "https://github.com/allenv0/SCM",
-      "score": 59,
+      "score": 144,
       "commentsUrl": "https://news.ycombinator.com/item?id=49952111",
       "author": "allenleee",
       "publishedAt": "2026-10-04T09:24:52.000Z"
+    },
+    {
+      "id": "49951641",
+      "source": "hn",
+      "title": "What's the future for pure math research in the age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49951641",
+      "author": "6bitquant",
+      "publishedAt": "2026-10-04T07:53:45.000Z"
     },
     {
       "id": "49946228",
       "source": "hn",
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "score": 264,
+      "score": 388,
       "commentsUrl": "https://news.ycombinator.com/item?id=49946228",
       "author": "Anon84",
       "publishedAt": "2026-10-03T17:44:29.000Z"
     },
     {
-      "id": "49954745",
+      "id": "49959361",
       "source": "hn",
-      "title": "RuneScape's Position on Gen AI",
-      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49954745",
-      "author": "cautiouscat",
-      "publishedAt": "2026-10-04T15:29:14.000Z"
-    },
-    {
-      "id": "49951641",
-      "source": "hn",
-      "title": "What's the Future for Pure Math Research in the Age of AI?",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-      "score": 23,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49951641",
-      "author": "6bitquant",
-      "publishedAt": "2026-10-04T07:53:45.000Z"
+      "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
+      "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49959361",
+      "author": "JumpCrisscross",
+      "publishedAt": "2026-10-05T00:17:37.000Z"
     },
     {
       "id": "49944227",
       "source": "hn",
       "title": "I quit OpenAI because its culture is broken",
       "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "score": 356,
+      "score": 463,
       "commentsUrl": "https://news.ycombinator.com/item?id=49944227",
       "author": "Brajeshwar",
       "publishedAt": "2026-10-03T13:46:34.000Z"
@@ -67,7 +87,7 @@
       "source": "hn",
       "title": "Religious scholars met with Anthropic",
       "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "score": 140,
+      "score": 157,
       "commentsUrl": "https://news.ycombinator.com/item?id=49950052",
       "author": "bookofjoe",
       "publishedAt": "2026-10-04T02:34:22.000Z"
@@ -77,80 +97,10 @@
       "source": "hn",
       "title": "Three AI agents, two countries, and one uneven world wide web",
       "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "score": 38,
+      "score": 41,
       "commentsUrl": "https://news.ycombinator.com/item?id=49938326",
       "author": "effects",
       "publishedAt": "2026-10-02T20:39:05.000Z"
-    },
-    {
-      "id": "49953179",
-      "source": "hn",
-      "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
-      "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49953179",
-      "author": "cc62cf4a4f20",
-      "publishedAt": "2026-10-04T12:06:57.000Z"
-    },
-    {
-      "id": "49946321",
-      "source": "hn",
-      "title": "Pop!_OS bans AI-generated code from much of its codebase",
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-      "score": 113,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49946321",
-      "author": "bundie",
-      "publishedAt": "2026-10-03T17:57:03.000Z"
-    },
-    {
-      "id": "49946567",
-      "source": "hn",
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "score": 225,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49946567",
-      "author": "saikatsg",
-      "publishedAt": "2026-10-03T18:29:30.000Z"
-    },
-    {
-      "id": "49913571",
-      "source": "hn",
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "score": 1696,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49913571",
-      "author": "bradleyg223",
-      "publishedAt": "2026-09-30T20:04:37.000Z"
-    },
-    {
-      "id": "49937916",
-      "source": "hn",
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "score": 150,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49937916",
-      "author": "antelocnova",
-      "publishedAt": "2026-10-02T20:00:15.000Z"
-    },
-    {
-      "id": "49942429",
-      "source": "hn",
-      "title": "I made my iPhone a second GPU for my MacBook-Qwen 3.8 27B prefills 29–44% faster",
-      "url": "https://reddit.com/comments/1wvz1ex/",
-      "score": 32,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49942429",
-      "author": "thunderbong",
-      "publishedAt": "2026-10-03T08:39:06.000Z"
-    },
-    {
-      "id": "49929391",
-      "source": "hn",
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "score": 333,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49929391",
-      "author": "usernomdeguerre",
-      "publishedAt": "2026-10-02T02:51:27.000Z"
     }
   ]
 }
