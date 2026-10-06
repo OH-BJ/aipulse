@@ -1,116 +1,96 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-06T04:13:40.514Z",
+  "fetchedAt": "2026-10-06T17:42:46.526Z",
   "items": [
     {
-      "id": "49972419",
+      "id": "49977979",
       "source": "hn",
-      "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "score": 50,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49972419",
-      "author": "bryan0",
-      "publishedAt": "2026-10-06T00:00:45.000Z"
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 974,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49977979",
+      "author": "Philpax",
+      "publishedAt": "2026-10-06T13:15:49.000Z"
+    },
+    {
+      "id": "49980715",
+      "source": "hn",
+      "title": "AI is now capable of developing its own inference hardware",
+      "url": "https://github.com/FeSens/openTPU",
+      "score": 92,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49980715",
+      "author": "fsbonetto",
+      "publishedAt": "2026-10-06T16:23:25.000Z"
+    },
+    {
+      "id": "49981197",
+      "source": "hn",
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "score": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49981197",
+      "author": "healsdata",
+      "publishedAt": "2026-10-06T17:01:52.000Z"
     },
     {
       "id": "49961057",
       "source": "hn",
       "title": "Anthropic reported diary entry to police, woman faces felony charge",
       "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "score": 600,
+      "score": 782,
       "commentsUrl": "https://news.ycombinator.com/item?id=49961057",
       "author": "emptybits",
       "publishedAt": "2026-10-05T05:37:40.000Z"
     },
     {
-      "id": "49971473",
+      "id": "49977689",
       "source": "hn",
-      "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
-      "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
-      "score": 45,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49971473",
-      "author": "hefner1456",
-      "publishedAt": "2026-10-05T22:01:35.000Z"
-    },
-    {
-      "id": "49972467",
-      "source": "hn",
-      "title": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49972467",
-      "author": "sbulaev",
-      "publishedAt": "2026-10-06T00:07:09.000Z"
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49977689",
+      "author": "pfdietz",
+      "publishedAt": "2026-10-06T12:53:58.000Z"
     },
     {
       "id": "49930872",
       "source": "hn",
       "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
       "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-      "score": 82,
+      "score": 86,
       "commentsUrl": "https://news.ycombinator.com/item?id=49930872",
       "author": "giuliomagnifico",
       "publishedAt": "2026-10-02T07:40:15.000Z"
-    },
-    {
-      "id": "49970182",
-      "source": "hn",
-      "title": "Give your LLM more DSLs",
-      "url": "https://yasyf.com/writing/give-your-llm-more-dsls/",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49970182",
-      "author": "yasyfm",
-      "publishedAt": "2026-10-05T20:24:58.000Z"
-    },
-    {
-      "id": "49968105",
-      "source": "hn",
-      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-      "score": 263,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49968105",
-      "author": "brokensegue",
-      "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
       "id": "49952111",
       "source": "hn",
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
       "url": "https://github.com/allenv0/SCM",
-      "score": 163,
+      "score": 173,
       "commentsUrl": "https://news.ycombinator.com/item?id=49952111",
       "author": "allenleee",
       "publishedAt": "2026-10-04T09:24:52.000Z"
     },
     {
-      "id": "49933476",
+      "id": "49974238",
       "source": "hn",
-      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "score": 153,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49933476",
-      "author": "tomncooper",
-      "publishedAt": "2026-10-02T13:47:41.000Z"
+      "title": "The AI boom is making the cheapest smartphones disappear",
+      "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49974238",
+      "author": "jethronethro",
+      "publishedAt": "2026-10-06T04:37:17.000Z"
     },
     {
       "id": "49951891",
       "source": "hn",
       "title": "How to scale intent, quality, and artistry with AI [video]",
       "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "score": 99,
+      "score": 101,
       "commentsUrl": "https://news.ycombinator.com/item?id=49951891",
       "author": "simonjgreen",
       "publishedAt": "2026-10-04T08:41:58.000Z"
-    },
-    {
-      "id": "49968947",
-      "source": "hn",
-      "title": "A Series of Unfortunate Events for OpenAI Users",
-      "url": "https://insufferable.dev/posts/a-series-of-unfortunate-events-for-openai-users/",
-      "score": 32,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49968947",
-      "author": "garo-pro",
-      "publishedAt": "2026-10-05T18:58:26.000Z"
     }
   ]
 }
