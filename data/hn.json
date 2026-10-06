@@ -1,106 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-05T03:26:23.006Z",
+  "fetchedAt": "2026-10-06T04:13:40.514Z",
   "items": [
     {
-      "id": "49953495",
+      "id": "49972419",
       "source": "hn",
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "score": 644,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49953495",
-      "author": "snehesht",
-      "publishedAt": "2026-10-04T12:51:53.000Z"
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "score": 50,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49972419",
+      "author": "bryan0",
+      "publishedAt": "2026-10-06T00:00:45.000Z"
     },
     {
-      "id": "49957117",
+      "id": "49961057",
       "source": "hn",
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "score": 62,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49957117",
-      "author": "signa11",
-      "publishedAt": "2026-10-04T19:42:25.000Z"
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "score": 600,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49961057",
+      "author": "emptybits",
+      "publishedAt": "2026-10-05T05:37:40.000Z"
     },
     {
-      "id": "49951891",
+      "id": "49971473",
       "source": "hn",
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "score": 57,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49951891",
-      "author": "simonjgreen",
-      "publishedAt": "2026-10-04T08:41:58.000Z"
+      "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
+      "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
+      "score": 45,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49971473",
+      "author": "hefner1456",
+      "publishedAt": "2026-10-05T22:01:35.000Z"
+    },
+    {
+      "id": "49972467",
+      "source": "hn",
+      "title": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49972467",
+      "author": "sbulaev",
+      "publishedAt": "2026-10-06T00:07:09.000Z"
+    },
+    {
+      "id": "49930872",
+      "source": "hn",
+      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
+      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
+      "score": 82,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49930872",
+      "author": "giuliomagnifico",
+      "publishedAt": "2026-10-02T07:40:15.000Z"
+    },
+    {
+      "id": "49970182",
+      "source": "hn",
+      "title": "Give your LLM more DSLs",
+      "url": "https://yasyf.com/writing/give-your-llm-more-dsls/",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49970182",
+      "author": "yasyfm",
+      "publishedAt": "2026-10-05T20:24:58.000Z"
+    },
+    {
+      "id": "49968105",
+      "source": "hn",
+      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "score": 263,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49968105",
+      "author": "brokensegue",
+      "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
       "id": "49952111",
       "source": "hn",
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
       "url": "https://github.com/allenv0/SCM",
-      "score": 144,
+      "score": 163,
       "commentsUrl": "https://news.ycombinator.com/item?id=49952111",
       "author": "allenleee",
       "publishedAt": "2026-10-04T09:24:52.000Z"
     },
     {
-      "id": "49951641",
+      "id": "49933476",
       "source": "hn",
-      "title": "What's the future for pure math research in the age of AI?",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-      "score": 57,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49951641",
-      "author": "6bitquant",
-      "publishedAt": "2026-10-04T07:53:45.000Z"
+      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+      "score": 153,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49933476",
+      "author": "tomncooper",
+      "publishedAt": "2026-10-02T13:47:41.000Z"
     },
     {
-      "id": "49946228",
+      "id": "49951891",
       "source": "hn",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "score": 388,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49946228",
-      "author": "Anon84",
-      "publishedAt": "2026-10-03T17:44:29.000Z"
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "score": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49951891",
+      "author": "simonjgreen",
+      "publishedAt": "2026-10-04T08:41:58.000Z"
     },
     {
-      "id": "49959361",
+      "id": "49968947",
       "source": "hn",
-      "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
-      "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49959361",
-      "author": "JumpCrisscross",
-      "publishedAt": "2026-10-05T00:17:37.000Z"
-    },
-    {
-      "id": "49944227",
-      "source": "hn",
-      "title": "I quit OpenAI because its culture is broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "score": 463,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49944227",
-      "author": "Brajeshwar",
-      "publishedAt": "2026-10-03T13:46:34.000Z"
-    },
-    {
-      "id": "49950052",
-      "source": "hn",
-      "title": "Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "score": 157,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49950052",
-      "author": "bookofjoe",
-      "publishedAt": "2026-10-04T02:34:22.000Z"
-    },
-    {
-      "id": "49938326",
-      "source": "hn",
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "score": 41,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49938326",
-      "author": "effects",
-      "publishedAt": "2026-10-02T20:39:05.000Z"
+      "title": "A Series of Unfortunate Events for OpenAI Users",
+      "url": "https://insufferable.dev/posts/a-series-of-unfortunate-events-for-openai-users/",
+      "score": 32,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49968947",
+      "author": "garo-pro",
+      "publishedAt": "2026-10-05T18:58:26.000Z"
     }
   ]
 }

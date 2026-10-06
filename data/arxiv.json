@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-10-05T03:26:22.893Z",
-  "items": []
+  "fetchedAt": "2026-10-06T04:13:40.322Z",
+  "items": [
+    {
+      "id": "2610.03647",
+      "source": "arxiv",
+      "title": "Amortized Structured Stochastic Variational Inference for Gaussian Process Latent Variable Models",
+      "url": "https://arxiv.org/abs/2610.03647",
+      "author": "Maksym Tretiakov, Sarah Filippi, Vincent Fortuin +3",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Many machine learning methods aim to approximate the lower-dimensional manifold on which the data lives. A desirable feature of such methods is that they should capture the epistemic uncertainty of th…"
+    },
+    {
+      "id": "2610.02829",
+      "source": "arxiv",
+      "title": "Clinical Concept Centers in LLMs",
+      "url": "https://arxiv.org/abs/2610.02829",
+      "author": "Aishik Nagar, Abhishek Vaidyanathan, Arun-Kumar Kaliya-Perumal +2",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Large language models are increasingly used in clinical settings. However, research into the reliability and performance of these models has focused almost entirely on the language substrate, scoring…"
+    },
+    {
+      "id": "2610.02214",
+      "source": "arxiv",
+      "title": "MiDShip: Multimodal Dataset of Ship Cargo Hold Structures for Engineering Design",
+      "url": "https://arxiv.org/abs/2610.02214",
+      "author": "Noah J. Bagazinski, Md. Ferdous Alam, Jaya Manideep Rebbagondla +1",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Ship structures govern vessel strength, safety, and manufacturability, but their design must satisfy hundreds of classification society requirements, making the process complex and iterative. Data-dri…"
+    },
+    {
+      "id": "2610.00964",
+      "source": "arxiv",
+      "title": "RPTune: Learned Context Curation for LLM Catalog Search",
+      "url": "https://arxiv.org/abs/2610.00964",
+      "author": "Chuxuan Hu, Hejie Cui, Norman Huang +3",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "For small merchant businesses (SMBs) whose catalogs fit within a long-context LLM, full-catalog prompting offers a compelling alternative to multi-stage retrieval designed primarily for large marketpl…"
+    },
+    {
+      "id": "2609.39301",
+      "source": "arxiv",
+      "title": "Generalized Geometry Block Proximal Linearized Method for Multiblock Nonconvex and Nonsmooth Optimization",
+      "url": "https://arxiv.org/abs/2609.39301",
+      "author": "Weifeng Yang",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "This paper considers a class of multiblock nonconvex and nonsmooth optimization problems arising in many applications. Existing methods construct proximal linearized operators or their variants within…"
+    },
+    {
+      "id": "2609.39212",
+      "source": "arxiv",
+      "title": "Minimax Additive Regression under Unknown Dependent Designs",
+      "url": "https://arxiv.org/abs/2609.39212",
+      "author": "Baptiste Ferrere, Fabrice Gamboa, Jean-Michel Loubes",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "We study additive regression under an unknown and potentially non product design distribution, allowing the number of covariates to grow with the sample size. We consider a coupled class that separate…"
+    },
+    {
+      "id": "2609.39091",
+      "source": "arxiv",
+      "title": "Steepest Guidance: A Practical and Principled Approach to Inference-Time Alignment of Flow and Diffusion-based Models",
+      "url": "https://arxiv.org/abs/2609.39091",
+      "author": "Shokichi Takakura, Akifumi Wachi, Rei Higuchi +2",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Inference-time alignment of flow and diffusion-based models is critical for achieving flexible generative modeling. Theoretically, Doob's $h$-transform provides an elegant solution to this problem, an…"
+    },
+    {
+      "id": "2609.38887",
+      "source": "arxiv",
+      "title": "VOSSA: Voiceprint Optimization for Streaming Speech Architectures",
+      "url": "https://arxiv.org/abs/2609.38887",
+      "author": "Mu-Ruei Tseng, Waris Quamer, Ghady Nasrallah +1",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Real-time voice conversion (VC) systems commonly rely on pretrained speaker embeddings from automatic speaker verification (ASV) models. While effective for speaker discrimination, these embeddings ar…"
+    },
+    {
+      "id": "2609.38795",
+      "source": "arxiv",
+      "title": "Recovering Off-Policy Supervision for Speculative Decoding",
+      "url": "https://arxiv.org/abs/2609.38795",
+      "author": "Jungseob Lee, Chanjun Park, Sugyeong Eo +1",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Block drafters for speculative decoding are commonly trained on corpora written by external models, where a single off-policy token invalidates supervision for all subsequent slots in a block. Existin…"
+    },
+    {
+      "id": "2609.36709",
+      "source": "arxiv",
+      "title": "Into the danger zone: stable extrapolation in high-dimensional function and operator learning",
+      "url": "https://arxiv.org/abs/2609.36709",
+      "author": "Ben Adcock, Simone Brugiapaglia, Xuemeng Wang",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Out-of-distribution (OOD) generalization is a central challenge in scientific machine learning. We study regression problems in which the test distribution differs from the training distribution and a…"
+    },
+    {
+      "id": "2609.34556",
+      "source": "arxiv",
+      "title": "RoPE is Dead, Long Live RoPE: Towards Scalable Data-aware Positional Encodings",
+      "url": "https://arxiv.org/abs/2609.34556",
+      "author": "Jarod L\\'evy, Mathurin Videau, Jad Yehya +3",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Transformers process tokens without any inherent notion of order, making positional encoding a fundamental requirement rather than an architectural refinement. Rotary Position Embedding (RoPE) has bec…"
+    },
+    {
+      "id": "2609.32755",
+      "source": "arxiv",
+      "title": "SAGE: Semantic Audio Generative Encoder",
+      "url": "https://arxiv.org/abs/2609.32755",
+      "author": "Francesco Brigante, Luca Cerovaz, Davide Marincione +4",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Audio autoencoders compress waveforms into compact latent representations that serve as the interface between raw audio and downstream models. Current systems navigate a three-way trade-off between re…"
+    },
+    {
+      "id": "2609.27710",
+      "source": "arxiv",
+      "title": "FFM-CP: Cross-Backbone Fusion of Vision-Language Foundation Models for Few-Shot Computational Pathology",
+      "url": "https://arxiv.org/abs/2609.27710",
+      "author": "Anh-Tien Nguyen, Trung DQ. Dang, Nghiem Tuong Diep +9",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Pathology vision-language foundation models vary in performance across diseases and tasks, with no single model consistently performing best. The high cost of expert pathology annotation can also limi…"
+    },
+    {
+      "id": "2609.24840",
+      "source": "arxiv",
+      "title": "PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control",
+      "url": "https://arxiv.org/abs/2609.24840",
+      "author": "Lei Ye, Haibo Gao, Yitang Li +10",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Diffusion models provide a flexible framework for motion generation, but turning this flexibility into closed-loop humanoid control remains challenging. Hierarchical generator-tracker systems steer mo…"
+    },
+    {
+      "id": "2609.23290",
+      "source": "arxiv",
+      "title": "Stochastic Flow Map for Count Data",
+      "url": "https://arxiv.org/abs/2609.23290",
+      "author": "Ganchao Wei",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "High-dimensional count data are common in scientific applications, but most diffusion and flow models are designed for continuous or categorical data, and generation often requires many sequential mod…"
+    },
+    {
+      "id": "2609.22103",
+      "source": "arxiv",
+      "title": "Graph Learning for Cross-Subject, Cross-Population EEG Emotion Decoding and Model-Derived Spatial-Spectral Neural Signatures",
+      "url": "https://arxiv.org/abs/2609.22103",
+      "author": "Dongyi He, Bin Jiang, Xiangkai Wang +4",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Cross subject emotion decoding from electroencephalography EEG requires representations that accommodate individual variability while preserving spatial spectral structure for interpretation. This stu…"
+    },
+    {
+      "id": "2609.21012",
+      "source": "arxiv",
+      "title": "Fragment-Aware Vision Transformers for Fresco-Fragment Style Classification",
+      "url": "https://arxiv.org/abs/2609.21012",
+      "author": "Sara Miketek, Biagio Barchielli, Nadeem Iqbal Kajla +1",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Artistic style classification is usually studied on complete artworks, where models can exploit global composition, spatial organisation, and iconographic structure. In archaeological settings, howeve…"
+    },
+    {
+      "id": "2609.20868",
+      "source": "arxiv",
+      "title": "Automated Physics-Informed Neural-Networks-Based Calibration of Highly Segmented Silicon Telescopes",
+      "url": "https://arxiv.org/abs/2609.20868",
+      "author": "M. Rejmund, A. Lemasson, P. Morfouace +3",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Transfer and multi-nucleon transfer reactions are essential tools for probing nuclear structure and reaction dynamics, requiring precise determination of the identity, energy, and emission angles of r…"
+    },
+    {
+      "id": "2609.19963",
+      "source": "arxiv",
+      "title": "Exact Regret Frontiers and Externality Scheduling in Centralized Serial-Dictatorship Bandits",
+      "url": "https://arxiv.org/abs/2609.19963",
+      "author": "Lishang Xu, Guodong Ma, Pengcheng Weng +1",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Exploration in centralized serial-dictatorship matching bandits must use complete matchings, so learning one player-arm pair can impose regret on others. We study this externality under a known common…"
+    },
+    {
+      "id": "2609.19153",
+      "source": "arxiv",
+      "title": "Stop Removing Stopwords: How an Inherited Preprocessing Default Distorts Legal Text-as-Data",
+      "url": "https://arxiv.org/abs/2609.19153",
+      "author": "Gregory M. Dickinson",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Empirical legal scholarship increasingly treats judicial text as data, and much of it still runs on sparse, interpretable pipelines (TF-IDF features and linear classifiers) because the textual feature…"
+    },
+    {
+      "id": "2609.17477",
+      "source": "arxiv",
+      "title": "Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory",
+      "url": "https://arxiv.org/abs/2609.17477",
+      "author": "Yuto Sakurai, Takeaki Shimokawa, Kazunori Iwata +1",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "The absolute capacity of dense associative memory has mainly been analyzed for unbiased patterns. Here we examine the effect of bias in centered binary patterns under the Krotov-Hopfield single-site c…"
+    },
+    {
+      "id": "2609.10514",
+      "source": "arxiv",
+      "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
+      "url": "https://arxiv.org/abs/2609.10514",
+      "author": "Ashwin Nayak, Xingyu Zhou",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknow…"
+    },
+    {
+      "id": "2609.03376",
+      "source": "arxiv",
+      "title": "Spruce: Scalable Private Outsourced Retrieval Using Compact Embeddings",
+      "url": "https://arxiv.org/abs/2609.03376",
+      "author": "Peichun Hua, Yunming Xiao",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Retrieval-Augmented Generation (RAG) has made dense retrieval over large document collections a standard building block. Organizations increasingly outsource vector indexes to untrusted clouds, exposi…"
+    },
+    {
+      "id": "2608.30186",
+      "source": "arxiv",
+      "title": "The PUR-1 Cyber-Physical Digital Twin",
+      "url": "https://arxiv.org/abs/2608.30186",
+      "author": "Vasileios Theos, Jonah Lau, Konstantinos Gkouliaras +7",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Digital twin technologies have the potential to improve operational flexibility and responsiveness capabilities of nuclear systems. To provide decision support, cyber event characterization, state est…"
+    },
+    {
+      "id": "2608.28444",
+      "source": "arxiv",
+      "title": "Sliding-window beats linear attention",
+      "url": "https://arxiv.org/abs/2608.28444",
+      "author": "Alexia Jolicoeur-Martineau, Rhea Sanjay Sukthanker, Pashmina Cameron +1",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Due to the nature of quadratic attention, Large Language Models (LLMs) consume a lot of memory and energy: every new token costs more than the previous one, and its keys and values must be stored in m…"
+    },
+    {
+      "id": "2608.13678",
+      "source": "arxiv",
+      "title": "Composing Learned Robot Behaviors with Temporal Logic at Runtime",
+      "url": "https://arxiv.org/abs/2608.13678",
+      "author": "Moritz Zoellner, Anastasios Manganaris, Ahmed H. Qureshi +1",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Executing Linear Temporal Logic (LTL) instructions with learned robot policies faces two practical challenges: demonstrations may cover individual behaviors without containing the temporal composition…"
+    },
+    {
+      "id": "2608.12757",
+      "source": "arxiv",
+      "title": "Difference-of-Convex Regularization for Graph Learning by Differentiable Programming",
+      "url": "https://arxiv.org/abs/2608.12757",
+      "author": "Liping Tao, Chee Wei Tan",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Laplacian-regularized minimization is fundamental in signal processing and machine learning, but explicit construction of the dense graph Laplacian pseudoinverse can be computationally expensive. To a…"
+    },
+    {
+      "id": "2608.12408",
+      "source": "arxiv",
+      "title": "Evaluation Resolution Confounds Learning-Rule Comparisons in Model-Brain RSA of Early Visual Cortex",
+      "url": "https://arxiv.org/abs/2608.12408",
+      "author": "Nils Leutenegger",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Studies of biologically plausible learning rules (feedback alignment, predictive coding, STDP) train small networks on $32\\times32$ images and compare them with brain responses to naturalistic stimuli…"
+    },
+    {
+      "id": "2607.27433",
+      "source": "arxiv",
+      "title": "Comparison of a Parametric Physics-Informed Neural Network and a Tensorial Reduced-Order Model for the Shallow-Water Dam-Break Problem",
+      "url": "https://arxiv.org/abs/2607.27433",
+      "author": "Anton Myshak, Md Rezwan Bin Mizan, Ilya Timofeyev",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "We develop two parametric data-driven reduced models: a physics-informed neural network (PINN) and a non-intrusive tensorial reduced-order model (TROM), and apply both approaches to the parametrized o…"
+    },
+    {
+      "id": "2607.21219",
+      "source": "arxiv",
+      "title": "DART: A Degradation-Aware Recurrent Transformer for Archival Film Restoration",
+      "url": "https://arxiv.org/abs/2607.21219",
+      "author": "Miko{\\l}aj Jastrz\\k{e}bski, Wojciech Koz{\\l}owski, Kamil Adamczewski",
+      "publishedAt": "2026-10-06T04:00:00.000Z",
+      "summary": "Archival film restoration is a challenging problem because historical footage contains compound degradations such as scratches, dust, blur, noise, flicker, and photometric aging, while clean reference…"
+    }
+  ]
 }
