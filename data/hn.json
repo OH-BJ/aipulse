@@ -1,13 +1,63 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-07T03:40:59.323Z",
+  "fetchedAt": "2026-10-07T18:14:40.174Z",
   "items": [
+    {
+      "id": "49996437",
+      "source": "hn",
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "score": 65,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49996437",
+      "author": "sfkgtbor",
+      "publishedAt": "2026-10-07T18:01:32.000Z"
+    },
+    {
+      "id": "49996425",
+      "source": "hn",
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49996425",
+      "author": "joshuawright11",
+      "publishedAt": "2026-10-07T18:00:58.000Z"
+    },
+    {
+      "id": "49993121",
+      "source": "hn",
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+      "score": 77,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49993121",
+      "author": "bluepeter",
+      "publishedAt": "2026-10-07T14:10:55.000Z"
+    },
+    {
+      "id": "49994746",
+      "source": "hn",
+      "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+      "score": 72,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49994746",
+      "author": "sbulaev",
+      "publishedAt": "2026-10-07T16:07:08.000Z"
+    },
+    {
+      "id": "49994142",
+      "source": "hn",
+      "title": "AI Measurement Science",
+      "url": "https://aimslab.stanford.edu/textbook/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49994142",
+      "author": "sonabinu",
+      "publishedAt": "2026-10-07T15:24:28.000Z"
+    },
     {
       "id": "49984923",
       "source": "hn",
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 540,
+      "score": 1162,
       "commentsUrl": "https://news.ycombinator.com/item?id=49984923",
       "author": "OfficialTurkey",
       "publishedAt": "2026-10-06T22:17:21.000Z"
@@ -17,120 +67,110 @@
       "source": "hn",
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 1626,
+      "score": 1971,
       "commentsUrl": "https://news.ycombinator.com/item?id=49977979",
       "author": "Philpax",
       "publishedAt": "2026-10-06T13:15:49.000Z"
+    },
+    {
+      "id": "49993638",
+      "source": "hn",
+      "title": "ArtCraft – Controllable AI for Artists",
+      "url": "https://getartcraft.com/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49993638",
+      "author": "ianrahman",
+      "publishedAt": "2026-10-07T14:48:34.000Z"
+    },
+    {
+      "id": "49995227",
+      "source": "hn",
+      "title": "OpenAI says teens use ChatGPT for under 15 minutes a day",
+      "url": "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49995227",
+      "author": "mikelgan",
+      "publishedAt": "2026-10-07T16:39:52.000Z"
+    },
+    {
+      "id": "49987765",
+      "source": "hn",
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "score": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49987765",
+      "author": "ilreb",
+      "publishedAt": "2026-10-07T03:30:44.000Z"
+    },
+    {
+      "id": "49993084",
+      "source": "hn",
+      "title": "The Top 100 Gen AI Consumer Apps — 7th Edition",
+      "url": "https://a16z.com/100-gen-ai-apps-7/",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49993084",
+      "author": "pseudolus",
+      "publishedAt": "2026-10-07T14:06:45.000Z"
     },
     {
       "id": "49984716",
       "source": "hn",
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "url": "https://penguin-mail.com/",
-      "score": 95,
+      "score": 229,
       "commentsUrl": "https://news.ycombinator.com/item?id=49984716",
       "author": "kavourias",
       "publishedAt": "2026-10-06T21:59:43.000Z"
     },
     {
-      "id": "49981905",
+      "id": "49993842",
       "source": "hn",
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "score": 129,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49981905",
-      "author": "zed_labs_dev",
-      "publishedAt": "2026-10-06T18:00:34.000Z"
+      "title": "Mumsnet denies using AI for content after prompt appears on message board",
+      "url": "https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49993842",
+      "author": "ljf",
+      "publishedAt": "2026-10-07T15:04:47.000Z"
+    },
+    {
+      "id": "49989684",
+      "source": "hn",
+      "title": "Forever Junior: The Skills AI Can't Develop for You",
+      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+      "score": 59,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49989684",
+      "author": "brugidou",
+      "publishedAt": "2026-10-07T08:00:06.000Z"
     },
     {
       "id": "49980715",
       "source": "hn",
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
-      "score": 251,
+      "score": 332,
       "commentsUrl": "https://news.ycombinator.com/item?id=49980715",
       "author": "fsbonetto",
       "publishedAt": "2026-10-06T16:23:25.000Z"
     },
     {
-      "id": "49981197",
+      "id": "49981905",
       "source": "hn",
-      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-      "score": 96,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49981197",
-      "author": "healsdata",
-      "publishedAt": "2026-10-06T17:01:52.000Z"
-    },
-    {
-      "id": "49985861",
-      "source": "hn",
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-      "score": 45,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49985861",
-      "author": "thoughtpeddler",
-      "publishedAt": "2026-10-06T23:50:33.000Z"
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "score": 259,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49981905",
+      "author": "zed_labs_dev",
+      "publishedAt": "2026-10-06T18:00:34.000Z"
     },
     {
       "id": "49977689",
       "source": "hn",
       "title": "Erdosproblems.com Succumbs to the AI Onslaught",
       "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-      "score": 97,
+      "score": 115,
       "commentsUrl": "https://news.ycombinator.com/item?id=49977689",
       "author": "pfdietz",
       "publishedAt": "2026-10-06T12:53:58.000Z"
-    },
-    {
-      "id": "49984736",
-      "source": "hn",
-      "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
-      "url": "https://agentability.org/",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49984736",
-      "author": "khalidsaidi",
-      "publishedAt": "2026-10-06T22:00:58.000Z"
-    },
-    {
-      "id": "49972125",
-      "source": "hn",
-      "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
-      "url": "https://news.ycombinator.com/item?id=49972125",
-      "score": 24,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49972125",
-      "author": "onemiketwelve",
-      "publishedAt": "2026-10-05T23:24:44.000Z"
-    },
-    {
-      "id": "49987172",
-      "source": "hn",
-      "title": "Triage GitHub Pull Requests with OpenAI's Decisions API",
-      "url": "https://vercel.com/i/triage-github-pull-requests-openai-decisions-api",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49987172",
-      "author": "flashbrew",
-      "publishedAt": "2026-10-07T02:13:01.000Z"
-    },
-    {
-      "id": "49961057",
-      "source": "hn",
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "score": 813,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49961057",
-      "author": "emptybits",
-      "publishedAt": "2026-10-05T05:37:40.000Z"
-    },
-    {
-      "id": "49972419",
-      "source": "hn",
-      "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "score": 71,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49972419",
-      "author": "bryan0",
-      "publishedAt": "2026-10-06T00:00:45.000Z"
     }
   ]
 }
