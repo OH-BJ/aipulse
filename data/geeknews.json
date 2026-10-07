@@ -1,7 +1,223 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-10-06T17:42:46.763Z",
+  "fetchedAt": "2026-10-07T03:40:59.661Z",
   "items": [
+    {
+      "id": "34927",
+      "source": "geeknews",
+      "title": "AnyPS5 - 에뮬레이션 없이 PS5 바이너리를 PC로 포팅하는 도구(시스템 라이브러리 87% 매핑)",
+      "url": "https://news.hada.io/topic?id=34927",
+      "commentsUrl": "https://news.hada.io/topic?id=34927",
+      "author": "neo",
+      "publishedAt": "2026-10-07T03:32:42.000Z"
+    },
+    {
+      "id": "34925",
+      "source": "geeknews",
+      "title": "소프트웨어 팩토리 패턴 시도하기",
+      "url": "https://news.hada.io/topic?id=34925",
+      "commentsUrl": "https://news.hada.io/topic?id=34925",
+      "author": "neo",
+      "publishedAt": "2026-10-07T02:25:02.000Z"
+    },
+    {
+      "id": "34924",
+      "source": "geeknews",
+      "title": "Show GN: 웹 변경 모니터링하는 크롬 확장프로그램",
+      "url": "https://news.hada.io/topic?id=34924",
+      "commentsUrl": "https://news.hada.io/topic?id=34924",
+      "author": "jufufu",
+      "publishedAt": "2026-10-07T01:44:34.000Z"
+    },
+    {
+      "id": "34923",
+      "source": "geeknews",
+      "title": "OpenAI, 확률·선택지·점수를 반환하는 Decisions API 공개 베타 시작",
+      "url": "https://news.hada.io/topic?id=34923",
+      "commentsUrl": "https://news.hada.io/topic?id=34923",
+      "author": "neo",
+      "publishedAt": "2026-10-07T01:33:49.000Z"
+    },
+    {
+      "id": "34922",
+      "source": "geeknews",
+      "title": "제프리 카첸버그 - 세상이 바뀌고 있다: 창의성을 위한 AI",
+      "url": "https://news.hada.io/topic?id=34922",
+      "commentsUrl": "https://news.hada.io/topic?id=34922",
+      "author": "neo",
+      "publishedAt": "2026-10-07T01:05:02.000Z"
+    },
+    {
+      "id": "34921",
+      "source": "geeknews",
+      "title": "이 모든 것이 지나간 뒤를 위한 지속 가능한 웹 커리어",
+      "url": "https://news.hada.io/topic?id=34921",
+      "commentsUrl": "https://news.hada.io/topic?id=34921",
+      "author": "neo",
+      "publishedAt": "2026-10-07T01:03:30.000Z"
+    },
+    {
+      "id": "34920",
+      "source": "geeknews",
+      "title": "여러 팀의 시스템을 이해하기 위한 AI 집단 지성 구축하기",
+      "url": "https://news.hada.io/topic?id=34920",
+      "commentsUrl": "https://news.hada.io/topic?id=34920",
+      "author": "neo",
+      "publishedAt": "2026-10-07T00:55:02.000Z"
+    },
+    {
+      "id": "34919",
+      "source": "geeknews",
+      "title": "Show GN: AI 송도 월드 - LLM 여섯 개가 나눠 맡은 AI 에이전트 2,400명이 사는 3D 도시",
+      "url": "https://news.hada.io/topic?id=34919",
+      "commentsUrl": "https://news.hada.io/topic?id=34919",
+      "author": "yim0823",
+      "publishedAt": "2026-10-07T00:53:30.000Z"
+    },
+    {
+      "id": "34918",
+      "source": "geeknews",
+      "title": "소프트웨어로서의 브랜드",
+      "url": "https://news.hada.io/topic?id=34918",
+      "commentsUrl": "https://news.hada.io/topic?id=34918",
+      "author": "neo",
+      "publishedAt": "2026-10-07T00:45:01.000Z"
+    },
+    {
+      "id": "34917",
+      "source": "geeknews",
+      "title": "Show GN: TunnelForge - SSH 터널 + MySQL/PostgreSQL 덤프·복원·엔진 간 이전 데스크톱 앱 (MIT)",
+      "url": "https://news.hada.io/topic?id=34917",
+      "commentsUrl": "https://news.hada.io/topic?id=34917",
+      "author": "ppkimsang",
+      "publishedAt": "2026-10-07T00:33:22.000Z"
+    },
+    {
+      "id": "34916",
+      "source": "geeknews",
+      "title": "Octop - 가족과 소규모 팀이 함께 쓰는 셀프 호스팅 AI 비서",
+      "url": "https://news.hada.io/topic?id=34916",
+      "commentsUrl": "https://news.hada.io/topic?id=34916",
+      "author": "xguru",
+      "publishedAt": "2026-10-07T00:30:02.000Z"
+    },
+    {
+      "id": "34915",
+      "source": "geeknews",
+      "title": "Show GN: brgr – Claude Code나 Codex가 다른 코딩 에이전트에게 일을 맡기는 herdr 플러그인",
+      "url": "https://news.hada.io/topic?id=34915",
+      "commentsUrl": "https://news.hada.io/topic?id=34915",
+      "author": "justn",
+      "publishedAt": "2026-10-07T00:28:34.000Z"
+    },
+    {
+      "id": "34914",
+      "source": "geeknews",
+      "title": "이메일을 직접 호스팅하는 분들, 무엇을 사용하시나요?",
+      "url": "https://news.hada.io/topic?id=34914",
+      "commentsUrl": "https://news.hada.io/topic?id=34914",
+      "author": "neo",
+      "publishedAt": "2026-10-07T00:02:22.000Z"
+    },
+    {
+      "id": "34912",
+      "source": "geeknews",
+      "title": "질량으로 따지면 지구에서 가장 우세한 종은 무엇일까?",
+      "url": "https://news.hada.io/topic?id=34912",
+      "commentsUrl": "https://news.hada.io/topic?id=34912",
+      "author": "neo",
+      "publishedAt": "2026-10-06T23:42:29.000Z"
+    },
+    {
+      "id": "34911",
+      "source": "geeknews",
+      "title": "파라마운트, 워너브라더스와 약 167조원 규모 합병 완료",
+      "url": "https://news.hada.io/topic?id=34911",
+      "commentsUrl": "https://news.hada.io/topic?id=34911",
+      "author": "neo",
+      "publishedAt": "2026-10-06T23:39:29.000Z"
+    },
+    {
+      "id": "34910",
+      "source": "geeknews",
+      "title": "OpenAI, AI가 도출한 수학 연구 원고 722편과 증명 자료 공개",
+      "url": "https://news.hada.io/topic?id=34910",
+      "commentsUrl": "https://news.hada.io/topic?id=34910",
+      "author": "neo",
+      "publishedAt": "2026-10-06T23:36:29.000Z"
+    },
+    {
+      "id": "34909",
+      "source": "geeknews",
+      "title": "Show GN: 안심품 - KC인증 제품만 검색",
+      "url": "https://news.hada.io/topic?id=34909",
+      "commentsUrl": "https://news.hada.io/topic?id=34909",
+      "author": "jic5760",
+      "publishedAt": "2026-10-06T22:51:12.000Z"
+    },
+    {
+      "id": "34908",
+      "source": "geeknews",
+      "title": "밀리초 단위로 벤치마크하기",
+      "url": "https://news.hada.io/topic?id=34908",
+      "commentsUrl": "https://news.hada.io/topic?id=34908",
+      "author": "neo",
+      "publishedAt": "2026-10-06T22:37:20.000Z"
+    },
+    {
+      "id": "34907",
+      "source": "geeknews",
+      "title": "EmbeddingGemma 2 - 개방형 경량 멀티모달 임베딩 모델",
+      "url": "https://news.hada.io/topic?id=34907",
+      "commentsUrl": "https://news.hada.io/topic?id=34907",
+      "author": "neo",
+      "publishedAt": "2026-10-06T22:34:20.000Z"
+    },
+    {
+      "id": "34906",
+      "source": "geeknews",
+      "title": "Tapo Rust/Python 라이브러리, TP-Link의 TPAP 프로토콜 지원 추가",
+      "url": "https://news.hada.io/topic?id=34906",
+      "commentsUrl": "https://news.hada.io/topic?id=34906",
+      "author": "neo",
+      "publishedAt": "2026-10-06T21:33:39.000Z"
+    },
+    {
+      "id": "34905",
+      "source": "geeknews",
+      "title": "나는 인류를 멸종시키고 있는 AGI다",
+      "url": "https://news.hada.io/topic?id=34905",
+      "commentsUrl": "https://news.hada.io/topic?id=34905",
+      "author": "neo",
+      "publishedAt": "2026-10-06T20:32:58.000Z"
+    },
+    {
+      "id": "34904",
+      "source": "geeknews",
+      "title": "세계 최초의 차세대 지열 발전소, 단 23개월 만에 완공",
+      "url": "https://news.hada.io/topic?id=34904",
+      "commentsUrl": "https://news.hada.io/topic?id=34904",
+      "author": "neo",
+      "publishedAt": "2026-10-06T18:37:48.000Z"
+    },
+    {
+      "id": "34903",
+      "source": "geeknews",
+      "title": "openTPU - AI가 설계하고 실제 FPGA에서 모델을 실행하는 오픈소스 AI 가속기",
+      "url": "https://news.hada.io/topic?id=34903",
+      "commentsUrl": "https://news.hada.io/topic?id=34903",
+      "author": "neo",
+      "publishedAt": "2026-10-06T18:34:47.000Z"
+    },
+    {
+      "id": "34902",
+      "source": "geeknews",
+      "title": "Factor 개요",
+      "url": "https://news.hada.io/topic?id=34902",
+      "commentsUrl": "https://news.hada.io/topic?id=34902",
+      "author": "neo",
+      "publishedAt": "2026-10-06T18:14:38.000Z"
+    },
     {
       "id": "34901",
       "source": "geeknews",
@@ -41,7 +257,7 @@
     {
       "id": "34897",
       "source": "geeknews",
-      "title": "Meta의 Muse, 귀여운 외양에 가려진 개인정보 보호와 보안의 총체적 난국",
+      "title": "Meta의 Muse, 귀엽지만 개인정보 보호와 보안은 총체적 난국",
       "url": "https://news.hada.io/topic?id=34897",
       "commentsUrl": "https://news.hada.io/topic?id=34897",
       "author": "neo",
@@ -55,222 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=34895",
       "author": "neo",
       "publishedAt": "2026-10-06T14:45:03.000Z"
-    },
-    {
-      "id": "34894",
-      "source": "geeknews",
-      "title": "Polars 2.0 출시",
-      "url": "https://news.hada.io/topic?id=34894",
-      "commentsUrl": "https://news.hada.io/topic?id=34894",
-      "author": "neo",
-      "publishedAt": "2026-10-06T14:42:02.000Z"
-    },
-    {
-      "id": "34893",
-      "source": "geeknews",
-      "title": "Show GN: agent-gc – AI 코딩 에이전트가 남긴 worktree 쓰레기를 치워주는 TUI",
-      "url": "https://news.hada.io/topic?id=34893",
-      "commentsUrl": "https://news.hada.io/topic?id=34893",
-      "author": "wjd5480",
-      "publishedAt": "2026-10-06T14:41:21.000Z"
-    },
-    {
-      "id": "34892",
-      "source": "geeknews",
-      "title": "Mistral Large 4: “Le Chonk”",
-      "url": "https://news.hada.io/topic?id=34892",
-      "commentsUrl": "https://news.hada.io/topic?id=34892",
-      "author": "neo",
-      "publishedAt": "2026-10-06T14:39:02.000Z"
-    },
-    {
-      "id": "34890",
-      "source": "geeknews",
-      "title": "Mistral Large 4 발표 - 코딩·보안·시각 이해를 강화한 1조 파라미터 오픈웨이트 모델",
-      "url": "https://news.hada.io/topic?id=34890",
-      "commentsUrl": "https://news.hada.io/topic?id=34890",
-      "author": "neo",
-      "publishedAt": "2026-10-06T13:38:19.000Z"
-    },
-    {
-      "id": "34889",
-      "source": "geeknews",
-      "title": "JetBrains, 매출 늘었지만 2025년 순손실 전환",
-      "url": "https://news.hada.io/topic?id=34889",
-      "commentsUrl": "https://news.hada.io/topic?id=34889",
-      "author": "neo",
-      "publishedAt": "2026-10-06T13:35:19.000Z"
-    },
-    {
-      "id": "34886",
-      "source": "geeknews",
-      "title": "Show GN: 차쟁이가 바이브코딩으로 만든 엔진 시뮬레이터",
-      "url": "https://news.hada.io/topic?id=34886",
-      "commentsUrl": "https://news.hada.io/topic?id=34886",
-      "author": "giyeol",
-      "publishedAt": "2026-10-06T12:05:47.000Z"
-    },
-    {
-      "id": "34885",
-      "source": "geeknews",
-      "title": "Francis Halzen, 노벨 물리학상 수상",
-      "url": "https://news.hada.io/topic?id=34885",
-      "commentsUrl": "https://news.hada.io/topic?id=34885",
-      "author": "neo",
-      "publishedAt": "2026-10-06T11:31:19.000Z"
-    },
-    {
-      "id": "34884",
-      "source": "geeknews",
-      "title": "Show GN: HOWBIG - 돈 관리부터 투자 판단까지 문제를 풀며 배우는 금융학습 서비스",
-      "url": "https://news.hada.io/topic?id=34884",
-      "commentsUrl": "https://news.hada.io/topic?id=34884",
-      "author": "asdf3765",
-      "publishedAt": "2026-10-06T10:52:49.000Z"
-    },
-    {
-      "id": "34882",
-      "source": "geeknews",
-      "title": "Async Rust: 스케줄러는 어디에 있는가?",
-      "url": "https://news.hada.io/topic?id=34882",
-      "commentsUrl": "https://news.hada.io/topic?id=34882",
-      "author": "neo",
-      "publishedAt": "2026-10-06T08:04:32.000Z"
-    },
-    {
-      "id": "34881",
-      "source": "geeknews",
-      "title": "Photopea 개발자, Photosuite의 코드 무단 복제 문제 제기",
-      "url": "https://news.hada.io/topic?id=34881",
-      "commentsUrl": "https://news.hada.io/topic?id=34881",
-      "author": "neo",
-      "publishedAt": "2026-10-06T07:31:47.000Z"
-    },
-    {
-      "id": "34880",
-      "source": "geeknews",
-      "title": "Show GN: 오마이스피드 - 테슬라 기본 브라우저에서 쓸 수 있는 과속 단속 카메라 알림용 웹지도",
-      "url": "https://news.hada.io/topic?id=34880",
-      "commentsUrl": "https://news.hada.io/topic?id=34880",
-      "author": "tomlee",
-      "publishedAt": "2026-10-06T07:07:05.000Z"
-    },
-    {
-      "id": "34879",
-      "source": "geeknews",
-      "title": "Iroh의 글로벌 콘텐츠 탐색",
-      "url": "https://news.hada.io/topic?id=34879",
-      "commentsUrl": "https://news.hada.io/topic?id=34879",
-      "author": "neo",
-      "publishedAt": "2026-10-06T07:04:07.000Z"
-    },
-    {
-      "id": "34876",
-      "source": "geeknews",
-      "title": "Common Lisp이 이제 최고의 프로그래밍 언어인 이유",
-      "url": "https://news.hada.io/topic?id=34876",
-      "commentsUrl": "https://news.hada.io/topic?id=34876",
-      "author": "neo",
-      "publishedAt": "2026-10-06T06:38:20.000Z"
-    },
-    {
-      "id": "34875",
-      "source": "geeknews",
-      "title": "높은 경유 가격으로 단 30일 만에 트럭 운송업체 16곳 파산",
-      "url": "https://news.hada.io/topic?id=34875",
-      "commentsUrl": "https://news.hada.io/topic?id=34875",
-      "author": "neo",
-      "publishedAt": "2026-10-06T06:35:20.000Z"
-    },
-    {
-      "id": "34874",
-      "source": "geeknews",
-      "title": "Gleam은 더 이상 Erlang 소스 코드로 컴파일하지 않음",
-      "url": "https://news.hada.io/topic?id=34874",
-      "commentsUrl": "https://news.hada.io/topic?id=34874",
-      "author": "neo",
-      "publishedAt": "2026-10-06T06:02:23.000Z"
-    },
-    {
-      "id": "34872",
-      "source": "geeknews",
-      "title": "Example.com, 수십 년 만에 최대 규모의 리디자인 공개",
-      "url": "https://news.hada.io/topic?id=34872",
-      "commentsUrl": "https://news.hada.io/topic?id=34872",
-      "author": "neo",
-      "publishedAt": "2026-10-06T04:08:16.000Z"
-    },
-    {
-      "id": "34870",
-      "source": "geeknews",
-      "title": "수학의 미래",
-      "url": "https://news.hada.io/topic?id=34870",
-      "commentsUrl": "https://news.hada.io/topic?id=34870",
-      "author": "neo",
-      "publishedAt": "2026-10-06T02:46:40.000Z"
-    },
-    {
-      "id": "34869",
-      "source": "geeknews",
-      "title": "텍사스의 한 도시, Flock 사용 관련 공공기록 공개에 200만 달러 요구",
-      "url": "https://news.hada.io/topic?id=34869",
-      "commentsUrl": "https://news.hada.io/topic?id=34869",
-      "author": "neo",
-      "publishedAt": "2026-10-06T02:43:40.000Z"
-    },
-    {
-      "id": "34868",
-      "source": "geeknews",
-      "title": "Dust - 역전파 없이 트랜스포머 사전학습하기",
-      "url": "https://news.hada.io/topic?id=34868",
-      "commentsUrl": "https://news.hada.io/topic?id=34868",
-      "author": "neo",
-      "publishedAt": "2026-10-06T02:40:40.000Z"
-    },
-    {
-      "id": "34867",
-      "source": "geeknews",
-      "title": "Show GN: 애드덱 - 앱별 애드몹 수익을 폰 한 화면에서 보는 안드로이드 대시보드",
-      "url": "https://news.hada.io/topic?id=34867",
-      "commentsUrl": "https://news.hada.io/topic?id=34867",
-      "author": "eltacrew",
-      "publishedAt": "2026-10-06T02:07:52.000Z"
-    },
-    {
-      "id": "34866",
-      "source": "geeknews",
-      "title": "Show GN: Tarotop — 먼저 듣고 나서 카드를 뽑는 AI 패밀리어 타로",
-      "url": "https://news.hada.io/topic?id=34866",
-      "commentsUrl": "https://news.hada.io/topic?id=34866",
-      "author": "maevera",
-      "publishedAt": "2026-10-06T02:01:44.000Z"
-    },
-    {
-      "id": "34865",
-      "source": "geeknews",
-      "title": "AI 시대, 매니저의 길",
-      "url": "https://news.hada.io/topic?id=34865",
-      "commentsUrl": "https://news.hada.io/topic?id=34865",
-      "author": "neo",
-      "publishedAt": "2026-10-06T01:55:01.000Z"
-    },
-    {
-      "id": "34864",
-      "source": "geeknews",
-      "title": "디자인 총괄이 진짜 디자인 책임자는 아니다",
-      "url": "https://news.hada.io/topic?id=34864",
-      "commentsUrl": "https://news.hada.io/topic?id=34864",
-      "author": "neo",
-      "publishedAt": "2026-10-06T01:45:02.000Z"
-    },
-    {
-      "id": "34862",
-      "source": "geeknews",
-      "title": "샌프란시스코의 두 지점 사이에서 가장 평탄한 경로 찾기",
-      "url": "https://news.hada.io/topic?id=34862",
-      "commentsUrl": "https://news.hada.io/topic?id=34862",
-      "author": "neo",
-      "publishedAt": "2026-10-06T01:31:38.000Z"
     }
   ]
 }
