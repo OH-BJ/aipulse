@@ -1,196 +1,176 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-09T17:49:21.926Z",
+  "fetchedAt": "2026-10-10T03:45:15.544Z",
   "items": [
+    {
+      "id": "50023450",
+      "source": "hn",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "score": 297,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50023450",
+      "author": "tosh",
+      "publishedAt": "2026-10-09T17:02:31.000Z"
+    },
+    {
+      "id": "50019056",
+      "source": "hn",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "score": 120,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50019056",
+      "author": "piratebroadcast",
+      "publishedAt": "2026-10-09T11:36:20.000Z"
+    },
+    {
+      "id": "50024090",
+      "source": "hn",
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "score": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50024090",
+      "author": "matt_d",
+      "publishedAt": "2026-10-09T17:42:12.000Z"
+    },
+    {
+      "id": "50027118",
+      "source": "hn",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "score": 89,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50027118",
+      "author": "Zambyte",
+      "publishedAt": "2026-10-09T22:00:35.000Z"
+    },
     {
       "id": "50018817",
       "source": "hn",
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "score": 301,
+      "score": 386,
       "commentsUrl": "https://news.ycombinator.com/item?id=50018817",
       "author": "franze",
       "publishedAt": "2026-10-09T11:03:48.000Z"
-    },
-    {
-      "id": "50000488",
-      "source": "hn",
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "score": 990,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50000488",
-      "author": "jonotime",
-      "publishedAt": "2026-10-08T00:14:48.000Z"
     },
     {
       "id": "50018350",
       "source": "hn",
       "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "score": 218,
+      "score": 321,
       "commentsUrl": "https://news.ycombinator.com/item?id=50018350",
       "author": "trakkstar",
       "publishedAt": "2026-10-09T10:00:26.000Z"
+    },
+    {
+      "id": "50000488",
+      "source": "hn",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "score": 1088,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50000488",
+      "author": "jonotime",
+      "publishedAt": "2026-10-08T00:14:48.000Z"
+    },
+    {
+      "id": "50027257",
+      "source": "hn",
+      "title": "Can AI automate AI R&D yet?",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50027257",
+      "author": "merksittich",
+      "publishedAt": "2026-10-09T22:14:40.000Z"
     },
     {
       "id": "50013902",
       "source": "hn",
       "title": "OpenAI, the Partition Principle, and Mathematics",
       "url": "https://karagila.org/2026/openai-pp/",
-      "score": 178,
+      "score": 196,
       "commentsUrl": "https://news.ycombinator.com/item?id=50013902",
       "author": "md224",
       "publishedAt": "2026-10-08T23:29:43.000Z"
-    },
-    {
-      "id": "50023293",
-      "source": "hn",
-      "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
-      "url": "https://twitter.com/tomekkorbak/status/2108266859397283953",
-      "score": 40,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50023293",
-      "author": "doener",
-      "publishedAt": "2026-10-09T16:52:20.000Z"
-    },
-    {
-      "id": "50023260",
-      "source": "hn",
-      "title": "'Breathtaking,' 'Devastating': Mathematics Reels After New OpenAI Release",
-      "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50023260",
-      "author": "marojejian",
-      "publishedAt": "2026-10-09T16:50:01.000Z"
     },
     {
       "id": "50002665",
       "source": "hn",
       "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
       "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "score": 249,
+      "score": 268,
       "commentsUrl": "https://news.ycombinator.com/item?id=50002665",
       "author": "pyduan",
       "publishedAt": "2026-10-08T07:07:34.000Z"
-    },
-    {
-      "id": "50011999",
-      "source": "hn",
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "score": 140,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50011999",
-      "author": "ray__",
-      "publishedAt": "2026-10-08T20:46:25.000Z"
     },
     {
       "id": "49984923",
       "source": "hn",
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 1333,
+      "score": 1339,
       "commentsUrl": "https://news.ycombinator.com/item?id=49984923",
       "author": "OfficialTurkey",
       "publishedAt": "2026-10-06T22:17:21.000Z"
+    },
+    {
+      "id": "50011999",
+      "source": "hn",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "score": 142,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50011999",
+      "author": "ray__",
+      "publishedAt": "2026-10-08T20:46:25.000Z"
+    },
+    {
+      "id": "50023260",
+      "source": "hn",
+      "title": "'Breathtaking,' 'Devastating': Mathematics Reels After New OpenAI Release",
+      "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50023260",
+      "author": "marojejian",
+      "publishedAt": "2026-10-09T16:50:01.000Z"
+    },
+    {
+      "id": "50028121",
+      "source": "hn",
+      "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50028121",
+      "author": "sbulaev",
+      "publishedAt": "2026-10-10T00:07:08.000Z"
     },
     {
       "id": "50007993",
       "source": "hn",
       "title": "Show HN: Jevman – AI decision models play Pac-Man",
       "url": "https://opper.ai/jevman-benchmark/",
-      "score": 69,
+      "score": 72,
       "commentsUrl": "https://news.ycombinator.com/item?id=50007993",
       "author": "felix089",
       "publishedAt": "2026-10-08T16:34:13.000Z"
     },
     {
-      "id": "50005608",
+      "id": "50025767",
       "source": "hn",
-      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "url": "https://github.com/SamsungLabs/LittleBit",
-      "score": 87,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50005608",
-      "author": "brainless",
-      "publishedAt": "2026-10-08T13:29:46.000Z"
-    },
-    {
-      "id": "50022272",
-      "source": "hn",
-      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-      "url": "https://www.bbc.com/news/articles/cr86z33pdy9vo",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50022272",
-      "author": "mikelgan",
-      "publishedAt": "2026-10-09T15:49:51.000Z"
+      "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
+      "url": "https://codeberg.org/ethical-foss/open-slopware",
+      "score": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50025767",
+      "author": "smartmic",
+      "publishedAt": "2026-10-09T19:50:16.000Z"
     },
     {
       "id": "50002650",
       "source": "hn",
       "title": "OpenAI withdraws three mathematical results",
       "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "score": 364,
+      "score": 373,
       "commentsUrl": "https://news.ycombinator.com/item?id=50002650",
       "author": "sashank_1509",
       "publishedAt": "2026-10-08T07:05:40.000Z"
-    },
-    {
-      "id": "50021586",
-      "source": "hn",
-      "title": "US charity plans to use AI to monitor its Gaza classrooms for 'hateful' speech",
-      "url": "https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53?taid=6ac898017a4b4a000148d491&utm_campaign=TrueAnthem&utm_medium=AP",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50021586",
-      "author": "newspaper1",
-      "publishedAt": "2026-10-09T15:08:28.000Z"
-    },
-    {
-      "id": "50019860",
-      "source": "hn",
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50019860",
-      "author": "pluc",
-      "publishedAt": "2026-10-09T13:00:21.000Z"
-    },
-    {
-      "id": "49977979",
-      "source": "hn",
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 2034,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49977979",
-      "author": "Philpax",
-      "publishedAt": "2026-10-06T13:15:49.000Z"
-    },
-    {
-      "id": "50008187",
-      "source": "hn",
-      "title": "OpenAI annualised revenues $20B less than previously signalled",
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "score": 413,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50008187",
-      "author": "mfiguiere",
-      "publishedAt": "2026-10-08T16:45:58.000Z"
-    },
-    {
-      "id": "50021763",
-      "source": "hn",
-      "title": "The super intelligence shit is a humiliation ritual for OpenAI",
-      "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
-      "score": 75,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50021763",
-      "author": "doener",
-      "publishedAt": "2026-10-09T15:18:59.000Z"
-    },
-    {
-      "id": "50014150",
-      "source": "hn",
-      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-      "url": "https://github.com/edrisranjbar/lifeos",
-      "score": 39,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50014150",
-      "author": "edris0077",
-      "publishedAt": "2026-10-09T00:02:19.000Z"
     }
   ]
 }
