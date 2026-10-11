@@ -1,113 +1,113 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-11T03:18:10.723Z",
+  "fetchedAt": "2026-10-11T17:09:59.333Z",
   "items": [
     {
-      "id": "50039092",
+      "id": "50042330",
       "source": "hn",
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "score": 38,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50039092",
-      "author": "davikr",
-      "publishedAt": "2026-10-11T02:02:38.000Z"
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50042330",
+      "author": "adchurch",
+      "publishedAt": "2026-10-11T12:01:08.000Z"
     },
     {
       "id": "50031614",
       "source": "hn",
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
-      "score": 262,
+      "score": 314,
       "commentsUrl": "https://news.ycombinator.com/item?id=50031614",
       "author": "rociiu",
       "publishedAt": "2026-10-10T10:52:09.000Z"
     },
     {
-      "id": "50027257",
+      "id": "50041873",
       "source": "hn",
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "url": "https://epoch.ai/publications/innovationeval",
-      "score": 82,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50027257",
-      "author": "merksittich",
-      "publishedAt": "2026-10-09T22:14:40.000Z"
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "score": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50041873",
+      "author": "Bluestein",
+      "publishedAt": "2026-10-11T11:03:21.000Z"
+    },
+    {
+      "id": "50039092",
+      "source": "hn",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "score": 122,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50039092",
+      "author": "davikr",
+      "publishedAt": "2026-10-11T02:02:38.000Z"
     },
     {
       "id": "50035886",
       "source": "hn",
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
       "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "score": 131,
+      "score": 173,
       "commentsUrl": "https://news.ycombinator.com/item?id=50035886",
       "author": "arkj",
       "publishedAt": "2026-10-10T18:48:35.000Z"
     },
     {
-      "id": "50024090",
+      "id": "50042107",
       "source": "hn",
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "score": 195,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50024090",
-      "author": "matt_d",
-      "publishedAt": "2026-10-09T17:42:12.000Z"
-    },
-    {
-      "id": "50023450",
-      "source": "hn",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "score": 431,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50023450",
-      "author": "tosh",
-      "publishedAt": "2026-10-09T17:02:31.000Z"
-    },
-    {
-      "id": "50019056",
-      "source": "hn",
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "score": 180,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50019056",
-      "author": "piratebroadcast",
-      "publishedAt": "2026-10-09T11:36:20.000Z"
-    },
-    {
-      "id": "50037299",
-      "source": "hn",
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "score": 30,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50037299",
-      "author": "PicardManeuver",
-      "publishedAt": "2026-10-10T21:19:42.000Z"
+      "title": "AI is creating a 'human premium' for art created by people",
+      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "score": 66,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50042107",
+      "author": "colinprince",
+      "publishedAt": "2026-10-11T11:34:28.000Z"
     },
     {
       "id": "49984923",
       "source": "hn",
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 1348,
+      "score": 1351,
       "commentsUrl": "https://news.ycombinator.com/item?id=49984923",
       "author": "OfficialTurkey",
       "publishedAt": "2026-10-06T22:17:21.000Z"
+    },
+    {
+      "id": "50041061",
+      "source": "hn",
+      "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
+      "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
+      "score": 20,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50041061",
+      "author": "trakkstar",
+      "publishedAt": "2026-10-11T08:53:32.000Z"
     },
     {
       "id": "50000488",
       "source": "hn",
       "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
       "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "score": 1112,
+      "score": 1118,
       "commentsUrl": "https://news.ycombinator.com/item?id=50000488",
       "author": "jonotime",
       "publishedAt": "2026-10-08T00:14:48.000Z"
+    },
+    {
+      "id": "50042051",
+      "source": "hn",
+      "title": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations",
+      "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50042051",
+      "author": "throw0101a",
+      "publishedAt": "2026-10-11T11:29:01.000Z"
     },
     {
       "id": "50002665",
       "source": "hn",
       "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
       "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "score": 292,
+      "score": 298,
       "commentsUrl": "https://news.ycombinator.com/item?id=50002665",
       "author": "pyduan",
       "publishedAt": "2026-10-08T07:07:34.000Z"
@@ -117,60 +117,10 @@
       "source": "hn",
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "score": 412,
+      "score": 414,
       "commentsUrl": "https://news.ycombinator.com/item?id=50018817",
       "author": "franze",
       "publishedAt": "2026-10-09T11:03:48.000Z"
-    },
-    {
-      "id": "50037767",
-      "source": "hn",
-      "title": "A Stark Warning from a Former AI Doomer",
-      "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50037767",
-      "author": "_virtu",
-      "publishedAt": "2026-10-10T22:19:34.000Z"
-    },
-    {
-      "id": "50018350",
-      "source": "hn",
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "score": 357,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50018350",
-      "author": "trakkstar",
-      "publishedAt": "2026-10-09T10:00:26.000Z"
-    },
-    {
-      "id": "50031156",
-      "source": "hn",
-      "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
-      "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
-      "score": 56,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50031156",
-      "author": "DeepLogin",
-      "publishedAt": "2026-10-10T09:30:03.000Z"
-    },
-    {
-      "id": "50013902",
-      "source": "hn",
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "score": 208,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50013902",
-      "author": "md224",
-      "publishedAt": "2026-10-08T23:29:43.000Z"
-    },
-    {
-      "id": "50027118",
-      "source": "hn",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "score": 208,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50027118",
-      "author": "Zambyte",
-      "publishedAt": "2026-10-09T22:00:35.000Z"
     }
   ]
 }
