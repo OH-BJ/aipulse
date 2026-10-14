@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-10-14T03:01:08.470Z",
-  "items": []
+  "fetchedAt": "2026-10-14T16:17:31.435Z",
+  "items": [
+    {
+      "id": "2610.13217",
+      "source": "arxiv",
+      "title": "Golden Anchor for Video Generation",
+      "url": "https://arxiv.org/abs/2610.13217",
+      "author": "Jinyuan Xu, Shitong Shao, Lichen Bai +4",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Video generation supports digital content creation, with applications in virtual avatars, AI-driven filmmaking, interactive game engines, and world models. State-of-the-art systems achieve controllabi…"
+    },
+    {
+      "id": "2610.12471",
+      "source": "arxiv",
+      "title": "Neuromorphic Satellite Intelligence: A Formal Framework for Event-Driven Architectures, Spike-Based Algorithms, and Quantitative Energy-Accuracy Trade-offs",
+      "url": "https://arxiv.org/abs/2610.12471",
+      "author": "Suresh Kumar TP, Vikas Agnihotri",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Satellite onboard computing faces an irreducible tension: mission intelligence requirements grow monotonically while power, mass, and radiation budgets remain fixed. This paper advances the state of t…"
+    },
+    {
+      "id": "2610.12437",
+      "source": "arxiv",
+      "title": "Density Ratio Estimation with Stein Displacement Fields",
+      "url": "https://arxiv.org/abs/2610.12437",
+      "author": "Song Liu",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another…"
+    },
+    {
+      "id": "2610.12213",
+      "source": "arxiv",
+      "title": "ISBO: Scalable Spatio-Temporal Bayesian Optimization with Log Gaussian Cox Process Models via the INLA-SPDE Approach",
+      "url": "https://arxiv.org/abs/2610.12213",
+      "author": "Kaichuang Yang, H{\\aa}vard Rue, Jakob Zeitler",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Bayesian Optimization (BO) is a popular method for efficiently optimizing expensive black-box objectives. However, BO utilizing standard Gaussian Processes is ill-suited for doubly stochastic Cox Proc…"
+    },
+    {
+      "id": "2610.12094",
+      "source": "arxiv",
+      "title": "Differentiable Systematic Resampling for Variational Sequential Monte Carlo",
+      "url": "https://arxiv.org/abs/2610.12094",
+      "author": "Fredrik Cumlin, Saikat Chatterjee",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Particle filters are a standard tool for nonlinear state estimation, but their resampling step is discrete, preventing gradient-based learning in variational sequential Monte Carlo. We introduce Diffe…"
+    },
+    {
+      "id": "2610.11575",
+      "source": "arxiv",
+      "title": "Smoothing the Top-k Exposure Boundary for Sparse Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2610.11575",
+      "author": "Yunkai Chai, Tong Zhu, Xiaoye Qu +4",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Sparse Mixture-of-Experts models scale parameter capacity efficiently while maintaining a fixed compute budget per token. However, traditional training paradigms enforce a static choice of top-$k$ exp…"
+    },
+    {
+      "id": "2610.11275",
+      "source": "arxiv",
+      "title": "Phonological Interference in Multilingual Speech Models",
+      "url": "https://arxiv.org/abs/2610.11275",
+      "author": "Moran Yanuka, Raja Giryes, Morris Alper",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Phoneme-level models transcribe or generate speech as a sequence of phonemes, the smallest sound units that distinguish words. These models enable fine-grained pronunciation control and understanding,…"
+    },
+    {
+      "id": "2610.10946",
+      "source": "arxiv",
+      "title": "AI4Fire: Evaluating Large Language Models on Wildfire Tasks",
+      "url": "https://arxiv.org/abs/2610.10946",
+      "author": "Yue Zhao, Zuobin Xiong, Xiyang Hu +3",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Large language models (LLMs) are entering wildfire management, where overstated evaluations can cost property and lives. How do they perform on wildfire tasks, with and without grounding? Bare means a…"
+    },
+    {
+      "id": "2610.10135",
+      "source": "arxiv",
+      "title": "Attention via Black-Box Vector Search",
+      "url": "https://arxiv.org/abs/2610.10135",
+      "author": "Stepan Zharkov, Krish Singal, Ashwin Padaki +1",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Sparse attention mechanisms estimate attention over $n$ tokens using a small subset of keys. Many existing approaches use maximum inner product search (MIPS) to retrieve the heaviest keys, which motiv…"
+    },
+    {
+      "id": "2610.08098",
+      "source": "arxiv",
+      "title": "Surviving the Router: Optimizing Skill Injections for Retrieval and Execution",
+      "url": "https://arxiv.org/abs/2610.08098",
+      "author": "Haneen Najjar, Luca Scionis, Haritz Puerto +1",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "AI agents increasingly rely on modular third-party \"skills\" that are dynamically selected by skill routers to execute complex tasks. While recent studies highlight the threat of prompt injections embe…"
+    },
+    {
+      "id": "2610.07814",
+      "source": "arxiv",
+      "title": "Stochastic Gradient Descent Ascent is Suboptimal for Nonconvex-P{\\L} Min-Max Games",
+      "url": "https://arxiv.org/abs/2610.07814",
+      "author": "Junsoo Ha",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "How far can stochastic gradient descent ascent (SGDA) go by tuning its timescale ratio and step sizes in nonconvex min-max games? We answer this question for nonconvex-P{\\L} (NC-P{\\L}) games by establ…"
+    },
+    {
+      "id": "2610.05810",
+      "source": "arxiv",
+      "title": "Online AutoML: Evaluating Poisoning Attacks on Cost-Utility Adversarial Training Defence Strategy for IoT Networks",
+      "url": "https://arxiv.org/abs/2610.05810",
+      "author": "Chukwunonso Henry Nwokoye, Khalil El-Khatib, Li Yang",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Machine learning (ML)-powered poisoning attack vectors are adversarial maneuvers whereby an attacker intentionally inserts, corrupts, or alters training data to distort an ML model's learning process.…"
+    },
+    {
+      "id": "2610.05717",
+      "source": "arxiv",
+      "title": "Retrieval-Based In-Context Learning: A Domain Adaptation Framework",
+      "url": "https://arxiv.org/abs/2610.05717",
+      "author": "Yilun Zhu, Naihao Deng, Yingcong Li +2",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "In-context retrieval (ICR) is a retrieval-based form of in-context learning (ICL) in which demonstrations are retrieved from a source database based on similarity to the query, rather than sampled ind…"
+    },
+    {
+      "id": "2610.03824",
+      "source": "arxiv",
+      "title": "Targeted Active Learning for Preference-Based Treatment Effects on Multivariate Outcomes",
+      "url": "https://arxiv.org/abs/2610.03824",
+      "author": "Lola Giordani, Mathieu Even, Chlo\\'e Geoffroy +3",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Treatment efficacy is traditionally demonstrated on the basis of a single primary outcome. However, clinical decision-making usually requires consideration of multiple outcomes, balancing expected ben…"
+    },
+    {
+      "id": "2610.03647",
+      "source": "arxiv",
+      "title": "Amortized Structured Stochastic Variational Inference for Gaussian Process Latent Variable Models",
+      "url": "https://arxiv.org/abs/2610.03647",
+      "author": "Maksym Tretiakov, Sarah Filippi, Vincent Fortuin +3",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Many machine learning methods aim to approximate the lower-dimensional manifold on which the data lives. A desirable feature of such methods is that they should capture the epistemic uncertainty of th…"
+    },
+    {
+      "id": "2610.03369",
+      "source": "arxiv",
+      "title": "Mixture-of-Experts for Cryptocurrency Order Execution: Training Stability, Tail Risk, and Failure Modes",
+      "url": "https://arxiv.org/abs/2610.03369",
+      "author": "Alexander Ardaiz, Varun Budati, Ali Habibnia",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Deep reinforcement-learning policies for order execution can vary substantially across training seeds, so apparent architectural gains may reflect favourable training realisations rather than reproduc…"
+    },
+    {
+      "id": "2610.00498",
+      "source": "arxiv",
+      "title": "Heteroskedastic Canonical Polyadic Tensor Decomposition",
+      "url": "https://arxiv.org/abs/2610.00498",
+      "author": "Kyle Ritscher, Carlos Llosa-Vite",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "When minimizing the squared-error loss, the popular CP decomposition can be interpreted as parameter inference in a Gaussian model with a low-rank mean tensor and constant variance across the tensor e…"
+    },
+    {
+      "id": "2610.00321",
+      "source": "arxiv",
+      "title": "CAST: Cost-Aware Speculative Trees from One-Pass Block Drafters",
+      "url": "https://arxiv.org/abs/2610.00321",
+      "author": "Jungseob Lee, Sugyeong Eo",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Speculative decoding accelerates large language model inference by drafting future tokens cheaply and verifying them with the target model in parallel. Block drafters score a whole block of future tok…"
+    },
+    {
+      "id": "2609.39882",
+      "source": "arxiv",
+      "title": "LLM Persona Unlearning",
+      "url": "https://arxiv.org/abs/2609.39882",
+      "author": "Kemou Li, Zhuan Shi, Qizhou Wang +4",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Pre-training equips large language models (LLMs) with a broad repertoire of behavioral patterns associated with roles, styles, values, and goals. Post-training teaches conditional enactment and makes…"
+    },
+    {
+      "id": "2609.39090",
+      "source": "arxiv",
+      "title": "A strategic roadmap for an atomistic machine-learning ecosystem",
+      "url": "https://arxiv.org/abs/2609.39090",
+      "author": "J\\\"org Behler, Michele Ceriotti, Cecilia Clementi +47",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Data-driven machine learning (ML) techniques have become an essential tool in many domains of science. Their application to atomistic simulations of matter is particularly widespread and impactful. Th…"
+    },
+    {
+      "id": "2609.33741",
+      "source": "arxiv",
+      "title": "Multi-Marginal Inverse Optimal Transport for Contrastive Learning Via Explicit Anchor-Positive-Negative Coupling",
+      "url": "https://arxiv.org/abs/2609.33741",
+      "author": "Ngoc-Hai Nguyen, Thuan Nguyen, Prakash Ishwar +1",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Inverse Optimal Transport (OT) based methods for representation learning learn representations such that the global OT coupling between a pair of data marginals in the representation space, concentrat…"
+    },
+    {
+      "id": "2609.26841",
+      "source": "arxiv",
+      "title": "NeuroRule: Making Black-Box Neural Networks Explainable through Rule-set Evolution",
+      "url": "https://arxiv.org/abs/2609.26841",
+      "author": "Tapaswini Kodavanti, Hormoz Shahrzad, Risto Miikkulainen",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "High-capacity neural network models have achieved state-of-the-art performance across diverse classification tasks, yet they frequently operate as black-box models, lacking the transparency necessary…"
+    },
+    {
+      "id": "2609.24621",
+      "source": "arxiv",
+      "title": "Learning tactile perception from high-bandwidth single-point sensing",
+      "url": "https://arxiv.org/abs/2609.24621",
+      "author": "Joseph Rigal, Emmanuel Virot, Caroline Pascal",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Tactile sensing is increasingly being incorporated into learning-based robotic manipulation, yet many existing approaches rely on spatially distributed sensors. Here we introduce {SpectRobot}, a frame…"
+    },
+    {
+      "id": "2609.24128",
+      "source": "arxiv",
+      "title": "OSCAR: Order-aware Sensitivity Correction for AI Rankings",
+      "url": "https://arxiv.org/abs/2609.24128",
+      "author": "You Liu, Yue Liu, Quanchao Lu +2",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "LLM judges evaluate candidate language models through pairwise comparisons of their responses. Judge-aware Bradley--Terry models aggregate pairwise comparisons by jointly estimating candidate scores a…"
+    },
+    {
+      "id": "2609.23697",
+      "source": "arxiv",
+      "title": "Distill What You Trust: Reliability-Aware Multi-Teacher On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2609.23697",
+      "author": "Jie Sun, Mao Zheng, Mingyang Song +8",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Multi-teacher on-policy distillation allows a student to learn from complementary specialists on its own trajectories. Domain-routed approaches, however, select one teacher per example and keep it fix…"
+    },
+    {
+      "id": "2609.23269",
+      "source": "arxiv",
+      "title": "Latent Telepathy: Multi-Robot Communication with Self-Supervised Perceptual Latents",
+      "url": "https://arxiv.org/abs/2609.23269",
+      "author": "Howard Wang, Han Zheng, Cathy Wu",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "In a decentralized multi-robot team under partial observability, the fact that decides a robot's next action is often visible only to a teammate. Existing decentralized methods communicate kinematic i…"
+    },
+    {
+      "id": "2609.21747",
+      "source": "arxiv",
+      "title": "Single-Loop Stochastic Projected Damped Extragradient Methods for Nonconvex--(Strongly) Concave Minimax Optimization",
+      "url": "https://arxiv.org/abs/2609.21747",
+      "author": "Huiling Zhang, Minhao Zhang, Zi Xu +1",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "We develop single-loop stochastic projected damped extragradient methods for nonconvex--(strongly) concave minimax optimization, with complexity guarantees for both game stationarity (GS) and optimiza…"
+    },
+    {
+      "id": "2609.20846",
+      "source": "arxiv",
+      "title": "Rewarding Efficient Reasoning Improves Abstention on Underspecified Tasks in Reasoning Models",
+      "url": "https://arxiv.org/abs/2609.20846",
+      "author": "Polina Tsvilodub, Max H\\\"oth, Michael Franke +2",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "While modern large reasoning models (LRMs) excel at providing correct answers in many tasks, we provide additional evidence that they often struggle with a critical capability: knowing when to abstain…"
+    },
+    {
+      "id": "2609.19101",
+      "source": "arxiv",
+      "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+      "url": "https://arxiv.org/abs/2609.19101",
+      "author": "Leon Bergen, Usha Bhalla, Andrew Lee +15",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "As models scale, reward hacking becomes more frequent, more sophisticated, and more consequential. Does it leave a telltale signature in model representations? This work analyzes how reward hacking is…"
+    },
+    {
+      "id": "2609.15111",
+      "source": "arxiv",
+      "title": "Eigenvalue-Decomposition Cost Denoising for Predict-then-Optimize",
+      "url": "https://arxiv.org/abs/2609.15111",
+      "author": "Henry Aldridge-Krawciw, Irene Aldridge",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "summary": "Predict-then-optimize methods learn a mapping from features to unknown edge costs. They then solve the shortest-path problem on the predicted costs. We study a feature-free alternative for the case wh…"
+    }
+  ]
 }
