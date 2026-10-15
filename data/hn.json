@@ -1,53 +1,93 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-14T16:17:31.581Z",
+  "fetchedAt": "2026-10-15T02:41:00.471Z",
   "items": [
     {
-      "id": "50088430",
+      "id": "50091788",
       "source": "hn",
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "score": 86,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50088430",
-      "author": "tartoran",
-      "publishedAt": "2026-10-14T14:38:55.000Z"
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "score": 843,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50091788",
+      "author": "latexr",
+      "publishedAt": "2026-10-14T17:45:23.000Z"
     },
     {
-      "id": "50088534",
+      "id": "50067325",
       "source": "hn",
-      "title": "AI is mass decompiling games. That's both awesome and scary",
-      "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
-      "score": 48,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50088534",
-      "author": "popcar2",
-      "publishedAt": "2026-10-14T14:47:44.000Z"
+      "title": "Ask HN: CAD for wood working with LLM support?",
+      "url": "https://news.ycombinator.com/item?id=50067325",
+      "score": 32,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50067325",
+      "author": "reacharavindh",
+      "publishedAt": "2026-10-13T05:54:01.000Z"
+    },
+    {
+      "id": "50092664",
+      "source": "hn",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "score": 312,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50092664",
+      "author": "smartmic",
+      "publishedAt": "2026-10-14T18:32:52.000Z"
+    },
+    {
+      "id": "50094694",
+      "source": "hn",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "score": 268,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50094694",
+      "author": "sunshowers",
+      "publishedAt": "2026-10-14T20:30:54.000Z"
+    },
+    {
+      "id": "50090799",
+      "source": "hn",
+      "title": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "score": 87,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50090799",
+      "author": "7777777phil",
+      "publishedAt": "2026-10-14T16:52:42.000Z"
+    },
+    {
+      "id": "50097811",
+      "source": "hn",
+      "title": "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
+      "url": "https://capsem.org/",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50097811",
+      "author": "madars",
+      "publishedAt": "2026-10-15T00:58:26.000Z"
+    },
+    {
+      "id": "50048193",
+      "source": "hn",
+      "title": "How I manage persistent Claude Code loops: Spool",
+      "url": "https://github.com/enes-alatas/spool",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50048193",
+      "author": "enesalatas",
+      "publishedAt": "2026-10-11T21:50:14.000Z"
     },
     {
       "id": "50085323",
       "source": "hn",
       "title": "TV4 postpones show after AI agent erases edited material",
       "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "score": 92,
+      "score": 141,
       "commentsUrl": "https://news.ycombinator.com/item?id=50085323",
       "author": "tobr",
       "publishedAt": "2026-10-14T10:28:26.000Z"
-    },
-    {
-      "id": "50089395",
-      "source": "hn",
-      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-      "score": 17,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50089395",
-      "author": "Luc",
-      "publishedAt": "2026-10-14T15:39:45.000Z"
     },
     {
       "id": "50073879",
       "source": "hn",
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
-      "score": 1396,
+      "score": 1437,
       "commentsUrl": "https://news.ycombinator.com/item?id=50073879",
       "author": "737max",
       "publishedAt": "2026-10-13T16:03:16.000Z"
@@ -63,154 +103,104 @@
       "publishedAt": "2026-10-13T21:01:12.000Z"
     },
     {
-      "id": "50085302",
+      "id": "50096825",
       "source": "hn",
-      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-      "score": 24,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50085302",
-      "author": "EvgeniyZh",
-      "publishedAt": "2026-10-14T10:26:24.000Z"
+      "title": "ICE Wants to Use AI to Monitor Detainee Calls and Movements",
+      "url": "https://www.washingtonsun.com/immigration/ice-ai-monitor-detainees",
+      "score": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50096825",
+      "author": "hn_acker",
+      "publishedAt": "2026-10-14T23:06:24.000Z"
     },
     {
       "id": "50063427",
       "source": "hn",
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "score": 747,
+      "score": 761,
       "commentsUrl": "https://news.ycombinator.com/item?id=50063427",
       "author": "layer8",
       "publishedAt": "2026-10-12T21:40:18.000Z"
     },
     {
-      "id": "50087289",
+      "id": "50090443",
       "source": "hn",
-      "title": "AI agent behavior drift analysis with Cloudflare Clef",
-      "url": "https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50087289",
-      "author": "dmytton",
-      "publishedAt": "2026-10-14T13:17:14.000Z"
+      "title": "Why do LLM pelicans look like this?",
+      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+      "score": 155,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50090443",
+      "author": "pcwelder",
+      "publishedAt": "2026-10-14T16:33:34.000Z"
+    },
+    {
+      "id": "50085296",
+      "source": "hn",
+      "title": "I let an AI run my startup for a week",
+      "url": "https://daily.tinyprojects.dev/221",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50085296",
+      "author": "tinyprojects",
+      "publishedAt": "2026-10-14T10:25:48.000Z"
+    },
+    {
+      "id": "50097104",
+      "source": "hn",
+      "title": "Chaos ensues when AI interviewer meets AI interviewee",
+      "url": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50097104",
+      "author": "mikelgan",
+      "publishedAt": "2026-10-14T23:32:32.000Z"
+    },
+    {
+      "id": "50096477",
+      "source": "hn",
+      "title": "Anthropic revenue jumps to $16.8B in third quarter",
+      "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b",
+      "score": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50096477",
+      "author": "orf",
+      "publishedAt": "2026-10-14T22:37:26.000Z"
     },
     {
       "id": "50073633",
       "source": "hn",
       "title": "Redesigning source control at Anthropic",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 838,
+      "score": 868,
       "commentsUrl": "https://news.ycombinator.com/item?id=50073633",
       "author": "Philpax",
       "publishedAt": "2026-10-13T15:49:56.000Z"
     },
     {
-      "id": "50078141",
+      "id": "50097025",
       "source": "hn",
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "score": 623,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50078141",
-      "author": "forthwall",
-      "publishedAt": "2026-10-13T20:23:55.000Z"
-    },
-    {
-      "id": "50072120",
-      "source": "hn",
-      "title": "How to engineer an AI harness for game development",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "score": 160,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50072120",
-      "author": "kkukshtel",
-      "publishedAt": "2026-10-13T14:14:23.000Z"
-    },
-    {
-      "id": "50077619",
-      "source": "hn",
-      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-      "url": "https://parsimony.lasu.dev/",
-      "score": 72,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50077619",
-      "author": "lasu",
-      "publishedAt": "2026-10-13T19:50:31.000Z"
-    },
-    {
-      "id": "50074869",
-      "source": "hn",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-      "score": 226,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50074869",
-      "author": "xnx",
-      "publishedAt": "2026-10-13T16:55:47.000Z"
-    },
-    {
-      "id": "50073221",
-      "source": "hn",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "score": 334,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50073221",
-      "author": "sammy0910",
-      "publishedAt": "2026-10-13T15:25:50.000Z"
-    },
-    {
-      "id": "50069337",
-      "source": "hn",
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "url": "https://pdftomp3.com/connect-ai/",
-      "score": 168,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50069337",
-      "author": "janpmz",
-      "publishedAt": "2026-10-13T10:08:34.000Z"
-    },
-    {
-      "id": "50081151",
-      "source": "hn",
-      "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
-      "url": "https://blumify.io/people",
-      "score": 113,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50081151",
-      "author": "gcsydney",
-      "publishedAt": "2026-10-14T01:09:13.000Z"
-    },
-    {
-      "id": "50073471",
-      "source": "hn",
-      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-      "url": "https://news.ycombinator.com/item?id=50073471",
-      "score": 36,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50073471",
-      "author": "ericmags",
-      "publishedAt": "2026-10-13T15:41:00.000Z"
-    },
-    {
-      "id": "50068036",
-      "source": "hn",
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "score": 328,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50068036",
-      "author": "nryoo",
-      "publishedAt": "2026-10-13T07:28:34.000Z"
-    },
-    {
-      "id": "50080450",
-      "source": "hn",
-      "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
-      "url": "https://github.com/RayenMlayeh/jevcrawl",
-      "score": 17,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50080450",
-      "author": "rayenmlayeh",
-      "publishedAt": "2026-10-13T23:35:20.000Z"
+      "title": "Bank of America added 1k contractors to patch AI-exposed software flaws",
+      "url": "https://runtimewire.com/article/bank-of-america-mythos-contractors-software-patching",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50097025",
+      "author": "runtimewire",
+      "publishedAt": "2026-10-14T23:25:06.000Z"
     },
     {
       "id": "50080275",
       "source": "hn",
       "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
       "url": "https://pulseos.finance",
-      "score": 109,
+      "score": 115,
       "commentsUrl": "https://news.ycombinator.com/item?id=50080275",
       "author": "niztk",
       "publishedAt": "2026-10-13T23:13:23.000Z"
+    },
+    {
+      "id": "50078141",
+      "source": "hn",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "score": 643,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50078141",
+      "author": "forthwall",
+      "publishedAt": "2026-10-13T20:23:55.000Z"
     }
   ]
 }
