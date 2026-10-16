@@ -1,6 +1,6 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-10-15T16:04:54.853Z",
+  "fetchedAt": "2026-10-16T02:36:37.390Z",
   "items": [
     {
       "id": "2610.18434",
@@ -39,24 +39,6 @@
       "summary": "This paper develops strong Gaussian approximations (KMT type) for constant learning rate stochastic gradient descent (SGD). We work with heavy tailed noise and assume that the number of iterates grows…"
     },
     {
-      "id": "2610.12393",
-      "source": "arxiv",
-      "title": "HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling",
-      "url": "https://arxiv.org/abs/2610.12393",
-      "author": "Qun Dai, Liangjian Wen, Jiang Duan +7",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "Self-supervised multimodal representation learning has achieved remarkable success across diverse domains, yet capturing synergistic information remains challenging due to the complexity of cross-moda…"
-    },
-    {
-      "id": "2610.11030",
-      "source": "arxiv",
-      "title": "NOMOS: Compiling Written Policies into Statically Verified Tool-Call Gates for LLM Agents",
-      "url": "https://arxiv.org/abs/2610.11030",
-      "author": "Min-Young Yu, Tony Kim, Jang Won Choi",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "Tool-using LLM agents violate the policies they are deployed to enforce, often silently. Prior defenses hand-write rules, query an LLM verifier per action, or compile policies through heavyweight form…"
-    },
-    {
       "id": "2610.10080",
       "source": "arxiv",
       "title": "Sharp Asymptotic Theory of Maximum Likelihood Estimation for Gaussian Processes with an RBF Kernel",
@@ -93,15 +75,6 @@
       "summary": "Standard causal identification methods often assume no unmeasured confounding and can fail when relevant confounders are unobserved. Proximal causal inference instead uses proxy variables to identify…"
     },
     {
-      "id": "2610.08077",
-      "source": "arxiv",
-      "title": "Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight",
-      "url": "https://arxiv.org/abs/2610.08077",
-      "author": "Haoxiang Zhang, Qinglin Chen, Hiroaki Hayashi +9",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) turns agent experience into learning signals primarily through scalar outcome rewards after interaction. For group-relative objectives, however, t…"
-    },
-    {
       "id": "2610.03709",
       "source": "arxiv",
       "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
@@ -118,15 +91,6 @@
       "author": "Callum Lau, Jeremias Knoblauch, Louis Sharrock",
       "publishedAt": "2026-10-15T04:00:00.000Z",
       "summary": "Gaussian Processes (GPs) are a powerful tool for modelling and quantifying uncertainty in functional relationships. However, they require practitioners to make a number of design decisions, such as th…"
-    },
-    {
-      "id": "2610.02626",
-      "source": "arxiv",
-      "title": "Imagine the Future, Internalize the Gist: Efficient VLA Reasoning via Internalized Spatiotemporal Imagination",
-      "url": "https://arxiv.org/abs/2610.02626",
-      "author": "Shenglan Li, Zhendong Mi, Hengyi Zhu +6",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "Vision-language-action (VLA) models increasingly incorporate intermediate reasoning to improve robotic manipulation, yet existing approaches primarily reason about observed states without explicitly a…"
     },
     {
       "id": "2610.01738",
@@ -147,15 +111,6 @@
       "summary": "Many generative systems return multiple candidate responses and are evaluated according to the best one. Recent work shows that, when demonstrations are optimal, pass@$k$ can reduce the sample complex…"
     },
     {
-      "id": "2609.32429",
-      "source": "arxiv",
-      "title": "PrismQuant: Optimal Null-Space Rotations for Grouped Quantizers",
-      "url": "https://arxiv.org/abs/2609.32429",
-      "author": "Yanlong Chen, Yining Chen, Song Zhang +2",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "Smaller activation outliers do not necessarily imply better low-bit quantization: their alignment with the quantizer matters. We introduce PrismQuant, a quantizer-aware rotation framework that aligns…"
-    },
-    {
       "id": "2609.27043",
       "source": "arxiv",
       "title": "EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues",
@@ -163,33 +118,6 @@
       "author": "Julian Bernado, Ana Trindade Ribeiro, Xander Beberman +1",
       "publishedAt": "2026-10-15T04:00:00.000Z",
       "summary": "Large language models have enabled rapid deployment of language classification and analysis, allowing users to describe complex constructs in natural language, such as pedagogical moves or expressions…"
-    },
-    {
-      "id": "2608.27296",
-      "source": "arxiv",
-      "title": "LLMs Can Design Near-Optimal OR Algorithms",
-      "url": "https://arxiv.org/abs/2608.27296",
-      "author": "Jackie Baek",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "We ask whether large language models (LLMs) can design effective algorithms for well-specified operations research (OR) problems. We study inventory control, queueing network control, and assortment o…"
-    },
-    {
-      "id": "2608.14706",
-      "source": "arxiv",
-      "title": "Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning",
-      "url": "https://arxiv.org/abs/2608.14706",
-      "author": "Hansen Jin Lillemark, Alex Rojas, Zachary Novack +5",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "Standard autoregressive video generation algorithms based on Diffusion and Flow Matching rely on rigid training objectives and static sampling schedules, limiting inference procedures from adapting to…"
-    },
-    {
-      "id": "2608.10232",
-      "source": "arxiv",
-      "title": "FACT: Failure-Aware Causal Training for World-Action Models",
-      "url": "https://arxiv.org/abs/2608.10232",
-      "author": "Quanquan Peng, Yutong Liang, Rui Yan +2",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "Recent world-action models (WAMs) show that co-training policies with future prediction can provide physical priors for action generation. Building on the future-prediction ability of video models, ma…"
     },
     {
       "id": "2607.29606",
@@ -219,24 +147,6 @@
       "summary": "Forecasting multiple time-series with high-dimensional covariates presents a core challenge: unifying common temporal patterns while retaining meaningful series-specific information. We introduce Hopf…"
     },
     {
-      "id": "2607.13319",
-      "source": "arxiv",
-      "title": "Adapting Generalist Vehicle Models for High-Speed MPC Across Terrains",
-      "url": "https://arxiv.org/abs/2607.13319",
-      "author": "Rwik Rana, Jesse Quattrociocchi, Christian Ellis +3",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "High-speed off-road autonomy requires precise closed-loop control for a target vehicle while remaining robust across changing terrains. Recent forward kinodynamic (FKD) prediction foundation models su…"
-    },
-    {
-      "id": "2607.08093",
-      "source": "arxiv",
-      "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
-      "url": "https://arxiv.org/abs/2607.08093",
-      "author": "Andrej Leban, Theo Saarinen, Yuekai Sun",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "Large language models (LLMs) increasingly act as data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic causal rea…"
-    },
-    {
       "id": "2607.02417",
       "source": "arxiv",
       "title": "LIME: Learning Intent-aware Camera Motion from Egocentric Video",
@@ -244,15 +154,6 @@
       "author": "Boyang Sun, Jiajie Li, Yung-Hsu Yang +6",
       "publishedAt": "2026-10-15T04:00:00.000Z",
       "summary": "Autonomous robots often need to move their camera before they can act: to inspect an object, reveal an occluded region, or obtain a view that responds to a user's intent. While vision-language navigat…"
-    },
-    {
-      "id": "2606.29403",
-      "source": "arxiv",
-      "title": "Self-Organized Conformal Prediction: Reducing Regional Coverage Gaps with Unsupervised Group Discovery",
-      "url": "https://arxiv.org/abs/2606.29403",
-      "author": "Louis Berthier, Ahmed Shokry, Maxime Moreaud +2",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "Conformal prediction guarantees marginal coverage, but a pooled calibration quantile can hide systematic undercoverage across heterogeneous regions of the feature space. We introduce Self-Organized Co…"
     },
     {
       "id": "2606.22278",
@@ -264,13 +165,112 @@
       "summary": "Ensuring safety of learning-enabled robotic manipulation across diverse embodiments and tasks still requires significant manual engineering. For collision avoidance, existing approaches typically rely…"
     },
     {
-      "id": "2606.21139",
+      "id": "2606.16285",
       "source": "arxiv",
-      "title": "PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning",
-      "url": "https://arxiv.org/abs/2606.21139",
-      "author": "Youngjoon Jeong, Jihwan Yu, Minsoo Jo +2",
+      "title": "HiMPO: Hindsight-Informed Memory Policy Optimization for Less-Entangled Credit in Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2606.16285",
+      "author": "Jiangze Yan, Yi Shen, Wenjing Zhang +6",
       "publishedAt": "2026-10-15T04:00:00.000Z",
-      "summary": "Robot actions vary in both extent and mode: how much change they produce and what kind of change they produce. A latent action space that reflects this structure may make it easier for downstream poli…"
+      "summary": "Long-horizon agents compress interaction histories into memory, but final outcomes entangle memory-writing credit with tool failures and reasoning errors. We propose HiMPO, a Hindsight-Informed Memory…"
+    },
+    {
+      "id": "2605.31163",
+      "source": "arxiv",
+      "title": "Memory by Design: Bayesian Layers for Sequence Modeling",
+      "url": "https://arxiv.org/abs/2605.31163",
+      "author": "Matthew Dowling, Hyungju Jeon, Cristina Savin +1",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "summary": "We introduce the \\emph{design-model framework}: a way to derive efficient recurrent sequence maps from explicit assumptions about memory. A design model writes evidence into memory by exact Bayesian f…"
+    },
+    {
+      "id": "2605.22845",
+      "source": "arxiv",
+      "title": "A finite-element-inspired bipartite graph learned simulator for manufacturability assessment in large-deformation sheet forming",
+      "url": "https://arxiv.org/abs/2605.22845",
+      "author": "Yingxue Zhao, Haoran Li, Haosu Zhou +2",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "summary": "Explicit dynamic finite element (FE) simulations are widely used for large-deformation analysis but remain expensive for design-space exploration. In explicit FE analysis, nodal kinematics and element…"
+    },
+    {
+      "id": "2605.12461",
+      "source": "arxiv",
+      "title": "A proximal gradient algorithm for composite log-concave sampling",
+      "url": "https://arxiv.org/abs/2605.12461",
+      "author": "Linghai Liu, Sinho Chewi",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "summary": "We propose an algorithm to sample from composite log-concave distributions over $\\mathbb{R}^d$, i.e., densities of the form $\\pi\\propto e^{-f-g}$, assuming access to gradient evaluations of $\\alpha_f$…"
+    },
+    {
+      "id": "2605.07191",
+      "source": "arxiv",
+      "title": "Attention Transfer Is Not Universally Effective for Vision Transformers",
+      "url": "https://arxiv.org/abs/2605.07191",
+      "author": "Huaiyuan Qin, Muli Yang, Gabriel James Goenawan +4",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "summary": "A recent work shows that Attention Transfer, which transfers only the attention patterns from a pre-trained teacher Vision Transformer (ViT) to a randomly initialized standard student ViT, is sufficie…"
+    },
+    {
+      "id": "2604.26370",
+      "source": "arxiv",
+      "title": "Topology-Aware Representation Alignment for Semi-Supervised Vision-Language Learning",
+      "url": "https://arxiv.org/abs/2604.26370",
+      "author": "Junwon You, Mihyun Jang, Sangwoo Mo +1",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "summary": "Vision-language models have shown strong performance, but they often generalize poorly to specialized domains. While semi-supervised vision-language learning mitigates this limitation by leveraging a…"
+    },
+    {
+      "id": "2604.25572",
+      "source": "arxiv",
+      "title": "Dictionary learning for Kernel EDMD",
+      "url": "https://arxiv.org/abs/2604.25572",
+      "author": "Erik Lien Bolager, Boumediene Hamzi, Houman Owhadi +2",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "summary": "Studying nonlinear dynamical systems through their state space behavior can be challenging, and one possible alternative is to analyze them via their associated Koopman operator. This turns the nonlin…"
+    },
+    {
+      "id": "2604.17883",
+      "source": "arxiv",
+      "title": "Scaling Human-AI Coding Collaboration Requires a Governable Consensus Layer",
+      "url": "https://arxiv.org/abs/2604.17883",
+      "author": "Tianfu Wang, Zhezheng Hao, Yin Wu +7",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "summary": "Vibe coding turns natural-language intent into working software, but code generation alone does not give humans and agents a shared account of what they are building. As collaboration spans participan…"
+    },
+    {
+      "id": "2603.23305",
+      "source": "arxiv",
+      "title": "Sharp Statistical Thresholds for Attributed Gaussian Graph Matching",
+      "url": "https://arxiv.org/abs/2603.23305",
+      "author": "Mohammad Hassan Ahmad Yarandi, Luca Ganassali",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "summary": "We investigate the problem of matching networks where both edge weights and node features are correlated following a specific node correspondence. While prior work has established sharp thresholds for…"
+    },
+    {
+      "id": "2602.10326",
+      "source": "arxiv",
+      "title": "Flow Matching with Uncertainty Quantification and Guidance",
+      "url": "https://arxiv.org/abs/2602.10326",
+      "author": "Juyeop Han, Lukas Lao Beyer, Sertac Karaman",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "summary": "Despite the remarkable success of sampling-based generative models such as flow matching, they can still produce samples of inconsistent or degraded quality. To assess sample reliability and improve s…"
+    },
+    {
+      "id": "2602.08318",
+      "source": "arxiv",
+      "title": "Is Flow Matching Just Trajectory Replay for Sequential Data?",
+      "url": "https://arxiv.org/abs/2602.08318",
+      "author": "Soon Hoe Lim, Shizheng Lin, Michael W. Mahoney +1",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "summary": "Flow matching (FM) is increasingly used in scientific domains for time series generation and forecasting, where data often arise from underlying dynamical systems. However, it is not well-understood w…"
+    },
+    {
+      "id": "2601.20875",
+      "source": "arxiv",
+      "title": "Beyond Sustainable Development Goal (SDG) Accelerators: Directed Evidence for Adaptive Sustainability Portfolios",
+      "url": "https://arxiv.org/abs/2601.20875",
+      "author": "Md Muhtasim Munif Fahim, Md Jahid Hasan Imran, Md. Naim Molla +6",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "summary": "Governments and development partners often seek Sustainable Development Goal (SDG) \"accelerators\" whose progress can propagate gains across human well-being, institutions, resources, and environmental…"
     }
   ]
 }
