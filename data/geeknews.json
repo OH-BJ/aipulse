@@ -1,7 +1,133 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-10-17T02:29:09.174Z",
+  "fetchedAt": "2026-10-17T14:46:15.933Z",
   "items": [
+    {
+      "id": "35530",
+      "source": "geeknews",
+      "title": "Claude로 더 효율적인 양자 회로 설계하기",
+      "url": "https://news.hada.io/topic?id=35530",
+      "commentsUrl": "https://news.hada.io/topic?id=35530",
+      "author": "neo",
+      "publishedAt": "2026-10-17T14:38:47.000Z"
+    },
+    {
+      "id": "35529",
+      "source": "geeknews",
+      "title": "Show HN: Llmspeed - 하드웨어 구매 전에 로컬 LLM 실행 속도를 체감하기",
+      "url": "https://news.hada.io/topic?id=35529",
+      "commentsUrl": "https://news.hada.io/topic?id=35529",
+      "author": "neo",
+      "publishedAt": "2026-10-17T14:35:47.000Z"
+    },
+    {
+      "id": "35527",
+      "source": "geeknews",
+      "title": "Show GN: tidoly stow - Docker없이 간단하게 설치하여 사진을 보관하는 Immich 호환 개인 사진 서버",
+      "url": "https://news.hada.io/topic?id=35527",
+      "commentsUrl": "https://news.hada.io/topic?id=35527",
+      "author": "eunjay",
+      "publishedAt": "2026-10-17T13:42:52.000Z"
+    },
+    {
+      "id": "35526",
+      "source": "geeknews",
+      "title": "비정합성의 함정: AI 저질 콘텐츠가 끝없는 잡음 속에 신호를 묻어버릴 때",
+      "url": "https://news.hada.io/topic?id=35526",
+      "commentsUrl": "https://news.hada.io/topic?id=35526",
+      "author": "neo",
+      "publishedAt": "2026-10-17T12:05:48.000Z"
+    },
+    {
+      "id": "35525",
+      "source": "geeknews",
+      "title": "DeepSeek V4.1 Flash 1017 - CED 아키텍처와 네이티브 이미지 이해를 도입한 MoE 모델",
+      "url": "https://news.hada.io/topic?id=35525",
+      "commentsUrl": "https://news.hada.io/topic?id=35525",
+      "author": "neo",
+      "publishedAt": "2026-10-17T11:32:19.000Z"
+    },
+    {
+      "id": "35524",
+      "source": "geeknews",
+      "title": "DeepSeek-V4.1-Flash-1017 - 추론, 코딩, 에이전트 및 시각 벤치마크 성능을 개선한 모델 업데이트",
+      "url": "https://news.hada.io/topic?id=35524",
+      "commentsUrl": "https://news.hada.io/topic?id=35524",
+      "author": "neo",
+      "publishedAt": "2026-10-17T10:31:48.000Z"
+    },
+    {
+      "id": "35523",
+      "source": "geeknews",
+      "title": "Show GN: CarTroller - 웹캠 손 인식으로 운전하는 브라우저 RC카 게임",
+      "url": "https://news.hada.io/topic?id=35523",
+      "commentsUrl": "https://news.hada.io/topic?id=35523",
+      "author": "geox5527",
+      "publishedAt": "2026-10-17T10:26:41.000Z"
+    },
+    {
+      "id": "35520",
+      "source": "geeknews",
+      "title": "ImageMagick으로 88x31 버튼에 책 담기",
+      "url": "https://news.hada.io/topic?id=35520",
+      "commentsUrl": "https://news.hada.io/topic?id=35520",
+      "author": "neo",
+      "publishedAt": "2026-10-17T07:01:32.000Z"
+    },
+    {
+      "id": "35519",
+      "source": "geeknews",
+      "title": "Ultramarine 1 Flash - 금융, 법률, 컨설팅, 운영 실무용 오픈 모델",
+      "url": "https://news.hada.io/topic?id=35519",
+      "commentsUrl": "https://news.hada.io/topic?id=35519",
+      "author": "neo",
+      "publishedAt": "2026-10-17T06:31:35.000Z"
+    },
+    {
+      "id": "35518",
+      "source": "geeknews",
+      "title": "버틀레리안 지하드",
+      "url": "https://news.hada.io/topic?id=35518",
+      "commentsUrl": "https://news.hada.io/topic?id=35518",
+      "author": "neo",
+      "publishedAt": "2026-10-17T05:36:57.000Z"
+    },
+    {
+      "id": "35517",
+      "source": "geeknews",
+      "title": "FLUX 3 Image Klein - 56억 파라미터의 오픈 웨이트 이미지 생성/편집 모델",
+      "url": "https://news.hada.io/topic?id=35517",
+      "commentsUrl": "https://news.hada.io/topic?id=35517",
+      "author": "neo",
+      "publishedAt": "2026-10-17T05:33:57.000Z"
+    },
+    {
+      "id": "35516",
+      "source": "geeknews",
+      "title": "메모리 벤치마크 점수 믿어도 되나",
+      "url": "https://news.hada.io/topic?id=35516",
+      "commentsUrl": "https://news.hada.io/topic?id=35516",
+      "author": "axis0",
+      "publishedAt": "2026-10-17T05:15:58.000Z"
+    },
+    {
+      "id": "35514",
+      "source": "geeknews",
+      "title": "Dekton은 도대체 무엇인가?",
+      "url": "https://news.hada.io/topic?id=35514",
+      "commentsUrl": "https://news.hada.io/topic?id=35514",
+      "author": "neo",
+      "publishedAt": "2026-10-17T03:33:27.000Z"
+    },
+    {
+      "id": "35513",
+      "source": "geeknews",
+      "title": "/dev/null: 개발자를 위한 소셜 네트워크",
+      "url": "https://news.hada.io/topic?id=35513",
+      "commentsUrl": "https://news.hada.io/topic?id=35513",
+      "author": "neo",
+      "publishedAt": "2026-10-17T02:31:22.000Z"
+    },
     {
       "id": "35512",
       "source": "geeknews",
@@ -145,132 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=35494",
       "author": "neo",
       "publishedAt": "2026-10-16T21:40:14.000Z"
-    },
-    {
-      "id": "35493",
-      "source": "geeknews",
-      "title": "Show HN: Flipflop - Iroh 기반 파일 공유용 지속형 터널",
-      "url": "https://news.hada.io/topic?id=35493",
-      "commentsUrl": "https://news.hada.io/topic?id=35493",
-      "author": "neo",
-      "publishedAt": "2026-10-16T21:37:14.000Z"
-    },
-    {
-      "id": "35492",
-      "source": "geeknews",
-      "title": "Anthropic, 6월에 투기등급 중 가장 높은 신용등급 받아",
-      "url": "https://news.hada.io/topic?id=35492",
-      "commentsUrl": "https://news.hada.io/topic?id=35492",
-      "author": "neo",
-      "publishedAt": "2026-10-16T21:34:14.000Z"
-    },
-    {
-      "id": "35491",
-      "source": "geeknews",
-      "title": "Big Fish: OpenBSD의 37년 된 커널 버그 악용하기",
-      "url": "https://news.hada.io/topic?id=35491",
-      "commentsUrl": "https://news.hada.io/topic?id=35491",
-      "author": "neo",
-      "publishedAt": "2026-10-16T20:45:12.000Z"
-    },
-    {
-      "id": "35490",
-      "source": "geeknews",
-      "title": "Waymo, 토론토에 자율주행 차량 호출 서비스 진출 준비",
-      "url": "https://news.hada.io/topic?id=35490",
-      "commentsUrl": "https://news.hada.io/topic?id=35490",
-      "author": "neo",
-      "publishedAt": "2026-10-16T20:42:12.000Z"
-    },
-    {
-      "id": "35489",
-      "source": "geeknews",
-      "title": "Claude, 25년간 풀리지 않았던 NIST 타원곡선 암호 시드의 출처 규명",
-      "url": "https://news.hada.io/topic?id=35489",
-      "commentsUrl": "https://news.hada.io/topic?id=35489",
-      "author": "neo",
-      "publishedAt": "2026-10-16T20:39:12.000Z"
-    },
-    {
-      "id": "35488",
-      "source": "geeknews",
-      "title": "Postgres 19 출시 지연, AI 리뷰가 사람이 고칠 수 있는 양보다 많은 버그를 발견",
-      "url": "https://news.hada.io/topic?id=35488",
-      "commentsUrl": "https://news.hada.io/topic?id=35488",
-      "author": "neo",
-      "publishedAt": "2026-10-16T19:43:19.000Z"
-    },
-    {
-      "id": "35487",
-      "source": "geeknews",
-      "title": "Show HN: Gemini 4 Argon이 StarCraft를 플레이하다",
-      "url": "https://news.hada.io/topic?id=35487",
-      "commentsUrl": "https://news.hada.io/topic?id=35487",
-      "author": "neo",
-      "publishedAt": "2026-10-16T19:40:19.000Z"
-    },
-    {
-      "id": "35486",
-      "source": "geeknews",
-      "title": "미국 하원의원, 비디오게임 소유권 보호 법안 발의 계획 발표",
-      "url": "https://news.hada.io/topic?id=35486",
-      "commentsUrl": "https://news.hada.io/topic?id=35486",
-      "author": "neo",
-      "publishedAt": "2026-10-16T19:37:19.000Z"
-    },
-    {
-      "id": "35485",
-      "source": "geeknews",
-      "title": "미국 근로시간의 90%는 AI 벤치마크가 충분히 다루지 못하는 업무에 쓰임",
-      "url": "https://news.hada.io/topic?id=35485",
-      "commentsUrl": "https://news.hada.io/topic?id=35485",
-      "author": "neo",
-      "publishedAt": "2026-10-16T18:38:52.000Z"
-    },
-    {
-      "id": "35484",
-      "source": "geeknews",
-      "title": "미국 영구 이주 선호도, 역대 최저 기록",
-      "url": "https://news.hada.io/topic?id=35484",
-      "commentsUrl": "https://news.hada.io/topic?id=35484",
-      "author": "neo",
-      "publishedAt": "2026-10-16T18:35:52.000Z"
-    },
-    {
-      "id": "35483",
-      "source": "geeknews",
-      "title": "MLX로 Mac Studio 여러 대에서 대형 AI 모델 실행하기",
-      "url": "https://news.hada.io/topic?id=35483",
-      "commentsUrl": "https://news.hada.io/topic?id=35483",
-      "author": "neo",
-      "publishedAt": "2026-10-16T17:39:30.000Z"
-    },
-    {
-      "id": "35482",
-      "source": "geeknews",
-      "title": "C++26 Contracts: 사전조건과 사후조건 입문",
-      "url": "https://news.hada.io/topic?id=35482",
-      "commentsUrl": "https://news.hada.io/topic?id=35482",
-      "author": "neo",
-      "publishedAt": "2026-10-16T17:36:30.000Z"
-    },
-    {
-      "id": "35481",
-      "source": "geeknews",
-      "title": "Epic의 EAC2 v2는 꽤 쉽게 우회할 수 있어 보임",
-      "url": "https://news.hada.io/topic?id=35481",
-      "commentsUrl": "https://news.hada.io/topic?id=35481",
-      "author": "neo",
-      "publishedAt": "2026-10-16T17:01:36.000Z"
-    },
-    {
-      "id": "35480",
-      "source": "geeknews",
-      "title": "Folders - 폴더의 포함 관계와 순서로 코드를 표현하는 프로그래밍 언어",
-      "url": "https://news.hada.io/topic?id=35480",
-      "commentsUrl": "https://news.hada.io/topic?id=35480",
-      "author": "neo",
-      "publishedAt": "2026-10-16T16:37:07.000Z"
     }
   ]
 }

@@ -1,13 +1,43 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-17T02:29:08.659Z",
+  "fetchedAt": "2026-10-17T14:46:15.054Z",
   "items": [
+    {
+      "id": "50129121",
+      "source": "hn",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "score": 401,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50129121",
+      "author": "theanonymousone",
+      "publishedAt": "2026-10-17T08:37:46.000Z"
+    },
+    {
+      "id": "50127979",
+      "source": "hn",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "score": 160,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50127979",
+      "author": "albinstman",
+      "publishedAt": "2026-10-17T04:36:53.000Z"
+    },
+    {
+      "id": "50129045",
+      "source": "hn",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 302,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50129045",
+      "author": "theykk",
+      "publishedAt": "2026-10-17T08:21:25.000Z"
+    },
     {
       "id": "50122431",
       "source": "hn",
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
-      "score": 209,
+      "score": 325,
       "commentsUrl": "https://news.ycombinator.com/item?id=50122431",
       "author": "Anon84",
       "publishedAt": "2026-10-16T18:32:35.000Z"
@@ -17,7 +47,7 @@
       "source": "hn",
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 701,
+      "score": 942,
       "commentsUrl": "https://news.ycombinator.com/item?id=50122800",
       "author": "ahlCVA",
       "publishedAt": "2026-10-16T18:55:59.000Z"
@@ -27,67 +57,67 @@
       "source": "hn",
       "title": "Designing more efficient quantum circuits with Claude",
       "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "score": 105,
+      "score": 158,
       "commentsUrl": "https://news.ycombinator.com/item?id=50121939",
       "author": "pretext",
       "publishedAt": "2026-10-16T18:00:18.000Z"
-    },
-    {
-      "id": "50122951",
-      "source": "hn",
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "score": 250,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50122951",
-      "author": "pretext",
-      "publishedAt": "2026-10-16T19:04:47.000Z"
     },
     {
       "id": "50121179",
       "source": "hn",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "score": 413,
+      "score": 552,
       "commentsUrl": "https://news.ycombinator.com/item?id=50121179",
       "author": "speckx",
       "publishedAt": "2026-10-16T17:08:38.000Z"
+    },
+    {
+      "id": "50122951",
+      "source": "hn",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "score": 410,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50122951",
+      "author": "pretext",
+      "publishedAt": "2026-10-16T19:04:47.000Z"
     },
     {
       "id": "50118688",
       "source": "hn",
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
       "url": "https://starskirmish.com/bench/v0-2/",
-      "score": 190,
+      "score": 232,
       "commentsUrl": "https://news.ycombinator.com/item?id=50118688",
       "author": "__cayenne__",
       "publishedAt": "2026-10-16T14:18:44.000Z"
-    },
-    {
-      "id": "50122112",
-      "source": "hn",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "score": 219,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50122112",
-      "author": "JumpCrisscross",
-      "publishedAt": "2026-10-16T18:11:42.000Z"
     },
     {
       "id": "50085553",
       "source": "hn",
       "title": "AI-assisted PCB design for KiCad 10",
       "url": "https://github.com/mixelpixx/Konnect",
-      "score": 128,
+      "score": 135,
       "commentsUrl": "https://news.ycombinator.com/item?id=50085553",
       "author": "ofrzeta",
       "publishedAt": "2026-10-14T10:51:37.000Z"
+    },
+    {
+      "id": "50122112",
+      "source": "hn",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "score": 270,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50122112",
+      "author": "JumpCrisscross",
+      "publishedAt": "2026-10-16T18:11:42.000Z"
     },
     {
       "id": "50118876",
       "source": "hn",
       "title": "Show HN: rStation – A shared research lab for your AI agents",
       "url": "https://rstation.ai/",
-      "score": 50,
+      "score": 53,
       "commentsUrl": "https://news.ycombinator.com/item?id=50118876",
       "author": "stephenchung",
       "publishedAt": "2026-10-16T14:35:43.000Z"
@@ -97,40 +127,10 @@
       "source": "hn",
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "score": 180,
+      "score": 202,
       "commentsUrl": "https://news.ycombinator.com/item?id=50119991",
       "author": "magoghm",
       "publishedAt": "2026-10-16T15:55:40.000Z"
-    },
-    {
-      "id": "50126802",
-      "source": "hn",
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50126802",
-      "author": "wondersky",
-      "publishedAt": "2026-10-17T01:05:28.000Z"
-    },
-    {
-      "id": "50122767",
-      "source": "hn",
-      "title": "Show HN: Weatherdeck – a read-only status board for AI coding agent lanes",
-      "url": "https://github.com/Moshik21/weatherdeck",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50122767",
-      "author": "Konnerm",
-      "publishedAt": "2026-10-16T18:54:22.000Z"
-    },
-    {
-      "id": "50122324",
-      "source": "hn",
-      "title": "Show HN: Camera Controls and Motion for AI Video Prompts",
-      "url": "https://www.kapwing.com/ai/prompt-generator/camera",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50122324",
-      "author": "jenthoven",
-      "publishedAt": "2026-10-16T18:25:51.000Z"
     }
   ]
 }
