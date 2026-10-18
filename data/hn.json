@@ -1,73 +1,83 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-17T14:46:15.054Z",
+  "fetchedAt": "2026-10-18T02:29:20.014Z",
   "items": [
     {
-      "id": "50129121",
+      "id": "50129045",
       "source": "hn",
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "score": 401,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50129121",
-      "author": "theanonymousone",
-      "publishedAt": "2026-10-17T08:37:46.000Z"
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 715,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50129045",
+      "author": "theykk",
+      "publishedAt": "2026-10-17T08:21:25.000Z"
     },
     {
       "id": "50127979",
       "source": "hn",
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
-      "score": 160,
+      "score": 256,
       "commentsUrl": "https://news.ycombinator.com/item?id=50127979",
       "author": "albinstman",
       "publishedAt": "2026-10-17T04:36:53.000Z"
     },
     {
-      "id": "50129045",
+      "id": "50134211",
       "source": "hn",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 302,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50129045",
-      "author": "theykk",
-      "publishedAt": "2026-10-17T08:21:25.000Z"
-    },
-    {
-      "id": "50122431",
-      "source": "hn",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "score": 325,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50122431",
-      "author": "Anon84",
-      "publishedAt": "2026-10-16T18:32:35.000Z"
+      "title": "The math that OpenAI keeps for itself",
+      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50134211",
+      "author": "dpaleka",
+      "publishedAt": "2026-10-17T19:22:52.000Z"
     },
     {
       "id": "50122800",
       "source": "hn",
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 942,
+      "score": 1024,
       "commentsUrl": "https://news.ycombinator.com/item?id=50122800",
       "author": "ahlCVA",
       "publishedAt": "2026-10-16T18:55:59.000Z"
+    },
+    {
+      "id": "50136124",
+      "source": "hn",
+      "title": "Abolish AI Manifesto",
+      "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50136124",
+      "author": "drpixie",
+      "publishedAt": "2026-10-17T23:23:46.000Z"
     },
     {
       "id": "50121939",
       "source": "hn",
       "title": "Designing more efficient quantum circuits with Claude",
       "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "score": 158,
+      "score": 172,
       "commentsUrl": "https://news.ycombinator.com/item?id=50121939",
       "author": "pretext",
       "publishedAt": "2026-10-16T18:00:18.000Z"
+    },
+    {
+      "id": "50133559",
+      "source": "hn",
+      "title": "Show HN: Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+      "url": "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50133559",
+      "author": "agenticbotbot",
+      "publishedAt": "2026-10-17T18:16:03.000Z"
     },
     {
       "id": "50121179",
       "source": "hn",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "score": 552,
+      "score": 599,
       "commentsUrl": "https://news.ycombinator.com/item?id=50121179",
       "author": "speckx",
       "publishedAt": "2026-10-16T17:08:38.000Z"
@@ -77,60 +87,50 @@
       "source": "hn",
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "score": 410,
+      "score": 456,
       "commentsUrl": "https://news.ycombinator.com/item?id=50122951",
       "author": "pretext",
       "publishedAt": "2026-10-16T19:04:47.000Z"
+    },
+    {
+      "id": "50122431",
+      "source": "hn",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 367,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50122431",
+      "author": "Anon84",
+      "publishedAt": "2026-10-16T18:32:35.000Z"
     },
     {
       "id": "50118688",
       "source": "hn",
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
       "url": "https://starskirmish.com/bench/v0-2/",
-      "score": 232,
+      "score": 242,
       "commentsUrl": "https://news.ycombinator.com/item?id=50118688",
       "author": "__cayenne__",
       "publishedAt": "2026-10-16T14:18:44.000Z"
+    },
+    {
+      "id": "50132278",
+      "source": "hn",
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "score": 149,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50132278",
+      "author": "DeepLogin",
+      "publishedAt": "2026-10-17T16:04:23.000Z"
     },
     {
       "id": "50085553",
       "source": "hn",
       "title": "AI-assisted PCB design for KiCad 10",
       "url": "https://github.com/mixelpixx/Konnect",
-      "score": 135,
+      "score": 142,
       "commentsUrl": "https://news.ycombinator.com/item?id=50085553",
       "author": "ofrzeta",
       "publishedAt": "2026-10-14T10:51:37.000Z"
-    },
-    {
-      "id": "50122112",
-      "source": "hn",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "score": 270,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50122112",
-      "author": "JumpCrisscross",
-      "publishedAt": "2026-10-16T18:11:42.000Z"
-    },
-    {
-      "id": "50118876",
-      "source": "hn",
-      "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "url": "https://rstation.ai/",
-      "score": 53,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50118876",
-      "author": "stephenchung",
-      "publishedAt": "2026-10-16T14:35:43.000Z"
-    },
-    {
-      "id": "50119991",
-      "source": "hn",
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "score": 202,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50119991",
-      "author": "magoghm",
-      "publishedAt": "2026-10-16T15:55:40.000Z"
     }
   ]
 }
