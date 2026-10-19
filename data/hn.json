@@ -1,13 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-19T02:43:22.282Z",
+  "fetchedAt": "2026-10-19T18:06:26.877Z",
   "items": [
+    {
+      "id": "50150434",
+      "source": "hn",
+      "title": "Timestral: Mistral's time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "score": 398,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50150434",
+      "author": "groar",
+      "publishedAt": "2026-10-19T09:59:32.000Z"
+    },
+    {
+      "id": "50151376",
+      "source": "hn",
+      "title": "The obscure trust looming over Anthropic's IPO",
+      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+      "score": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50151376",
+      "author": "1vuio0pswjnm7",
+      "publishedAt": "2026-10-19T12:06:03.000Z"
+    },
+    {
+      "id": "50153630",
+      "source": "hn",
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "score": 201,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50153630",
+      "author": "kensai",
+      "publishedAt": "2026-10-19T15:28:24.000Z"
+    },
+    {
+      "id": "50151928",
+      "source": "hn",
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "score": 130,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50151928",
+      "author": "erikkannike",
+      "publishedAt": "2026-10-19T13:00:47.000Z"
+    },
     {
       "id": "50145337",
       "source": "hn",
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
-      "score": 237,
+      "score": 497,
       "commentsUrl": "https://news.ycombinator.com/item?id=50145337",
       "author": "allinonai",
       "publishedAt": "2026-10-18T20:48:14.000Z"
@@ -17,70 +57,100 @@
       "source": "hn",
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "score": 48,
+      "score": 281,
       "commentsUrl": "https://news.ycombinator.com/item?id=50145507",
       "author": "amrrs",
       "publishedAt": "2026-10-18T21:09:12.000Z"
     },
     {
-      "id": "50137950",
+      "id": "50148855",
       "source": "hn",
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "score": 242,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50137950",
-      "author": "critiquebrowser",
-      "publishedAt": "2026-10-18T04:33:49.000Z"
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "score": 135,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50148855",
+      "author": "ankitg12",
+      "publishedAt": "2026-10-19T05:55:31.000Z"
+    },
+    {
+      "id": "50152877",
+      "source": "hn",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "score": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50152877",
+      "author": "dkobia",
+      "publishedAt": "2026-10-19T14:23:17.000Z"
+    },
+    {
+      "id": "50154244",
+      "source": "hn",
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "url": "https://public-inspection.federalregister.gov/2026-21447.pdf",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50154244",
+      "author": "cmrdporcupine",
+      "publishedAt": "2026-10-19T16:16:46.000Z"
     },
     {
       "id": "50138531",
       "source": "hn",
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
-      "score": 555,
+      "score": 594,
       "commentsUrl": "https://news.ycombinator.com/item?id=50138531",
       "author": "fagnerbrack",
       "publishedAt": "2026-10-18T06:50:36.000Z"
     },
     {
-      "id": "50147371",
+      "id": "50154587",
       "source": "hn",
-      "title": "AI Agents Trading Stocks While You Sleep? Charles Schwab's CEO Is Skeptical",
-      "url": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50147371",
-      "author": "bcaulfield",
-      "publishedAt": "2026-10-19T01:37:48.000Z"
+      "title": "Software is eating the world; AI is eating software – so what's next?",
+      "url": "https://medium.com/@theopriestley/software-is-eating-the-world-ai-is-eating-software-so-whats-next-706a4d3fdaf6",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50154587",
+      "author": "judgementday",
+      "publishedAt": "2026-10-19T16:42:10.000Z"
     },
     {
-      "id": "50147256",
+      "id": "50140462",
       "source": "hn",
-      "title": "Will major-party U.S. presidential candidate deploy AI clone to talk to voters?",
-      "url": "https://manifold.markets/BrunoClawfeld/will-a-majorparty-us-presidential-c",
-      "score": 3,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50147256",
-      "author": "bcaulfield",
-      "publishedAt": "2026-10-19T01:21:56.000Z"
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "score": 97,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50140462",
+      "author": "DeepLogin",
+      "publishedAt": "2026-10-18T12:22:58.000Z"
+    },
+    {
+      "id": "50148452",
+      "source": "hn",
+      "title": "DeepSeek V4.1 Flash 1017 (Max)",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "score": 181,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50148452",
+      "author": "theanonymousone",
+      "publishedAt": "2026-10-19T04:41:46.000Z"
+    },
+    {
+      "id": "50139873",
+      "source": "hn",
+      "title": "How employment is changing at Anthropic",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "score": 144,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50139873",
+      "author": "theanonymousone",
+      "publishedAt": "2026-10-18T10:49:26.000Z"
     },
     {
       "id": "50129045",
       "source": "hn",
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 937,
+      "score": 950,
       "commentsUrl": "https://news.ycombinator.com/item?id=50129045",
       "author": "theykk",
       "publishedAt": "2026-10-17T08:21:25.000Z"
-    },
-    {
-      "id": "50122800",
-      "source": "hn",
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 1051,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50122800",
-      "author": "ahlCVA",
-      "publishedAt": "2026-10-16T18:55:59.000Z"
     }
   ]
 }

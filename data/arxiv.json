@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-10-19T02:43:22.214Z",
-  "items": []
+  "fetchedAt": "2026-10-19T18:06:26.774Z",
+  "items": [
+    {
+      "id": "2610.22050",
+      "source": "arxiv",
+      "title": "Missed Detections and False Alarms in a CNN Technosignature Detector on Breakthrough Listen Data",
+      "url": "https://arxiv.org/abs/2610.22050",
+      "author": "Omer Imran",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Radio technosignature searches rely on machine learning detectors to shrink the candidate pool before a human looks at it. They are validated on held-out data from the training distribution, which exc…"
+    },
+    {
+      "id": "2610.21433",
+      "source": "arxiv",
+      "title": "ManiFusion: Unlocking the High-Throughput Generation via Superposition in Manifold Space",
+      "url": "https://arxiv.org/abs/2610.21433",
+      "author": "Minkyu Kim, Baekseung Kim, Junhoo Lee +2",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Diffusion models achieve high-quality image generation but remain computationally expensive due to iterative denoising across many timesteps. Existing acceleration methods mainly reduce per-sample lat…"
+    },
+    {
+      "id": "2610.20860",
+      "source": "arxiv",
+      "title": "Time-partitioning Gaussian Process Mixture Model",
+      "url": "https://arxiv.org/abs/2610.20860",
+      "author": "Guilherme Piantino, Hedibert F. Lopes",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Nonstationarity and heterogeneous dynamics are common in financial and macroeconomic time series. Volatility alternates between calm and turbulent regimes, interest rates follow monetary-policy cycles…"
+    },
+    {
+      "id": "2610.20668",
+      "source": "arxiv",
+      "title": "CascadeLedger: Counterfactual Auditing of Information and Resource Integrity in LLM Cascades",
+      "url": "https://arxiv.org/abs/2610.20668",
+      "author": "Miaobo Hu, Shuhao Hu, Xiaobo Guo +3",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "We introduce CascadeLedger, a counterfactual execution-audit framework for budgeted language-model cascades. The protocol enforces call-before-read semantics, binds successful reads to service and cac…"
+    },
+    {
+      "id": "2610.20532",
+      "source": "arxiv",
+      "title": "ActiveEvidence: Decision-Focused Evidence Graphs with Verifiable Acquisition Gaps",
+      "url": "https://arxiv.org/abs/2610.20532",
+      "author": "Miaobo Hu, Shuhao Hu, Xiaobo Guo +4",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "A multimodal agent must decide whether visual evidence is worth acquiring, which candidate or resolution to query, and when further interaction can no longer change its decision. We study this problem…"
+    },
+    {
+      "id": "2610.20473",
+      "source": "arxiv",
+      "title": "SafeAdapt-Poker: Counterfactual Risk Calibration for Budgeted Adaptation under Opponent Shift",
+      "url": "https://arxiv.org/abs/2610.20473",
+      "author": "Miaobo Hu, Shuhao Hu, Xiaobo Guo +4",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Opponent histories can mislead after behavioral shifts. SafeAdapt-Poker formulates budgeted adaptation under opponent shift as a dual-counterfactual sequential-control problem using only information a…"
+    },
+    {
+      "id": "2610.20375",
+      "source": "arxiv",
+      "title": "Hypothesis Selection via Weighted Medians",
+      "url": "https://arxiv.org/abs/2610.20375",
+      "author": "Liang-Yu Zou",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Given $n$ distributions (hypotheses) $\\mathcal H=\\{H_1,\\ldots,H_n\\}$ and samples from an unknown target distribution $P$, proper hypothesis selection seeks a distribution whose total variation distanc…"
+    },
+    {
+      "id": "2610.20162",
+      "source": "arxiv",
+      "title": "Gap Detection: Mitigating Homogenization through Demand and Defensibility",
+      "url": "https://arxiv.org/abs/2610.20162",
+      "author": "Xucheng Yu, Haibo Jin, Xiaoqi Wang +2",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Language models often produce semantically similar answers to open-ended questions, even when many plausible alternatives exist. Generating useful alternatives requires identifying both what the query…"
+    },
+    {
+      "id": "2610.15006",
+      "source": "arxiv",
+      "title": "DisCo Algebra: Why Disintegration and Combination Are Not Inverses",
+      "url": "https://arxiv.org/abs/2610.15006",
+      "author": "Xuexing Lu",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "We present DisCo algebra---a compositional framework for joint probability built from a symmetric cooperad (disintegration) and a non-unital partial symmetric operad (combination restricted to the ima…"
+    },
+    {
+      "id": "2610.14873",
+      "source": "arxiv",
+      "title": "Dependency Reasoning for Aspect Sentiment Quadruple Prediction",
+      "url": "https://arxiv.org/abs/2610.14873",
+      "author": "Shima Esfandyari, Seywan Soleymanbaigi, Fardin Akhlaghian Tab +2",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Aspect Sentiment Quadruple Prediction (ASQP) is fundamentally a relational reasoning problem: identifying aspect-opinion-category-sentiment quadruples requires modeling structured dependencies, not me…"
+    },
+    {
+      "id": "2610.13764",
+      "source": "arxiv",
+      "title": "How Well Do Prior-Data Fitted Networks Amortize Bayesian Inference?",
+      "url": "https://arxiv.org/abs/2610.13764",
+      "author": "Manuel H\\\"ulskamp, Julius Kobialka, Emanuel Sommer +2",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Prior-data fitted networks (PFNs) are trained to approximate the Bayesian posterior predictive distribution (PPD) of a synthetic prior, yet results about the approximation quality are surprisingly thi…"
+    },
+    {
+      "id": "2610.10600",
+      "source": "arxiv",
+      "title": "The optimal information complexity of VC learning",
+      "url": "https://arxiv.org/abs/2610.10600",
+      "author": "Steve Hanneke, Juexiao Wang",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Steinke and Zakynthinou(2020) introduces the Conditional Mutual Information (CMI) framework of analyzing the information complexity of learning algorithms based on algorithm-dependent information-theo…"
+    },
+    {
+      "id": "2610.10080",
+      "source": "arxiv",
+      "title": "Sharp Asymptotic Theory of Maximum Likelihood Estimation for Gaussian Processes with an RBF Kernel",
+      "url": "https://arxiv.org/abs/2610.10080",
+      "author": "Ameer Qaqish, Sudipto Banerjee, Didong Li",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Gaussian processes (GPs) are widely used across machine learning, spatial statistics, time-series analysis, optimization, Bayesian statistics, and scientific applications. A central component of a GP…"
+    },
+    {
+      "id": "2610.06617",
+      "source": "arxiv",
+      "title": "RealtimeWAM: One-Step Asynchronous World Action Models",
+      "url": "https://arxiv.org/abs/2610.06617",
+      "author": "Chengtao Lv, Jinyang Du, Shuyi Feng +7",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co…"
+    },
+    {
+      "id": "2610.03827",
+      "source": "arxiv",
+      "title": "The Score Is Not the Structure: Brain Alignment and Cross-Lingual Transfer",
+      "url": "https://arxiv.org/abs/2610.03827",
+      "author": "Saman Rahbar",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Similarity scores are often offered as evidence that a model shares structure with the brain or across languages. We ask what such a score reads when that structure is removed, or when the instrument…"
+    },
+    {
+      "id": "2610.02828",
+      "source": "arxiv",
+      "title": "FSPO: Policy-Consistent Risk and Pareto-Feasible Control for Budgeted LLM RL Post-Training",
+      "url": "https://arxiv.org/abs/2610.02828",
+      "author": "Miaobo Hu, Shuhao Hu, Xiaobo Guo +3",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Adaptive LLM reinforcement-learning post-training changes multiple training actuators online, including rollout temperature, group size, clipping, KL regularization, verifier allocation, and update bu…"
+    },
+    {
+      "id": "2610.02808",
+      "source": "arxiv",
+      "title": "ROUTEAUDIT: Interaction-Aware Identification for Budgeted Multi-Verifier Routing",
+      "url": "https://arxiv.org/abs/2610.02808",
+      "author": "Miaobo Hu, Shuhao Hu, Xiaobo Guo +4",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Adaptive multi-verifier systems are commonly compared through endpoint quality-cost gaps, even when the verifier catalog, availability, accounting, information filtration, or scorer changes with the p…"
+    },
+    {
+      "id": "2610.00416",
+      "source": "arxiv",
+      "title": "Benchmarking Prompt Optimization of Large Language Models With Chess",
+      "url": "https://arxiv.org/abs/2610.00416",
+      "author": "Timoth\\'ee Lesort, Alejandra L\\'opez de Aberasturi G\\'omez, Tristan Karch +4",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Evaluating large language models becomes increasingly challenging as their capabilities advance: benchmarks can saturate, public test sets risk contamination, and assessing harder tasks can require ex…"
+    },
+    {
+      "id": "2610.00328",
+      "source": "arxiv",
+      "title": "ContractRL: Shielded Group-Relative Policy Optimization for Auditable Tool-Call Repair",
+      "url": "https://arxiv.org/abs/2610.00328",
+      "author": "Miaobo Hu, Shuhao Hu, Xiaobo Guo +4",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Structured tool calls often fail after only a small number of fields violate a schema or an execution contract. Regenerating the complete object enlarges the action surface and makes repeated repair d…"
+    },
+    {
+      "id": "2610.00327",
+      "source": "arxiv",
+      "title": "Actions with Receipts: Jointly Binding Claims, Evidence, and Execution for Replayable Tool-Agent Auditing",
+      "url": "https://arxiv.org/abs/2610.00327",
+      "author": "Miaobo Hu, Shuhao Hu, Xiaobo Guo +4",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Tool-using agents can expose citations and execution logs while leaving a critical association unaudited: whether the claim shown to a user is the claim emitted by the committed execution and supporte…"
+    },
+    {
+      "id": "2609.39601",
+      "source": "arxiv",
+      "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
+      "url": "https://arxiv.org/abs/2609.39601",
+      "author": "Qize Yu, Lianrui Fan, Boyu Chen +23",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Precise grounding matters. It specifies which object is the target and where that object is, even in clutter and for tiny objects, and it has to be fast enough for closed-loop control. Yet vision-lang…"
+    },
+    {
+      "id": "2609.39600",
+      "source": "arxiv",
+      "title": "GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed",
+      "url": "https://arxiv.org/abs/2609.39600",
+      "author": "Qize Yu, Lianrui Fan, Bowen Ping +19",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Autoregressive (AR) grounding models serialize spatial predictions, introducing sequential latency and imposing a causal order on output tokens. We view grounding as visual evidence extraction: object…"
+    },
+    {
+      "id": "2609.35473",
+      "source": "arxiv",
+      "title": "Handwritten Text Recognition Lives in the High-Pixel Variance Subspace",
+      "url": "https://arxiv.org/abs/2609.35473",
+      "author": "Carlos Garrido-Munoz, Jorge Calvo-Zaragoza",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "In self-supervised pretraining for Handwritten Text Recognition (HTR), pixel reconstruction methods outperform contrastive methods, unlike in natural-image classification. We argue that this differenc…"
+    },
+    {
+      "id": "2609.33669",
+      "source": "arxiv",
+      "title": "RSD-Poker: Structure-Adaptive and Shift-Robust Risk-Utility Certification for Residual Policies in Imperfect-Information Games",
+      "url": "https://arxiv.org/abs/2609.33669",
+      "author": "Miaobo Hu, Shuhao Hu, Xiaobo Guo +4",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Residual policy adaptation provides a lightweight way to modify a strong reference policy, but a shared scale and a fixed subgroup partition can hide heterogeneous degradation and become fragile when…"
+    },
+    {
+      "id": "2609.33662",
+      "source": "arxiv",
+      "title": "Audit-First VAPO: Risk-Certified Selective Updates under Imperfect Verification",
+      "url": "https://arxiv.org/abs/2609.33662",
+      "author": "Miaobo Hu, Shuhao Hu, Xiaobo Guo +4",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Imperfect verifiers can assign a harmful update direction even when clipping and regularization bound its magnitude. We introduce Audit-First VAPO, which separates discrete directional admission from…"
+    },
+    {
+      "id": "2609.33543",
+      "source": "arxiv",
+      "title": "OSCC: Certified Observation-Safe Coupling Optimization for Gradient-Noise Control in Imperfect-Information Learning",
+      "url": "https://arxiv.org/abs/2609.33543",
+      "author": "Miaobo Hu, Shuhao Hu, Xiaobo Guo +4",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Coupled rollouts can reduce the noise of counterfactual action comparisons, but two issues prevent standard common-random-number constructions from serving as a general learning primitive in imperfect…"
+    },
+    {
+      "id": "2609.27241",
+      "source": "arxiv",
+      "title": "On the Sample Complexity of Active Learning with Membership Queries",
+      "url": "https://arxiv.org/abs/2609.27241",
+      "author": "Ganghua Wang, Shaddin Dughmi",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "This work revisits a fundamental question in active learning: how powerful is the ability to synthesize arbitrary queries? Compared to pool-based active learning, where the learner only selects querie…"
+    },
+    {
+      "id": "2609.27034",
+      "source": "arxiv",
+      "title": "CVaR anchor regression protects against rare shifts",
+      "url": "https://arxiv.org/abs/2609.27034",
+      "author": "Malte Londschien",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "We study prediction in new environments when the training data contains rare, large distribution shifts. Anchor regression penalizes the average of the squared mean residual across environments. It pr…"
+    },
+    {
+      "id": "2609.24443",
+      "source": "arxiv",
+      "title": "Horizon-Aware Early Event Prediction for Tokamak Disruption Alarms",
+      "url": "https://arxiv.org/abs/2609.24443",
+      "author": "Takeshi Koshizuka, Takaharu Yaguchi",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Disruption predictors must warn the plasma control system early enough for the intended response, and the required warning time differs between mitigation and avoidance. We view a warning system as a…"
+    },
+    {
+      "id": "2609.00445",
+      "source": "arxiv",
+      "title": "Capability-Gated Language Models: Security Composes, Utility Does Not",
+      "url": "https://arxiv.org/abs/2609.00445",
+      "author": "Patrikas Vanagas, Augustas Ma\\v{c}ijauskas, Laurynas Lopata",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "summary": "Deployed language model safeguards (safety fine-tuning, filtering, unlearning) vary by principal only outside the model weights: filters are reconfigured, tiers are multiplied, and artefacts are reiss…"
+    }
+  ]
 }
