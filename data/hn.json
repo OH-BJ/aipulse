@@ -1,53 +1,73 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-18T15:11:32.192Z",
+  "fetchedAt": "2026-10-19T02:43:22.282Z",
   "items": [
     {
-      "id": "50138531",
+      "id": "50145337",
       "source": "hn",
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "score": 374,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50138531",
-      "author": "fagnerbrack",
-      "publishedAt": "2026-10-18T06:50:36.000Z"
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "score": 237,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50145337",
+      "author": "allinonai",
+      "publishedAt": "2026-10-18T20:48:14.000Z"
     },
     {
-      "id": "50141429",
+      "id": "50145507",
       "source": "hn",
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50141429",
-      "author": "f-serif",
-      "publishedAt": "2026-10-18T14:30:27.000Z"
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "score": 48,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50145507",
+      "author": "amrrs",
+      "publishedAt": "2026-10-18T21:09:12.000Z"
     },
     {
       "id": "50137950",
       "source": "hn",
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "url": "https://sphinx-six-theta.vercel.app/",
-      "score": 195,
+      "score": 242,
       "commentsUrl": "https://news.ycombinator.com/item?id=50137950",
       "author": "critiquebrowser",
       "publishedAt": "2026-10-18T04:33:49.000Z"
     },
     {
-      "id": "50141657",
+      "id": "50138531",
       "source": "hn",
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50141657",
-      "author": "evolve2k",
-      "publishedAt": "2026-10-18T14:58:10.000Z"
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "score": 555,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50138531",
+      "author": "fagnerbrack",
+      "publishedAt": "2026-10-18T06:50:36.000Z"
+    },
+    {
+      "id": "50147371",
+      "source": "hn",
+      "title": "AI Agents Trading Stocks While You Sleep? Charles Schwab's CEO Is Skeptical",
+      "url": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50147371",
+      "author": "bcaulfield",
+      "publishedAt": "2026-10-19T01:37:48.000Z"
+    },
+    {
+      "id": "50147256",
+      "source": "hn",
+      "title": "Will major-party U.S. presidential candidate deploy AI clone to talk to voters?",
+      "url": "https://manifold.markets/BrunoClawfeld/will-a-majorparty-us-presidential-c",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50147256",
+      "author": "bcaulfield",
+      "publishedAt": "2026-10-19T01:21:56.000Z"
     },
     {
       "id": "50129045",
       "source": "hn",
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 913,
+      "score": 937,
       "commentsUrl": "https://news.ycombinator.com/item?id=50129045",
       "author": "theykk",
       "publishedAt": "2026-10-17T08:21:25.000Z"
@@ -57,80 +77,10 @@
       "source": "hn",
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 1043,
+      "score": 1051,
       "commentsUrl": "https://news.ycombinator.com/item?id=50122800",
       "author": "ahlCVA",
       "publishedAt": "2026-10-16T18:55:59.000Z"
-    },
-    {
-      "id": "50134211",
-      "source": "hn",
-      "title": "The math that OpenAI keeps for itself",
-      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
-      "score": 47,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50134211",
-      "author": "dpaleka",
-      "publishedAt": "2026-10-17T19:22:52.000Z"
-    },
-    {
-      "id": "50127979",
-      "source": "hn",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "score": 311,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50127979",
-      "author": "albinstman",
-      "publishedAt": "2026-10-17T04:36:53.000Z"
-    },
-    {
-      "id": "50121939",
-      "source": "hn",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "score": 172,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50121939",
-      "author": "pretext",
-      "publishedAt": "2026-10-16T18:00:18.000Z"
-    },
-    {
-      "id": "50121179",
-      "source": "hn",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "score": 611,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50121179",
-      "author": "speckx",
-      "publishedAt": "2026-10-16T17:08:38.000Z"
-    },
-    {
-      "id": "50122951",
-      "source": "hn",
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "score": 464,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50122951",
-      "author": "pretext",
-      "publishedAt": "2026-10-16T19:04:47.000Z"
-    },
-    {
-      "id": "50122431",
-      "source": "hn",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "score": 368,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50122431",
-      "author": "Anon84",
-      "publishedAt": "2026-10-16T18:32:35.000Z"
-    },
-    {
-      "id": "50118688",
-      "source": "hn",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "score": 247,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50118688",
-      "author": "__cayenne__",
-      "publishedAt": "2026-10-16T14:18:44.000Z"
     }
   ]
 }
