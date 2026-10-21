@@ -1,43 +1,83 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-20T16:08:37.464Z",
+  "fetchedAt": "2026-10-21T02:48:50.926Z",
   "items": [
     {
       "id": "50163277",
       "source": "hn",
-      "title": "DeepSeek just open-sourced its inference engine",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 1607,
+      "score": 2149,
       "commentsUrl": "https://news.ycombinator.com/item?id=50163277",
       "author": "ggcr",
       "publishedAt": "2026-10-20T09:08:54.000Z"
+    },
+    {
+      "id": "50169506",
+      "source": "hn",
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "score": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50169506",
+      "author": "mdahardy",
+      "publishedAt": "2026-10-20T17:10:31.000Z"
     },
     {
       "id": "50167583",
       "source": "hn",
       "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
       "url": "https://news.ycombinator.com/item?id=50167583",
-      "score": 14,
+      "score": 45,
       "commentsUrl": "https://news.ycombinator.com/item?id=50167583",
       "author": "Andydy25",
       "publishedAt": "2026-10-20T15:09:29.000Z"
     },
     {
-      "id": "50167456",
+      "id": "50170021",
       "source": "hn",
-      "title": "Show HN: Run Claude Code unattended inside a fence, under a dollar budget",
-      "url": "https://github.com/metahumansworld/SIwithin",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50167456",
-      "author": "metahumein",
-      "publishedAt": "2026-10-20T15:00:34.000Z"
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "score": 97,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50170021",
+      "author": "artninja1988",
+      "publishedAt": "2026-10-20T17:48:29.000Z"
+    },
+    {
+      "id": "50171966",
+      "source": "hn",
+      "title": "Anthropic logged net loss of over $80B in first half of 2026",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "score": 115,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50171966",
+      "author": "throwa356262",
+      "publishedAt": "2026-10-20T20:09:46.000Z"
+    },
+    {
+      "id": "50167604",
+      "source": "hn",
+      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+      "url": "https://github.com/AbdullahAlhariri/penmentor",
+      "score": 56,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50167604",
+      "author": "abdullahalharir",
+      "publishedAt": "2026-10-20T15:10:54.000Z"
+    },
+    {
+      "id": "50174541",
+      "source": "hn",
+      "title": "SpaceX revenue soars 161% as AI business grows",
+      "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50174541",
+      "author": "andsoitis",
+      "publishedAt": "2026-10-21T00:25:45.000Z"
     },
     {
       "id": "50159341",
       "source": "hn",
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "score": 661,
+      "score": 716,
       "commentsUrl": "https://news.ycombinator.com/item?id=50159341",
       "author": "ds",
       "publishedAt": "2026-10-19T23:22:18.000Z"
@@ -47,100 +87,50 @@
       "source": "hn",
       "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
       "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "score": 471,
+      "score": 557,
       "commentsUrl": "https://news.ycombinator.com/item?id=50154244",
       "author": "cmrdporcupine",
       "publishedAt": "2026-10-19T16:16:46.000Z"
     },
     {
-      "id": "50167604",
+      "id": "50174642",
       "source": "hn",
-      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-      "url": "https://github.com/AbdullahAlhariri/penmentor",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50167604",
-      "author": "abdullahalharir",
-      "publishedAt": "2026-10-20T15:10:54.000Z"
-    },
-    {
-      "id": "50167564",
-      "source": "hn",
-      "title": "AI models self-replicating in smart ovens? \"These f[..]g clowns\"",
-      "url": "https://www.thestack.technology/these-f-clowns/",
+      "title": "Secret trigger words could make AI-powered robots dangerous",
+      "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
       "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50167564",
-      "author": "jc_811",
-      "publishedAt": "2026-10-20T15:07:56.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50174642",
+      "author": "geox",
+      "publishedAt": "2026-10-21T00:40:56.000Z"
     },
     {
-      "id": "50167587",
+      "id": "50173557",
       "source": "hn",
-      "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
-      "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50167587",
-      "author": "toomuchtodo",
-      "publishedAt": "2026-10-20T15:10:01.000Z"
+      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
+      "score": 26,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50173557",
+      "author": "koolba",
+      "publishedAt": "2026-10-20T22:27:07.000Z"
     },
     {
-      "id": "50168190",
+      "id": "50168983",
       "source": "hn",
-      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50168190",
-      "author": "4gateftw",
-      "publishedAt": "2026-10-20T15:48:26.000Z"
+      "title": "Gemini 4 Argon is now available for everyone",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50168983",
+      "author": "ulrischa",
+      "publishedAt": "2026-10-20T16:36:24.000Z"
     },
     {
       "id": "50150434",
       "source": "hn",
       "title": "Timestral: Mistral's time-series foundation models",
       "url": "https://mistral.ai/news/timestral/",
-      "score": 603,
+      "score": 614,
       "commentsUrl": "https://news.ycombinator.com/item?id=50150434",
       "author": "groar",
       "publishedAt": "2026-10-19T09:59:32.000Z"
-    },
-    {
-      "id": "50167495",
-      "source": "hn",
-      "title": "Developers Are Using AI to Strip Ads and Tracking from Smart TVs",
-      "url": "https://www.gadgetreview.com/developers-are-using-ai-to-strip-ads-and-tracking-from-smart-tvs",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50167495",
-      "author": "thunderbong",
-      "publishedAt": "2026-10-20T15:03:19.000Z"
-    },
-    {
-      "id": "50151036",
-      "source": "hn",
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "score": 555,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50151036",
-      "author": "rzk",
-      "publishedAt": "2026-10-19T11:24:34.000Z"
-    },
-    {
-      "id": "50153630",
-      "source": "hn",
-      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-      "score": 354,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50153630",
-      "author": "kensai",
-      "publishedAt": "2026-10-19T15:28:24.000Z"
-    },
-    {
-      "id": "50148855",
-      "source": "hn",
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "score": 161,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50148855",
-      "author": "ankitg12",
-      "publishedAt": "2026-10-19T05:55:31.000Z"
     }
   ]
 }

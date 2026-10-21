@@ -1,6 +1,6 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-10-20T16:08:37.784Z",
+  "fetchedAt": "2026-10-21T02:48:50.779Z",
   "items": [
     {
       "id": "2610.23798",
@@ -18,7 +18,7 @@
       "url": "https://arxiv.org/abs/2610.23271",
       "author": "Guodong Du, Wanyu Lin",
       "publishedAt": "2026-10-20T04:00:00.000Z",
-      "summary": "Vision--Language--Action (VLA) models promise generalist robotic agents, yet consolidating skills learned across heterogeneous tasks and environments remains difficult: training data is fragmented acr…"
+      "summary": "Vision-language-action (VLA) models can learn a wide range of robotic skills, but combining separately trained skills remains challenging. The original training data may be unavailable for joint retra…"
     },
     {
       "id": "2610.22471",
