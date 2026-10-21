@@ -1,136 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-21T02:48:50.926Z",
+  "fetchedAt": "2026-10-21T16:24:27.987Z",
   "items": [
+    {
+      "id": "50180836",
+      "source": "hn",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "score": 340,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50180836",
+      "author": "danlark1",
+      "publishedAt": "2026-10-21T13:43:19.000Z"
+    },
+    {
+      "id": "50180752",
+      "source": "hn",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "score": 42,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50180752",
+      "author": "raahelb",
+      "publishedAt": "2026-10-21T13:37:00.000Z"
+    },
+    {
+      "id": "50179857",
+      "source": "hn",
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://layerfs.ai/",
+      "score": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50179857",
+      "author": "l2dy",
+      "publishedAt": "2026-10-21T12:34:46.000Z"
+    },
+    {
+      "id": "50180079",
+      "source": "hn",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50180079",
+      "author": "armcat",
+      "publishedAt": "2026-10-21T12:53:11.000Z"
+    },
+    {
+      "id": "50175779",
+      "source": "hn",
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "score": 111,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50175779",
+      "author": "dnw",
+      "publishedAt": "2026-10-21T03:36:43.000Z"
+    },
     {
       "id": "50163277",
       "source": "hn",
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 2149,
+      "score": 2284,
       "commentsUrl": "https://news.ycombinator.com/item?id=50163277",
       "author": "ggcr",
       "publishedAt": "2026-10-20T09:08:54.000Z"
     },
     {
-      "id": "50169506",
+      "id": "50182358",
       "source": "hn",
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://research.poh.org/bot-benchmarking-2026/",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50169506",
-      "author": "mdahardy",
-      "publishedAt": "2026-10-20T17:10:31.000Z"
+      "title": "AI has 'potential' to turn script kiddies into sophisticated attackers",
+      "url": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50182358",
+      "author": "Bender",
+      "publishedAt": "2026-10-21T15:10:50.000Z"
     },
     {
       "id": "50167583",
       "source": "hn",
       "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
       "url": "https://news.ycombinator.com/item?id=50167583",
-      "score": 45,
+      "score": 52,
       "commentsUrl": "https://news.ycombinator.com/item?id=50167583",
       "author": "Andydy25",
       "publishedAt": "2026-10-20T15:09:29.000Z"
+    },
+    {
+      "id": "50169506",
+      "source": "hn",
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "score": 47,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50169506",
+      "author": "mdahardy",
+      "publishedAt": "2026-10-20T17:10:31.000Z"
     },
     {
       "id": "50170021",
       "source": "hn",
       "title": "Claude designed protein binders against scorpion neurotoxins",
       "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "score": 97,
+      "score": 113,
       "commentsUrl": "https://news.ycombinator.com/item?id=50170021",
       "author": "artninja1988",
       "publishedAt": "2026-10-20T17:48:29.000Z"
-    },
-    {
-      "id": "50171966",
-      "source": "hn",
-      "title": "Anthropic logged net loss of over $80B in first half of 2026",
-      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
-      "score": 115,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50171966",
-      "author": "throwa356262",
-      "publishedAt": "2026-10-20T20:09:46.000Z"
-    },
-    {
-      "id": "50167604",
-      "source": "hn",
-      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-      "url": "https://github.com/AbdullahAlhariri/penmentor",
-      "score": 56,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50167604",
-      "author": "abdullahalharir",
-      "publishedAt": "2026-10-20T15:10:54.000Z"
-    },
-    {
-      "id": "50174541",
-      "source": "hn",
-      "title": "SpaceX revenue soars 161% as AI business grows",
-      "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
-      "score": 17,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50174541",
-      "author": "andsoitis",
-      "publishedAt": "2026-10-21T00:25:45.000Z"
-    },
-    {
-      "id": "50159341",
-      "source": "hn",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "score": 716,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50159341",
-      "author": "ds",
-      "publishedAt": "2026-10-19T23:22:18.000Z"
     },
     {
       "id": "50154244",
       "source": "hn",
       "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
       "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "score": 557,
+      "score": 573,
       "commentsUrl": "https://news.ycombinator.com/item?id=50154244",
       "author": "cmrdporcupine",
       "publishedAt": "2026-10-19T16:16:46.000Z"
-    },
-    {
-      "id": "50174642",
-      "source": "hn",
-      "title": "Secret trigger words could make AI-powered robots dangerous",
-      "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50174642",
-      "author": "geox",
-      "publishedAt": "2026-10-21T00:40:56.000Z"
-    },
-    {
-      "id": "50173557",
-      "source": "hn",
-      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
-      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
-      "score": 26,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50173557",
-      "author": "koolba",
-      "publishedAt": "2026-10-20T22:27:07.000Z"
-    },
-    {
-      "id": "50168983",
-      "source": "hn",
-      "title": "Gemini 4 Argon is now available for everyone",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50168983",
-      "author": "ulrischa",
-      "publishedAt": "2026-10-20T16:36:24.000Z"
-    },
-    {
-      "id": "50150434",
-      "source": "hn",
-      "title": "Timestral: Mistral's time-series foundation models",
-      "url": "https://mistral.ai/news/timestral/",
-      "score": 614,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50150434",
-      "author": "groar",
-      "publishedAt": "2026-10-19T09:59:32.000Z"
     }
   ]
 }
