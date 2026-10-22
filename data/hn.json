@@ -1,116 +1,126 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-21T16:24:27.987Z",
+  "fetchedAt": "2026-10-22T02:47:48.470Z",
   "items": [
     {
-      "id": "50180836",
+      "id": "50190334",
       "source": "hn",
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "score": 340,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50180836",
-      "author": "danlark1",
-      "publishedAt": "2026-10-21T13:43:19.000Z"
+      "title": "LLM Agents Play Pokemon Showdown",
+      "url": "https://olivergrabner.com/research/pokemon/",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50190334",
+      "author": "grabnero",
+      "publishedAt": "2026-10-22T02:13:48.000Z"
     },
     {
-      "id": "50180752",
+      "id": "50176082",
       "source": "hn",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "score": 42,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50180752",
-      "author": "raahelb",
-      "publishedAt": "2026-10-21T13:37:00.000Z"
-    },
-    {
-      "id": "50179857",
-      "source": "hn",
-      "title": "LayerFS: The filesystem for AI coding agents",
-      "url": "https://layerfs.ai/",
-      "score": 54,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50179857",
-      "author": "l2dy",
-      "publishedAt": "2026-10-21T12:34:46.000Z"
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50176082",
+      "author": "jimauthors",
+      "publishedAt": "2026-10-21T04:27:51.000Z"
     },
     {
       "id": "50180079",
       "source": "hn",
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud/",
-      "score": 13,
+      "score": 246,
       "commentsUrl": "https://news.ycombinator.com/item?id=50180079",
       "author": "armcat",
       "publishedAt": "2026-10-21T12:53:11.000Z"
     },
     {
-      "id": "50175779",
+      "id": "50186037",
       "source": "hn",
-      "title": "Using Claude to reduce the attack surface of code",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "score": 111,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50175779",
-      "author": "dnw",
-      "publishedAt": "2026-10-21T03:36:43.000Z"
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "score": 323,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50186037",
+      "author": "kuberwastaken",
+      "publishedAt": "2026-10-21T19:14:01.000Z"
+    },
+    {
+      "id": "50180752",
+      "source": "hn",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "score": 136,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50180752",
+      "author": "raahelb",
+      "publishedAt": "2026-10-21T13:37:00.000Z"
+    },
+    {
+      "id": "50186455",
+      "source": "hn",
+      "title": "Claude Duet",
+      "url": "https://claude.com/resources/articles/claude-duet",
+      "score": 62,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50186455",
+      "author": "zaevlad",
+      "publishedAt": "2026-10-21T19:40:18.000Z"
+    },
+    {
+      "id": "50183892",
+      "source": "hn",
+      "title": "Show HN: Omnara – Open-Source Alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "score": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50183892",
+      "author": "kmansm27",
+      "publishedAt": "2026-10-21T16:44:53.000Z"
     },
     {
       "id": "50163277",
       "source": "hn",
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 2284,
+      "score": 2303,
       "commentsUrl": "https://news.ycombinator.com/item?id=50163277",
       "author": "ggcr",
       "publishedAt": "2026-10-20T09:08:54.000Z"
     },
     {
-      "id": "50182358",
+      "id": "50186043",
       "source": "hn",
-      "title": "AI has 'potential' to turn script kiddies into sophisticated attackers",
-      "url": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50182358",
-      "author": "Bender",
-      "publishedAt": "2026-10-21T15:10:50.000Z"
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+      "score": 114,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50186043",
+      "author": "saikatsg",
+      "publishedAt": "2026-10-21T19:14:21.000Z"
     },
     {
-      "id": "50167583",
+      "id": "50175779",
       "source": "hn",
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "url": "https://news.ycombinator.com/item?id=50167583",
-      "score": 52,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50167583",
-      "author": "Andydy25",
-      "publishedAt": "2026-10-20T15:09:29.000Z"
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "score": 131,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50175779",
+      "author": "dnw",
+      "publishedAt": "2026-10-21T03:36:43.000Z"
     },
     {
-      "id": "50169506",
+      "id": "50183253",
       "source": "hn",
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://research.poh.org/bot-benchmarking-2026/",
-      "score": 47,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50169506",
-      "author": "mdahardy",
-      "publishedAt": "2026-10-20T17:10:31.000Z"
+      "title": "AI agent fixed the bug, but what else did it change?",
+      "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+      "score": 48,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50183253",
+      "author": "tob_scott_a",
+      "publishedAt": "2026-10-21T16:03:32.000Z"
     },
     {
-      "id": "50170021",
+      "id": "50180836",
       "source": "hn",
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "score": 113,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50170021",
-      "author": "artninja1988",
-      "publishedAt": "2026-10-20T17:48:29.000Z"
-    },
-    {
-      "id": "50154244",
-      "source": "hn",
-      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "score": 573,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50154244",
-      "author": "cmrdporcupine",
-      "publishedAt": "2026-10-19T16:16:46.000Z"
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "score": 438,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50180836",
+      "author": "danlark1",
+      "publishedAt": "2026-10-21T13:43:19.000Z"
     }
   ]
 }

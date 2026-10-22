@@ -1,7 +1,196 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-10-21T16:24:28.223Z",
+  "fetchedAt": "2026-10-22T02:47:48.274Z",
   "items": [
+    {
+      "id": "35790",
+      "source": "geeknews",
+      "title": "mitmproxy, --emudhra 옵션 추가",
+      "url": "https://news.hada.io/topic?id=35790",
+      "commentsUrl": "https://news.hada.io/topic?id=35790",
+      "author": "neo",
+      "publishedAt": "2026-10-22T02:33:23.000Z"
+    },
+    {
+      "id": "35789",
+      "source": "geeknews",
+      "title": "Google의 Rust 스타일 가이드",
+      "url": "https://news.hada.io/topic?id=35789",
+      "commentsUrl": "https://news.hada.io/topic?id=35789",
+      "author": "neo",
+      "publishedAt": "2026-10-22T01:42:55.000Z"
+    },
+    {
+      "id": "35788",
+      "source": "geeknews",
+      "title": "PingCAP TiDB 데이터 유출",
+      "url": "https://news.hada.io/topic?id=35788",
+      "commentsUrl": "https://news.hada.io/topic?id=35788",
+      "author": "neo",
+      "publishedAt": "2026-10-22T01:39:55.000Z"
+    },
+    {
+      "id": "35787",
+      "source": "geeknews",
+      "title": "Oxynote - 실시간 지표와 API 문서를 함께 관리하는 기술 위키",
+      "url": "https://news.hada.io/topic?id=35787",
+      "commentsUrl": "https://news.hada.io/topic?id=35787",
+      "author": "xguru",
+      "publishedAt": "2026-10-22T00:30:02.000Z"
+    },
+    {
+      "id": "35785",
+      "source": "geeknews",
+      "title": "한국의 신규 AI 파생 모델 절반 가까이가 중국 Qwen 기반임",
+      "url": "https://news.hada.io/topic?id=35785",
+      "commentsUrl": "https://news.hada.io/topic?id=35785",
+      "author": "neo",
+      "publishedAt": "2026-10-22T00:10:02.000Z"
+    },
+    {
+      "id": "35784",
+      "source": "geeknews",
+      "title": "10월 28일 Lobsters 뉴욕 밋업",
+      "url": "https://news.hada.io/topic?id=35784",
+      "commentsUrl": "https://news.hada.io/topic?id=35784",
+      "author": "neo",
+      "publishedAt": "2026-10-22T00:04:35.000Z"
+    },
+    {
+      "id": "35782",
+      "source": "geeknews",
+      "title": "Firefox Local Mode - 로컬 파일을 맞춤 HTTPS URL로 불러오는 개발 도구 기능",
+      "url": "https://news.hada.io/topic?id=35782",
+      "commentsUrl": "https://news.hada.io/topic?id=35782",
+      "author": "neo",
+      "publishedAt": "2026-10-22T00:01:35.000Z"
+    },
+    {
+      "id": "35781",
+      "source": "geeknews",
+      "title": "Show GN: 서버 업로드 없이 브라우저에서 음원 6트랙 분리·자동 마스터링하는 도구",
+      "url": "https://news.hada.io/topic?id=35781",
+      "commentsUrl": "https://news.hada.io/topic?id=35781",
+      "author": "kangbit",
+      "publishedAt": "2026-10-21T23:58:29.000Z"
+    },
+    {
+      "id": "35780",
+      "source": "geeknews",
+      "title": "Show GN: Numpad - 트랙패드를 넘패드로 쓸 수 있게 만들어주는 앱",
+      "url": "https://news.hada.io/topic?id=35780",
+      "commentsUrl": "https://news.hada.io/topic?id=35780",
+      "author": "yeonfish6040",
+      "publishedAt": "2026-10-21T23:58:12.000Z"
+    },
+    {
+      "id": "35778",
+      "source": "geeknews",
+      "title": "Railway 보안 사고 공개",
+      "url": "https://news.hada.io/topic?id=35778",
+      "commentsUrl": "https://news.hada.io/topic?id=35778",
+      "author": "neo",
+      "publishedAt": "2026-10-21T23:37:37.000Z"
+    },
+    {
+      "id": "35777",
+      "source": "geeknews",
+      "title": "GitLab 긴급 보안 패치 릴리스",
+      "url": "https://news.hada.io/topic?id=35777",
+      "commentsUrl": "https://news.hada.io/topic?id=35777",
+      "author": "neo",
+      "publishedAt": "2026-10-21T23:34:37.000Z"
+    },
+    {
+      "id": "35775",
+      "source": "geeknews",
+      "title": "OpenAI 모델과 Codex, Google Cloud에 도입",
+      "url": "https://news.hada.io/topic?id=35775",
+      "commentsUrl": "https://news.hada.io/topic?id=35775",
+      "author": "neo",
+      "publishedAt": "2026-10-21T22:46:51.000Z"
+    },
+    {
+      "id": "35773",
+      "source": "geeknews",
+      "title": "Claude Duet - 업무를 맡아 처리하고 필요할 때 먼저 연락하는 개인 AI 에이전트",
+      "url": "https://news.hada.io/topic?id=35773",
+      "commentsUrl": "https://news.hada.io/topic?id=35773",
+      "author": "neo",
+      "publishedAt": "2026-10-21T22:40:51.000Z"
+    },
+    {
+      "id": "35772",
+      "source": "geeknews",
+      "title": "Meta, 개인정보 보호에 관해 이용자를 속여 250억 달러 제재금 지급 명령",
+      "url": "https://news.hada.io/topic?id=35772",
+      "commentsUrl": "https://news.hada.io/topic?id=35772",
+      "author": "neo",
+      "publishedAt": "2026-10-21T22:37:51.000Z"
+    },
+    {
+      "id": "35771",
+      "source": "geeknews",
+      "title": "OpenAI ‘Patch the Planet’, AI가 발견하는 취약점에 대응할 5단계 공조 체계 제안",
+      "url": "https://news.hada.io/topic?id=35771",
+      "commentsUrl": "https://news.hada.io/topic?id=35771",
+      "author": "neo",
+      "publishedAt": "2026-10-21T20:33:47.000Z"
+    },
+    {
+      "id": "35770",
+      "source": "geeknews",
+      "title": "EA, BioWare 폐쇄하고 차기 Mass Effect 개발 중단",
+      "url": "https://news.hada.io/topic?id=35770",
+      "commentsUrl": "https://news.hada.io/topic?id=35770",
+      "author": "neo",
+      "publishedAt": "2026-10-21T19:32:59.000Z"
+    },
+    {
+      "id": "35768",
+      "source": "geeknews",
+      "title": "온갖 제약 속에서도 빛나는 타이포그래피",
+      "url": "https://news.hada.io/topic?id=35768",
+      "commentsUrl": "https://news.hada.io/topic?id=35768",
+      "author": "neo",
+      "publishedAt": "2026-10-21T18:37:51.000Z"
+    },
+    {
+      "id": "35767",
+      "source": "geeknews",
+      "title": "LiteLLM 1.107.0 PyPI 패키지에 인증 정보 탈취 악성코드와 백도어 삽입",
+      "url": "https://news.hada.io/topic?id=35767",
+      "commentsUrl": "https://news.hada.io/topic?id=35767",
+      "author": "neo",
+      "publishedAt": "2026-10-21T18:34:51.000Z"
+    },
+    {
+      "id": "35766",
+      "source": "geeknews",
+      "title": "PHP 재단, 보안 패치 지연 원인과 대응 체계 개선안 공개",
+      "url": "https://news.hada.io/topic?id=35766",
+      "commentsUrl": "https://news.hada.io/topic?id=35766",
+      "author": "neo",
+      "publishedAt": "2026-10-21T17:39:43.000Z"
+    },
+    {
+      "id": "35765",
+      "source": "geeknews",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal” - 서버 연결과 비동기 I/O 강화",
+      "url": "https://news.hada.io/topic?id=35765",
+      "commentsUrl": "https://news.hada.io/topic?id=35765",
+      "author": "neo",
+      "publishedAt": "2026-10-21T17:36:43.000Z"
+    },
+    {
+      "id": "35764",
+      "source": "geeknews",
+      "title": "No Kings 계정 차단이 보여준, Zuckerberg에게 확성기를 빌려서는 안 되는 이유",
+      "url": "https://news.hada.io/topic?id=35764",
+      "commentsUrl": "https://news.hada.io/topic?id=35764",
+      "author": "neo",
+      "publishedAt": "2026-10-21T16:34:17.000Z"
+    },
     {
       "id": "35762",
       "source": "geeknews",
@@ -14,7 +203,7 @@
     {
       "id": "35761",
       "source": "geeknews",
-      "title": "PHP2Shell: AI로 PHP의 치명적인 원격 코드 실행 취약점 발견",
+      "title": "PHP2Shell - AI로 PHP의 오래된 취약점을 실제 공격으로 구현",
       "url": "https://news.hada.io/topic?id=35761",
       "commentsUrl": "https://news.hada.io/topic?id=35761",
       "author": "neo",
@@ -32,20 +221,11 @@
     {
       "id": "35759",
       "source": "geeknews",
-      "title": "PHP 8.5.12, 8.4.27, 8.3.36, 8.2.35 출시, 치명적 원격 코드 실행 취약점 수정",
+      "title": "PHP, 원격 코드 실행이 가능한 치명적 취약점 2건 수정. 즉시 업데이트 권고",
       "url": "https://news.hada.io/topic?id=35759",
       "commentsUrl": "https://news.hada.io/topic?id=35759",
       "author": "neo",
       "publishedAt": "2026-10-21T14:38:44.000Z"
-    },
-    {
-      "id": "35758",
-      "source": "geeknews",
-      "title": "PHP 8.2.35 보안 업데이트, GitHub에 공개",
-      "url": "https://news.hada.io/topic?id=35758",
-      "commentsUrl": "https://news.hada.io/topic?id=35758",
-      "author": "neo",
-      "publishedAt": "2026-10-21T14:35:43.000Z"
     },
     {
       "id": "35757",
@@ -91,186 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=35752",
       "author": "hambuga",
       "publishedAt": "2026-10-21T10:00:19.000Z"
-    },
-    {
-      "id": "35750",
-      "source": "geeknews",
-      "title": "또 다른 유행병: 벤조디아제핀을 끊으려는 시도",
-      "url": "https://news.hada.io/topic?id=35750",
-      "commentsUrl": "https://news.hada.io/topic?id=35750",
-      "author": "neo",
-      "publishedAt": "2026-10-21T09:37:18.000Z"
-    },
-    {
-      "id": "35749",
-      "source": "geeknews",
-      "title": "Show HN: VoidAccess - 검색 질의에서 그래프까지, 오픈소스 다크웹 OSINT",
-      "url": "https://news.hada.io/topic?id=35749",
-      "commentsUrl": "https://news.hada.io/topic?id=35749",
-      "author": "neo",
-      "publishedAt": "2026-10-21T08:31:18.000Z"
-    },
-    {
-      "id": "35748",
-      "source": "geeknews",
-      "title": "PHP, 중대 취약점 대응 보안 릴리스 예정",
-      "url": "https://news.hada.io/topic?id=35748",
-      "commentsUrl": "https://news.hada.io/topic?id=35748",
-      "author": "neo",
-      "publishedAt": "2026-10-21T08:01:01.000Z"
-    },
-    {
-      "id": "35747",
-      "source": "geeknews",
-      "title": "미 연방 수사당국, 몸값 협상가의 ShinyHunters 갈취 사이트 운영 관여 의심",
-      "url": "https://news.hada.io/topic?id=35747",
-      "commentsUrl": "https://news.hada.io/topic?id=35747",
-      "author": "neo",
-      "publishedAt": "2026-10-21T07:37:45.000Z"
-    },
-    {
-      "id": "35746",
-      "source": "geeknews",
-      "title": "Tell HN: CVSS 10.0인 PHP 원격 코드 실행 CVE 2건 공개 예정",
-      "url": "https://news.hada.io/topic?id=35746",
-      "commentsUrl": "https://news.hada.io/topic?id=35746",
-      "author": "neo",
-      "publishedAt": "2026-10-21T07:34:45.000Z"
-    },
-    {
-      "id": "35745",
-      "source": "geeknews",
-      "title": "2026년 JavaScript 동향",
-      "url": "https://news.hada.io/topic?id=35745",
-      "commentsUrl": "https://news.hada.io/topic?id=35745",
-      "author": "click",
-      "publishedAt": "2026-10-21T07:18:40.000Z"
-    },
-    {
-      "id": "35744",
-      "source": "geeknews",
-      "title": "IKEA - 실제 조립 설명서를 따라가는 3D 가이드",
-      "url": "https://news.hada.io/topic?id=35744",
-      "commentsUrl": "https://news.hada.io/topic?id=35744",
-      "author": "neo",
-      "publishedAt": "2026-10-21T06:39:30.000Z"
-    },
-    {
-      "id": "35743",
-      "source": "geeknews",
-      "title": "CSS의 미래 - Interop 2027에서 기대하는 10가지 기능",
-      "url": "https://news.hada.io/topic?id=35743",
-      "commentsUrl": "https://news.hada.io/topic?id=35743",
-      "author": "neo",
-      "publishedAt": "2026-10-21T06:36:30.000Z"
-    },
-    {
-      "id": "35742",
-      "source": "geeknews",
-      "title": "PHP, 치명적 취약점 2건 수정하는 보안 업데이트 예고",
-      "url": "https://news.hada.io/topic?id=35742",
-      "commentsUrl": "https://news.hada.io/topic?id=35742",
-      "author": "neo",
-      "publishedAt": "2026-10-21T04:31:25.000Z"
-    },
-    {
-      "id": "35741",
-      "source": "geeknews",
-      "title": "학계는 Wikipedia 같은 개방형 지식 체계를 지킬 의무가 있음",
-      "url": "https://news.hada.io/topic?id=35741",
-      "commentsUrl": "https://news.hada.io/topic?id=35741",
-      "author": "neo",
-      "publishedAt": "2026-10-21T03:33:34.000Z"
-    },
-    {
-      "id": "35739",
-      "source": "geeknews",
-      "title": "2026년은 Rust 컴파일러에게도, 나에게도 흥미진진한 해",
-      "url": "https://news.hada.io/topic?id=35739",
-      "commentsUrl": "https://news.hada.io/topic?id=35739",
-      "author": "neo",
-      "publishedAt": "2026-10-21T02:33:55.000Z"
-    },
-    {
-      "id": "35737",
-      "source": "geeknews",
-      "title": "나의 친구 Bob Cringely",
-      "url": "https://news.hada.io/topic?id=35737",
-      "commentsUrl": "https://news.hada.io/topic?id=35737",
-      "author": "neo",
-      "publishedAt": "2026-10-21T00:37:52.000Z"
-    },
-    {
-      "id": "35736",
-      "source": "geeknews",
-      "title": "Deepwater Horizon 사고 16년 후에도 심해 생물의 회복 징후는 미미함",
-      "url": "https://news.hada.io/topic?id=35736",
-      "commentsUrl": "https://news.hada.io/topic?id=35736",
-      "author": "neo",
-      "publishedAt": "2026-10-21T00:34:52.000Z"
-    },
-    {
-      "id": "35735",
-      "source": "geeknews",
-      "title": "OpenIntelligentUI - ChatGPT Intelligent UI의 오픈소스 대체 구현",
-      "url": "https://news.hada.io/topic?id=35735",
-      "commentsUrl": "https://news.hada.io/topic?id=35735",
-      "author": "xguru",
-      "publishedAt": "2026-10-21T00:30:02.000Z"
-    },
-    {
-      "id": "35734",
-      "source": "geeknews",
-      "title": "macOS에서 Touch ID로 SSH 키 설정하기",
-      "url": "https://news.hada.io/topic?id=35734",
-      "commentsUrl": "https://news.hada.io/topic?id=35734",
-      "author": "neo",
-      "publishedAt": "2026-10-21T00:07:12.000Z"
-    },
-    {
-      "id": "35733",
-      "source": "geeknews",
-      "title": "eMudhra 중간 인증서 침해에 따른 Firefox 사용자 보호 조치",
-      "url": "https://news.hada.io/topic?id=35733",
-      "commentsUrl": "https://news.hada.io/topic?id=35733",
-      "author": "neo",
-      "publishedAt": "2026-10-21T00:04:12.000Z"
-    },
-    {
-      "id": "35732",
-      "source": "geeknews",
-      "title": "바이브 코더들이 몰려들자, Steam 이용자들 ‘AI 게임 제외’ 필터 요구",
-      "url": "https://news.hada.io/topic?id=35732",
-      "commentsUrl": "https://news.hada.io/topic?id=35732",
-      "author": "neo",
-      "publishedAt": "2026-10-20T22:43:00.000Z"
-    },
-    {
-      "id": "35731",
-      "source": "geeknews",
-      "title": "NixOS 덕분에 새 소프트웨어 설치가 덜 두려워졌다",
-      "url": "https://news.hada.io/topic?id=35731",
-      "commentsUrl": "https://news.hada.io/topic?id=35731",
-      "author": "neo",
-      "publishedAt": "2026-10-20T22:40:00.000Z"
-    },
-    {
-      "id": "35730",
-      "source": "geeknews",
-      "title": "AI 시대, 아들에게 무엇을 가르쳐야 할까?",
-      "url": "https://news.hada.io/topic?id=35730",
-      "commentsUrl": "https://news.hada.io/topic?id=35730",
-      "author": "neo",
-      "publishedAt": "2026-10-20T22:37:00.000Z"
-    },
-    {
-      "id": "35728",
-      "source": "geeknews",
-      "title": "Google, PyTorch 모델을 TPU에서 실행하는 TorchTPU 오픈소스 공개",
-      "url": "https://news.hada.io/topic?id=35728",
-      "commentsUrl": "https://news.hada.io/topic?id=35728",
-      "author": "neo",
-      "publishedAt": "2026-10-20T20:36:23.000Z"
     }
   ]
 }
