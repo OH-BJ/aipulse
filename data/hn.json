@@ -1,126 +1,126 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-25T15:22:01.088Z",
+  "fetchedAt": "2026-10-26T02:37:57.496Z",
   "items": [
+    {
+      "id": "50236102",
+      "source": "hn",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "score": 166,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50236102",
+      "author": "minimaxir",
+      "publishedAt": "2026-10-25T21:11:31.000Z"
+    },
+    {
+      "id": "50227041",
+      "source": "hn",
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50227041",
+      "author": "lumbroso",
+      "publishedAt": "2026-10-25T00:43:47.000Z"
+    },
+    {
+      "id": "50233347",
+      "source": "hn",
+      "title": "A mathematician reads the AI future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "score": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50233347",
+      "author": "artninja1988",
+      "publishedAt": "2026-10-25T16:31:21.000Z"
+    },
+    {
+      "id": "50233304",
+      "source": "hn",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "score": 201,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50233304",
+      "author": "romanhn",
+      "publishedAt": "2026-10-25T16:28:26.000Z"
+    },
+    {
+      "id": "50234699",
+      "source": "hn",
+      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+      "score": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50234699",
+      "author": "hacker_v_s",
+      "publishedAt": "2026-10-25T18:42:23.000Z"
+    },
+    {
+      "id": "50236828",
+      "source": "hn",
+      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "score": 34,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50236828",
+      "author": "levzettelin",
+      "publishedAt": "2026-10-25T22:49:06.000Z"
+    },
     {
       "id": "50227356",
       "source": "hn",
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "score": 263,
+      "score": 353,
       "commentsUrl": "https://news.ycombinator.com/item?id=50227356",
       "author": "gmays",
       "publishedAt": "2026-10-25T01:33:49.000Z"
-    },
-    {
-      "id": "50229827",
-      "source": "hn",
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "score": 75,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50229827",
-      "author": "thunderbong",
-      "publishedAt": "2026-10-25T09:51:17.000Z"
     },
     {
       "id": "50226419",
       "source": "hn",
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 428,
+      "score": 506,
       "commentsUrl": "https://news.ycombinator.com/item?id=50226419",
       "author": "gnabgib",
       "publishedAt": "2026-10-24T23:11:54.000Z"
     },
     {
-      "id": "50230995",
+      "id": "50235909",
       "source": "hn",
-      "title": "Imagine an AI future where being banned means you are now economically useless",
-      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50230995",
-      "author": "MrBuddyCasino",
-      "publishedAt": "2026-10-25T12:47:20.000Z"
+      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+      "url": "https://github.com/SRN0129/Agenttrust",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50235909",
+      "author": "SRN0129",
+      "publishedAt": "2026-10-25T20:46:50.000Z"
+    },
+    {
+      "id": "50229827",
+      "source": "hn",
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "score": 134,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50229827",
+      "author": "thunderbong",
+      "publishedAt": "2026-10-25T09:51:17.000Z"
     },
     {
       "id": "50223647",
       "source": "hn",
       "title": "Why is AI generated language so hard to understand?",
       "url": "https://arxiv.org/abs/2610.29162",
-      "score": 221,
+      "score": 243,
       "commentsUrl": "https://news.ycombinator.com/item?id=50223647",
       "author": "canjobear",
       "publishedAt": "2026-10-24T18:04:57.000Z"
     },
     {
-      "id": "50222283",
+      "id": "50235883",
       "source": "hn",
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "score": 49,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50222283",
-      "author": "tokepi",
-      "publishedAt": "2026-10-24T15:35:17.000Z"
-    },
-    {
-      "id": "50225443",
-      "source": "hn",
-      "title": "Making My Blog Readable by AI Agents",
-      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-      "score": 26,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50225443",
-      "author": "ingve",
-      "publishedAt": "2026-10-24T21:21:33.000Z"
-    },
-    {
-      "id": "50171379",
-      "source": "hn",
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "score": 280,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50171379",
-      "author": "westsmith",
-      "publishedAt": "2026-10-20T19:22:39.000Z"
-    },
-    {
-      "id": "50224463",
-      "source": "hn",
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "score": 586,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50224463",
-      "author": "the-mitr",
-      "publishedAt": "2026-10-24T19:47:19.000Z"
-    },
-    {
-      "id": "50231249",
-      "source": "hn",
-      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50231249",
-      "author": "theanonymousone",
-      "publishedAt": "2026-10-25T13:16:49.000Z"
-    },
-    {
-      "id": "50200997",
-      "source": "hn",
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "url": "https://news.ycombinator.com/item?id=50200997",
-      "score": 660,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50200997",
-      "author": "ex-aws-dude",
-      "publishedAt": "2026-10-22T21:03:55.000Z"
-    },
-    {
-      "id": "50197313",
-      "source": "hn",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "score": 652,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50197313",
-      "author": "rakannimer",
-      "publishedAt": "2026-10-22T16:08:00.000Z"
+      "title": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
+      "url": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50235883",
+      "author": "paulbaumgart",
+      "publishedAt": "2026-10-25T20:44:07.000Z"
     }
   ]
 }
