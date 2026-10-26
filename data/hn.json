@@ -1,126 +1,116 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-26T02:37:57.496Z",
+  "fetchedAt": "2026-10-26T18:01:58.507Z",
   "items": [
+    {
+      "id": "50242939",
+      "source": "hn",
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "score": 1068,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50242939",
+      "author": "SiNTEx",
+      "publishedAt": "2026-10-26T13:04:50.000Z"
+    },
+    {
+      "id": "50246658",
+      "source": "hn",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "score": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50246658",
+      "author": "matthieu_bl",
+      "publishedAt": "2026-10-26T16:35:44.000Z"
+    },
+    {
+      "id": "50242843",
+      "source": "hn",
+      "title": "Brown student maps the hidden global labor powering AI",
+      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+      "score": 125,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50242843",
+      "author": "cdrnsf",
+      "publishedAt": "2026-10-26T12:58:27.000Z"
+    },
     {
       "id": "50236102",
       "source": "hn",
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "score": 166,
+      "score": 398,
       "commentsUrl": "https://news.ycombinator.com/item?id=50236102",
       "author": "minimaxir",
       "publishedAt": "2026-10-25T21:11:31.000Z"
-    },
-    {
-      "id": "50227041",
-      "source": "hn",
-      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-      "url": "https://adrs.systems",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50227041",
-      "author": "lumbroso",
-      "publishedAt": "2026-10-25T00:43:47.000Z"
-    },
-    {
-      "id": "50233347",
-      "source": "hn",
-      "title": "A mathematician reads the AI future",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "score": 54,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50233347",
-      "author": "artninja1988",
-      "publishedAt": "2026-10-25T16:31:21.000Z"
-    },
-    {
-      "id": "50233304",
-      "source": "hn",
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "score": 201,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50233304",
-      "author": "romanhn",
-      "publishedAt": "2026-10-25T16:28:26.000Z"
     },
     {
       "id": "50234699",
       "source": "hn",
       "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
       "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-      "score": 24,
+      "score": 78,
       "commentsUrl": "https://news.ycombinator.com/item?id=50234699",
       "author": "hacker_v_s",
       "publishedAt": "2026-10-25T18:42:23.000Z"
     },
     {
-      "id": "50236828",
+      "id": "50242884",
       "source": "hn",
-      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-      "score": 34,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50236828",
-      "author": "levzettelin",
-      "publishedAt": "2026-10-25T22:49:06.000Z"
+      "title": "R/opensource bans AI-made and AI-focused projects and non-English speakers",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50242884",
+      "author": "NordStreamYacht",
+      "publishedAt": "2026-10-26T13:00:51.000Z"
+    },
+    {
+      "id": "50233347",
+      "source": "hn",
+      "title": "A mathematician reads the AI future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "score": 68,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50233347",
+      "author": "artninja1988",
+      "publishedAt": "2026-10-25T16:31:21.000Z"
+    },
+    {
+      "id": "50227041",
+      "source": "hn",
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "score": 62,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50227041",
+      "author": "lumbroso",
+      "publishedAt": "2026-10-25T00:43:47.000Z"
+    },
+    {
+      "id": "50242957",
+      "source": "hn",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "score": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50242957",
+      "author": "meetpateltech",
+      "publishedAt": "2026-10-26T13:06:35.000Z"
+    },
+    {
+      "id": "50233304",
+      "source": "hn",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "score": 228,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50233304",
+      "author": "romanhn",
+      "publishedAt": "2026-10-25T16:28:26.000Z"
     },
     {
       "id": "50227356",
       "source": "hn",
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "score": 353,
+      "score": 363,
       "commentsUrl": "https://news.ycombinator.com/item?id=50227356",
       "author": "gmays",
       "publishedAt": "2026-10-25T01:33:49.000Z"
-    },
-    {
-      "id": "50226419",
-      "source": "hn",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 506,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50226419",
-      "author": "gnabgib",
-      "publishedAt": "2026-10-24T23:11:54.000Z"
-    },
-    {
-      "id": "50235909",
-      "source": "hn",
-      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
-      "url": "https://github.com/SRN0129/Agenttrust",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50235909",
-      "author": "SRN0129",
-      "publishedAt": "2026-10-25T20:46:50.000Z"
-    },
-    {
-      "id": "50229827",
-      "source": "hn",
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "score": 134,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50229827",
-      "author": "thunderbong",
-      "publishedAt": "2026-10-25T09:51:17.000Z"
-    },
-    {
-      "id": "50223647",
-      "source": "hn",
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "score": 243,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50223647",
-      "author": "canjobear",
-      "publishedAt": "2026-10-24T18:04:57.000Z"
-    },
-    {
-      "id": "50235883",
-      "source": "hn",
-      "title": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
-      "url": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50235883",
-      "author": "paulbaumgart",
-      "publishedAt": "2026-10-25T20:44:07.000Z"
     }
   ]
 }

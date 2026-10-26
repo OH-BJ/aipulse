@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-10-26T02:37:57.166Z",
-  "items": []
+  "fetchedAt": "2026-10-26T18:01:58.351Z",
+  "items": [
+    {
+      "id": "2610.31670",
+      "source": "arxiv",
+      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+      "url": "https://arxiv.org/abs/2610.31670",
+      "author": "Yunfei Xie, Howard H. Qian, Shiyi Lan +2",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Robot foundation models are typically evaluated through costly closed-loop rollouts, motivating low-cost offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests tha…"
+    },
+    {
+      "id": "2610.31386",
+      "source": "arxiv",
+      "title": "Convex Equilibrium Potentials for Monge--Amp\\`ere: Curvature Bounds and A Posteriori Evaluation",
+      "url": "https://arxiv.org/abs/2610.31386",
+      "author": "Edison V\\'azquez, Yingdong Lu, Tomasz Nowicki",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Equilibrium neural networks define their hidden state as the fixed point of a contraction, so their effective depth is set at evaluation time rather than by the architecture. Using them for fully nonl…"
+    },
+    {
+      "id": "2610.31180",
+      "source": "arxiv",
+      "title": "Track finding and particle identification performance with particle physics foundation models",
+      "url": "https://arxiv.org/abs/2610.31180",
+      "author": "Shuhang Li, Haiwang Yu, Gabor Galgoczi +9",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Modern high energy nuclear and particle physics experiments produce large amounts of sparse data that must be reduced significantly in size before performing physics analysis. Recently, there has been…"
+    },
+    {
+      "id": "2610.30196",
+      "source": "arxiv",
+      "title": "Differentially Private Synthetic Data via Generalized Moment Matching",
+      "url": "https://arxiv.org/abs/2610.30196",
+      "author": "Rundong Ding, Yiyun He, Yizhe Zhu",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "We study $(\\varepsilon,\\delta)$-differentially private synthetic data for arbitrary databases of $n$ records in $[-1,1]^d$ under a specified integral probability metric (IPM). We introduce generalized…"
+    },
+    {
+      "id": "2610.29982",
+      "source": "arxiv",
+      "title": "The Price of Current-Effect Inference in Nonstationary Multi-Armed Bandits",
+      "url": "https://arxiv.org/abs/2610.29982",
+      "author": "Sharan Sahu, Martin T. Wells",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Adaptive experiments use bandit algorithms to favor interventions with higher expected rewards. However, decision-makers also require reliable inference on current treatment effects: differences betwe…"
+    },
+    {
+      "id": "2610.28195",
+      "source": "arxiv",
+      "title": "Attractive Faces Skew Text-to-Image Reward Models and Leaderboards",
+      "url": "https://arxiv.org/abs/2610.28195",
+      "author": "Harvey Mannering, Zhiwu Huang, Adam Pr\\\"ugel-Bennett",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Human preference is now central to the evaluation, guidance, finetuning, and ranking of text-to-image models. However, the susceptibility of human preferences to bias in image generation remains under…"
+    },
+    {
+      "id": "2610.27675",
+      "source": "arxiv",
+      "title": "CyberHull: Deterministic Malicious URL Isolation via Convex Hull",
+      "url": "https://arxiv.org/abs/2610.27675",
+      "author": "Avijit Gayen, Aniket Ghosal, Durba Chakraborty +3",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "The emergence of increasingly sophisticated and evasion-resistant phishing attack strategies represents a significant threat to modern cybersecurity, particularly in cyber-physical systems and interne…"
+    },
+    {
+      "id": "2610.26944",
+      "source": "arxiv",
+      "title": "Strictly Replicable Realizable Learning: Unknown Marginals, Finite-Class Interpolation, and the Cost of Shared Randomness",
+      "url": "https://arxiv.org/abs/2610.26944",
+      "author": "Guangjian Zhang",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Strict replicability requires two independent training samples, processed with the same random seed, to produce exactly the same hypothesis. We study realizable Boolean learning under unknown and know…"
+    },
+    {
+      "id": "2610.26458",
+      "source": "arxiv",
+      "title": "Residual-Based Adaptive Refinement in Hybrid Variational-Collocation PINNs for Singular Elliptic PDEs with Mixed Dirichlet-Neumann Boundary Conditions",
+      "url": "https://arxiv.org/abs/2610.26458",
+      "author": "Somnath Giri, Muslim Malik, Rishikesh Yadav",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Solutions of second-order elliptic PDE problems on nonconvex or cracked domains with mixed Dirichlet-Neumann conditions typically lie outside $H^2(\\Omega)$. Near re-entrant corners, crack tips and poi…"
+    },
+    {
+      "id": "2610.16892",
+      "source": "arxiv",
+      "title": "Barycentric Guidance: Turning Foundation Image Editors into Continuous Affective Controllers",
+      "url": "https://arxiv.org/abs/2610.16892",
+      "author": "Harvey Mannering, Zhiwu Huang, Adam Pr\\\"ugel-Bennett",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Emotions are expressed on a continuum and are naturally described in the valence-arousal (VA) space. Existing VA-based image editors are typically training-based and domain-specific, limiting them to…"
+    },
+    {
+      "id": "2610.15571",
+      "source": "arxiv",
+      "title": "Latent-Space Importance Weighting under Covariate Shift",
+      "url": "https://arxiv.org/abs/2610.15571",
+      "author": "Yuling Jiao, Lican Kang, Yang Xiang +2",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "In this work, we propose a transfer learning algorithm for covariate shift, integrating sample reweighting with representation learning. A key feature of our approach is the use of a lower-dimensional…"
+    },
+    {
+      "id": "2610.12132",
+      "source": "arxiv",
+      "title": "A neural density functional for polymer electrolytes with exact structure and transferable Coulomb coupling",
+      "url": "https://arxiv.org/abs/2610.12132",
+      "author": "Liyao Lyu",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Ion correlations set the structure of polymer electrolytes and depend on the host permittivity, which is low and varies between polymers. A functional that carries these correlations from molecular si…"
+    },
+    {
+      "id": "2610.10625",
+      "source": "arxiv",
+      "title": "Safe at One Loop, Risky at Another: Aligning Safety Across Recurrent Depths in Looped Language Models",
+      "url": "https://arxiv.org/abs/2610.10625",
+      "author": "Yi Wang, Xiuyuan Qi, Dongqi Han +2",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Looped Language Models (LoopLMs) provide a parameter efficient approach to scaling model capabilities through repeated use of shared parameters across recurrent steps. Since each recurrent depth can b…"
+    },
+    {
+      "id": "2610.09552",
+      "source": "arxiv",
+      "title": "Constitution-Guided Watermarking",
+      "url": "https://arxiv.org/abs/2610.09552",
+      "author": "Toluwani Aremu, Samuele Poppi, Nils Lukas",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Regulation such as the EU AI Act requires providers of language models to mark generated text in a machine-readable way. Watermarking meets this requirement by embedding a secret-key signal during gen…"
+    },
+    {
+      "id": "2610.06513",
+      "source": "arxiv",
+      "title": "SOL: Measuring Gaps between Text Distributions by Double Sliced Wasserstein Metrics",
+      "url": "https://arxiv.org/abs/2610.06513",
+      "author": "Gregor Kornhardt, Moritz Piening, Jannis Chemseddine +1",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Evaluating text generation requires measuring how well the generated distribution matches the data distribution. For autoregressive models, this is done by the perplexity. Diffusion and flow-based lan…"
+    },
+    {
+      "id": "2609.02728",
+      "source": "arxiv",
+      "title": "Momentum in large-batch training: Polyak enlarges the critical batch size, Nesterov improves data efficiency",
+      "url": "https://arxiv.org/abs/2609.02728",
+      "author": "Jia-Nan Wang, Zixun Huang, Kairui Li +2",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "We study when and how momentum improves large-batch training in the one-pass regime, using power-law kernel regression as a tractable setting. We first characterize risk stability through the \\emph{cr…"
+    },
+    {
+      "id": "2608.25304",
+      "source": "arxiv",
+      "title": "SAUSS: Stochastic Approximation with Unbiased Simulated Scores for Limited Dependent Variable Models",
+      "url": "https://arxiv.org/abs/2608.25304",
+      "author": "Sokbae Lee, Yuan Liao, Myung Hwan Seo +1",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Simulated maximum likelihood is widely used in latent-variable models where likelihood evaluation requires intractable integrals or probabilities. With a fixed number of simulation draws, its estimati…"
+    },
+    {
+      "id": "2608.24164",
+      "source": "arxiv",
+      "title": "Decoupling candidate dual AGN from chance superpositions in the GOTHIC survey via a deep-learning framework",
+      "url": "https://arxiv.org/abs/2608.24164",
+      "author": "Bhavesh Mukheja, Snehanshu Saha, Anwesh Bhattacharya +3",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Dual active galactic nuclei (DAGN) mark a critical phase in the evolution of merging galaxies and the pairing of supermassive black holes, yet they remain difficult to identify in large imaging survey…"
+    },
+    {
+      "id": "2607.22313",
+      "source": "arxiv",
+      "title": "Learning Bidirectional Causal Interactions with Heteroscedastic Neural Networks",
+      "url": "https://arxiv.org/abs/2607.22313",
+      "author": "Masahiro Tanaka",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Estimating contemporaneous bidirectional interactions from observational data is difficult because each outcome is endogenous to the other, while flexible regressions may capture only reduced-form dep…"
+    },
+    {
+      "id": "2607.06957",
+      "source": "arxiv",
+      "title": "Flow-ERD: Agent-type Aware Flow Matching With Entropy-Regularized Distillation for Diverse Traffic Simulation",
+      "url": "https://arxiv.org/abs/2607.06957",
+      "author": "Seulbin Hwang, Kiyoung Om, Dae Jung Kim +1",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Realistic and diverse traffic simulation is essential to autonomous driving development. Yet prevailing benchmarks predominantly reward realism, and recent methods have optimized accordingly, leaving…"
+    },
+    {
+      "id": "2607.02746",
+      "source": "arxiv",
+      "title": "CodeJeNN: A simple C++ neural network generator for physics applications",
+      "url": "https://arxiv.org/abs/2607.02746",
+      "author": "Jay Arcities, Pavel Popov, Eric J Ching +2",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Machine learning has shown promise for physics applications, but integrating Python-based libraries into high-performance C++ solvers can create performance bottlenecks. We present CodeJeNN, which add…"
+    },
+    {
+      "id": "2606.30930",
+      "source": "arxiv",
+      "title": "Convergence of Large-Stepsize SGD for the Cross-entropy Loss via Stochastic Lyapunov Stability",
+      "url": "https://arxiv.org/abs/2606.30930",
+      "author": "Konstantinos Emmanouilidis, Lachlan MacDonald, Salma Tarmoun +1",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Modern deep learning has been shown to operate using learning rates far larger than those justified by classical optimization theory. Most prior analyses of this phenomenon focus on deterministic grad…"
+    },
+    {
+      "id": "2606.23550",
+      "source": "arxiv",
+      "title": "Approximating velocity fields with planted point attractors via Neural-ODE for classification purposes",
+      "url": "https://arxiv.org/abs/2606.23550",
+      "author": "Feliciano Giuseppe Pacifico, Duccio Fanelli, Lorenzo Buffoni +3",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "In this work, Neural ODEs equipped with a curated collection of equilibrium points have been successfully employed for classification tasks. The planted fixed points serve as indicators for the target…"
+    },
+    {
+      "id": "2606.09109",
+      "source": "arxiv",
+      "title": "Driving Video Retrieval for Complex Queries with Structured Grounding",
+      "url": "https://arxiv.org/abs/2606.09109",
+      "author": "Manyi Yao, Sparsh Garg, Christian Shelton +2",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Video retrieval at scale is central to data curation and safety validation in autonomous driving, where users want to find not only scenes but also dynamic events such as cut-ins and hard braking. Exi…"
+    },
+    {
+      "id": "2605.29748",
+      "source": "arxiv",
+      "title": "Instance-dependent Stochastic Lipschitz bandit",
+      "url": "https://arxiv.org/abs/2605.29748",
+      "author": "Marius Potfer, Vianney Perchet",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "We study the Lipschitz bandit problem, where a learner sequentially maximizes an unknown Lipschitz function $f$ over a domain $\\mathcal{X} \\subset [0,1]^d$ using noisy pointwise evaluations. Existing…"
+    },
+    {
+      "id": "2605.27043",
+      "source": "arxiv",
+      "title": "Causal Representation Learning for Generalisable Recommendation",
+      "url": "https://arxiv.org/abs/2605.27043",
+      "author": "Yorgos Felekis, Michael O'Riordan, Oriol Corcoll +1",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Predictive models trained on observational data often fail to generalise when deployed, especially when the training data is a product of the system being optimised. Recommender systems are a canonica…"
+    },
+    {
+      "id": "2605.14879",
+      "source": "arxiv",
+      "title": "Temporal Fair Division in Multi-Agent Systems: From Precise Alternation Metrics to Scalable Coordination Proxies",
+      "url": "https://arxiv.org/abs/2605.14879",
+      "author": "Nikolaos Al. Papadopoulos, Ismael Tito Freire, Marti Sanchez-Fibla +1",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Many multi-agent games and simulated environments involve several independent, often learning, agents repeatedly competing for a shared resource. Conventional fairness measures assess whether resource…"
+    },
+    {
+      "id": "2603.10346",
+      "source": "arxiv",
+      "title": "On the Complexity of Best-Arm Identification in Non-Stationary Linear Bandits",
+      "url": "https://arxiv.org/abs/2603.10346",
+      "author": "Leo Maynard-Zhang, Zhihan Xiong, Kevin Jamieson +1",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "We study the fixed-budget best-arm identification (BAI) problem in non-stationary linear bandits. Concretely, given a fixed time budget $T\\in \\mathbb{N}$, finite arm set $\\mathcal{X} \\subset \\mathbb{R…"
+    },
+    {
+      "id": "2603.01820",
+      "source": "arxiv",
+      "title": "How do standard time series forecasting benchmarks translate to finance? A broad study of risk adjusted performance",
+      "url": "https://arxiv.org/abs/2603.01820",
+      "author": "Adir Saly-Kaufmann, Kieran Wood, Jan-Peter Calliess +1",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "Forecasting financial asset returns is challenging due to low signal-to-noise ratios, non-stationarity and heavy-tailed distributions. We benchmark 16 deep learning architectures for time series forec…"
+    },
+    {
+      "id": "2602.23906",
+      "source": "arxiv",
+      "title": "Half-Truths Break Similarity-Based Retrieval",
+      "url": "https://arxiv.org/abs/2602.23906",
+      "author": "Bora Kargi, Arnas Uselis, Seong Joon Oh",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "summary": "When a text description is extended with an additional detail, image-text similarity should drop if that detail is wrong. We show that CLIP-style dual encoders often violate this intuition: appending…"
+    }
+  ]
 }
