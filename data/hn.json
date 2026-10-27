@@ -1,13 +1,63 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-27T03:12:53.838Z",
+  "fetchedAt": "2026-10-27T17:10:11.679Z",
   "items": [
+    {
+      "id": "50257326",
+      "source": "hn",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "score": 283,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50257326",
+      "author": "rbanffy",
+      "publishedAt": "2026-10-27T11:08:15.000Z"
+    },
+    {
+      "id": "50261819",
+      "source": "hn",
+      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "score": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50261819",
+      "author": "gumby",
+      "publishedAt": "2026-10-27T16:40:15.000Z"
+    },
+    {
+      "id": "50260814",
+      "source": "hn",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "score": 91,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50260814",
+      "author": "car",
+      "publishedAt": "2026-10-27T15:28:26.000Z"
+    },
+    {
+      "id": "50255298",
+      "source": "hn",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "score": 358,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50255298",
+      "author": "ilreb",
+      "publishedAt": "2026-10-27T06:25:37.000Z"
+    },
+    {
+      "id": "50261589",
+      "source": "hn",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50261589",
+      "author": "dpflan",
+      "publishedAt": "2026-10-27T16:25:30.000Z"
+    },
     {
       "id": "50252159",
       "source": "hn",
       "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
       "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "score": 89,
+      "score": 173,
       "commentsUrl": "https://news.ycombinator.com/item?id=50252159",
       "author": "wondersky",
       "publishedAt": "2026-10-26T22:41:48.000Z"
@@ -17,90 +67,60 @@
       "source": "hn",
       "title": "GPT-6.1 Terra",
       "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "score": 534,
+      "score": 615,
       "commentsUrl": "https://news.ycombinator.com/item?id=50248124",
       "author": "meetpateltech",
       "publishedAt": "2026-10-26T18:01:17.000Z"
     },
     {
-      "id": "50242939",
+      "id": "50257325",
       "source": "hn",
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "score": 1507,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50242939",
-      "author": "SiNTEx",
-      "publishedAt": "2026-10-26T13:04:50.000Z"
+      "title": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work/",
+      "score": 572,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50257325",
+      "author": "oorestisime",
+      "publishedAt": "2026-10-27T11:08:14.000Z"
+    },
+    {
+      "id": "50261396",
+      "source": "hn",
+      "title": "Ask HN: T'was the night of Claude Reset and quota left: Funniest app you built?",
+      "url": "https://news.ycombinator.com/item?id=50261396",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50261396",
+      "author": "julianpye",
+      "publishedAt": "2026-10-27T16:11:38.000Z"
+    },
+    {
+      "id": "50261110",
+      "source": "hn",
+      "title": "Can You Make a 3D Game with AI, If You Don't Know How to Do Anything?",
+      "url": "https://buildtounderstand.substack.com/p/can-you-make-a-3d-game-if-you-dont",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50261110",
+      "author": "aishlykov",
+      "publishedAt": "2026-10-27T15:50:22.000Z"
     },
     {
       "id": "50246238",
       "source": "hn",
       "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
       "url": "https://github.com/FrigadeHQ/hob",
-      "score": 125,
+      "score": 159,
       "commentsUrl": "https://news.ycombinator.com/item?id=50246238",
       "author": "pancomplex",
       "publishedAt": "2026-10-26T16:12:29.000Z"
     },
     {
-      "id": "50246658",
+      "id": "50242939",
       "source": "hn",
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "score": 269,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50246658",
-      "author": "matthieu_bl",
-      "publishedAt": "2026-10-26T16:35:44.000Z"
-    },
-    {
-      "id": "50251062",
-      "source": "hn",
-      "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-      "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-      "score": 49,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50251062",
-      "author": "cdrnsf",
-      "publishedAt": "2026-10-26T21:13:59.000Z"
-    },
-    {
-      "id": "50253325",
-      "source": "hn",
-      "title": "Meaning After an AI Eucatastrophe",
-      "url": "https://meaningness.substack.com/p/meaning-after-an-ai-eucatastrophe",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50253325",
-      "author": "eatitraw",
-      "publishedAt": "2026-10-27T00:45:16.000Z"
-    },
-    {
-      "id": "50236102",
-      "source": "hn",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "score": 418,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50236102",
-      "author": "minimaxir",
-      "publishedAt": "2026-10-25T21:11:31.000Z"
-    },
-    {
-      "id": "50234699",
-      "source": "hn",
-      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-      "score": 84,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50234699",
-      "author": "hacker_v_s",
-      "publishedAt": "2026-10-25T18:42:23.000Z"
-    },
-    {
-      "id": "50251200",
-      "source": "hn",
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50251200",
-      "author": "limbicsystem",
-      "publishedAt": "2026-10-26T21:24:18.000Z"
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "score": 1673,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50242939",
+      "author": "SiNTEx",
+      "publishedAt": "2026-10-26T13:04:50.000Z"
     }
   ]
 }
