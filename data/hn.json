@@ -1,136 +1,126 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-28T03:27:13.929Z",
+  "fetchedAt": "2026-10-28T17:45:11.228Z",
   "items": [
     {
-      "id": "50265609",
+      "id": "50276792",
       "source": "hn",
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "score": 156,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50265609",
-      "author": "dataking",
-      "publishedAt": "2026-10-27T20:50:42.000Z"
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "score": 210,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50276792",
+      "author": "acossta",
+      "publishedAt": "2026-10-28T17:01:23.000Z"
+    },
+    {
+      "id": "50275626",
+      "source": "hn",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "score": 67,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50275626",
+      "author": "landonxi",
+      "publishedAt": "2026-10-28T15:46:30.000Z"
+    },
+    {
+      "id": "50273396",
+      "source": "hn",
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "score": 268,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50273396",
+      "author": "danso",
+      "publishedAt": "2026-10-28T13:41:30.000Z"
     },
     {
       "id": "50264853",
       "source": "hn",
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "url": "https://www.brangus.io/survival-llm",
-      "score": 217,
+      "score": 481,
       "commentsUrl": "https://news.ycombinator.com/item?id=50264853",
       "author": "Luc",
       "publishedAt": "2026-10-27T19:55:06.000Z"
     },
     {
-      "id": "50266701",
+      "id": "50265609",
       "source": "hn",
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "score": 30,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50266701",
-      "author": "matthieu_bl",
-      "publishedAt": "2026-10-27T22:23:37.000Z"
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "score": 299,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50265609",
+      "author": "dataking",
+      "publishedAt": "2026-10-27T20:50:42.000Z"
     },
     {
-      "id": "50261589",
+      "id": "50271271",
       "source": "hn",
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "score": 284,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50261589",
-      "author": "dpflan",
-      "publishedAt": "2026-10-27T16:25:30.000Z"
-    },
-    {
-      "id": "50260814",
-      "source": "hn",
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "score": 488,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50260814",
-      "author": "car",
-      "publishedAt": "2026-10-27T15:28:26.000Z"
+      "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+      "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+      "score": 55,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50271271",
+      "author": "tom2026hn",
+      "publishedAt": "2026-10-28T10:10:58.000Z"
     },
     {
       "id": "50257326",
       "source": "hn",
       "title": "Wikipedia's Cleanup of AI-Generated Content",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "score": 461,
+      "score": 493,
       "commentsUrl": "https://news.ycombinator.com/item?id=50257326",
       "author": "rbanffy",
       "publishedAt": "2026-10-27T11:08:15.000Z"
+    },
+    {
+      "id": "50266701",
+      "source": "hn",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "score": 46,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50266701",
+      "author": "matthieu_bl",
+      "publishedAt": "2026-10-27T22:23:37.000Z"
     },
     {
       "id": "50255298",
       "source": "hn",
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "score": 443,
+      "score": 470,
       "commentsUrl": "https://news.ycombinator.com/item?id=50255298",
       "author": "ilreb",
       "publishedAt": "2026-10-27T06:25:37.000Z"
     },
     {
-      "id": "50261819",
+      "id": "50261589",
       "source": "hn",
-      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "score": 351,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50261819",
-      "author": "gumby",
-      "publishedAt": "2026-10-27T16:40:15.000Z"
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "score": 353,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50261589",
+      "author": "dpflan",
+      "publishedAt": "2026-10-27T16:25:30.000Z"
     },
     {
-      "id": "50248124",
+      "id": "50266910",
       "source": "hn",
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "score": 626,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50248124",
-      "author": "meetpateltech",
-      "publishedAt": "2026-10-26T18:01:17.000Z"
+      "title": "Qwen has alter egos triggered by flipping a single neuron",
+      "url": "https://qwen-neurons-site.vercel.app/",
+      "score": 47,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50266910",
+      "author": "thoughtpeddler",
+      "publishedAt": "2026-10-27T22:42:51.000Z"
     },
     {
-      "id": "50266764",
+      "id": "50260814",
       "source": "hn",
-      "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
-      "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
-      "score": 13,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50266764",
-      "author": "hn_acker",
-      "publishedAt": "2026-10-27T22:29:50.000Z"
-    },
-    {
-      "id": "50265205",
-      "source": "hn",
-      "title": "Discovering and exploiting vulnerabilities in real-world software with Claude",
-      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50265205",
-      "author": "ledoge",
-      "publishedAt": "2026-10-27T20:18:54.000Z"
-    },
-    {
-      "id": "50263325",
-      "source": "hn",
-      "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
-      "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-      "score": 33,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50263325",
-      "author": "JumpCrisscross",
-      "publishedAt": "2026-10-27T18:08:20.000Z"
-    },
-    {
-      "id": "50268075",
-      "source": "hn",
-      "title": "Amazon defines the role of the developer in the age of AI",
-      "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50268075",
-      "author": "emot",
-      "publishedAt": "2026-10-28T01:00:33.000Z"
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "score": 557,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50260814",
+      "author": "car",
+      "publishedAt": "2026-10-27T15:28:26.000Z"
     }
   ]
 }
