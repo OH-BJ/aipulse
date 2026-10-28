@@ -1,7 +1,214 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-10-27T17:10:12.266Z",
+  "fetchedAt": "2026-10-28T03:27:14.100Z",
   "items": [
+    {
+      "id": "36144",
+      "source": "geeknews",
+      "title": "PHP2Shell: 악용 시도와 취약점 조치 동향",
+      "url": "https://news.hada.io/topic?id=36144",
+      "commentsUrl": "https://news.hada.io/topic?id=36144",
+      "author": "neo",
+      "publishedAt": "2026-10-28T01:33:35.000Z"
+    },
+    {
+      "id": "36142",
+      "source": "geeknews",
+      "title": "Apple, iPhone Duo 내부 화면 깨짐 발생 시 애플케어+ 없이 교체 가능하다고 밝혀",
+      "url": "https://news.hada.io/topic?id=36142",
+      "commentsUrl": "https://news.hada.io/topic?id=36142",
+      "author": "xguru",
+      "publishedAt": "2026-10-28T01:12:07.000Z"
+    },
+    {
+      "id": "36141",
+      "source": "geeknews",
+      "title": "tar-codec - uv가 도입한 빠르고 안전한 Rust tar 파서",
+      "url": "https://news.hada.io/topic?id=36141",
+      "commentsUrl": "https://news.hada.io/topic?id=36141",
+      "author": "neo",
+      "publishedAt": "2026-10-28T01:04:34.000Z"
+    },
+    {
+      "id": "36140",
+      "source": "geeknews",
+      "title": "Show GN: Aqueous 압축 파일 포맷",
+      "url": "https://news.hada.io/topic?id=36140",
+      "commentsUrl": "https://news.hada.io/topic?id=36140",
+      "author": "lifthrasiir",
+      "publishedAt": "2026-10-28T00:55:16.000Z"
+    },
+    {
+      "id": "36138",
+      "source": "geeknews",
+      "title": "Cursor Agent SDK - 팀 맞춤형 AI 에이전트를 코드로 만들고 배포하는 프레임워크",
+      "url": "https://news.hada.io/topic?id=36138",
+      "commentsUrl": "https://news.hada.io/topic?id=36138",
+      "author": "xguru",
+      "publishedAt": "2026-10-28T00:44:03.000Z"
+    },
+    {
+      "id": "36137",
+      "source": "geeknews",
+      "title": "Unlimited-OCR 2 - 페이지 간 문맥을 이어 수백 페이지 문서를 파싱하는 OCR 모델",
+      "url": "https://news.hada.io/topic?id=36137",
+      "commentsUrl": "https://news.hada.io/topic?id=36137",
+      "author": "xguru",
+      "publishedAt": "2026-10-28T00:37:25.000Z"
+    },
+    {
+      "id": "36136",
+      "source": "geeknews",
+      "title": "StreamFusion - Flink SQL을 Rust 기반 네이티브 실행기로 가속하는 도구",
+      "url": "https://news.hada.io/topic?id=36136",
+      "commentsUrl": "https://news.hada.io/topic?id=36136",
+      "author": "xguru",
+      "publishedAt": "2026-10-28T00:30:02.000Z"
+    },
+    {
+      "id": "36135",
+      "source": "geeknews",
+      "title": "AI 시대의 개발자를 꿈꾸는 학생 개발자에게",
+      "url": "https://news.hada.io/topic?id=36135",
+      "commentsUrl": "https://news.hada.io/topic?id=36135",
+      "author": "neo",
+      "publishedAt": "2026-10-28T00:13:02.000Z"
+    },
+    {
+      "id": "36134",
+      "source": "geeknews",
+      "title": "지수 시간 가설은 거짓이다 [PDF]",
+      "url": "https://news.hada.io/topic?id=36134",
+      "commentsUrl": "https://news.hada.io/topic?id=36134",
+      "author": "neo",
+      "publishedAt": "2026-10-28T00:09:29.000Z"
+    },
+    {
+      "id": "36133",
+      "source": "geeknews",
+      "title": "Shitty Screenshare - 화면 공유 화질을 직접 제어할 수 있도록 WHIP을 지원하자",
+      "url": "https://news.hada.io/topic?id=36133",
+      "commentsUrl": "https://news.hada.io/topic?id=36133",
+      "author": "neo",
+      "publishedAt": "2026-10-28T00:06:29.000Z"
+    },
+    {
+      "id": "36132",
+      "source": "geeknews",
+      "title": "LFM3 - 로컬 실행과 맞춤 학습을 위한 2B급 멀티모달 AI 모델군",
+      "url": "https://news.hada.io/topic?id=36132",
+      "commentsUrl": "https://news.hada.io/topic?id=36132",
+      "author": "xguru",
+      "publishedAt": "2026-10-28T00:03:11.000Z"
+    },
+    {
+      "id": "36130",
+      "source": "geeknews",
+      "title": "Survival LLM - 인터넷 없이 작동하는 AI 도우미와 비상 대응 자료실",
+      "url": "https://news.hada.io/topic?id=36130",
+      "commentsUrl": "https://news.hada.io/topic?id=36130",
+      "author": "xguru",
+      "publishedAt": "2026-10-27T23:49:14.000Z"
+    },
+    {
+      "id": "36129",
+      "source": "geeknews",
+      "title": "Tailscale SSH 권한 상승 취약점 조사 중 - 불필요한 SSH 포워딩 비활성화 권고",
+      "url": "https://news.hada.io/topic?id=36129",
+      "commentsUrl": "https://news.hada.io/topic?id=36129",
+      "author": "xguru",
+      "publishedAt": "2026-10-27T23:47:11.000Z"
+    },
+    {
+      "id": "36128",
+      "source": "geeknews",
+      "title": "Discord, 곧 누구나 Google에서 공개 서버 메시지를 찾을 수 있게 할 예정",
+      "url": "https://news.hada.io/topic?id=36128",
+      "commentsUrl": "https://news.hada.io/topic?id=36128",
+      "author": "neo",
+      "publishedAt": "2026-10-27T23:36:57.000Z"
+    },
+    {
+      "id": "36127",
+      "source": "geeknews",
+      "title": "Amazon, 거듭된 실패 끝에 AI 부문 대폭 축소",
+      "url": "https://news.hada.io/topic?id=36127",
+      "commentsUrl": "https://news.hada.io/topic?id=36127",
+      "author": "neo",
+      "publishedAt": "2026-10-27T23:33:57.000Z"
+    },
+    {
+      "id": "36126",
+      "source": "geeknews",
+      "title": "미 국제개발처 해체 주도한 28세 DOGE 인사, 인사 부서엔 고용 기록도 없었다",
+      "url": "https://news.hada.io/topic?id=36126",
+      "commentsUrl": "https://news.hada.io/topic?id=36126",
+      "author": "neo",
+      "publishedAt": "2026-10-27T22:31:26.000Z"
+    },
+    {
+      "id": "36125",
+      "source": "geeknews",
+      "title": "Apple, M6를 탑재한 신규 MacBook Pro 14 공개",
+      "url": "https://news.hada.io/topic?id=36125",
+      "commentsUrl": "https://news.hada.io/topic?id=36125",
+      "author": "neo",
+      "publishedAt": "2026-10-27T21:33:09.000Z"
+    },
+    {
+      "id": "36124",
+      "source": "geeknews",
+      "title": "내 데이터가 모델 학습에 사용되나요?",
+      "url": "https://news.hada.io/topic?id=36124",
+      "commentsUrl": "https://news.hada.io/topic?id=36124",
+      "author": "neo",
+      "publishedAt": "2026-10-27T19:42:48.000Z"
+    },
+    {
+      "id": "36123",
+      "source": "geeknews",
+      "title": "Anthropic, 불법 입수한 Stanford 교수들의 책으로 Claude 학습",
+      "url": "https://news.hada.io/topic?id=36123",
+      "commentsUrl": "https://news.hada.io/topic?id=36123",
+      "author": "neo",
+      "publishedAt": "2026-10-27T19:39:48.000Z"
+    },
+    {
+      "id": "36122",
+      "source": "geeknews",
+      "title": "경찰, AI로 ‘수상한’ 이동 패턴을 보이는 운전자에게 정차 요구",
+      "url": "https://news.hada.io/topic?id=36122",
+      "commentsUrl": "https://news.hada.io/topic?id=36122",
+      "author": "neo",
+      "publishedAt": "2026-10-27T19:36:48.000Z"
+    },
+    {
+      "id": "36121",
+      "source": "geeknews",
+      "title": "Ghostty 1.4.0 - 스크롤백 압축과 성능 개선을 담은 터미널 업데이트",
+      "url": "https://news.hada.io/topic?id=36121",
+      "commentsUrl": "https://news.hada.io/topic?id=36121",
+      "author": "neo",
+      "publishedAt": "2026-10-27T18:41:07.000Z"
+    },
+    {
+      "id": "36120",
+      "source": "geeknews",
+      "title": "Apple, M6 탑재 신규 iMac 공개",
+      "url": "https://news.hada.io/topic?id=36120",
+      "commentsUrl": "https://news.hada.io/topic?id=36120",
+      "author": "neo",
+      "publishedAt": "2026-10-27T18:38:07.000Z"
+    },
+    {
+      "id": "36119",
+      "source": "geeknews",
+      "title": "Genie 4 - 소리와 대화를 함께 생성하는 실시간 월드 모델",
+      "url": "https://news.hada.io/topic?id=36119",
+      "commentsUrl": "https://news.hada.io/topic?id=36119",
+      "author": "neo",
+      "publishedAt": "2026-10-27T17:32:54.000Z"
+    },
     {
       "id": "36118",
       "source": "geeknews",
@@ -23,7 +230,7 @@
     {
       "id": "36115",
       "source": "geeknews",
-      "title": "Wikipedia의 AI 생성 콘텐츠 정리 작업",
+      "title": "위키백과 편집자들이 AI 생성 글을 찾아내고 정리하는 방법",
       "url": "https://news.hada.io/topic?id=36115",
       "commentsUrl": "https://news.hada.io/topic?id=36115",
       "author": "neo",
@@ -64,213 +271,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=36110",
       "author": "neo",
       "publishedAt": "2026-10-27T13:41:07.000Z"
-    },
-    {
-      "id": "36109",
-      "source": "geeknews",
-      "title": "Roblox가 허락 없이 Open3DLab 등에서 성인 콘텐츠를 포함한 모델 145GB를 다운로드함",
-      "url": "https://news.hada.io/topic?id=36109",
-      "commentsUrl": "https://news.hada.io/topic?id=36109",
-      "author": "neo",
-      "publishedAt": "2026-10-27T13:38:07.000Z"
-    },
-    {
-      "id": "36106",
-      "source": "geeknews",
-      "title": "Stalwart v1.0: 지구상에서 가장 빠른 메일 서버",
-      "url": "https://news.hada.io/topic?id=36106",
-      "commentsUrl": "https://news.hada.io/topic?id=36106",
-      "author": "neo",
-      "publishedAt": "2026-10-27T12:03:51.000Z"
-    },
-    {
-      "id": "36105",
-      "source": "geeknews",
-      "title": "AI 시대의 맨먼스 미신",
-      "url": "https://news.hada.io/topic?id=36105",
-      "commentsUrl": "https://news.hada.io/topic?id=36105",
-      "author": "neo",
-      "publishedAt": "2026-10-27T11:32:28.000Z"
-    },
-    {
-      "id": "36104",
-      "source": "geeknews",
-      "title": "Show GN: HypeSeoul – AI가 그린 서울 전체, 서울 시간대로 움직이는 지도",
-      "url": "https://news.hada.io/topic?id=36104",
-      "commentsUrl": "https://news.hada.io/topic?id=36104",
-      "author": "bitjaru0402",
-      "publishedAt": "2026-10-27T10:43:30.000Z"
-    },
-    {
-      "id": "36103",
-      "source": "geeknews",
-      "title": "vLLM의 도구 호출 정확도 문제 해결하기",
-      "url": "https://news.hada.io/topic?id=36103",
-      "commentsUrl": "https://news.hada.io/topic?id=36103",
-      "author": "neo",
-      "publishedAt": "2026-10-27T10:33:31.000Z"
-    },
-    {
-      "id": "36101",
-      "source": "geeknews",
-      "title": "Show GN: 봉오리 - 질문에 답하다 보면 하루가 정리되는 AI 일기",
-      "url": "https://news.hada.io/topic?id=36101",
-      "commentsUrl": "https://news.hada.io/topic?id=36101",
-      "author": "jmineekim",
-      "publishedAt": "2026-10-27T10:04:55.000Z"
-    },
-    {
-      "id": "36100",
-      "source": "geeknews",
-      "title": "Show GN: 카드 배틀 - Decision Model을 이용한..",
-      "url": "https://news.hada.io/topic?id=36100",
-      "commentsUrl": "https://news.hada.io/topic?id=36100",
-      "author": "sungchi",
-      "publishedAt": "2026-10-27T09:37:57.000Z"
-    },
-    {
-      "id": "36099",
-      "source": "geeknews",
-      "title": "미래에서 온 남자: Johnny는 왜 추상화를 멈추지 못했나",
-      "url": "https://news.hada.io/topic?id=36099",
-      "commentsUrl": "https://news.hada.io/topic?id=36099",
-      "author": "neo",
-      "publishedAt": "2026-10-27T08:36:56.000Z"
-    },
-    {
-      "id": "36098",
-      "source": "geeknews",
-      "title": "Nietzschian Debugger - 답 대신 질문으로 스스로 버그 원인을 찾게 하는 디버거",
-      "url": "https://news.hada.io/topic?id=36098",
-      "commentsUrl": "https://news.hada.io/topic?id=36098",
-      "author": "neo",
-      "publishedAt": "2026-10-27T07:32:17.000Z"
-    },
-    {
-      "id": "36096",
-      "source": "geeknews",
-      "title": "Pratt 파싱을 기억하려고 정리해 보기",
-      "url": "https://news.hada.io/topic?id=36096",
-      "commentsUrl": "https://news.hada.io/topic?id=36096",
-      "author": "neo",
-      "publishedAt": "2026-10-27T06:01:58.000Z"
-    },
-    {
-      "id": "36095",
-      "source": "geeknews",
-      "title": "Show GN: Claude Code Desk Look (mod) - 클로드 코드 CLI 를 데스크탑 앱처럼 바꾸기",
-      "url": "https://news.hada.io/topic?id=36095",
-      "commentsUrl": "https://news.hada.io/topic?id=36095",
-      "author": "sam1287",
-      "publishedAt": "2026-10-27T05:54:13.000Z"
-    },
-    {
-      "id": "36094",
-      "source": "geeknews",
-      "title": "애플, 새로운 iPad mini 공개 - 8.5인치 OLED와 A20 Pro 탑재",
-      "url": "https://news.hada.io/topic?id=36094",
-      "commentsUrl": "https://news.hada.io/topic?id=36094",
-      "author": "neo",
-      "publishedAt": "2026-10-27T05:33:24.000Z"
-    },
-    {
-      "id": "36089",
-      "source": "geeknews",
-      "title": "태양광 발전, 원자력보다 커지고 있음",
-      "url": "https://news.hada.io/topic?id=36089",
-      "commentsUrl": "https://news.hada.io/topic?id=36089",
-      "author": "neo",
-      "publishedAt": "2026-10-27T03:34:50.000Z"
-    },
-    {
-      "id": "36088",
-      "source": "geeknews",
-      "title": "Ask GN: 이런 LLM 서비스 써보신분 계신가요?",
-      "url": "https://news.hada.io/topic?id=36088",
-      "commentsUrl": "https://news.hada.io/topic?id=36088",
-      "author": "bytecakelake",
-      "publishedAt": "2026-10-27T02:32:17.000Z"
-    },
-    {
-      "id": "36087",
-      "source": "geeknews",
-      "title": "Show GN: Translate Book: arXiv - arXiv 논문을 원문 구조 그대로 번역본으로 변환해 주는 Claude Code 스킬",
-      "url": "https://news.hada.io/topic?id=36087",
-      "commentsUrl": "https://news.hada.io/topic?id=36087",
-      "author": "steamika",
-      "publishedAt": "2026-10-27T01:47:08.000Z"
-    },
-    {
-      "id": "36086",
-      "source": "geeknews",
-      "title": "Show GN: 호보코드 - 다시 간 장소에서 메모를 알려주는 아이폰 앱",
-      "url": "https://news.hada.io/topic?id=36086",
-      "commentsUrl": "https://news.hada.io/topic?id=36086",
-      "author": "bigcataroido",
-      "publishedAt": "2026-10-27T01:43:17.000Z"
-    },
-    {
-      "id": "36083",
-      "source": "geeknews",
-      "title": "Show GN: Spring AI Privacy Guardrails - Spring AI용 개인정보 보호, 도구 권한 제어, 콘텐츠 검사",
-      "url": "https://news.hada.io/topic?id=36083",
-      "commentsUrl": "https://news.hada.io/topic?id=36083",
-      "author": "ultramancode",
-      "publishedAt": "2026-10-27T00:45:53.000Z"
-    },
-    {
-      "id": "36082",
-      "source": "geeknews",
-      "title": "Ask GN: 메모리 도구를 사용 하고 있지 않은 이유는 무엇인가요?",
-      "url": "https://news.hada.io/topic?id=36082",
-      "commentsUrl": "https://news.hada.io/topic?id=36082",
-      "author": "kimsunwoo",
-      "publishedAt": "2026-10-27T00:44:32.000Z"
-    },
-    {
-      "id": "36081",
-      "source": "geeknews",
-      "title": "미국, 헬륨을 핵심 소재로 지정",
-      "url": "https://news.hada.io/topic?id=36081",
-      "commentsUrl": "https://news.hada.io/topic?id=36081",
-      "author": "neo",
-      "publishedAt": "2026-10-27T00:43:02.000Z"
-    },
-    {
-      "id": "36080",
-      "source": "geeknews",
-      "title": "거짓인 Exponential Time Hypothesis [pdf]",
-      "url": "https://news.hada.io/topic?id=36080",
-      "commentsUrl": "https://news.hada.io/topic?id=36080",
-      "author": "neo",
-      "publishedAt": "2026-10-27T00:40:02.000Z"
-    },
-    {
-      "id": "36079",
-      "source": "geeknews",
-      "title": "Show GN: Twin Deck - 키보드 중심의 macOS·Windows 듀얼 패널 파일 관리자",
-      "url": "https://news.hada.io/topic?id=36079",
-      "commentsUrl": "https://news.hada.io/topic?id=36079",
-      "author": "nicegyuha",
-      "publishedAt": "2026-10-27T00:38:28.000Z"
-    },
-    {
-      "id": "36077",
-      "source": "geeknews",
-      "title": "CorridorKey 2.0 - 영상 전체를 분석하는 로컬 신경망 그린/블루 스크린 키잉 도구",
-      "url": "https://news.hada.io/topic?id=36077",
-      "commentsUrl": "https://news.hada.io/topic?id=36077",
-      "author": "neo",
-      "publishedAt": "2026-10-27T00:37:02.000Z"
-    },
-    {
-      "id": "36076",
-      "source": "geeknews",
-      "title": "Outer Shell - SSH 서버와 엣지 기기에 그래픽 앱 환경을 추가하는 셸",
-      "url": "https://news.hada.io/topic?id=36076",
-      "commentsUrl": "https://news.hada.io/topic?id=36076",
-      "author": "xguru",
-      "publishedAt": "2026-10-27T00:30:02.000Z"
     }
   ]
 }

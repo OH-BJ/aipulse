@@ -1,126 +1,136 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-27T17:10:11.679Z",
+  "fetchedAt": "2026-10-28T03:27:13.929Z",
   "items": [
     {
-      "id": "50257326",
+      "id": "50265609",
       "source": "hn",
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "score": 283,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50257326",
-      "author": "rbanffy",
-      "publishedAt": "2026-10-27T11:08:15.000Z"
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "score": 156,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50265609",
+      "author": "dataking",
+      "publishedAt": "2026-10-27T20:50:42.000Z"
     },
     {
-      "id": "50261819",
+      "id": "50264853",
       "source": "hn",
-      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "score": 22,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50261819",
-      "author": "gumby",
-      "publishedAt": "2026-10-27T16:40:15.000Z"
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "score": 217,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50264853",
+      "author": "Luc",
+      "publishedAt": "2026-10-27T19:55:06.000Z"
     },
     {
-      "id": "50260814",
+      "id": "50266701",
       "source": "hn",
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "score": 91,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50260814",
-      "author": "car",
-      "publishedAt": "2026-10-27T15:28:26.000Z"
-    },
-    {
-      "id": "50255298",
-      "source": "hn",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "score": 358,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50255298",
-      "author": "ilreb",
-      "publishedAt": "2026-10-27T06:25:37.000Z"
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "score": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50266701",
+      "author": "matthieu_bl",
+      "publishedAt": "2026-10-27T22:23:37.000Z"
     },
     {
       "id": "50261589",
       "source": "hn",
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "score": 10,
+      "score": 284,
       "commentsUrl": "https://news.ycombinator.com/item?id=50261589",
       "author": "dpflan",
       "publishedAt": "2026-10-27T16:25:30.000Z"
     },
     {
-      "id": "50252159",
+      "id": "50260814",
       "source": "hn",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "score": 173,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50252159",
-      "author": "wondersky",
-      "publishedAt": "2026-10-26T22:41:48.000Z"
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "score": 488,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50260814",
+      "author": "car",
+      "publishedAt": "2026-10-27T15:28:26.000Z"
+    },
+    {
+      "id": "50257326",
+      "source": "hn",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "score": 461,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50257326",
+      "author": "rbanffy",
+      "publishedAt": "2026-10-27T11:08:15.000Z"
+    },
+    {
+      "id": "50255298",
+      "source": "hn",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "score": 443,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50255298",
+      "author": "ilreb",
+      "publishedAt": "2026-10-27T06:25:37.000Z"
+    },
+    {
+      "id": "50261819",
+      "source": "hn",
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "score": 351,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50261819",
+      "author": "gumby",
+      "publishedAt": "2026-10-27T16:40:15.000Z"
     },
     {
       "id": "50248124",
       "source": "hn",
       "title": "GPT-6.1 Terra",
       "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "score": 615,
+      "score": 626,
       "commentsUrl": "https://news.ycombinator.com/item?id=50248124",
       "author": "meetpateltech",
       "publishedAt": "2026-10-26T18:01:17.000Z"
     },
     {
-      "id": "50257325",
+      "id": "50266764",
       "source": "hn",
-      "title": "AI promised less work. I've never worked more",
-      "url": "https://oioannou.com/blog/ai-promised-less-work/",
-      "score": 572,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50257325",
-      "author": "oorestisime",
-      "publishedAt": "2026-10-27T11:08:14.000Z"
+      "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
+      "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
+      "score": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50266764",
+      "author": "hn_acker",
+      "publishedAt": "2026-10-27T22:29:50.000Z"
     },
     {
-      "id": "50261396",
+      "id": "50265205",
       "source": "hn",
-      "title": "Ask HN: T'was the night of Claude Reset and quota left: Funniest app you built?",
-      "url": "https://news.ycombinator.com/item?id=50261396",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50261396",
-      "author": "julianpye",
-      "publishedAt": "2026-10-27T16:11:38.000Z"
+      "title": "Discovering and exploiting vulnerabilities in real-world software with Claude",
+      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50265205",
+      "author": "ledoge",
+      "publishedAt": "2026-10-27T20:18:54.000Z"
     },
     {
-      "id": "50261110",
+      "id": "50263325",
       "source": "hn",
-      "title": "Can You Make a 3D Game with AI, If You Don't Know How to Do Anything?",
-      "url": "https://buildtounderstand.substack.com/p/can-you-make-a-3d-game-if-you-dont",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50261110",
-      "author": "aishlykov",
-      "publishedAt": "2026-10-27T15:50:22.000Z"
+      "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
+      "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50263325",
+      "author": "JumpCrisscross",
+      "publishedAt": "2026-10-27T18:08:20.000Z"
     },
     {
-      "id": "50246238",
+      "id": "50268075",
       "source": "hn",
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "url": "https://github.com/FrigadeHQ/hob",
-      "score": 159,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50246238",
-      "author": "pancomplex",
-      "publishedAt": "2026-10-26T16:12:29.000Z"
-    },
-    {
-      "id": "50242939",
-      "source": "hn",
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "score": 1673,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50242939",
-      "author": "SiNTEx",
-      "publishedAt": "2026-10-26T13:04:50.000Z"
+      "title": "Amazon defines the role of the developer in the age of AI",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50268075",
+      "author": "emot",
+      "publishedAt": "2026-10-28T01:00:33.000Z"
     }
   ]
 }
