@@ -1,33 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-29T17:52:13.749Z",
+  "fetchedAt": "2026-10-30T03:52:21.149Z",
   "items": [
     {
       "id": "50289418",
       "source": "hn",
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "score": 697,
+      "score": 1258,
       "commentsUrl": "https://news.ycombinator.com/item?id=50289418",
       "author": "kuberwastaken",
       "publishedAt": "2026-10-29T14:13:21.000Z"
     },
     {
-      "id": "50290283",
+      "id": "50296486",
       "source": "hn",
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "score": 82,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50290283",
-      "author": "mektrik",
-      "publishedAt": "2026-10-29T15:06:17.000Z"
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "score": 212,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50296486",
+      "author": "sandslash",
+      "publishedAt": "2026-10-29T21:40:28.000Z"
     },
     {
       "id": "50290177",
       "source": "hn",
       "title": "LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "score": 77,
+      "score": 376,
       "commentsUrl": "https://news.ycombinator.com/item?id=50290177",
       "author": "ibobev",
       "publishedAt": "2026-10-29T14:57:55.000Z"
@@ -37,17 +37,67 @@
       "source": "hn",
       "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
       "url": "https://news.ycombinator.com/item?id=50291116",
-      "score": 16,
+      "score": 55,
       "commentsUrl": "https://news.ycombinator.com/item?id=50291116",
       "author": "shong0504",
       "publishedAt": "2026-10-29T15:56:32.000Z"
+    },
+    {
+      "id": "50294486",
+      "source": "hn",
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "score": 44,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50294486",
+      "author": "matco11",
+      "publishedAt": "2026-10-29T19:25:48.000Z"
+    },
+    {
+      "id": "50290283",
+      "source": "hn",
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "score": 152,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50290283",
+      "author": "mektrik",
+      "publishedAt": "2026-10-29T15:06:17.000Z"
+    },
+    {
+      "id": "50292727",
+      "source": "hn",
+      "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
+      "url": "https://fig.blue/posts/duet-is-the-future/",
+      "score": 110,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50292727",
+      "author": "nathanfig",
+      "publishedAt": "2026-10-29T17:24:25.000Z"
+    },
+    {
+      "id": "50297037",
+      "source": "hn",
+      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+      "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "score": 43,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50297037",
+      "author": "dabinat",
+      "publishedAt": "2026-10-29T22:22:13.000Z"
+    },
+    {
+      "id": "50297159",
+      "source": "hn",
+      "title": "Open-weight AI models can exploit the patch gap",
+      "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50297159",
+      "author": "merksittich",
+      "publishedAt": "2026-10-29T22:32:46.000Z"
     },
     {
       "id": "50288019",
       "source": "hn",
       "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
       "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "score": 307,
+      "score": 329,
       "commentsUrl": "https://news.ycombinator.com/item?id=50288019",
       "author": "theHocineSaad",
       "publishedAt": "2026-10-29T12:41:56.000Z"
@@ -57,130 +107,50 @@
       "source": "hn",
       "title": "Gemini 4 Carbon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "score": 989,
+      "score": 1002,
       "commentsUrl": "https://news.ycombinator.com/item?id=50276792",
       "author": "acossta",
       "publishedAt": "2026-10-28T17:01:23.000Z"
-    },
-    {
-      "id": "50284255",
-      "source": "hn",
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "score": 530,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50284255",
-      "author": "NikZaal",
-      "publishedAt": "2026-10-29T03:33:42.000Z"
-    },
-    {
-      "id": "50290324",
-      "source": "hn",
-      "title": "MIT professor says AI is taking over your brain",
-      "url": "https://www.bostonglobe.com/2026/10/23/opinion/ai-impact-cognitive-ability-eric-so/",
-      "score": 24,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50290324",
-      "author": "leawi",
-      "publishedAt": "2026-10-29T15:08:49.000Z"
-    },
-    {
-      "id": "50286738",
-      "source": "hn",
-      "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
-      "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-      "score": 39,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50286738",
-      "author": "pseudolus",
-      "publishedAt": "2026-10-29T10:08:04.000Z"
     },
     {
       "id": "50275626",
       "source": "hn",
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
       "url": "https://surgehq.ai/blog/dayjob-tax",
-      "score": 248,
+      "score": 254,
       "commentsUrl": "https://news.ycombinator.com/item?id=50275626",
       "author": "landonxi",
       "publishedAt": "2026-10-28T15:46:30.000Z"
     },
     {
-      "id": "50286818",
+      "id": "50296602",
       "source": "hn",
-      "title": "AI Article Reviews Dominate Human Peer Reviews at Their Best [pdf]",
-      "url": "https://gking.harvard.edu/files/peerless.pdf",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50286818",
-      "author": "qsi",
-      "publishedAt": "2026-10-29T10:18:52.000Z"
+      "title": "Proton goes all in on using AI",
+      "url": "https://convo.casa/@b/117525936178835007",
+      "score": 82,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50296602",
+      "author": "ColinWright",
+      "publishedAt": "2026-10-29T21:49:28.000Z"
     },
     {
-      "id": "50251200",
+      "id": "50293025",
       "source": "hn",
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "score": 346,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50251200",
-      "author": "limbicsystem",
-      "publishedAt": "2026-10-26T21:24:18.000Z"
+      "title": "AI Contributions to GHC",
+      "url": "https://serokell.io/blog/ai-contributions-to-ghc",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50293025",
+      "author": "alexandersechin",
+      "publishedAt": "2026-10-29T17:42:30.000Z"
     },
     {
-      "id": "50264853",
+      "id": "50284255",
       "source": "hn",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "score": 535,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50264853",
-      "author": "Luc",
-      "publishedAt": "2026-10-27T19:55:06.000Z"
-    },
-    {
-      "id": "50273396",
-      "source": "hn",
-      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-      "score": 478,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50273396",
-      "author": "danso",
-      "publishedAt": "2026-10-28T13:41:30.000Z"
-    },
-    {
-      "id": "50286306",
-      "source": "hn",
-      "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
-      "url": "https://news.ycombinator.com/item?id=50286306",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50286306",
-      "author": "TekMol",
-      "publishedAt": "2026-10-29T09:06:12.000Z"
-    },
-    {
-      "id": "50289692",
-      "source": "hn",
-      "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-      "score": 48,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50289692",
-      "author": "Frieren",
-      "publishedAt": "2026-10-29T14:29:06.000Z"
-    },
-    {
-      "id": "50273416",
-      "source": "hn",
-      "title": "Decompiling Games with AI: Virtueel Zoetermeer",
-      "url": "https://bou.ke/blog/zoetermeer/",
-      "score": 32,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50273416",
-      "author": "bouk",
-      "publishedAt": "2026-10-28T13:43:32.000Z"
-    },
-    {
-      "id": "50257326",
-      "source": "hn",
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "score": 513,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50257326",
-      "author": "rbanffy",
-      "publishedAt": "2026-10-27T11:08:15.000Z"
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "score": 562,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50284255",
+      "author": "NikZaal",
+      "publishedAt": "2026-10-29T03:33:42.000Z"
     }
   ]
 }
