@@ -1,156 +1,156 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-30T03:52:21.149Z",
+  "fetchedAt": "2026-10-30T17:34:02.615Z",
   "items": [
     {
-      "id": "50289418",
+      "id": "50306442",
       "source": "hn",
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "score": 1258,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50289418",
-      "author": "kuberwastaken",
-      "publishedAt": "2026-10-29T14:13:21.000Z"
+      "title": "A Working Nintendo in ~1GB of Qwen Weights",
+      "url": "https://github.com/dbreunig/nesformer",
+      "score": 39,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50306442",
+      "author": "dbreunig",
+      "publishedAt": "2026-10-30T16:40:22.000Z"
+    },
+    {
+      "id": "50300683",
+      "source": "hn",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "score": 413,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50300683",
+      "author": "_chall",
+      "publishedAt": "2026-10-30T07:09:12.000Z"
+    },
+    {
+      "id": "50305693",
+      "source": "hn",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "score": 218,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50305693",
+      "author": "dorianniemiec",
+      "publishedAt": "2026-10-30T15:52:18.000Z"
+    },
+    {
+      "id": "50306008",
+      "source": "hn",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "score": 80,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50306008",
+      "author": "mindracer",
+      "publishedAt": "2026-10-30T16:13:02.000Z"
+    },
+    {
+      "id": "50296730",
+      "source": "hn",
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50296730",
+      "author": "sgondala_ycapp",
+      "publishedAt": "2026-10-29T21:58:34.000Z"
     },
     {
       "id": "50296486",
       "source": "hn",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "score": 212,
+      "score": 377,
       "commentsUrl": "https://news.ycombinator.com/item?id=50296486",
       "author": "sandslash",
       "publishedAt": "2026-10-29T21:40:28.000Z"
+    },
+    {
+      "id": "50289418",
+      "source": "hn",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "score": 1654,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50289418",
+      "author": "kuberwastaken",
+      "publishedAt": "2026-10-29T14:13:21.000Z"
     },
     {
       "id": "50290177",
       "source": "hn",
       "title": "LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "score": 376,
+      "score": 572,
       "commentsUrl": "https://news.ycombinator.com/item?id=50290177",
       "author": "ibobev",
       "publishedAt": "2026-10-29T14:57:55.000Z"
+    },
+    {
+      "id": "50304280",
+      "source": "hn",
+      "title": "Neal Stephenson on AI and What Comes Next [video]",
+      "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+      "score": 38,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50304280",
+      "author": "justin66",
+      "publishedAt": "2026-10-30T14:18:34.000Z"
+    },
+    {
+      "id": "50306974",
+      "source": "hn",
+      "title": "ASRock Industrial AI Box-A395 Review: Taking Strix Halo to Work – ServeTheHome",
+      "url": "https://www.servethehome.com/asrock-industrial-ai-box-a395-review-taking-strix-halo-to-work/",
+      "score": 3,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50306974",
+      "author": "rbanffy",
+      "publishedAt": "2026-10-30T17:13:19.000Z"
     },
     {
       "id": "50291116",
       "source": "hn",
       "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
       "url": "https://news.ycombinator.com/item?id=50291116",
-      "score": 55,
+      "score": 76,
       "commentsUrl": "https://news.ycombinator.com/item?id=50291116",
       "author": "shong0504",
       "publishedAt": "2026-10-29T15:56:32.000Z"
-    },
-    {
-      "id": "50294486",
-      "source": "hn",
-      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
-      "score": 44,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50294486",
-      "author": "matco11",
-      "publishedAt": "2026-10-29T19:25:48.000Z"
     },
     {
       "id": "50290283",
       "source": "hn",
       "title": "Zombie stats: Where the numbers AI quotes come from",
       "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "score": 152,
+      "score": 174,
       "commentsUrl": "https://news.ycombinator.com/item?id=50290283",
       "author": "mektrik",
       "publishedAt": "2026-10-29T15:06:17.000Z"
     },
     {
-      "id": "50292727",
+      "id": "50294486",
       "source": "hn",
-      "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
-      "url": "https://fig.blue/posts/duet-is-the-future/",
-      "score": 110,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50292727",
-      "author": "nathanfig",
-      "publishedAt": "2026-10-29T17:24:25.000Z"
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "score": 50,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50294486",
+      "author": "matco11",
+      "publishedAt": "2026-10-29T19:25:48.000Z"
     },
     {
-      "id": "50297037",
+      "id": "50306361",
       "source": "hn",
-      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-      "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-      "score": 43,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50297037",
-      "author": "dabinat",
-      "publishedAt": "2026-10-29T22:22:13.000Z"
+      "title": "OpenAI CEO Sam Altman Says You Having DRAM Instead of Data Centers Is \"Terrible\"",
+      "url": "https://www.thegamer.com/openai-ceo-sam-altman-consumers-having-dram-terrible/",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50306361",
+      "author": "josephcsible",
+      "publishedAt": "2026-10-30T16:34:48.000Z"
     },
     {
-      "id": "50297159",
+      "id": "50304358",
       "source": "hn",
-      "title": "Open-weight AI models can exploit the patch gap",
-      "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50297159",
-      "author": "merksittich",
-      "publishedAt": "2026-10-29T22:32:46.000Z"
-    },
-    {
-      "id": "50288019",
-      "source": "hn",
-      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "score": 329,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50288019",
-      "author": "theHocineSaad",
-      "publishedAt": "2026-10-29T12:41:56.000Z"
-    },
-    {
-      "id": "50276792",
-      "source": "hn",
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "score": 1002,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50276792",
-      "author": "acossta",
-      "publishedAt": "2026-10-28T17:01:23.000Z"
-    },
-    {
-      "id": "50275626",
-      "source": "hn",
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "score": 254,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50275626",
-      "author": "landonxi",
-      "publishedAt": "2026-10-28T15:46:30.000Z"
-    },
-    {
-      "id": "50296602",
-      "source": "hn",
-      "title": "Proton goes all in on using AI",
-      "url": "https://convo.casa/@b/117525936178835007",
-      "score": 82,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50296602",
-      "author": "ColinWright",
-      "publishedAt": "2026-10-29T21:49:28.000Z"
-    },
-    {
-      "id": "50293025",
-      "source": "hn",
-      "title": "AI Contributions to GHC",
-      "url": "https://serokell.io/blog/ai-contributions-to-ghc",
-      "score": 16,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50293025",
-      "author": "alexandersechin",
-      "publishedAt": "2026-10-29T17:42:30.000Z"
-    },
-    {
-      "id": "50284255",
-      "source": "hn",
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "score": 562,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50284255",
-      "author": "NikZaal",
-      "publishedAt": "2026-10-29T03:33:42.000Z"
+      "title": "Anthropic Cracking Down on Video Game Rewrites",
+      "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+      "score": 79,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50304358",
+      "author": "jacquesm",
+      "publishedAt": "2026-10-30T14:22:52.000Z"
     }
   ]
 }
