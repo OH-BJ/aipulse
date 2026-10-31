@@ -1,13 +1,33 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-31T03:36:40.805Z",
+  "fetchedAt": "2026-10-31T16:38:27.235Z",
   "items": [
+    {
+      "id": "50290652",
+      "source": "hn",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "score": 128,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50290652",
+      "author": "datascientist",
+      "publishedAt": "2026-10-29T15:29:48.000Z"
+    },
+    {
+      "id": "50304122",
+      "source": "hn",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "score": 266,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50304122",
+      "author": "taubek",
+      "publishedAt": "2026-10-30T14:08:20.000Z"
+    },
     {
       "id": "50300683",
       "source": "hn",
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "score": 807,
+      "score": 946,
       "commentsUrl": "https://news.ycombinator.com/item?id=50300683",
       "author": "_chall",
       "publishedAt": "2026-10-30T07:09:12.000Z"
@@ -17,47 +37,37 @@
       "source": "hn",
       "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
       "url": "https://github.com/dbreunig/nesformer",
-      "score": 206,
+      "score": 275,
       "commentsUrl": "https://news.ycombinator.com/item?id=50306442",
       "author": "dbreunig",
       "publishedAt": "2026-10-30T16:40:22.000Z"
-    },
-    {
-      "id": "50304122",
-      "source": "hn",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "score": 128,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50304122",
-      "author": "taubek",
-      "publishedAt": "2026-10-30T14:08:20.000Z"
     },
     {
       "id": "50296730",
       "source": "hn",
       "title": "Building an AI-native engineering org",
       "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "score": 118,
+      "score": 173,
       "commentsUrl": "https://news.ycombinator.com/item?id=50296730",
       "author": "sgondala_ycapp",
       "publishedAt": "2026-10-29T21:58:34.000Z"
     },
     {
-      "id": "50305693",
+      "id": "50315987",
       "source": "hn",
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "score": 527,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50305693",
-      "author": "dorianniemiec",
-      "publishedAt": "2026-10-30T15:52:18.000Z"
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "score": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50315987",
+      "author": "gloxkiqcza",
+      "publishedAt": "2026-10-31T13:25:00.000Z"
     },
     {
       "id": "50289418",
       "source": "hn",
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "score": 1684,
+      "score": 1701,
       "commentsUrl": "https://news.ycombinator.com/item?id=50289418",
       "author": "kuberwastaken",
       "publishedAt": "2026-10-29T14:13:21.000Z"
@@ -67,60 +77,50 @@
       "source": "hn",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "score": 399,
+      "score": 408,
       "commentsUrl": "https://news.ycombinator.com/item?id=50296486",
       "author": "sandslash",
       "publishedAt": "2026-10-29T21:40:28.000Z"
     },
     {
-      "id": "50310431",
+      "id": "50305693",
       "source": "hn",
-      "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-      "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
-      "score": 43,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50310431",
-      "author": "geox",
-      "publishedAt": "2026-10-30T21:32:35.000Z"
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "score": 627,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50305693",
+      "author": "dorianniemiec",
+      "publishedAt": "2026-10-30T15:52:18.000Z"
+    },
+    {
+      "id": "50316635",
+      "source": "hn",
+      "title": "Anthropic orders AI tool Claude to stop remaking video games",
+      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50316635",
+      "author": "llm_nerd",
+      "publishedAt": "2026-10-31T14:41:44.000Z"
     },
     {
       "id": "50305724",
       "source": "hn",
       "title": "Some Thing is Happening A note from the AI companies",
       "url": "https://alanbellows.com/some-thing-is-happening/",
-      "score": 30,
+      "score": 59,
       "commentsUrl": "https://news.ycombinator.com/item?id=50305724",
       "author": "DamnInteresting",
       "publishedAt": "2026-10-30T15:53:42.000Z"
-    },
-    {
-      "id": "50307219",
-      "source": "hn",
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-      "score": 288,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50307219",
-      "author": "petethomas",
-      "publishedAt": "2026-10-30T17:27:25.000Z"
     },
     {
       "id": "50291116",
       "source": "hn",
       "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
       "url": "https://news.ycombinator.com/item?id=50291116",
-      "score": 76,
+      "score": 77,
       "commentsUrl": "https://news.ycombinator.com/item?id=50291116",
       "author": "shong0504",
       "publishedAt": "2026-10-29T15:56:32.000Z"
-    },
-    {
-      "id": "50290283",
-      "source": "hn",
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "score": 177,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50290283",
-      "author": "mektrik",
-      "publishedAt": "2026-10-29T15:06:17.000Z"
     }
   ]
 }
