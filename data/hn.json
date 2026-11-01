@@ -1,126 +1,176 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-10-31T16:38:27.235Z",
+  "fetchedAt": "2026-11-01T03:42:11.786Z",
   "items": [
+    {
+      "id": "50320599",
+      "source": "hn",
+      "title": "AI text watermarking and quality loss",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "score": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50320599",
+      "author": "danielfoster",
+      "publishedAt": "2026-10-31T21:50:13.000Z"
+    },
+    {
+      "id": "50319358",
+      "source": "hn",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "score": 237,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50319358",
+      "author": "pretext",
+      "publishedAt": "2026-10-31T19:39:19.000Z"
+    },
     {
       "id": "50290652",
       "source": "hn",
       "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
       "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "score": 128,
+      "score": 194,
       "commentsUrl": "https://news.ycombinator.com/item?id=50290652",
       "author": "datascientist",
       "publishedAt": "2026-10-29T15:29:48.000Z"
-    },
-    {
-      "id": "50304122",
-      "source": "hn",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "score": 266,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50304122",
-      "author": "taubek",
-      "publishedAt": "2026-10-30T14:08:20.000Z"
     },
     {
       "id": "50300683",
       "source": "hn",
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "score": 946,
+      "score": 971,
       "commentsUrl": "https://news.ycombinator.com/item?id=50300683",
       "author": "_chall",
       "publishedAt": "2026-10-30T07:09:12.000Z"
     },
     {
-      "id": "50306442",
+      "id": "50318871",
       "source": "hn",
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "url": "https://github.com/dbreunig/nesformer",
-      "score": 275,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50306442",
-      "author": "dbreunig",
-      "publishedAt": "2026-10-30T16:40:22.000Z"
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "score": 161,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50318871",
+      "author": "ryanmadden",
+      "publishedAt": "2026-10-31T18:50:34.000Z"
     },
     {
-      "id": "50296730",
+      "id": "50320255",
       "source": "hn",
-      "title": "Building an AI-native engineering org",
-      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "score": 173,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50296730",
-      "author": "sgondala_ycapp",
-      "publishedAt": "2026-10-29T21:58:34.000Z"
+      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "score": 110,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50320255",
+      "author": "firesteelrain",
+      "publishedAt": "2026-10-31T21:07:58.000Z"
     },
     {
-      "id": "50315987",
+      "id": "50322251",
       "source": "hn",
-      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-      "score": 24,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50315987",
-      "author": "gloxkiqcza",
-      "publishedAt": "2026-10-31T13:25:00.000Z"
+      "title": "AI Made Me Homeless",
+      "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50322251",
+      "author": "tchalla",
+      "publishedAt": "2026-11-01T02:38:11.000Z"
+    },
+    {
+      "id": "50321734",
+      "source": "hn",
+      "title": "How AI may drive union-resistant tech workers to the bargaining table",
+      "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50321734",
+      "author": "civilchaos",
+      "publishedAt": "2026-11-01T00:49:23.000Z"
+    },
+    {
+      "id": "50321065",
+      "source": "hn",
+      "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs",
+      "score": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50321065",
+      "author": "xqcgrek2",
+      "publishedAt": "2026-10-31T22:57:27.000Z"
     },
     {
       "id": "50289418",
       "source": "hn",
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "score": 1701,
+      "score": 1706,
       "commentsUrl": "https://news.ycombinator.com/item?id=50289418",
       "author": "kuberwastaken",
       "publishedAt": "2026-10-29T14:13:21.000Z"
+    },
+    {
+      "id": "50296730",
+      "source": "hn",
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "score": 184,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50296730",
+      "author": "sgondala_ycapp",
+      "publishedAt": "2026-10-29T21:58:34.000Z"
+    },
+    {
+      "id": "50318401",
+      "source": "hn",
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "score": 74,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50318401",
+      "author": "the-mitr",
+      "publishedAt": "2026-10-31T18:02:29.000Z"
     },
     {
       "id": "50296486",
       "source": "hn",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "score": 408,
+      "score": 412,
       "commentsUrl": "https://news.ycombinator.com/item?id=50296486",
       "author": "sandslash",
       "publishedAt": "2026-10-29T21:40:28.000Z"
+    },
+    {
+      "id": "50304122",
+      "source": "hn",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "score": 302,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50304122",
+      "author": "taubek",
+      "publishedAt": "2026-10-30T14:08:20.000Z"
+    },
+    {
+      "id": "50322458",
+      "source": "hn",
+      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+      "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50322458",
+      "author": "PeterHolzwarth",
+      "publishedAt": "2026-11-01T03:27:55.000Z"
+    },
+    {
+      "id": "50315987",
+      "source": "hn",
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "score": 67,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50315987",
+      "author": "gloxkiqcza",
+      "publishedAt": "2026-10-31T13:25:00.000Z"
     },
     {
       "id": "50305693",
       "source": "hn",
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "score": 627,
+      "score": 649,
       "commentsUrl": "https://news.ycombinator.com/item?id=50305693",
       "author": "dorianniemiec",
       "publishedAt": "2026-10-30T15:52:18.000Z"
-    },
-    {
-      "id": "50316635",
-      "source": "hn",
-      "title": "Anthropic orders AI tool Claude to stop remaking video games",
-      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50316635",
-      "author": "llm_nerd",
-      "publishedAt": "2026-10-31T14:41:44.000Z"
-    },
-    {
-      "id": "50305724",
-      "source": "hn",
-      "title": "Some Thing is Happening A note from the AI companies",
-      "url": "https://alanbellows.com/some-thing-is-happening/",
-      "score": 59,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50305724",
-      "author": "DamnInteresting",
-      "publishedAt": "2026-10-30T15:53:42.000Z"
-    },
-    {
-      "id": "50291116",
-      "source": "hn",
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50291116",
-      "score": 77,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50291116",
-      "author": "shong0504",
-      "publishedAt": "2026-10-29T15:56:32.000Z"
     }
   ]
 }
