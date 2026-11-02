@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-11-02T03:47:17.991Z",
-  "items": []
+  "fetchedAt": "2026-11-02T21:14:00.494Z",
+  "items": [
+    {
+      "id": "2610.39812",
+      "source": "arxiv",
+      "title": "GROME: GROunding Factorized MEmory into Video World Models",
+      "url": "https://arxiv.org/abs/2610.39812",
+      "author": "Fang Yu, Xiaoxue Wu, Haiyu Zhang +6",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Long-horizon consistency is essential for video world models, yet it becomes difficult to maintain once observed content falls outside the context window. Existing memory mechanisms either retrieve hi…"
+    },
+    {
+      "id": "2610.38378",
+      "source": "arxiv",
+      "title": "Towards Reliable, Scalable, and Value-Aligned Generative Recommendation for Large-Scale Advertising",
+      "url": "https://arxiv.org/abs/2610.38378",
+      "author": "Yatong Xiao, Yibo Sheng, Lixiang Wang +7",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Generative recommendation (GR) reformulates item retrieval as autoregressive generation of discrete semantic identifiers (SIDs), offering a unified paradigm for personalized recommendation. GR4AD, as…"
+    },
+    {
+      "id": "2610.37381",
+      "source": "arxiv",
+      "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+      "url": "https://arxiv.org/abs/2610.37381",
+      "author": "Hanqing Wang, Zhaotian Cai, Ruichuan An +12",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can ca…"
+    },
+    {
+      "id": "2610.34599",
+      "source": "arxiv",
+      "title": "An Agentic AI Workflow for Liver Lesion Segmentation and Structured Radiology Reporting",
+      "url": "https://arxiv.org/abs/2610.34599",
+      "author": "Fatma Ahmed Mansour, Rahatara Ferdousi, Manar Fathy Elshenawy",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Despite advances in automated liver lesion segmentation, a gap remains between image-derived predictions and clinically interpretable radiology reports. Bridging this gap requires quantitative measure…"
+    },
+    {
+      "id": "2610.34422",
+      "source": "arxiv",
+      "title": "From GPU to TPU with Coding Agents: What Works, What Fails, and What It Costs?",
+      "url": "https://arxiv.org/abs/2610.34422",
+      "author": "Hui Sun, Anderson Uch\\^oa, Wesley K. G. Assun\\c{c}\\~ao",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "A coding agent can migrate a machine learning workload, report success, and still change how the model trains. Rising compute costs, limited accelerator capacity, and vendor dependence are pushing org…"
+    },
+    {
+      "id": "2610.29641",
+      "source": "arxiv",
+      "title": "Recursive Code Evolution for Task-Oriented Semantic Communications",
+      "url": "https://arxiv.org/abs/2610.29641",
+      "author": "Yan Gong, Zheng Chu, Wei Koong Chai +5",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Semantic communication jointly optimizes inference accuracy, channel use, and computation, yet the underlying communication program is typically specified before training. This paper presents ComRSI (…"
+    },
+    {
+      "id": "2610.22731",
+      "source": "arxiv",
+      "title": "Accelerated Dataflow: scaling inference in streaming data analytics with efficiency",
+      "url": "https://arxiv.org/abs/2610.22731",
+      "author": "RuiLong Jiang, Dustin Rhodes, Danny McCormick +2",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Streaming data analytics helps businesses identify opportunities and spot risks in a timely fashion. As large language model (LLM) usage grows, people are exploring incorporating agents or LLMs in str…"
+    },
+    {
+      "id": "2610.17117",
+      "source": "arxiv",
+      "title": "Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations",
+      "url": "https://arxiv.org/abs/2610.17117",
+      "author": "Bryce Grant, Peng Wang",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Prior research into interpretability does not test whether a representation stays consistent under paraphrasing. Each pair of paraphrases can be thought of as a local witness that two activations shou…"
+    },
+    {
+      "id": "2610.13808",
+      "source": "arxiv",
+      "title": "Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion",
+      "url": "https://arxiv.org/abs/2610.13808",
+      "author": "Jingyan Xu, Yuanhong Wu, Samuel Yen-Chi Chen +3",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Variational quantum circuits (VQCs) are highly sensitive to circuit architecture, yet most quantum machine learning pipelines select a single best design and discard the remaining candidates. This pap…"
+    },
+    {
+      "id": "2610.08055",
+      "source": "arxiv",
+      "title": "Instrument-Anchored LLM Judges Transfer Expert Counseling-Quality Ratings Across Three German Corpora",
+      "url": "https://arxiv.org/abs/2610.08055",
+      "author": "Tobias Hallmen, Elisabeth Andr\\'e",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Automatic assessment of communication quality in counseling conversations is bottlenecked by data: expert-rated corpora are small and expensive to grow. Therefore we study cross-domain prediction of t…"
+    },
+    {
+      "id": "2610.04337",
+      "source": "arxiv",
+      "title": "FLAT: Smoothing the Rugged Landscape for Learnable, Sample-Efficient Traffic Calibration",
+      "url": "https://arxiv.org/abs/2610.04337",
+      "author": "Haopeng Deng, Thomas He, Dayuan Wang",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Calibrating microscopic traffic models for digital twins is an expensive black-box optimization problem: tuning car-following and lane-changing parameters requires a full simulation run, affording onl…"
+    },
+    {
+      "id": "2609.30215",
+      "source": "arxiv",
+      "title": "A Nearly Quadratic Lower Bound for Linear Optimization over Convex Bodies in the Membership Oracle Model",
+      "url": "https://arxiv.org/abs/2609.30215",
+      "author": "Santosh S. Vempala",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "We prove nearly quadratic lower bounds for randomized algorithms for linear optimization and uniform sampling over convex bodies in the membership oracle model. For linear optimization, this matches t…"
+    },
+    {
+      "id": "2608.25182",
+      "source": "arxiv",
+      "title": "Minimax Alternating Regret for the Experts Problem and Online Convex Optimization",
+      "url": "https://arxiv.org/abs/2608.25182",
+      "author": "Mengxiao Zhang",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "In this paper, we study alternating regret in online convex optimization (OCO), motivated by the success of alternating learning dynamics in two-player games. Although previous works have shown that $…"
+    },
+    {
+      "id": "2608.14465",
+      "source": "arxiv",
+      "title": "You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model",
+      "url": "https://arxiv.org/abs/2608.14465",
+      "author": "Ziyang Luo, Zhongyao Chu, Xinjie He +4",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "A frozen language model under-uses the evidence in its hidden states and answers confidently when the context contains no answer. We fix both on the residual stream without changing any weight. For ac…"
+    },
+    {
+      "id": "2608.05595",
+      "source": "arxiv",
+      "title": "How Much Reconstruction Does Quantum Machine Learning Need? Late Fusion of Uncoupled Quantum Subcircuits",
+      "url": "https://arxiv.org/abs/2608.05595",
+      "author": "Prabhjot Singh, Adel N. Toosi, Rajkumar Buyya",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Circuit cutting lets a large quantum neural network (QNN) run as independent subcircuits on small devices, but rebuilding its outputs by quasiprobability reconstruction carries a classical sampling ov…"
+    },
+    {
+      "id": "2607.04449",
+      "source": "arxiv",
+      "title": "Fields of the Planet: Field Boundary Mapping Beyond 10m",
+      "url": "https://arxiv.org/abs/2607.04449",
+      "author": "Isaac Corley, Caleb Robinson, Hannah Kerner +1",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Field-boundary accuracy depends on the model, sensor resolution, label discretization, and evaluation procedure. Measuring the contribution of sensor resolution therefore requires a controlled compari…"
+    },
+    {
+      "id": "2607.00774",
+      "source": "arxiv",
+      "title": "Soft Mixture-of-Recursions: Going Deeper with Recursive Vision Transformers",
+      "url": "https://arxiv.org/abs/2607.00774",
+      "author": "Sang In Lee, Jihun Park",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Vision Transformers are typically scaled by increasing depth or width, at the cost of more unique parameters. We explore recursion as an alternative scaling axis that increases effective computational…"
+    },
+    {
+      "id": "2606.07153",
+      "source": "arxiv",
+      "title": "No-Harm Physics-Informed Inverse Learning with Residual-Calibrated Uncertainty",
+      "url": "https://arxiv.org/abs/2606.07153",
+      "author": "Ronald Katende",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Physics-informed learning is increasingly used for partial differential equation (PDE)-governed inverse problems, but its reliability remains difficult to certify. This paper develops a no-harm certif…"
+    },
+    {
+      "id": "2606.01764",
+      "source": "arxiv",
+      "title": "Accelerating Min-Max Optimization via Power-Law Stepsizes",
+      "url": "https://arxiv.org/abs/2606.01764",
+      "author": "Yue Wu, Weiqiang Zheng, Yang Cai +1",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "We revisit the convergence guarantees of the Extragradient (EG) method for unconstrained biaffine min-max optimization. It is known that EG with a fixed stepsize achieves a $\\Theta(T^{-1/2})$ last-ite…"
+    },
+    {
+      "id": "2605.28233",
+      "source": "arxiv",
+      "title": "Geometry of Relaxed Fair Regression: A Unified Framework for Aware and Unaware Settings",
+      "url": "https://arxiv.org/abs/2605.28233",
+      "author": "Marie Generali Lince, Vincent Divol, R\\'emi Flamary +2",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Fairness-accuracy trade-offs are a central concern in the deployment of fairness-aware machine learning methods. When sensitive attributes are unavailable at inference time-the so called unawareness s…"
+    },
+    {
+      "id": "2605.25592",
+      "source": "arxiv",
+      "title": "Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification",
+      "url": "https://arxiv.org/abs/2605.25592",
+      "author": "Joongkyu Lee, Min-hwan Oh",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "We study optimal experimental design for multinomial logit (MNL) bandits, where an agent repeatedly selects a subset of $K$ items from a ground set of size $N$ and observes single-choice feedback. Unl…"
+    },
+    {
+      "id": "2605.12388",
+      "source": "arxiv",
+      "title": "Events as Triggers for Behavioral Diversity in Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.12388",
+      "author": "Hannes B\\\"uchi, Manon Flageat, Eduardo Sebasti\\'an +1",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Effective multi-agent cooperation requires agents to adopt diverse behaviors as task conditions evolve-and to do so at the right moment. Yet, current Multi-Agent Reinforcement Learning (MARL) framewor…"
+    },
+    {
+      "id": "2605.10931",
+      "source": "arxiv",
+      "title": "Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime",
+      "url": "https://arxiv.org/abs/2605.10931",
+      "author": "Albert Alcalde, Leon Bungert, Konstantin Riedl +1",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Transformers with self-attention modules as their core components have become an integral architecture in modern large language and foundation models. In this paper, we study the evolution of tokens i…"
+    },
+    {
+      "id": "2605.09342",
+      "source": "arxiv",
+      "title": "A Cross-Layered Multi-Drone Coordination for Medical Supply Delivery during Disaster Response Management",
+      "url": "https://arxiv.org/abs/2605.09342",
+      "author": "Aneesh Calyam, Subrahmanya Chandra Bhamidipati, Zack Murry +1",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Autonomous drone fleets have potential in medical supply delivery during disaster incident response. However, coordinating multiple drones in such settings introduces compounding challenges: dynamic h…"
+    },
+    {
+      "id": "2605.00826",
+      "source": "arxiv",
+      "title": "Understanding the Performance Plateau in Text-to-Video Retrieval: A Comprehensive Empirical and Linguistic Analysis",
+      "url": "https://arxiv.org/abs/2605.00826",
+      "author": "Maria-Eirini Pegia, Dimitrios Stefanopoulos, Bj\\\"orn {\\TH}\\'or J\\'onsson +4",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Text-to-video retrieval enables users to find relevant video content using natural language queries, a task that has grown increasingly important with the rapid expansion of online video. Over the pas…"
+    },
+    {
+      "id": "2603.16886",
+      "source": "arxiv",
+      "title": "A Controlled Comparison of Deep Learning Architectures for Multi-Horizon Financial Forecasting: Evidence from 918 Experiments",
+      "url": "https://arxiv.org/abs/2603.16886",
+      "author": "Nabeel Ahmad Saidd",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Reliable comparison of deep learning architectures for financial forecasting requires controlled evaluation that separates architectural effects from hyperparameter tuning, random initialization, fore…"
+    },
+    {
+      "id": "2603.08255",
+      "source": "arxiv",
+      "title": "FlowTouch: View-Invariant Visuo-Tactile Prediction",
+      "url": "https://arxiv.org/abs/2603.08255",
+      "author": "Seongjin Bien, Carlo Kneissl, Tobias J\\\"ulg +6",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Tactile sensation is essential for contact-rich manipulation tasks. It provides direct feedback on object geometry, surface properties, and interaction forces, enhancing perception and enabling fine-g…"
+    },
+    {
+      "id": "2603.01719",
+      "source": "arxiv",
+      "title": "Co-optimization for Adaptive Conformal Prediction",
+      "url": "https://arxiv.org/abs/2603.01719",
+      "author": "Xiaoyi Su, Zhixin Zhou, Rui Luo",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "In regression, conformal prediction often suffers from inefficiency under heteroscedasticity and skewness due to fixed, non-adaptive interval centering. We propose CoCP, a new method that parameterize…"
+    },
+    {
+      "id": "2602.14020",
+      "source": "arxiv",
+      "title": "Cross-Fitted Clipped Covariance Estimation with a Data-Driven Tail-Energy Criterion",
+      "url": "https://arxiv.org/abs/2602.14020",
+      "author": "Even He, Zaizai Yan",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Heavy-tailed data make covariance estimation sensitive to the clipping level: stronger clipping reduces variance but increases bias. We study how to choose this clipping level from the data within a r…"
+    },
+    {
+      "id": "2602.01600",
+      "source": "arxiv",
+      "title": "Expected Harm: Rethinking Safety Evaluation of (Mis)Aligned LLMs",
+      "url": "https://arxiv.org/abs/2602.01600",
+      "author": "Yen-Shan Chen, Zhi Rui Tam, Cheng-Kuang Wu +1",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Current evaluations of LLM safety predominantly rely on severity-based taxonomies to assess the harmfulness of models' responses to malicious queries. We argue that this formulation requires re-examin…"
+    }
+  ]
 }
