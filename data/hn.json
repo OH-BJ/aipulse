@@ -1,216 +1,176 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-03T18:55:17.223Z",
+  "fetchedAt": "2026-11-04T04:18:34.234Z",
   "items": [
     {
-      "id": "50354960",
+      "id": "50336918",
       "source": "hn",
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "score": 400,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50354960",
-      "author": "sidgarimella",
-      "publishedAt": "2026-11-03T17:22:37.000Z"
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 409,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50336918",
+      "author": "bookofjoe",
+      "publishedAt": "2026-11-02T14:02:42.000Z"
     },
     {
       "id": "50355251",
       "source": "hn",
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
       "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "score": 143,
+      "score": 528,
       "commentsUrl": "https://news.ycombinator.com/item?id=50355251",
       "author": "theanonymousone",
       "publishedAt": "2026-11-03T17:40:00.000Z"
     },
     {
-      "id": "50336918",
+      "id": "50354960",
       "source": "hn",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 247,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50336918",
-      "author": "bookofjoe",
-      "publishedAt": "2026-11-02T14:02:42.000Z"
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 1109,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50354960",
+      "author": "sidgarimella",
+      "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
-      "id": "50352757",
+      "id": "50358582",
       "source": "hn",
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "url": "https://news.ycombinator.com/item?id=50352757",
-      "score": 233,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50352757",
-      "author": "user052919",
-      "publishedAt": "2026-11-03T14:53:41.000Z"
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "score": 270,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50358582",
+      "author": "ibobev",
+      "publishedAt": "2026-11-03T21:40:53.000Z"
+    },
+    {
+      "id": "50355767",
+      "source": "hn",
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "score": 108,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50355767",
+      "author": "citelao",
+      "publishedAt": "2026-11-03T18:11:11.000Z"
     },
     {
       "id": "50351111",
       "source": "hn",
       "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
       "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "score": 745,
+      "score": 931,
       "commentsUrl": "https://news.ycombinator.com/item?id=50351111",
       "author": "syllogism",
       "publishedAt": "2026-11-03T12:21:17.000Z"
     },
     {
-      "id": "50355767",
+      "id": "50358352",
       "source": "hn",
-      "title": "I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50355767",
-      "author": "citelao",
-      "publishedAt": "2026-11-03T18:11:11.000Z"
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50358352",
+      "author": "passkey1510",
+      "publishedAt": "2026-11-03T21:20:03.000Z"
+    },
+    {
+      "id": "50352757",
+      "source": "hn",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "score": 449,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50352757",
+      "author": "user052919",
+      "publishedAt": "2026-11-03T14:53:41.000Z"
     },
     {
       "id": "50353192",
       "source": "hn",
       "title": "Google will turn off search for schools that reject AI",
       "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "score": 298,
+      "score": 579,
       "commentsUrl": "https://news.ycombinator.com/item?id=50353192",
       "author": "ceejayoz",
       "publishedAt": "2026-11-03T15:25:47.000Z"
     },
     {
-      "id": "50355504",
+      "id": "50358422",
       "source": "hn",
-      "title": "Google researchers demand freedom to tell the world what they know about AI",
-      "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
-      "score": 58,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50355504",
-      "author": "nsagent",
-      "publishedAt": "2026-11-03T17:55:26.000Z"
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "score": 310,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50358422",
+      "author": "angry_impala",
+      "publishedAt": "2026-11-03T21:26:44.000Z"
     },
     {
-      "id": "50353468",
+      "id": "50360457",
       "source": "hn",
-      "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
-      "url": "https://concepts.laxmena.com/",
-      "score": 33,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50353468",
-      "author": "laxmena",
-      "publishedAt": "2026-11-03T15:48:35.000Z"
-    },
-    {
-      "id": "50355328",
-      "source": "hn",
-      "title": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
-      "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50355328",
-      "author": "pseudolus",
-      "publishedAt": "2026-11-03T17:44:26.000Z"
-    },
-    {
-      "id": "50352898",
-      "source": "hn",
-      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-      "url": "https://github.com/Muvon/octomind",
-      "score": 46,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50352898",
-      "author": "donk8r",
-      "publishedAt": "2026-11-03T15:02:58.000Z"
-    },
-    {
-      "id": "50352257",
-      "source": "hn",
-      "title": "Just a little AI resistance, as a treat",
-      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-      "score": 164,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50352257",
-      "author": "mooreds",
-      "publishedAt": "2026-11-03T14:14:12.000Z"
-    },
-    {
-      "id": "50353475",
-      "source": "hn",
-      "title": "Quili AI",
-      "url": "https://www.quili.ai/",
-      "score": 86,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50353475",
-      "author": "Shugyousha",
-      "publishedAt": "2026-11-03T15:49:02.000Z"
-    },
-    {
-      "id": "50352727",
-      "source": "hn",
-      "title": "The AI Bubble Monitor",
-      "url": "https://cepr.net/publications/ai-bubble-monitor/",
-      "score": 54,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50352727",
-      "author": "mooreds",
-      "publishedAt": "2026-11-03T14:51:31.000Z"
+      "title": "Writing as an act of rebellion (Despite the AI psychosis)",
+      "url": "https://charlesfonseca.substack.com/p/writing-as-an-act-of-rebellion",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50360457",
+      "author": "barddoo",
+      "publishedAt": "2026-11-04T01:21:28.000Z"
     },
     {
       "id": "50341174",
       "source": "hn",
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "score": 2906,
+      "score": 2925,
       "commentsUrl": "https://news.ycombinator.com/item?id=50341174",
       "author": "dbreunig",
       "publishedAt": "2026-11-02T18:21:28.000Z"
     },
     {
-      "id": "50352405",
+      "id": "50353468",
       "source": "hn",
-      "title": "US Hedge Funds Just Sold Every AI Stock They Bought Since 2025",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-hedge-funds-just-sold-113114644.html",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50352405",
-      "author": "robin_reala",
-      "publishedAt": "2026-11-03T14:27:03.000Z"
+      "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+      "url": "https://concepts.laxmena.com/",
+      "score": 40,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50353468",
+      "author": "laxmena",
+      "publishedAt": "2026-11-03T15:48:35.000Z"
+    },
+    {
+      "id": "50359225",
+      "source": "hn",
+      "title": "Why Every AI Model Will Ship as a Torrent",
+      "url": "https://pirateface.co/articles/one-model-one-swarm",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50359225",
+      "author": "ahoyychips",
+      "publishedAt": "2026-11-03T22:36:22.000Z"
+    },
+    {
+      "id": "50360659",
+      "source": "hn",
+      "title": "OpenAI is quietly renaming data centers 'compute campuses'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50360659",
+      "author": "cdrnsf",
+      "publishedAt": "2026-11-04T01:52:37.000Z"
+    },
+    {
+      "id": "50352257",
+      "source": "hn",
+      "title": "Just a little AI resistance, as a treat",
+      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "score": 172,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50352257",
+      "author": "mooreds",
+      "publishedAt": "2026-11-03T14:14:12.000Z"
     },
     {
       "id": "50345924",
       "source": "hn",
       "title": "Scaling Git at OpenAI",
       "url": "https://openai.com/index/scaling-git-at-openai/",
-      "score": 258,
+      "score": 265,
       "commentsUrl": "https://news.ycombinator.com/item?id=50345924",
       "author": "makeramen",
       "publishedAt": "2026-11-02T23:47:56.000Z"
-    },
-    {
-      "id": "50354197",
-      "source": "hn",
-      "title": "Silicon Valley dating now means spreadsheets, AI and $5K-a-month coaches",
-      "url": "https://www.techspot.com/news/114425-dating-silicon-valley-now-involves-spreadsheets-ai-analysis.html",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50354197",
-      "author": "entryleveljobsc",
-      "publishedAt": "2026-11-03T16:36:34.000Z"
-    },
-    {
-      "id": "50344919",
-      "source": "hn",
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "score": 390,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50344919",
-      "author": "cdrnsf",
-      "publishedAt": "2026-11-02T22:30:47.000Z"
-    },
-    {
-      "id": "50353300",
-      "source": "hn",
-      "title": "AI is destroying my CS degree",
-      "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
-      "score": 104,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50353300",
-      "author": "speckx",
-      "publishedAt": "2026-11-03T15:35:06.000Z"
-    },
-    {
-      "id": "50350730",
-      "source": "hn",
-      "title": "Itch.io adding Generative AI disclosure filtering to few more places on the site",
-      "url": "https://bsky.app/profile/itch.io/post/3mzezjvqexs2h",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50350730",
-      "author": "HelloUsername",
-      "publishedAt": "2026-11-03T11:37:42.000Z"
     }
   ]
 }
