@@ -1,103 +1,133 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-04T19:12:10.418Z",
+  "fetchedAt": "2026-11-05T04:36:55.958Z",
   "items": [
     {
-      "id": "50364336",
+      "id": "50370654",
       "source": "hn",
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 789,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50364336",
-      "author": "pseudolus",
-      "publishedAt": "2026-11-04T11:52:17.000Z"
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "score": 119,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50370654",
+      "author": "peter_d_sherman",
+      "publishedAt": "2026-11-04T19:55:14.000Z"
     },
     {
       "id": "50368804",
       "source": "hn",
       "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
       "url": "https://news.ycombinator.com/item?id=50368804",
-      "score": 21,
+      "score": 76,
       "commentsUrl": "https://news.ycombinator.com/item?id=50368804",
       "author": "lukeigel",
       "publishedAt": "2026-11-04T17:31:53.000Z"
+    },
+    {
+      "id": "50364336",
+      "source": "hn",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "score": 1120,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50364336",
+      "author": "pseudolus",
+      "publishedAt": "2026-11-04T11:52:17.000Z"
+    },
+    {
+      "id": "50366117",
+      "source": "hn",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "score": 192,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50366117",
+      "author": "eggbrain",
+      "publishedAt": "2026-11-04T14:37:22.000Z"
+    },
+    {
+      "id": "50366863",
+      "source": "hn",
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "score": 211,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50366863",
+      "author": "itunpredictable",
+      "publishedAt": "2026-11-04T15:21:21.000Z"
+    },
+    {
+      "id": "50338474",
+      "source": "hn",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "score": 91,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50338474",
+      "author": "PaulHoule",
+      "publishedAt": "2026-11-02T15:48:45.000Z"
     },
     {
       "id": "50363461",
       "source": "hn",
       "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
       "url": "https://news.ycombinator.com/item?id=50363461",
-      "score": 511,
+      "score": 640,
       "commentsUrl": "https://news.ycombinator.com/item?id=50363461",
       "author": "jameslk",
       "publishedAt": "2026-11-04T10:10:27.000Z"
     },
     {
-      "id": "50366863",
+      "id": "50366971",
       "source": "hn",
-      "title": "Pierre Computer is being acquired by OpenAI",
-      "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
-      "score": 72,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50366863",
-      "author": "itunpredictable",
-      "publishedAt": "2026-11-04T15:21:21.000Z"
+      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "score": 71,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50366971",
+      "author": "karakoram",
+      "publishedAt": "2026-11-04T15:28:31.000Z"
+    },
+    {
+      "id": "50374741",
+      "source": "hn",
+      "title": "Flims and TV shows created using AI have now reached a high level of quality",
+      "url": "https://crateh.com/en",
+      "score": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50374741",
+      "author": "haebom",
+      "publishedAt": "2026-11-05T03:20:59.000Z"
+    },
+    {
+      "id": "50373505",
+      "source": "hn",
+      "title": "American Voters Overwhelmingly Reject AI Data Centers",
+      "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+      "score": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50373505",
+      "author": "latexr",
+      "publishedAt": "2026-11-05T00:43:13.000Z"
+    },
+    {
+      "id": "50373149",
+      "source": "hn",
+      "title": "You'll need nerves of steel to work with AI agents",
+      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+      "score": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50373149",
+      "author": "theorchid",
+      "publishedAt": "2026-11-05T00:01:30.000Z"
     },
     {
       "id": "50358352",
       "source": "hn",
       "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
       "url": "https://uncracked.city",
-      "score": 119,
+      "score": 123,
       "commentsUrl": "https://news.ycombinator.com/item?id=50358352",
       "author": "passkey1510",
       "publishedAt": "2026-11-03T21:20:03.000Z"
-    },
-    {
-      "id": "50355251",
-      "source": "hn",
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "score": 706,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50355251",
-      "author": "theanonymousone",
-      "publishedAt": "2026-11-03T17:40:00.000Z"
-    },
-    {
-      "id": "50367085",
-      "source": "hn",
-      "title": "AI data centers comprehensively defeated at US midterm elections",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50367085",
-      "author": "rndsignals",
-      "publishedAt": "2026-11-04T15:35:51.000Z"
-    },
-    {
-      "id": "50355767",
-      "source": "hn",
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "score": 243,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50355767",
-      "author": "citelao",
-      "publishedAt": "2026-11-03T18:11:11.000Z"
-    },
-    {
-      "id": "50354960",
-      "source": "hn",
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "score": 1458,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50354960",
-      "author": "sidgarimella",
-      "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
       "id": "50351111",
       "source": "hn",
       "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
       "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "score": 1012,
+      "score": 1027,
       "commentsUrl": "https://news.ycombinator.com/item?id=50351111",
       "author": "syllogism",
       "publishedAt": "2026-11-03T12:21:17.000Z"
@@ -107,60 +137,40 @@
       "source": "hn",
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 523,
+      "score": 528,
       "commentsUrl": "https://news.ycombinator.com/item?id=50336918",
       "author": "bookofjoe",
       "publishedAt": "2026-11-02T14:02:42.000Z"
     },
     {
-      "id": "50365760",
+      "id": "50371508",
       "source": "hn",
-      "title": "Jaron Lanier on parallels between AI and social media",
-      "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
-      "score": 39,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50365760",
-      "author": "musha68k",
-      "publishedAt": "2026-11-04T14:10:14.000Z"
+      "title": "Everything is an AI scam now",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+      "score": 132,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50371508",
+      "author": "speckx",
+      "publishedAt": "2026-11-04T21:05:19.000Z"
     },
     {
       "id": "50358582",
       "source": "hn",
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
-      "score": 376,
+      "score": 384,
       "commentsUrl": "https://news.ycombinator.com/item?id=50358582",
       "author": "ibobev",
       "publishedAt": "2026-11-03T21:40:53.000Z"
     },
     {
-      "id": "50363554",
+      "id": "50372693",
       "source": "hn",
-      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "score": 281,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50363554",
-      "author": "alkyon",
-      "publishedAt": "2026-11-04T10:23:34.000Z"
-    },
-    {
-      "id": "50352757",
-      "source": "hn",
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "url": "https://news.ycombinator.com/item?id=50352757",
-      "score": 510,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50352757",
-      "author": "user052919",
-      "publishedAt": "2026-11-03T14:53:41.000Z"
-    },
-    {
-      "id": "50353192",
-      "source": "hn",
-      "title": "Google will turn off search for schools that reject AI",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "score": 653,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50353192",
-      "author": "ceejayoz",
-      "publishedAt": "2026-11-03T15:25:47.000Z"
+      "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
+      "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50372693",
+      "author": "akyuu",
+      "publishedAt": "2026-11-04T23:05:24.000Z"
     }
   ]
 }
