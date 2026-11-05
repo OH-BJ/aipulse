@@ -1,14 +1,23 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-11-05T04:36:55.825Z",
+  "fetchedAt": "2026-11-05T19:18:39.042Z",
   "items": [
+    {
+      "id": "2611.02936",
+      "source": "arxiv",
+      "title": "Why Tabular Foundation Models Excel on Relational Data They Have Never Seen",
+      "url": "https://arxiv.org/abs/2611.02936",
+      "author": "Linjie Xu, Yiqun Hu, Jixiang He +1",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
+      "summary": "Given a relational database (RDB) storing heterogeneous tabular information, how can we predict missing (or future) values in some target column of interest? As candidate targets are numerous in enter…"
+    },
     {
       "id": "2611.02566",
       "source": "arxiv",
       "title": "CR-Bench-v2: Evaluating the Real-World Utility of AI Code Review Agents",
       "url": "https://arxiv.org/abs/2611.02566",
       "author": "Kristen Pereira, Neelabh Sinha, Rajat Ghosh +1",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "The rapid growth of automated code generation has created a pressing need for automated code review. Yet code review resists full automation: it depends on context beyond the \\textit{diff}, on the aut…"
     },
     {
@@ -17,7 +26,7 @@
       "title": "GatedV: Self-Gated Values for Transformer Language Models",
       "url": "https://arxiv.org/abs/2611.02145",
       "author": "Li-Ming Yu, Hongyu Zhou",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Standard attention forms query (Q), key (K), and value (V) matrices through learned linear projections of input hidden states. Architectures such as GAU and Mega incorporate nonlinear transformations…"
     },
     {
@@ -26,7 +35,7 @@
       "title": "Seeing Why: Exact Evidence Maps for Quantum and Optical Image Classifiers",
       "url": "https://arxiv.org/abs/2611.01993",
       "author": "Teerawat Tongloy, Rangsan Jomtarak",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "When an image classifier decides, we can usually only estimate why. For quantum and all-optical classifiers that act linearly on amplitude-encoded pictures up to the measurement, with no trained class…"
     },
     {
@@ -35,7 +44,7 @@
       "title": "Write Facts the Way Models Read Them: Lifting the Two-Hop Curse",
       "url": "https://arxiv.org/abs/2611.01519",
       "author": "Zhiyun Shi",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "A language model that learns a new fact by fine-tuning can repeat it but cannot reason with it: taught that a person is a citizen of a new country, it still cannot say, without chain-of-thought, who t…"
     },
     {
@@ -44,7 +53,7 @@
       "title": "How Close to the Theme? Similarity-Label Conditioning for Game Music Generation",
       "url": "https://arxiv.org/abs/2611.01047",
       "author": "Shangxuan Luo, Zixun Guo, Jinjie Shi +1",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Composers develop music from an original idea, controlling how similar each new section is to it, from near repetition to new material. Game music needs this often, as its material repeats over long p…"
     },
     {
@@ -53,7 +62,7 @@
       "title": "Fewer Tokens, More Answers: Verifiable-Reward Tuning of an Ornith-Style VLM for Multi-View Driving QA",
       "url": "https://arxiv.org/abs/2611.00833",
       "author": "T N Rickesh, Pranav Vinodh, Sowmya Kamath S",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Reasoning-enabled model derivatives must turn intermediate deliberation into a usable answer within a deployment budget. We study that transition in an Ornith checkpoint adapted to multi-camera drivin…"
     },
     {
@@ -62,8 +71,26 @@
       "title": "Answer Correction with Verifiable Rewards: A Gemma-Family Study of Multi-View Driving QA",
       "url": "https://arxiv.org/abs/2611.00828",
       "author": "T N Rickesh, Pranav Vinodh, Sowmya Kamath S",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Multi-camera driving question answering provides a discrete test of vision-language models, but post-training gains can reflect changed selected answers or improved answer extraction. We investigate t…"
+    },
+    {
+      "id": "2610.41290",
+      "source": "arxiv",
+      "title": "SAT-ACT: Learning CDCL Branching from Outcome-Derived Action Preferences",
+      "url": "https://arxiv.org/abs/2610.41290",
+      "author": "Zhenchao Sun, Chongyang Tao, Ping Lu +3",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
+      "summary": "Learning-based approaches have increasingly been explored for SAT solving, with particular attention to improving branching decisions in conflict-driven clause learning (CDCL) solvers. These approache…"
+    },
+    {
+      "id": "2610.40946",
+      "source": "arxiv",
+      "title": "Opening the Box Changes the Cat: LLMs Detect Chain-of-Thought Monitoring - What now?",
+      "url": "https://arxiv.org/abs/2610.40946",
+      "author": "Amir Jalilifard, Marcos Medeiros Raimundo, Anderson Rocha",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
+      "summary": "Chain-of-thought (CoT) reasoning allows large language models (LLMs) to generate intermediate reasoning traces in natural language while solving complex tasks. These traces can support safety monitori…"
     },
     {
       "id": "2610.37652",
@@ -71,8 +98,17 @@
       "title": "Dexterous In-Hand Object Pose Reaching with Learned Safety Filters",
       "url": "https://arxiv.org/abs/2610.37652",
       "author": "Ian Chuang, Hiya Shah, Vamsi Chilamkur +2",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As rob…"
+    },
+    {
+      "id": "2610.35817",
+      "source": "arxiv",
+      "title": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization for Agentic Robotics",
+      "url": "https://arxiv.org/abs/2610.35817",
+      "author": "Benjamin Pikus, Daniel Saunders, Mircea Mironenco +11",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
+      "summary": "Frontier models such as GPT-6 Astra now directly control robots and can generalize better than vision-language-action models (VLAs). We argue that this ability could arise from two distinct, composabl…"
     },
     {
       "id": "2610.29607",
@@ -80,7 +116,7 @@
       "title": "No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for Smart Glasses",
       "url": "https://arxiv.org/abs/2610.29607",
       "author": "Francesco Corti, Moritz Becker, Olga Saukh",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Deep neural networks deployed on smart glasses must adapt to changes in the distribution of incoming data while adhering to strict privacy and device constraints. We present No Frames, Just Frequencie…"
     },
     {
@@ -89,7 +125,7 @@
       "title": "Near Minimax Rates for Quantile Distributional Reinforcement Learning",
       "url": "https://arxiv.org/abs/2610.29595",
       "author": "Zijie Cheng, Zhihua Zhang",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "In this paper, we study quantile distributional policy evaluation, where the return distribution under a given policy is approximated by the quantile Bellman fixed point $\\bm\\eta_m$. We investigate th…"
     },
     {
@@ -98,7 +134,7 @@
       "title": "When Do Repetition Loops Lock? Truncation Sampling, Bounded Penalties, and a Blind Spot in DRY",
       "url": "https://arxiv.org/abs/2610.24715",
       "author": "Yichuan Chen, Xin Wang",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Language models sometimes repeat verbatim until the generation limit. We study the exit rather than the entrance: given that a span has already been repeated $n$ times, when is escape still possible?…"
     },
     {
@@ -107,8 +143,17 @@
       "title": "SPELUNKA: A Framework for Finding Unanticipated Associations in Vision-Language Models",
       "url": "https://arxiv.org/abs/2610.23979",
       "author": "Cassandra Parent, Isha Agarwal, Kumail Alhamoud +4",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Vision-Language Models (VLMs) are the backbone of many state-of-the-art multimodal systems, but often encode spurious and harmful associations from their training data. While prior work focuses on rem…"
+    },
+    {
+      "id": "2610.22883",
+      "source": "arxiv",
+      "title": "ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning",
+      "url": "https://arxiv.org/abs/2610.22883",
+      "author": "Sicong Li, Qianqian Xu, Zhiyong Yang +4",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
+      "summary": "Parameter-Efficient Fine-Tuning (PEFT) has emerged as a prevalent strategy for adapting large pre-trained models. Among PEFT techniques, reparameterization-based methods, particularly those that emplo…"
     },
     {
       "id": "2610.14423",
@@ -116,8 +161,17 @@
       "title": "Scaling Laws for Multimodal Data Mixtures",
       "url": "https://arxiv.org/abs/2610.14423",
       "author": "Aditi Khandelwal, Ayush K. Tarun, Yixuan Xu +5",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Frontier AI systems are increasingly natively multimodal, jointly pretrained on multiple modalities, such as text, vision, and audio. However, the scientific understanding of the multimodal data mixtu…"
+    },
+    {
+      "id": "2610.10942",
+      "source": "arxiv",
+      "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+      "url": "https://arxiv.org/abs/2610.10942",
+      "author": "Daksh Raghuvanshi, Ved Vedere, Yifan Wang",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
+      "summary": "Reinforcement learning environments are now a primary lever for improving large language model (LLM) capabilities in post-training, yet most agentic benchmarks remain static: the world moves only when…"
     },
     {
       "id": "2609.30250",
@@ -125,7 +179,7 @@
       "title": "Agentic Detection of Online Conspiracies",
       "url": "https://arxiv.org/abs/2609.30250",
       "author": "Lior Biton, Oren Tsur",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, sa…"
     },
     {
@@ -134,8 +188,17 @@
       "title": "When Pass@$k$ Crossovers Are Real - and Why: Paired Inference and the Markov Kernel of RLVR",
       "url": "https://arxiv.org/abs/2609.22547",
       "author": "Chen Yang",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Reinforcement learning with verifiable rewards (RLVR) typically improves pass@1 but can fall behind its base model at large sampling budgets $k$, commonly interpreted as sharpening existing solutions.…"
+    },
+    {
+      "id": "2609.22377",
+      "source": "arxiv",
+      "title": "Forecasting Brain Tracer Distribution from Pre-Contrast MRI: A Comparison of Direct Regression and Flow Matching",
+      "url": "https://arxiv.org/abs/2609.22377",
+      "author": "Qinghui Liu, Jon Andr\\'e Ottesen, Thu Nguyen +7",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
+      "summary": "The brain fluid clearance system can be studied with intrathecal contrast-enhanced magnetic resonance imaging (MRI). By injecting a tracer into the spinal canal and performing MRI over 24--48\\,h, one…"
     },
     {
       "id": "2609.20701",
@@ -143,7 +206,7 @@
       "title": "Stable Movement for Nondual Lipschitz Convex Optimization: Efficiency and Nearly Optimal Oracle Rates",
       "url": "https://arxiv.org/abs/2609.20701",
       "author": "David Mart\\'inez-Rubio, Crist\\'obal Guzm\\'an",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "We study efficient algorithms for realizing the first-order oracle complexity of optimization of $G$-Lipschitz convex functions with respect to the $\\ell_q$-norm over an $\\ell_p$-ball of radius $R$, w…"
     },
     {
@@ -152,7 +215,7 @@
       "title": "The First-Order Oracle Complexity of Lipschitz Convex Optimization in Nondual Settings",
       "url": "https://arxiv.org/abs/2609.20687",
       "author": "Brian Bullins, Crist\\'obal Guzm\\'an, David Mart\\'inez-Rubio +1",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "We study first-order black-box convex optimization over an $\\ell_p$-ball for objectives Lipschitz in the $\\ell_q$-norm, solving in the affirmative the nonsmooth version of the COLT open question (Guz1…"
     },
     {
@@ -161,7 +224,7 @@
       "title": "Efficient Robust Learning at the Information-Theoretic Limit",
       "url": "https://arxiv.org/abs/2609.17655",
       "author": "Adam R. Klivans, Konstantinos Stavropoulos, Sergei Tikhonov +1",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "In an important recent work, Blanc (2026) gave an algorithm for robustly learning Boolean concept classes with respect to a fixed distribution that outputs a (randomized) classifier achieving the opti…"
     },
     {
@@ -170,7 +233,7 @@
       "title": "An explicit solution of the five-expert prediction PDE and the exact optimality set of COMB",
       "url": "https://arxiv.org/abs/2609.14892",
       "author": "Jeff Calder, Nadejda Drenska",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "In this paper, we derive an explicit solution of the stationary prediction with expert advice PDE for five experts. The formula is given in three regions. In the first two regions, it is the four-expe…"
     },
     {
@@ -179,7 +242,7 @@
       "title": "A Sharp Barrier of Consistent Submodular Maximization: Any Improvement over $2-\\sqrt{2}$ Entails Exponential Queries or Linear Recourse",
       "url": "https://arxiv.org/abs/2609.09986",
       "author": "Shi Fu, Qixin Zhang, Dacheng Tao",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Consistent submodular maximization aims to maintain a high-utility subset of size at most $k$ as new elements arrive one by one, while changing only a limited number of elements per update. Previously…"
     },
     {
@@ -188,8 +251,17 @@
       "title": "Optimal Value Inference for Reinforcement Learning",
       "url": "https://arxiv.org/abs/2609.09981",
       "author": "Nan Lu, Ethan Lee, Ruicheng Ao +2",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "We study offline inference for the optimal value in reinforcement learning under finite state and action spaces. Two new nuisances are derived as fixed points of a self-induced Bellman equation, in wh…"
+    },
+    {
+      "id": "2609.09001",
+      "source": "arxiv",
+      "title": "Deposon: An Auditable, Conservation-Guaranteed, Game-Theoretically Tested Scattering Layer over LLM Reasoning Paths",
+      "url": "https://arxiv.org/abs/2609.09001",
+      "author": "Qihao Yuan",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
+      "summary": "Multi-step LLM reasoning lacks a machine-recheckable ledger: discarded reasoning paths leave no auditable record. We propose the Deposon scattering layer, which binds each node of an LLM-generated con…"
     },
     {
       "id": "2609.07974",
@@ -197,80 +269,8 @@
       "title": "A $(3+\\epsilon)$-Approximation for Fair $k$-Means and a Matching Lower Bound",
       "url": "https://arxiv.org/abs/2609.07974",
       "author": "Kangke Cheng, Guanlin Mo, Shihong Song +1",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
       "summary": "Fair clustering aims to prevent algorithmic bias against protected groups. We study Euclidean fair $k$-means, in which the proportion of each protected group in every cluster lies between prescribed l…"
-    },
-    {
-      "id": "2608.28207",
-      "source": "arxiv",
-      "title": "Explainable Diabetic Retinopathy Classification Using Vision Foundation Models",
-      "url": "https://arxiv.org/abs/2608.28207",
-      "author": "Abhishek Verma, Anila Krishna, Abhishek Gajanan Bankar +1",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
-      "summary": "Diabetic retinopathy (DR) is a leading cause of preventable blindness, and automated screening must be both accurate and trustworthy. We study an explainable DR classification framework built on visio…"
-    },
-    {
-      "id": "2608.19908",
-      "source": "arxiv",
-      "title": "A Layered Simplex Architecture for Large Alphabets",
-      "url": "https://arxiv.org/abs/2608.19908",
-      "author": "Meir Feder, Yaniv Fogel, Ruediger Urbanke",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
-      "summary": "A learning architecture induces a prior over its expressible models. Recent work links architectural success to a broad complexity spectrum: model probabilities spanning many orders of magnitude. Unde…"
-    },
-    {
-      "id": "2608.19490",
-      "source": "arxiv",
-      "title": "Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation",
-      "url": "https://arxiv.org/abs/2608.19490",
-      "author": "Prachi Garg, Steve Xing, Prahit Yaugand +2",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
-      "summary": "State-of-the-art vision-language-action (VLA) models such as pi0.5 exhibit strong semantic understanding, instruction following and task behavior. However, when deployed on new robots, even minor mism…"
-    },
-    {
-      "id": "2608.10195",
-      "source": "arxiv",
-      "title": "More Accurate, Less Human: Gestalt Grouping in Vision Models",
-      "url": "https://arxiv.org/abs/2608.10195",
-      "author": "Sudhanva Manjunath Athreya, Sai Phani Kumar Malladi",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
-      "summary": "Human vision organizes what it sees into wholes: same-colored points group into series, similar marks cohere into categories, and shapes complete into recognizable objects. These are the Gestalt opera…"
-    },
-    {
-      "id": "2608.07226",
-      "source": "arxiv",
-      "title": "Dual-Node NVIDIA DGX Spark over Tailscale: A Remote-Access Testbed for Distributed LLM Training and Cyber-Threat-Intelligence Fine-Tuning",
-      "url": "https://arxiv.org/abs/2608.07226",
-      "author": "Vasanth Iyer",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
-      "summary": "Practical evidence for multi-node training on desktop-class accelerators remains limited. This report presents a proof-of-concept deployment of distributed NanoChat pretraining across two NVIDIA DGX S…"
-    },
-    {
-      "id": "2608.05548",
-      "source": "arxiv",
-      "title": "Behavioral Residualization for Unsupervised Intrusion Detection in Automotive CAN Networks",
-      "url": "https://arxiv.org/abs/2608.05548",
-      "author": "Chandan Hegde, Mukundh R Reddy, Dr Kumaresh Sheelavant",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
-      "summary": "Modern vehicles exchange safety-critical messages over the Controller Area Network (CAN), a bus designed for low cost and real-time operation that offers neither authentication nor encryption. Once an…"
-    },
-    {
-      "id": "2607.09737",
-      "source": "arxiv",
-      "title": "Q-Score: A Quantum-Native Scoring Function for Molecular Docking",
-      "url": "https://arxiv.org/abs/2607.09737",
-      "author": "Kangyu Zheng, Yidong Zhou, Ruihao Li +3",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
-      "summary": "Molecular docking predicts how a small molecule binds to a protein and is a key bottleneck in drug discovery. Classical scoring functions sum empirical pairwise contacts, blind to quantum-mechanical e…"
-    },
-    {
-      "id": "2606.21590",
-      "source": "arxiv",
-      "title": "Radial Basis Function Networks as Projection Heads in Self-Supervised Learning",
-      "url": "https://arxiv.org/abs/2606.21590",
-      "author": "Andreas Schliebitz, Heiko Tapken, Martin Atzmueller",
-      "publishedAt": "2026-11-04T05:00:00.000Z",
-      "summary": "Self-supervised learning (SSL) typically relies on a backbone encoder followed by a small multilayer perceptron (MLP) projection head, which is conventionally discarded after training, while backbone…"
     }
   ]
 }

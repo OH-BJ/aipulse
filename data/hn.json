@@ -1,63 +1,103 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-05T04:36:55.958Z",
+  "fetchedAt": "2026-11-05T19:18:39.147Z",
   "items": [
     {
-      "id": "50370654",
+      "id": "50381512",
       "source": "hn",
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "score": 119,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50370654",
-      "author": "peter_d_sherman",
-      "publishedAt": "2026-11-04T19:55:14.000Z"
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50381512",
+      "author": "rooppal",
+      "publishedAt": "2026-11-05T17:01:23.000Z"
     },
     {
-      "id": "50368804",
+      "id": "50382179",
       "source": "hn",
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "score": 76,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50368804",
-      "author": "lukeigel",
-      "publishedAt": "2026-11-04T17:31:53.000Z"
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "score": 95,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50382179",
+      "author": "armcat",
+      "publishedAt": "2026-11-05T18:00:01.000Z"
+    },
+    {
+      "id": "50376313",
+      "source": "hn",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "score": 208,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50376313",
+      "author": "lucrbvi",
+      "publishedAt": "2026-11-05T07:44:30.000Z"
+    },
+    {
+      "id": "50380365",
+      "source": "hn",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec/",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50380365",
+      "author": "gmays",
+      "publishedAt": "2026-11-05T15:31:43.000Z"
+    },
+    {
+      "id": "50380273",
+      "source": "hn",
+      "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+      "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50380273",
+      "author": "soloyo",
+      "publishedAt": "2026-11-05T15:25:36.000Z"
+    },
+    {
+      "id": "50381590",
+      "source": "hn",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "score": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50381590",
+      "author": "meetpateltech",
+      "publishedAt": "2026-11-05T17:07:57.000Z"
+    },
+    {
+      "id": "50381914",
+      "source": "hn",
+      "title": "GPT-6 Cyber",
+      "url": "https://twitter.com/OpenAI/status/2118390190246879554",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50381914",
+      "author": "zof3",
+      "publishedAt": "2026-11-05T17:37:05.000Z"
     },
     {
       "id": "50364336",
       "source": "hn",
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 1120,
+      "score": 1246,
       "commentsUrl": "https://news.ycombinator.com/item?id=50364336",
       "author": "pseudolus",
       "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
-      "id": "50366117",
+      "id": "50368804",
       "source": "hn",
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "score": 192,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50366117",
-      "author": "eggbrain",
-      "publishedAt": "2026-11-04T14:37:22.000Z"
-    },
-    {
-      "id": "50366863",
-      "source": "hn",
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
-      "score": 211,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50366863",
-      "author": "itunpredictable",
-      "publishedAt": "2026-11-04T15:21:21.000Z"
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "score": 96,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50368804",
+      "author": "lukeigel",
+      "publishedAt": "2026-11-04T17:31:53.000Z"
     },
     {
       "id": "50338474",
       "source": "hn",
       "title": "Basically no one is using AI agents for their DoorDash orders",
       "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "score": 91,
+      "score": 160,
       "commentsUrl": "https://news.ycombinator.com/item?id=50338474",
       "author": "PaulHoule",
       "publishedAt": "2026-11-02T15:48:45.000Z"
@@ -67,110 +107,50 @@
       "source": "hn",
       "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
       "url": "https://news.ycombinator.com/item?id=50363461",
-      "score": 640,
+      "score": 697,
       "commentsUrl": "https://news.ycombinator.com/item?id=50363461",
       "author": "jameslk",
       "publishedAt": "2026-11-04T10:10:27.000Z"
+    },
+    {
+      "id": "50366117",
+      "source": "hn",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "score": 486,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50366117",
+      "author": "eggbrain",
+      "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
       "id": "50366971",
       "source": "hn",
       "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "score": 71,
+      "score": 101,
       "commentsUrl": "https://news.ycombinator.com/item?id=50366971",
       "author": "karakoram",
       "publishedAt": "2026-11-04T15:28:31.000Z"
     },
     {
-      "id": "50374741",
+      "id": "50381209",
       "source": "hn",
-      "title": "Flims and TV shows created using AI have now reached a high level of quality",
-      "url": "https://crateh.com/en",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50374741",
-      "author": "haebom",
-      "publishedAt": "2026-11-05T03:20:59.000Z"
+      "title": "The Election Day Revolt That Threatens America's AI Boom",
+      "url": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52",
+      "score": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50381209",
+      "author": "10111001",
+      "publishedAt": "2026-11-05T16:35:40.000Z"
     },
     {
-      "id": "50373505",
+      "id": "50366863",
       "source": "hn",
-      "title": "American Voters Overwhelmingly Reject AI Data Centers",
-      "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
-      "score": 27,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50373505",
-      "author": "latexr",
-      "publishedAt": "2026-11-05T00:43:13.000Z"
-    },
-    {
-      "id": "50373149",
-      "source": "hn",
-      "title": "You'll need nerves of steel to work with AI agents",
-      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-      "score": 41,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50373149",
-      "author": "theorchid",
-      "publishedAt": "2026-11-05T00:01:30.000Z"
-    },
-    {
-      "id": "50358352",
-      "source": "hn",
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://uncracked.city",
-      "score": 123,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50358352",
-      "author": "passkey1510",
-      "publishedAt": "2026-11-03T21:20:03.000Z"
-    },
-    {
-      "id": "50351111",
-      "source": "hn",
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "score": 1027,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50351111",
-      "author": "syllogism",
-      "publishedAt": "2026-11-03T12:21:17.000Z"
-    },
-    {
-      "id": "50336918",
-      "source": "hn",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 528,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50336918",
-      "author": "bookofjoe",
-      "publishedAt": "2026-11-02T14:02:42.000Z"
-    },
-    {
-      "id": "50371508",
-      "source": "hn",
-      "title": "Everything is an AI scam now",
-      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-      "score": 132,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50371508",
-      "author": "speckx",
-      "publishedAt": "2026-11-04T21:05:19.000Z"
-    },
-    {
-      "id": "50358582",
-      "source": "hn",
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "score": 384,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50358582",
-      "author": "ibobev",
-      "publishedAt": "2026-11-03T21:40:53.000Z"
-    },
-    {
-      "id": "50372693",
-      "source": "hn",
-      "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
-      "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50372693",
-      "author": "akyuu",
-      "publishedAt": "2026-11-04T23:05:24.000Z"
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "score": 261,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50366863",
+      "author": "itunpredictable",
+      "publishedAt": "2026-11-04T15:21:21.000Z"
     }
   ]
 }
