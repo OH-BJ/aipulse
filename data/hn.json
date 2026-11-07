@@ -1,46 +1,26 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-07T04:00:17.258Z",
+  "fetchedAt": "2026-11-07T17:14:59.945Z",
   "items": [
-    {
-      "id": "50401409",
-      "source": "hn",
-      "title": "Show HN: Backwords – Let AI teach you how to speak in reverse",
-      "url": "https://backwords.greg.technology/",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50401409",
-      "author": "gregsadetsky",
-      "publishedAt": "2026-11-07T03:39:46.000Z"
-    },
-    {
-      "id": "50397994",
-      "source": "hn",
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "score": 229,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50397994",
-      "author": "yurivish",
-      "publishedAt": "2026-11-06T20:27:23.000Z"
-    },
-    {
-      "id": "50401029",
-      "source": "hn",
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "score": 9,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50401029",
-      "author": "hubraumhugo",
-      "publishedAt": "2026-11-07T02:20:06.000Z"
-    },
     {
       "id": "50392118",
       "source": "hn",
       "title": "Gemini Omni 1.2 Flash",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "score": 305,
+      "score": 354,
       "commentsUrl": "https://news.ycombinator.com/item?id=50392118",
       "author": "thisisauserid",
       "publishedAt": "2026-11-06T13:35:27.000Z"
+    },
+    {
+      "id": "50385272",
+      "source": "hn",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "score": 1583,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50385272",
+      "author": "motoroco",
+      "publishedAt": "2026-11-05T22:17:15.000Z"
     },
     {
       "id": "50395043",
@@ -53,134 +33,84 @@
       "publishedAt": "2026-11-06T17:03:33.000Z"
     },
     {
+      "id": "50397994",
+      "source": "hn",
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "score": 344,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50397994",
+      "author": "yurivish",
+      "publishedAt": "2026-11-06T20:27:23.000Z"
+    },
+    {
       "id": "50394906",
       "source": "hn",
       "title": "Anthropic IPO buyers see valuation as low as $1.1T",
       "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "score": 255,
+      "score": 296,
       "commentsUrl": "https://news.ycombinator.com/item?id=50394906",
       "author": "dgellow",
       "publishedAt": "2026-11-06T16:54:36.000Z"
-    },
-    {
-      "id": "50385272",
-      "source": "hn",
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "score": 1559,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50385272",
-      "author": "motoroco",
-      "publishedAt": "2026-11-05T22:17:15.000Z"
-    },
-    {
-      "id": "50394116",
-      "source": "hn",
-      "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
-      "url": "https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/",
-      "score": 32,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50394116",
-      "author": "nbernard",
-      "publishedAt": "2026-11-06T16:04:58.000Z"
-    },
-    {
-      "id": "50389990",
-      "source": "hn",
-      "title": "AI for scientific discovery: How researchers use Claude",
-      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-      "score": 90,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50389990",
-      "author": "ersinesen",
-      "publishedAt": "2026-11-06T09:13:30.000Z"
     },
     {
       "id": "50388513",
       "source": "hn",
       "title": "I struggle to believe that AI R&D is ingenious",
       "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "score": 184,
+      "score": 210,
       "commentsUrl": "https://news.ycombinator.com/item?id=50388513",
       "author": "porridgeraisin",
       "publishedAt": "2026-11-06T05:19:04.000Z"
     },
     {
-      "id": "50401213",
+      "id": "50389990",
       "source": "hn",
-      "title": "Brave Sells Its Search Index to AI, and Your Website Is Probably in It",
-      "url": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50401213",
-      "author": "linhns",
-      "publishedAt": "2026-11-07T02:59:27.000Z"
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "score": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50389990",
+      "author": "ersinesen",
+      "publishedAt": "2026-11-06T09:13:30.000Z"
     },
     {
-      "id": "50397341",
+      "id": "50394116",
       "source": "hn",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-      "url": "https://openai.com/index/partnering-with-hacktron/",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50397341",
-      "author": "99lcccss",
-      "publishedAt": "2026-11-06T19:41:59.000Z"
+      "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
+      "url": "https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/",
+      "score": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50394116",
+      "author": "nbernard",
+      "publishedAt": "2026-11-06T16:04:58.000Z"
     },
     {
-      "id": "50395933",
+      "id": "50364336",
       "source": "hn",
-      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-      "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
-      "score": 86,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50395933",
-      "author": "brazukadev",
-      "publishedAt": "2026-11-06T18:04:06.000Z"
-    },
-    {
-      "id": "50392499",
-      "source": "hn",
-      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-      "score": 127,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50392499",
-      "author": "blakesterz",
-      "publishedAt": "2026-11-06T14:13:09.000Z"
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "score": 1294,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50364336",
+      "author": "pseudolus",
+      "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
       "id": "50385870",
       "source": "hn",
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "score": 498,
+      "score": 509,
       "commentsUrl": "https://news.ycombinator.com/item?id=50385870",
       "author": "randycupertino",
       "publishedAt": "2026-11-05T23:09:57.000Z"
     },
     {
-      "id": "50394991",
+      "id": "50400576",
       "source": "hn",
-      "title": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
-      "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50394991",
-      "author": "adityawebde",
-      "publishedAt": "2026-11-06T17:00:23.000Z"
-    },
-    {
-      "id": "50399909",
-      "source": "hn",
-      "title": "Claude usage credits purchased after Dec 7 will expire 12 months after purchase",
-      "url": "https://news.ycombinator.com/item?id=50399909",
-      "score": 10,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50399909",
-      "author": "bbg2401",
-      "publishedAt": "2026-11-06T23:27:15.000Z"
-    },
-    {
-      "id": "50394444",
-      "source": "hn",
-      "title": "AI coding agent setups from 663 Hacker News comments",
-      "url": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
+      "title": "Implementing GPT-2 in CSS",
+      "url": "https://shubhampatil.dev/blog/gpt2-css",
       "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50394444",
-      "author": "titusblair",
-      "publishedAt": "2026-11-06T16:23:51.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50400576",
+      "author": "zapt02",
+      "publishedAt": "2026-11-07T01:01:10.000Z"
     }
   ]
 }
