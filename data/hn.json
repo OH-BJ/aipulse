@@ -1,33 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-08T17:27:56.807Z",
+  "fetchedAt": "2026-11-09T03:58:33.212Z",
   "items": [
+    {
+      "id": "50403153",
+      "source": "hn",
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "url": "https://news.ycombinator.com/item?id=50403153",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50403153",
+      "author": "Michel_Aventin",
+      "publishedAt": "2026-11-07T10:01:48.000Z"
+    },
+    {
+      "id": "50415628",
+      "source": "hn",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "score": 658,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50415628",
+      "author": "TheWiggles",
+      "publishedAt": "2026-11-08T18:16:07.000Z"
+    },
     {
       "id": "50411961",
       "source": "hn",
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "url": "https://github.com/synchopate/llama-modchip",
-      "score": 191,
+      "score": 387,
       "commentsUrl": "https://news.ycombinator.com/item?id=50411961",
       "author": "joshcsimmons",
       "publishedAt": "2026-11-08T10:22:04.000Z"
     },
     {
-      "id": "50413822",
+      "id": "50416363",
       "source": "hn",
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-      "score": 124,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50413822",
-      "author": "armcat",
-      "publishedAt": "2026-11-08T14:49:23.000Z"
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "score": 181,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50416363",
+      "author": "kyunez",
+      "publishedAt": "2026-11-08T19:37:42.000Z"
     },
     {
       "id": "50410107",
       "source": "hn",
       "title": "Goodbye Claude, hello Pi",
       "url": "https://caleb.software/posts/claude-to-pi.html",
-      "score": 555,
+      "score": 713,
       "commentsUrl": "https://news.ycombinator.com/item?id=50410107",
       "author": "karagenit",
       "publishedAt": "2026-11-08T03:11:48.000Z"
@@ -37,7 +57,7 @@
       "source": "hn",
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "score": 502,
+      "score": 595,
       "commentsUrl": "https://news.ycombinator.com/item?id=50407882",
       "author": "shmulc",
       "publishedAt": "2026-11-07T20:45:32.000Z"
@@ -47,30 +67,50 @@
       "source": "hn",
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
-      "score": 482,
+      "score": 498,
       "commentsUrl": "https://news.ycombinator.com/item?id=50406563",
       "author": "srean",
       "publishedAt": "2026-11-07T18:02:17.000Z"
     },
     {
-      "id": "50412760",
+      "id": "50418975",
       "source": "hn",
-      "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-      "score": 30,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50412760",
-      "author": "mraniki",
-      "publishedAt": "2026-11-08T12:41:25.000Z"
+      "title": "I'm Not Convinced the AI Bubble Exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "score": 73,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50418975",
+      "author": "matteoraso",
+      "publishedAt": "2026-11-08T23:44:36.000Z"
     },
     {
-      "id": "50413632",
+      "id": "50416103",
       "source": "hn",
-      "title": "AI stance is not binary",
-      "url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
-      "score": 7,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50413632",
-      "author": "LucidLynx",
-      "publishedAt": "2026-11-08T14:24:58.000Z"
+      "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+      "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50416103",
+      "author": "fortran77",
+      "publishedAt": "2026-11-08T19:14:41.000Z"
+    },
+    {
+      "id": "50415817",
+      "source": "hn",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "score": 90,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50415817",
+      "author": "zzzeek",
+      "publishedAt": "2026-11-08T18:43:07.000Z"
+    },
+    {
+      "id": "50385272",
+      "source": "hn",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "score": 1602,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50385272",
+      "author": "motoroco",
+      "publishedAt": "2026-11-05T22:17:15.000Z"
     },
     {
       "id": "50395043",
@@ -81,36 +121,6 @@
       "commentsUrl": "https://news.ycombinator.com/item?id=50395043",
       "author": "Old_Thrashbarg",
       "publishedAt": "2026-11-06T17:03:33.000Z"
-    },
-    {
-      "id": "50385272",
-      "source": "hn",
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "score": 1597,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50385272",
-      "author": "motoroco",
-      "publishedAt": "2026-11-05T22:17:15.000Z"
-    },
-    {
-      "id": "50392118",
-      "source": "hn",
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "score": 365,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50392118",
-      "author": "thisisauserid",
-      "publishedAt": "2026-11-06T13:35:27.000Z"
-    },
-    {
-      "id": "50409986",
-      "source": "hn",
-      "title": "Show HN: LLM weight editing tool made by a 15-year-old",
-      "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50409986",
-      "author": "032renya",
-      "publishedAt": "2026-11-08T02:37:10.000Z"
     }
   ]
 }
