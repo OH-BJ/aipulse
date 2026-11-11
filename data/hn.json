@@ -1,136 +1,146 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-11T04:03:22.126Z",
+  "fetchedAt": "2026-11-11T19:06:06.059Z",
   "items": [
     {
-      "id": "50448174",
+      "id": "50452455",
       "source": "hn",
-      "title": "AI is an information gateway. Audiences still don't want it making their news",
-      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-      "score": 20,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50448174",
-      "author": "rdmuser",
-      "publishedAt": "2026-11-11T00:15:33.000Z"
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "score": 810,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50452455",
+      "author": "eyvindn",
+      "publishedAt": "2026-11-11T12:05:22.000Z"
     },
     {
-      "id": "50438318",
+      "id": "50455332",
       "source": "hn",
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "score": 422,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50438318",
-      "author": "plun9",
-      "publishedAt": "2026-11-10T10:25:58.000Z"
+      "title": "AI, activity, and outcomes in software engineering",
+      "url": "https://cabird.com/talks/shipping-faster/",
+      "score": 59,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50455332",
+      "author": "azhenley",
+      "publishedAt": "2026-11-11T16:33:28.000Z"
     },
     {
-      "id": "50449232",
+      "id": "50452404",
       "source": "hn",
-      "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
-      "url": "https://taipeiledger.com/gpu/",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50449232",
-      "author": "khoonie",
-      "publishedAt": "2026-11-11T02:50:01.000Z"
-    },
-    {
-      "id": "50447363",
-      "source": "hn",
-      "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
-      "url": "https://arxiv.org/abs/2611.10866",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50447363",
-      "author": "theanonymousone",
-      "publishedAt": "2026-11-10T22:44:49.000Z"
-    },
-    {
-      "id": "50443587",
-      "source": "hn",
-      "title": "Life on Claude Nine",
-      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
-      "score": 92,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50443587",
-      "author": "reasonableklout",
-      "publishedAt": "2026-11-10T17:44:44.000Z"
-    },
-    {
-      "id": "50443716",
-      "source": "hn",
-      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-      "score": 164,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50443716",
-      "author": "Yorothegoat",
-      "publishedAt": "2026-11-10T17:55:07.000Z"
-    },
-    {
-      "id": "50429068",
-      "source": "hn",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "score": 882,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50429068",
-      "author": "lairv",
-      "publishedAt": "2026-11-09T18:01:10.000Z"
-    },
-    {
-      "id": "50443944",
-      "source": "hn",
-      "title": "Businesses in ChatGPT – OpenAI",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50443944",
-      "author": "smokeeaasd",
-      "publishedAt": "2026-11-10T18:10:40.000Z"
+      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+      "url": "https://news.ycombinator.com/item?id=50452404",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50452404",
+      "author": "FrasiertheLion",
+      "publishedAt": "2026-11-11T12:00:35.000Z"
     },
     {
       "id": "50446520",
       "source": "hn",
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "score": 117,
+      "score": 478,
       "commentsUrl": "https://news.ycombinator.com/item?id=50446520",
       "author": "linolevan",
       "publishedAt": "2026-11-10T21:25:03.000Z"
     },
     {
-      "id": "50437106",
+      "id": "50456926",
       "source": "hn",
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "score": 160,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50437106",
-      "author": "werrett",
-      "publishedAt": "2026-11-10T07:19:38.000Z"
+      "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
+      "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50456926",
+      "author": "bko",
+      "publishedAt": "2026-11-11T18:44:23.000Z"
     },
     {
-      "id": "50439686",
+      "id": "50456668",
       "source": "hn",
-      "title": "AI Users have workdays up to 90 min longer than non-users",
-      "url": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/",
-      "score": 42,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50439686",
-      "author": "gosen",
-      "publishedAt": "2026-11-10T12:57:24.000Z"
+      "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+      "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50456668",
+      "author": "healsdata",
+      "publishedAt": "2026-11-11T18:23:31.000Z"
     },
     {
-      "id": "50443838",
+      "id": "50443716",
       "source": "hn",
-      "title": "Work at the Frontier: AI's effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "score": 37,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50443838",
-      "author": "swolpers",
-      "publishedAt": "2026-11-10T18:02:54.000Z"
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "score": 274,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50443716",
+      "author": "Yorothegoat",
+      "publishedAt": "2026-11-10T17:55:07.000Z"
     },
     {
-      "id": "50429426",
+      "id": "50456742",
       "source": "hn",
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "score": 716,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50429426",
-      "author": "gf74918",
-      "publishedAt": "2026-11-09T18:24:38.000Z"
+      "title": "Swatters are using AI voices to deceive 911 dispatchers, and it's getting worse",
+      "url": "https://text.npr.org/nx-s1-6034449",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50456742",
+      "author": "DeepLogin",
+      "publishedAt": "2026-11-11T18:28:33.000Z"
+    },
+    {
+      "id": "50447074",
+      "source": "hn",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "score": 440,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50447074",
+      "author": "panic",
+      "publishedAt": "2026-11-10T22:17:56.000Z"
+    },
+    {
+      "id": "50455721",
+      "source": "hn",
+      "title": "Tech Allies Rally Behind Jensen Huang, Calling Him Vital in AI Race (Gift Link)",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50455721",
+      "author": "sjs382",
+      "publishedAt": "2026-11-11T17:05:37.000Z"
+    },
+    {
+      "id": "50453513",
+      "source": "hn",
+      "title": "Prompting Claude Fable 5.2",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50453513",
+      "author": "waximabbax",
+      "publishedAt": "2026-11-11T13:59:09.000Z"
+    },
+    {
+      "id": "50456474",
+      "source": "hn",
+      "title": "United Airlines Is Banning AI Bots from Booking Flights",
+      "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50456474",
+      "author": "jaredwiener",
+      "publishedAt": "2026-11-11T18:07:39.000Z"
+    },
+    {
+      "id": "50450729",
+      "source": "hn",
+      "title": "Compress any LLM 3x in one click, near-lossless, in under 50 MB RAM",
+      "url": "https://github.com/NeuraCryption/SPECTRA",
+      "score": 20,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50450729",
+      "author": "NeuraCryption",
+      "publishedAt": "2026-11-11T07:39:12.000Z"
+    },
+    {
+      "id": "50429068",
+      "source": "hn",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "score": 907,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50429068",
+      "author": "lairv",
+      "publishedAt": "2026-11-09T18:01:10.000Z"
     }
   ]
 }
