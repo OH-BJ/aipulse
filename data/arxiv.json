@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-11-13T04:30:28.778Z",
-  "items": []
+  "fetchedAt": "2026-11-13T19:01:45.783Z",
+  "items": [
+    {
+      "id": "2611.13607",
+      "source": "arxiv",
+      "title": "One Byte, One Token: Byteifying a 27B Hybrid-Attention LLM with Self-Generated Data",
+      "url": "https://arxiv.org/abs/2611.13607",
+      "author": "Liwei Zhang, ZhiMing Tong, Mochen Guan +1",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Byte-level BPE fragments Chinese text (for Qwen3.8 on Chinese Wikipedia, 3.84 bytes per token on average; 64% of tokens are single characters) and hides spelling from the model. We ask whether an alre…"
+    },
+    {
+      "id": "2611.13382",
+      "source": "arxiv",
+      "title": "Discrete Model-Based Diffusion for Combinatorial Optimization in Multi-Robot Task Allocation",
+      "url": "https://arxiv.org/abs/2611.13382",
+      "author": "Haejoon Lee, Thomas Marshall Vielmetti, Xinyi Wang +1",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Decision making in multi-robot systems often involves discrete decision variables, leading to NP-hard combinatorial optimization problems that must be solved within seconds for near real-time implemen…"
+    },
+    {
+      "id": "2611.13219",
+      "source": "arxiv",
+      "title": "MediPFN: Amortized In-Context Nuisance Learning and Inference for Causal Mediation Analysis",
+      "url": "https://arxiv.org/abs/2611.13219",
+      "author": "Shi Bo, Jiaming Hu",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Causal mediation analysis decomposes a treatment effect into indirect pathways through mediators and direct pathways through other processes. Tabular foundation models perform classification and regre…"
+    },
+    {
+      "id": "2611.12737",
+      "source": "arxiv",
+      "title": "Inference Validation for Regulated AI: A Governed Decision Pipeline for LLM Serving",
+      "url": "https://arxiv.org/abs/2611.12737",
+      "author": "Dev Akre, Roman Bobalo, Manoj Dobbali",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Deploying large language models in regulated industries requires more than picking the fastest inference engine: it requires evidence that a configuration meets contractual and legal obligations befor…"
+    },
+    {
+      "id": "2611.10292",
+      "source": "arxiv",
+      "title": "Continual Instruction Tuning for LLM-based Management of Continuum Resources",
+      "url": "https://arxiv.org/abs/2611.10292",
+      "author": "Lanpei Li, Antonino Vaccarella, Vincenzo Lomonaco +1",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Large language models (LLMs) are increasingly explored for resource management across the Cloud-Edge continuum. However, embedding LLMs directly inside latency-sensitive control loops places inference…"
+    },
+    {
+      "id": "2611.05355",
+      "source": "arxiv",
+      "title": "Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
+      "url": "https://arxiv.org/abs/2611.05355",
+      "author": "Teerawat Tongloy, Jiraporn Pongsopa, Rangsan Jomtarak",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "When a language model answers, we can usually only estimate why. We build a transformer in which every nonlinearity is a quadratic detection - an interference, a balanced reading or a camera - and the…"
+    },
+    {
+      "id": "2611.02627",
+      "source": "arxiv",
+      "title": "Recovering Missing Degrees of Freedom in Simulation-Trained Field-Level Generative Models",
+      "url": "https://arxiv.org/abs/2611.02627",
+      "author": "Masato Shirasaki, Shiro Ikeda",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Simulation-trained generative models are emerging as a powerful framework for field-level inference in cosmology, particularly in strongly nonlinear regimes where analytical approaches become intracta…"
+    },
+    {
+      "id": "2610.41405",
+      "source": "arxiv",
+      "title": "Conditional Neural SDEs for Financial Time-Series Generation",
+      "url": "https://arxiv.org/abs/2610.41405",
+      "author": "Sina Molavipour, Alireza M. Javid, Bj\\\"orn L\\\"ofdahl +1",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Conditional generation of time-series paths is a central problem in probabilistic modeling, where the goal is to simulate future trajectories that are both realistic and responsive to external context…"
+    },
+    {
+      "id": "2610.35748",
+      "source": "arxiv",
+      "title": "Model Selection for Off-Policy Evaluation via Bellman Tournaments",
+      "url": "https://arxiv.org/abs/2610.35748",
+      "author": "Lars van der Laan, Vasilis Syrgkanis, Nathan Kallus",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Model selection and hyperparameter tuning pose a central challenge in off-policy evaluation (OPE) because estimation errors in fitted $Q$-functions and occupancy ratios cannot be directly evaluated us…"
+    },
+    {
+      "id": "2610.34390",
+      "source": "arxiv",
+      "title": "Controlled Block Proximal Linearized Method for Nonconvex and Nonsmooth Optimization",
+      "url": "https://arxiv.org/abs/2610.34390",
+      "author": "Weifeng Yang",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "In this paper, we consider multiblock nonconvex and nonsmooth optimization without assuming bounded iterates or coercivity of the original objective. We propose the Controlled Block Proximal Linearize…"
+    },
+    {
+      "id": "2610.32955",
+      "source": "arxiv",
+      "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+      "url": "https://arxiv.org/abs/2610.32955",
+      "author": "Federico Lucca",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Personal email agents decide, for every message, its type and urgency and whether to draft a reply, create a task or ignore it. In production these decisions are delegated to a generative LLM or to ru…"
+    },
+    {
+      "id": "2610.28910",
+      "source": "arxiv",
+      "title": "Backtracking Direct, Indirect and Total Effects",
+      "url": "https://arxiv.org/abs/2610.28910",
+      "author": "Jose M. Pe\\~{n}a",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Natural direct and indirect effects are defined through cross-world interventional counterfactuals. We propose an alternative construction based on backtracking counterfactuals. Rather than intervenin…"
+    },
+    {
+      "id": "2610.20229",
+      "source": "arxiv",
+      "title": "The minimal width of neural networks and immersions of real projective space",
+      "url": "https://arxiv.org/abs/2610.20229",
+      "author": "BaoZhi Chu, Ben Weinkove",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "We investigate the minimal width of deep neural networks that can approximate all continuous functions from $\\mathbb{R}^n$ to $\\mathbb{R}^m$ in the topology of uniform convergence on compact subsets.…"
+    },
+    {
+      "id": "2610.19766",
+      "source": "arxiv",
+      "title": "Analyzing and Mitigating Poisoning Attacks on Flow-Based Intrusion Detection",
+      "url": "https://arxiv.org/abs/2610.19766",
+      "author": "Florian Spelter, Johannes F. Loevenich, Tobias H\\\"urten +4",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Although Artificial Intelligence (AI)-based Intrusion Detection Systems (IDSs) are increasingly deployed in operational networks, their dependence on large-scale training data introduces a critical vu…"
+    },
+    {
+      "id": "2610.19323",
+      "source": "arxiv",
+      "title": "TopicMerge: A Divide and Conquer Approach to Topic Modeling",
+      "url": "https://arxiv.org/abs/2610.19323",
+      "author": "Matthew Raffel, Lizhong Chen, Sai Munikoti +1",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Recent advancements in topic modeling have split into two main paths: efficient embedding-based methods that offer scalability but are often outperformed on standard clustering metrics, and Large Lang…"
+    },
+    {
+      "id": "2610.18594",
+      "source": "arxiv",
+      "title": "Autonomous Cyber Operations Gym for Training and Evaluating AI Models for Defence",
+      "url": "https://arxiv.org/abs/2610.18594",
+      "author": "Tobias H\\\"urten, Johannes F. Loevenich, Florian Spelter +5",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "This paper proposes an Autonomous Cyber Operations (ACO) gym, a unified framework integrating high-fidelity network emulation, realistic user behaviour modelling for benign network traffic and adversa…"
+    },
+    {
+      "id": "2610.15953",
+      "source": "arxiv",
+      "title": "Small area learning",
+      "url": "https://arxiv.org/abs/2610.15953",
+      "author": "Katarzyna Reluga, Nicola Salvati, Setareh Ranjbar +2",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Small area estimation (SAE) traditionally borrows strength across domains through a prespecified working model. We introduce small area learning (SAL), a novel learner-agnostic framework that formulat…"
+    },
+    {
+      "id": "2610.12421",
+      "source": "arxiv",
+      "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
+      "url": "https://arxiv.org/abs/2610.12421",
+      "author": "Luping Liu, Bingyi Kang, Yifan Wang +1",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Dense correspondence matching has historically been bounded by simplifying spatio-temporal priors, such as smooth motion and rigid geometry. While effective for classical tasks, these assumptions brea…"
+    },
+    {
+      "id": "2610.09505",
+      "source": "arxiv",
+      "title": "Bias-Aware Adjoint Calibration and Optimal Control of Stochastic Multiscale Bioprocess Digital Twins",
+      "url": "https://arxiv.org/abs/2610.09505",
+      "author": "Keilung Choy, Wei Xie",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "We develop a bias-aware digital-twin calibration and control framework for multiscale bioprocess models within a biological systems-of-systems (Bio-SoS) paradigm. The digital twin is represented by a…"
+    },
+    {
+      "id": "2610.07594",
+      "source": "arxiv",
+      "title": "BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation",
+      "url": "https://arxiv.org/abs/2610.07594",
+      "author": "Zexi Zhang, Zecheng Zhu, Zidong Chen +2",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Humanoid household manipulation requires the arms to act while the body balances, steps and changes posture. We present BiGym 2.0, an adaptation of BiGym for the Unitree G1 across 20 household tasks u…"
+    },
+    {
+      "id": "2610.04543",
+      "source": "arxiv",
+      "title": "Quantum Machine Learning Protection of Military Quantum Key Distribution Against Cryptographically Camouflaged Attacks",
+      "url": "https://arxiv.org/abs/2610.04543",
+      "author": "Muhammad Shaheer Bin Junaid",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Quantum key distribution proves its protocol secure and says nothing about the hardware beneath it, so military and government operators fielding it for command-and-control keys monitor the channel fo…"
+    },
+    {
+      "id": "2609.33663",
+      "source": "arxiv",
+      "title": "LieDiscover: Adaptive Symbolic Library Construction for Explicit Open-form Symmetry Discovery",
+      "url": "https://arxiv.org/abs/2609.33663",
+      "author": "Xinxin Li, Jianming Ma, Xingyu Cui +3",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Discovering symmetries from observational data provides interpretable insights into dynamical systems and priors for scientific machine learning. However, existing symmetry discovery methods face two…"
+    },
+    {
+      "id": "2609.24954",
+      "source": "arxiv",
+      "title": "JAREX: An Acquisition Function for Multi-Objective Algorithmic Process Characterization",
+      "url": "https://arxiv.org/abs/2609.24954",
+      "author": "Xinyang Li, Kevin Stone, Ajit Vikram",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Pharmaceutical process characterization is central to Quality by Design because it defines how variations in process parameters affect the ability to meet product quality specifications, thereby suppo…"
+    },
+    {
+      "id": "2609.10947",
+      "source": "arxiv",
+      "title": "The Platonic brain bridge hypothesis: brain networks as architectural priors for multimodal large language models",
+      "url": "https://arxiv.org/abs/2609.10947",
+      "author": "Pengfei Zhang, Biao Tian, Xiangang Li +1",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Multimodal large language models predict brain activity, but alignment has remained a measurement, not a design tool. We propose the Platonic brain bridge hypothesis: omni models, which jointly proces…"
+    },
+    {
+      "id": "2609.09854",
+      "source": "arxiv",
+      "title": "When Does Low-Bit Quantization Preserve the Decisions of Vector Search?",
+      "url": "https://arxiv.org/abs/2609.09854",
+      "author": "Wenxuan Xiao, Xu Cao",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "An orthogonal rotation improves the distance rank correlation of two-bit Cohere codes from 0.75 to 0.91, yet increases nearest-neighbour comparison flips by 51%. We analyse quantization through the co…"
+    },
+    {
+      "id": "2609.04325",
+      "source": "arxiv",
+      "title": "The microscope is the mask: privileged views and labels from a cryo-ET forward model",
+      "url": "https://arxiv.org/abs/2609.04325",
+      "author": "Bogdan Toader, Kiarash Jamali, Tanmay A. M. Bharat +1",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "We explore the use of simulated data for training a model for protein annotation in crowded cryo-electron tomography volumes reconstructed from images collected at limited tilt angles and severely cor…"
+    },
+    {
+      "id": "2609.02948",
+      "source": "arxiv",
+      "title": "FrOGS: Discrete Neural Sampler for Independent Alloy Configurations Across Chemical Conditions",
+      "url": "https://arxiv.org/abs/2609.02948",
+      "author": "Kyucheol Min, Elyssa Hofgard, Tess Smidt",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Predicting the thermodynamic properties of an alloy requires sampling its configurations across many chemical conditions and recovering free energies on a common absolute scale. Markov chain Monte Car…"
+    },
+    {
+      "id": "2608.24763",
+      "source": "arxiv",
+      "title": "MoTE: Mixture of Task Experts for Multi-Task Video Understanding",
+      "url": "https://arxiv.org/abs/2608.24763",
+      "author": "Muhammad Asad Ali, Umar Khan, Nadia Robertini +1",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Procedural video-language models must solve heterogeneous tasks from the same visual evidence, including action recognition, forecasting, and procedure prediction. Dense transformer decoders share the…"
+    },
+    {
+      "id": "2608.07408",
+      "source": "arxiv",
+      "title": "Addressable Memory for Video World Models",
+      "url": "https://arxiv.org/abs/2608.07408",
+      "author": "Xindi Wu, Sven Elflein, James Lucas +5",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "We study visual persistence in interactive video world models. These models rely on a Key-Value (KV) cache as a growing visual memory to carry forward previously generated frames. However, we find tha…"
+    },
+    {
+      "id": "2608.06618",
+      "source": "arxiv",
+      "title": "Beyond Co-Movement: Locality by Exposures Enables a Joint Factor-Graph Framework for Portfolio Diversification",
+      "url": "https://arxiv.org/abs/2608.06618",
+      "author": "Sara Chehab, Giorgos Iacovides, Parisa Yazdanparast +1",
+      "publishedAt": "2026-11-13T05:00:00.000Z",
+      "summary": "Current portfolio construction methods are either agnostic to the effects of idiosyncratic shocks (standard factor models) or to the latent data structure driving systematic returns (recent graph-base…"
+    }
+  ]
 }
