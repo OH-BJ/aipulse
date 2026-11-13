@@ -1,76 +1,86 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-12T19:23:54.102Z",
+  "fetchedAt": "2026-11-13T04:30:29.125Z",
   "items": [
-    {
-      "id": "50471431",
-      "source": "hn",
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "score": 243,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50471431",
-      "author": "dvaplima",
-      "publishedAt": "2026-11-12T18:01:48.000Z"
-    },
     {
       "id": "50472260",
       "source": "hn",
       "title": "Gemini 4 Hydrogen and Orchestrator",
       "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "score": 16,
+      "score": 347,
       "commentsUrl": "https://news.ycombinator.com/item?id=50472260",
       "author": "jonbaer",
       "publishedAt": "2026-11-12T18:52:01.000Z"
+    },
+    {
+      "id": "50475713",
+      "source": "hn",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "score": 126,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50475713",
+      "author": "sroussey",
+      "publishedAt": "2026-11-12T23:06:17.000Z"
+    },
+    {
+      "id": "50474311",
+      "source": "hn",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "score": 134,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50474311",
+      "author": "anigbrowl",
+      "publishedAt": "2026-11-12T21:09:49.000Z"
+    },
+    {
+      "id": "50471431",
+      "source": "hn",
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "score": 489,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50471431",
+      "author": "dvaplima",
+      "publishedAt": "2026-11-12T18:01:48.000Z"
     },
     {
       "id": "50465829",
       "source": "hn",
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us/",
-      "score": 681,
+      "score": 857,
       "commentsUrl": "https://news.ycombinator.com/item?id=50465829",
       "author": "josephljohnston",
       "publishedAt": "2026-11-12T11:46:41.000Z"
     },
     {
-      "id": "50458900",
+      "id": "50474883",
       "source": "hn",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "score": 647,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50458900",
-      "author": "herpderperator",
-      "publishedAt": "2026-11-11T21:24:35.000Z"
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "score": 220,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50474883",
+      "author": "firloop",
+      "publishedAt": "2026-11-12T21:56:11.000Z"
     },
     {
-      "id": "50467880",
+      "id": "50476586",
       "source": "hn",
-      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
-      "url": "https://yourairedlines.com",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50467880",
-      "author": "ap11071",
-      "publishedAt": "2026-11-12T14:31:21.000Z"
+      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "score": 64,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50476586",
+      "author": "thunderbong",
+      "publishedAt": "2026-11-13T00:38:41.000Z"
     },
     {
-      "id": "50471455",
+      "id": "50446520",
       "source": "hn",
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen",
-      "score": 14,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50471455",
-      "author": "thisisauserid",
-      "publishedAt": "2026-11-12T18:03:14.000Z"
-    },
-    {
-      "id": "50471652",
-      "source": "hn",
-      "title": "Washing dishes at Denny's to rockstar of AI, the rise and fall of Jensen Huang",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50471652",
-      "author": "ljf",
-      "publishedAt": "2026-11-12T18:15:53.000Z"
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "score": 554,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50446520",
+      "author": "linolevan",
+      "publishedAt": "2026-11-10T21:25:03.000Z"
     },
     {
       "id": "50452404",
@@ -83,44 +93,34 @@
       "publishedAt": "2026-11-11T12:00:35.000Z"
     },
     {
-      "id": "50471673",
-      "source": "hn",
-      "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50471673",
-      "author": "01-_-",
-      "publishedAt": "2026-11-12T18:17:29.000Z"
-    },
-    {
-      "id": "50446520",
-      "source": "hn",
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "score": 548,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50446520",
-      "author": "linolevan",
-      "publishedAt": "2026-11-10T21:25:03.000Z"
-    },
-    {
       "id": "50456791",
       "source": "hn",
       "title": "Gemini Decisions API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "score": 546,
+      "score": 555,
       "commentsUrl": "https://news.ycombinator.com/item?id=50456791",
       "author": "iamdelirium",
       "publishedAt": "2026-11-11T18:32:42.000Z"
     },
     {
-      "id": "50469203",
+      "id": "50467880",
       "source": "hn",
-      "title": "Chicago schools tell Google they'd rather lose Search than be forced to use AI",
-      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-      "score": 11,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50469203",
-      "author": "healsdata",
-      "publishedAt": "2026-11-12T15:40:37.000Z"
+      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+      "url": "https://yourairedlines.com",
+      "score": 35,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50467880",
+      "author": "ap11071",
+      "publishedAt": "2026-11-12T14:31:21.000Z"
+    },
+    {
+      "id": "50458900",
+      "source": "hn",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "score": 666,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50458900",
+      "author": "herpderperator",
+      "publishedAt": "2026-11-11T21:24:35.000Z"
     }
   ]
 }
