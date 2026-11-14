@@ -1,7 +1,133 @@
 {
   "source": "geeknews",
-  "fetchedAt": "2026-11-14T04:27:01.109Z",
+  "fetchedAt": "2026-11-14T17:31:35.995Z",
   "items": [
+    {
+      "id": "37165",
+      "source": "geeknews",
+      "title": "누구나 이해할 수 있는 ML 모듈",
+      "url": "https://news.hada.io/topic?id=37165&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37165&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "neo",
+      "publishedAt": "2026-11-14T17:02:51.000Z"
+    },
+    {
+      "id": "37163",
+      "source": "geeknews",
+      "title": "Nvidia 이사, Jensen Huang 스캔들 몇 주 전 주식 약 1.3조원 매각",
+      "url": "https://news.hada.io/topic?id=37163&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37163&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "neo",
+      "publishedAt": "2026-11-14T15:39:16.000Z"
+    },
+    {
+      "id": "37162",
+      "source": "geeknews",
+      "title": "Unsloth Qwen3.8-27B 양자화 모델, Dynamic v3.1 업데이트",
+      "url": "https://news.hada.io/topic?id=37162&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37162&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "neo",
+      "publishedAt": "2026-11-14T15:36:16.000Z"
+    },
+    {
+      "id": "37159",
+      "source": "geeknews",
+      "title": "Claude Fable 5.2로 에이전트 1,000개 팀 안전하게 돌리기 - 페르마의 마지막 정리 형식화 실험",
+      "url": "https://news.hada.io/topic?id=37159&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37159&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "tedkim",
+      "publishedAt": "2026-11-14T14:39:02.000Z"
+    },
+    {
+      "id": "37158",
+      "source": "geeknews",
+      "title": "Show GN: dashcamsimulator - 실제 사고를 기반으로 만들어진 블랙박스 시뮬레이션 게임",
+      "url": "https://news.hada.io/topic?id=37158&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37158&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "giyeol",
+      "publishedAt": "2026-11-14T14:04:42.000Z"
+    },
+    {
+      "id": "37157",
+      "source": "geeknews",
+      "title": "Show GN: 321Dive - 여섯 바다를 골라 둘러보는 가상 3D 잠수 공간",
+      "url": "https://news.hada.io/topic?id=37157&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37157&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "illuwa",
+      "publishedAt": "2026-11-14T13:45:21.000Z"
+    },
+    {
+      "id": "37156",
+      "source": "geeknews",
+      "title": "Monkey Island: 13개 버전을 나란히 비교하기",
+      "url": "https://news.hada.io/topic?id=37156&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37156&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "neo",
+      "publishedAt": "2026-11-14T13:32:33.000Z"
+    },
+    {
+      "id": "37154",
+      "source": "geeknews",
+      "title": "염증을 유발하지 않으면서 노화를 촉진하는 단백질 발견",
+      "url": "https://news.hada.io/topic?id=37154&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37154&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "neo",
+      "publishedAt": "2026-11-14T11:31:28.000Z"
+    },
+    {
+      "id": "37153",
+      "source": "geeknews",
+      "title": "ggml v1.0.0 - 폐기 예정 API 제거, FP8 지원과 백엔드 성능 개선",
+      "url": "https://news.hada.io/topic?id=37153&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37153&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "neo",
+      "publishedAt": "2026-11-14T08:33:02.000Z"
+    },
+    {
+      "id": "37152",
+      "source": "geeknews",
+      "title": "Go의 확률적 자료구조",
+      "url": "https://news.hada.io/topic?id=37152&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37152&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "neo",
+      "publishedAt": "2026-11-14T08:05:04.000Z"
+    },
+    {
+      "id": "37151",
+      "source": "geeknews",
+      "title": "Show HN: Isometric SF - 샌프란시스코 베이 지역의 픽셀 아트 지도",
+      "url": "https://news.hada.io/topic?id=37151&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37151&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "neo",
+      "publishedAt": "2026-11-14T07:32:32.000Z"
+    },
+    {
+      "id": "37150",
+      "source": "geeknews",
+      "title": "AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
+      "url": "https://news.hada.io/topic?id=37150&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37150&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "neo",
+      "publishedAt": "2026-11-14T06:37:18.000Z"
+    },
+    {
+      "id": "37149",
+      "source": "geeknews",
+      "title": "Nvidia, 자사 GPU를 구매할 AI 스타트업에 투자해 공급 부족을 인위적으로 조성했다는 의혹",
+      "url": "https://news.hada.io/topic?id=37149&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37149&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "neo",
+      "publishedAt": "2026-11-14T06:34:18.000Z"
+    },
+    {
+      "id": "37148",
+      "source": "geeknews",
+      "title": "미국 모든 공항에 현재 지상 대기 조치 발령",
+      "url": "https://news.hada.io/topic?id=37148&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "commentsUrl": "https://news.hada.io/topic?id=37148&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+      "author": "neo",
+      "publishedAt": "2026-11-14T05:30:59.000Z"
+    },
     {
       "id": "37145",
       "source": "geeknews",
@@ -55,132 +181,6 @@
       "commentsUrl": "https://news.hada.io/topic?id=37138&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
       "author": "neo",
       "publishedAt": "2026-11-14T00:38:43.000Z"
-    },
-    {
-      "id": "37137",
-      "source": "geeknews",
-      "title": "Ace - 내 Mac에서 팀원과 AI 에이전트가 함께 작업하는 코딩 환경",
-      "url": "https://news.hada.io/topic?id=37137&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37137&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "xguru",
-      "publishedAt": "2026-11-14T00:30:02.000Z"
-    },
-    {
-      "id": "37136",
-      "source": "geeknews",
-      "title": "최소한 제3의 선택지가 필요한 이유",
-      "url": "https://news.hada.io/topic?id=37136&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37136&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-14T00:18:41.000Z"
-    },
-    {
-      "id": "37135",
-      "source": "geeknews",
-      "title": "셀을 차지하지 않는 터미널 테두리",
-      "url": "https://news.hada.io/topic?id=37135&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37135&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-14T00:15:41.000Z"
-    },
-    {
-      "id": "37134",
-      "source": "geeknews",
-      "title": "“글루 워크는 해롭다”에 대한 반론",
-      "url": "https://news.hada.io/topic?id=37134&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37134&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-14T00:12:41.000Z"
-    },
-    {
-      "id": "37133",
-      "source": "geeknews",
-      "title": "음악 플레이어를 이렇게 만들지는 말자",
-      "url": "https://news.hada.io/topic?id=37133&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37133&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-14T00:09:41.000Z"
-    },
-    {
-      "id": "37132",
-      "source": "geeknews",
-      "title": "Haskell 생태계를 위한 기술 비전",
-      "url": "https://news.hada.io/topic?id=37132&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37132&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-13T23:38:14.000Z"
-    },
-    {
-      "id": "37131",
-      "source": "geeknews",
-      "title": "빅테크는 우리를 실망시킨다",
-      "url": "https://news.hada.io/topic?id=37131&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37131&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-13T23:35:14.000Z"
-    },
-    {
-      "id": "37130",
-      "source": "geeknews",
-      "title": "600번의 실험으로 알아낸 JEPA 월드 모델의 특성",
-      "url": "https://news.hada.io/topic?id=37130&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37130&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-13T22:37:56.000Z"
-    },
-    {
-      "id": "37129",
-      "source": "geeknews",
-      "title": "1,140만 달러 규모 NVIDIA 하드웨어, 캘리포니아에서 텍사스로 운송 중 사라져",
-      "url": "https://news.hada.io/topic?id=37129&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37129&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-13T22:34:56.000Z"
-    },
-    {
-      "id": "37128",
-      "source": "geeknews",
-      "title": "No AI Slop 선언문",
-      "url": "https://news.hada.io/topic?id=37128&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37128&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "daleseo",
-      "publishedAt": "2026-11-13T22:09:42.000Z"
-    },
-    {
-      "id": "37127",
-      "source": "geeknews",
-      "title": "FAA, 전국 항공기 이륙 중지 조치 발령",
-      "url": "https://news.hada.io/topic?id=37127&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37127&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-13T21:42:51.000Z"
-    },
-    {
-      "id": "37126",
-      "source": "geeknews",
-      "title": "학생이 iPad에서 PowerPoint를 여는 데 필요한 16번의 클릭",
-      "url": "https://news.hada.io/topic?id=37126&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37126&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-13T21:39:51.000Z"
-    },
-    {
-      "id": "37125",
-      "source": "geeknews",
-      "title": "Relax: Rust 빌드 시간을 줄이기 위한 JIT 컴파일러",
-      "url": "https://news.hada.io/topic?id=37125&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37125&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-13T21:36:51.000Z"
-    },
-    {
-      "id": "37124",
-      "source": "geeknews",
-      "title": "AI로 해독한 Gödel의 노트, 증명된 정리 수백 개 담겼다는 연구 결과",
-      "url": "https://news.hada.io/topic?id=37124&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "commentsUrl": "https://news.hada.io/topic?id=37124&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-      "author": "neo",
-      "publishedAt": "2026-11-13T20:32:20.000Z"
     }
   ]
 }
