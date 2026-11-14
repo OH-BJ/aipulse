@@ -1,206 +1,186 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-13T19:01:46.017Z",
+  "fetchedAt": "2026-11-14T04:27:00.853Z",
   "items": [
+    {
+      "id": "50493251",
+      "source": "hn",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "score": 85,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50493251",
+      "author": "speckx",
+      "publishedAt": "2026-11-14T02:52:59.000Z"
+    },
+    {
+      "id": "50484658",
+      "source": "hn",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "score": 162,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50484658",
+      "author": "helloplanets",
+      "publishedAt": "2026-11-13T15:08:44.000Z"
+    },
+    {
+      "id": "50489589",
+      "source": "hn",
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers",
+      "score": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50489589",
+      "author": "dkobran",
+      "publishedAt": "2026-11-13T21:01:11.000Z"
+    },
+    {
+      "id": "50492141",
+      "source": "hn",
+      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "url": "https://claude.com/resources/articles/projects-redesigned",
+      "score": 67,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50492141",
+      "author": "toppa33",
+      "publishedAt": "2026-11-14T00:28:11.000Z"
+    },
     {
       "id": "50486748",
       "source": "hn",
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "score": 144,
+      "score": 350,
       "commentsUrl": "https://news.ycombinator.com/item?id=50486748",
       "author": "bookofjoe",
       "publishedAt": "2026-11-13T17:30:10.000Z"
+    },
+    {
+      "id": "50491097",
+      "source": "hn",
+      "title": "Claude Meetings",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "score": 78,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50491097",
+      "author": "hmokiguess",
+      "publishedAt": "2026-11-13T22:39:15.000Z"
     },
     {
       "id": "50481187",
       "source": "hn",
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "score": 457,
+      "score": 488,
       "commentsUrl": "https://news.ycombinator.com/item?id=50481187",
       "author": "__vivek",
       "publishedAt": "2026-11-13T10:18:13.000Z"
     },
     {
-      "id": "50484960",
+      "id": "50492877",
       "source": "hn",
-      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "url": "https://text.npr.org/nx-s1-6029408",
-      "score": 92,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50484960",
-      "author": "kamaraju",
-      "publishedAt": "2026-11-13T15:29:10.000Z"
+      "title": "Llama.cpp hits v1.0 with a native app for macOS",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50492877",
+      "author": "shubham0204",
+      "publishedAt": "2026-11-14T02:05:37.000Z"
+    },
+    {
+      "id": "50486914",
+      "source": "hn",
+      "title": "DeepSeek Ultrafast",
+      "url": "https://github.com/basetenlabs/deepseek-ultrafast",
+      "score": 35,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50486914",
+      "author": "neo2006",
+      "publishedAt": "2026-11-13T17:39:03.000Z"
     },
     {
       "id": "50487184",
       "source": "hn",
       "title": "OpenAI disbands its robotics team as its general models start running robots",
       "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "score": 20,
+      "score": 151,
       "commentsUrl": "https://news.ycombinator.com/item?id=50487184",
       "author": "sshah03",
       "publishedAt": "2026-11-13T17:55:23.000Z"
+    },
+    {
+      "id": "50492302",
+      "source": "hn",
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50492302",
+      "author": "nthypes",
+      "publishedAt": "2026-11-14T00:50:33.000Z"
     },
     {
       "id": "50481870",
       "source": "hn",
       "title": "AI is destroying the trust between writers and readers",
       "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-      "score": 247,
+      "score": 321,
       "commentsUrl": "https://news.ycombinator.com/item?id=50481870",
       "author": "FinnLobsien",
       "publishedAt": "2026-11-13T11:13:46.000Z"
     },
     {
-      "id": "50451943",
+      "id": "50484960",
       "source": "hn",
-      "title": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
-      "url": "https://github.com/garritfra/llmtee",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50451943",
-      "author": "garritfra",
-      "publishedAt": "2026-11-11T10:55:46.000Z"
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "score": 171,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50484960",
+      "author": "kamaraju",
+      "publishedAt": "2026-11-13T15:29:10.000Z"
+    },
+    {
+      "id": "50493079",
+      "source": "hn",
+      "title": "Sam Bankman-Fried would have made nearly $40B in Anthropic IPO",
+      "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50493079",
+      "author": "lvl256",
+      "publishedAt": "2026-11-14T02:30:28.000Z"
     },
     {
       "id": "50472260",
       "source": "hn",
       "title": "Gemini 4 Hydrogen and Orchestrator",
       "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "score": 490,
+      "score": 496,
       "commentsUrl": "https://news.ycombinator.com/item?id=50472260",
       "author": "jonbaer",
       "publishedAt": "2026-11-12T18:52:01.000Z"
-    },
-    {
-      "id": "50487469",
-      "source": "hn",
-      "title": "Are we just going to ignore that books are destroyed for AI?",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50487469",
-      "author": "nyxtom",
-      "publishedAt": "2026-11-13T18:14:38.000Z"
-    },
-    {
-      "id": "50475713",
-      "source": "hn",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "score": 327,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50475713",
-      "author": "sroussey",
-      "publishedAt": "2026-11-12T23:06:17.000Z"
-    },
-    {
-      "id": "50484658",
-      "source": "hn",
-      "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "score": 131,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50484658",
-      "author": "helloplanets",
-      "publishedAt": "2026-11-13T15:08:44.000Z"
     },
     {
       "id": "50471431",
       "source": "hn",
       "title": "Gemini 4 Hydrogen",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "score": 554,
+      "score": 560,
       "commentsUrl": "https://news.ycombinator.com/item?id=50471431",
       "author": "dvaplima",
       "publishedAt": "2026-11-12T18:01:48.000Z"
     },
     {
-      "id": "50474883",
+      "id": "50491067",
       "source": "hn",
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "score": 349,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50474883",
-      "author": "firloop",
-      "publishedAt": "2026-11-12T21:56:11.000Z"
+      "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50491067",
+      "author": "samizdis",
+      "publishedAt": "2026-11-13T22:37:24.000Z"
     },
     {
-      "id": "50481220",
+      "id": "50475713",
       "source": "hn",
-      "title": "Claude Is Down",
-      "url": "https://status.claude.com/history",
-      "score": 191,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50481220",
-      "author": "cornfieldlabs",
-      "publishedAt": "2026-11-13T10:20:09.000Z"
-    },
-    {
-      "id": "50486637",
-      "source": "hn",
-      "title": "Yang-Mills, OpenAI proof, and the mass gap problem",
-      "url": "https://huggingface.co/blog/dlouapre/yang-mills-openai",
-      "score": 6,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50486637",
-      "author": "pretext",
-      "publishedAt": "2026-11-13T17:21:32.000Z"
-    },
-    {
-      "id": "50452404",
-      "source": "hn",
-      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
-      "url": "https://news.ycombinator.com/item?id=50452404",
-      "score": 1,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50452404",
-      "author": "FrasiertheLion",
-      "publishedAt": "2026-11-11T12:00:35.000Z"
-    },
-    {
-      "id": "50486387",
-      "source": "hn",
-      "title": "Claude Is Superhuman at Translating Poetry Now",
-      "url": "https://lettersfrombethlehem.substack.com/p/claude-is-superhuman-at-translating",
-      "score": 4,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50486387",
-      "author": "speckx",
-      "publishedAt": "2026-11-13T17:04:15.000Z"
-    },
-    {
-      "id": "50446520",
-      "source": "hn",
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "score": 561,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50446520",
-      "author": "linolevan",
-      "publishedAt": "2026-11-10T21:25:03.000Z"
-    },
-    {
-      "id": "50465829",
-      "source": "hn",
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us/",
-      "score": 987,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50465829",
-      "author": "josephljohnston",
-      "publishedAt": "2026-11-12T11:46:41.000Z"
-    },
-    {
-      "id": "50474311",
-      "source": "hn",
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "score": 194,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50474311",
-      "author": "anigbrowl",
-      "publishedAt": "2026-11-12T21:09:49.000Z"
-    },
-    {
-      "id": "50483765",
-      "source": "hn",
-      "title": "Llama.cpp v1 Is Out",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50483765",
-      "author": "unofficialmerve",
-      "publishedAt": "2026-11-13T14:12:34.000Z"
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "score": 340,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50475713",
+      "author": "sroussey",
+      "publishedAt": "2026-11-12T23:06:17.000Z"
     }
   ]
 }
