@@ -1,56 +1,66 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-15T04:12:16.066Z",
+  "fetchedAt": "2026-11-15T18:20:17.375Z",
   "items": [
+    {
+      "id": "50507303",
+      "source": "hn",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "score": 600,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50507303",
+      "author": "jcubic",
+      "publishedAt": "2026-11-15T14:46:58.000Z"
+    },
+    {
+      "id": "50463399",
+      "source": "hn",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "score": 107,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50463399",
+      "author": "envoked",
+      "publishedAt": "2026-11-12T05:29:24.000Z"
+    },
+    {
+      "id": "50506940",
+      "source": "hn",
+      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "url": "https://github.com/db-branch/db-branch",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50506940",
+      "author": "nu_nu11",
+      "publishedAt": "2026-11-15T13:50:51.000Z"
+    },
     {
       "id": "50497589",
       "source": "hn",
       "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
       "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "score": 201,
+      "score": 263,
       "commentsUrl": "https://news.ycombinator.com/item?id=50497589",
       "author": "VaibhaavTiwari",
       "publishedAt": "2026-11-14T15:04:15.000Z"
-    },
-    {
-      "id": "50441444",
-      "source": "hn",
-      "title": "Generative AI uses more energy on non-English text",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "score": 188,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50441444",
-      "author": "DeepLogin",
-      "publishedAt": "2026-11-10T15:07:28.000Z"
     },
     {
       "id": "50474883",
       "source": "hn",
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "score": 392,
+      "score": 415,
       "commentsUrl": "https://news.ycombinator.com/item?id=50474883",
       "author": "firloop",
       "publishedAt": "2026-11-12T21:56:11.000Z"
     },
     {
-      "id": "50484658",
+      "id": "50507517",
       "source": "hn",
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "score": 465,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50484658",
-      "author": "helloplanets",
-      "publishedAt": "2026-11-13T15:08:44.000Z"
-    },
-    {
-      "id": "50496590",
-      "source": "hn",
-      "title": "Open-source AI without Jensen",
-      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50496590",
-      "author": "pr337h4m",
-      "publishedAt": "2026-11-14T12:44:01.000Z"
+      "title": "A Human Reads the Anthropic IPO Filing",
+      "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50507517",
+      "author": "saikatsg",
+      "publishedAt": "2026-11-15T15:18:06.000Z"
     },
     {
       "id": "50489589",
@@ -63,64 +73,44 @@
       "publishedAt": "2026-11-13T21:01:11.000Z"
     },
     {
-      "id": "50493251",
+      "id": "50441444",
       "source": "hn",
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "score": 1050,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50493251",
-      "author": "speckx",
-      "publishedAt": "2026-11-14T02:52:59.000Z"
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "score": 229,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50441444",
+      "author": "DeepLogin",
+      "publishedAt": "2026-11-10T15:07:28.000Z"
     },
     {
-      "id": "50498051",
+      "id": "50484658",
       "source": "hn",
-      "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-      "score": 50,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50498051",
-      "author": "marginalia_nu",
-      "publishedAt": "2026-11-14T15:58:57.000Z"
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "score": 477,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50484658",
+      "author": "helloplanets",
+      "publishedAt": "2026-11-13T15:08:44.000Z"
     },
     {
-      "id": "50496525",
+      "id": "50506993",
       "source": "hn",
-      "title": "Why platform teams fail (and AI makes it worse)",
-      "url": "https://willdady.com/why-platform-teams-fail",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50496525",
-      "author": "Groady",
-      "publishedAt": "2026-11-14T12:32:36.000Z"
+      "title": "I run multiple Claude Code accounts on one Mac",
+      "url": "https://twitter.com/viborc/status/2121941174374039788",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50506993",
+      "author": "taubek",
+      "publishedAt": "2026-11-15T14:00:20.000Z"
     },
     {
-      "id": "50486748",
+      "id": "50507331",
       "source": "hn",
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "score": 426,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50486748",
+      "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
+      "url": "https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50507331",
       "author": "bookofjoe",
-      "publishedAt": "2026-11-13T17:30:10.000Z"
-    },
-    {
-      "id": "50481187",
-      "source": "hn",
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "score": 493,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50481187",
-      "author": "__vivek",
-      "publishedAt": "2026-11-13T10:18:13.000Z"
-    },
-    {
-      "id": "50486914",
-      "source": "hn",
-      "title": "DeepSeek Ultrafast",
-      "url": "https://github.com/basetenlabs/deepseek-ultrafast",
-      "score": 69,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50486914",
-      "author": "neo2006",
-      "publishedAt": "2026-11-13T17:39:03.000Z"
+      "publishedAt": "2026-11-15T14:51:10.000Z"
     }
   ]
 }
