@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-11-16T04:11:29.316Z",
-  "items": []
+  "fetchedAt": "2026-11-16T21:29:20.002Z",
+  "items": [
+    {
+      "id": "2611.17332",
+      "source": "arxiv",
+      "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "url": "https://arxiv.org/abs/2611.17332",
+      "author": "Jie Wang, Tong Zhu, Jiahao Kuang +11",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe…"
+    },
+    {
+      "id": "2611.17067",
+      "source": "arxiv",
+      "title": "An Invariant Neural-Network Eddy-Viscosity Closure with Iterative Solver Coupling for Molten Salt Fast Reactor Thermal-Hydraulics",
+      "url": "https://arxiv.org/abs/2611.17067",
+      "author": "Zaid Abulawi (Department of Nuclear Engineering, Texas A&M University), William Oliveira (Department of Energy +15",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "System thermal-hydraulics codes such as the System Analysis Module (SAM) close turbulence on coarse meshes with algebraic zero-equation mixing-length models. These models cannot represent the non-equi…"
+    },
+    {
+      "id": "2611.11985",
+      "source": "arxiv",
+      "title": "Trajectory Density Ratios under Weak Support: A Survey across the Sciences",
+      "url": "https://arxiv.org/abs/2611.11985",
+      "author": "Wei Chen, Lihao Zhuang, Yubing Wu +1",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Many problems across the sciences compare two stochastic processes through the sequences they generate. Reinforcement learning asks what a new policy would return from the trajectories of an old one;…"
+    },
+    {
+      "id": "2611.10556",
+      "source": "arxiv",
+      "title": "on\\'ona: Twin Embeddings with Tied Unembeddings",
+      "url": "https://arxiv.org/abs/2611.10556",
+      "author": "Cheng Luo, Xinnan Dai, Zhongzhu Zhou +4",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Weight tying reduces the parameter cost of language models, but the usual tied output head is limited to a single softmax. We introduce on\\'ona, a two-table parameterization that increases output expr…"
+    },
+    {
+      "id": "2611.10357",
+      "source": "arxiv",
+      "title": "LEGIT: Live Eligibility Gating over Identifier Tries for Constrained Decoding of Heterogeneous Pages",
+      "url": "https://arxiv.org/abs/2611.10357",
+      "author": "Felix Fang, Zheng Liu, Robert Saliba",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "A generative recommender names each candidate with a short token sequence, a Semantic ID, and recommends by generating those tokens. Some generative recommenders, including the Uber Eats search engine…"
+    },
+    {
+      "id": "2610.19095",
+      "source": "arxiv",
+      "title": "Similar Models, Broken Odds: Where Luce's Axiom Fails in Chatbot Arena",
+      "url": "https://arxiv.org/abs/2610.19095",
+      "author": "Soovadeep Bakshi, Apurba Bose, Aishwarya Bose +1",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Chatbot Arena gives each language model one Bradley-Terry score, which fixes how often any model should beat any other. Choice theory predicts where this fails: near-copies are compared on the few det…"
+    },
+    {
+      "id": "2610.07740",
+      "source": "arxiv",
+      "title": "High-Dimensional Online Calibration from Harmonic Weights",
+      "url": "https://arxiv.org/abs/2610.07740",
+      "author": "Maxwell Fishelson, Mehryar Mohri",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "We study the online calibration of multidimensional forecasts over an arbitrary convex set $Y\\subseteq\\mathbb{R}^d$ relative to an arbitrary error norm $\\|\\cdot\\|_L$. For forecasting $d$ binary outcom…"
+    },
+    {
+      "id": "2609.38524",
+      "source": "arxiv",
+      "title": "Generative sequence modeling for infinite memory processes via predictive states",
+      "url": "https://arxiv.org/abs/2609.38524",
+      "author": "Michael Wieck-Sosa, Cosma Rohilla Shalizi",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "We consider estimating the one-step-ahead conditional distribution of a multivariate stochastic process. Many existing approaches rely on assumptions such as finite-range memory, sparsity, or additivi…"
+    },
+    {
+      "id": "2609.30210",
+      "source": "arxiv",
+      "title": "The Alignment Illusion in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2609.30210",
+      "author": "Hong-Han Wang, Yuntao Wang, Hu Ding",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Layer-wise visual-text similarity in Multimodal Large Language Models (MLLMs) is widely interpreted as evidence that the language model progressively integrates visual content into a shared representa…"
+    },
+    {
+      "id": "2609.28610",
+      "source": "arxiv",
+      "title": "UltraBench 2: Towards Robust Evaluation of Vision Foundation Models on Ultrasound",
+      "url": "https://arxiv.org/abs/2609.28610",
+      "author": "Ashwath Radhachandran, Adam Tupper, Christian Gagn\\'e +1",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Benchmarking is an increasingly critical part of research in machine learning and the domains where it is applied, including healthcare. Yet, despite the steady development of new ultrasound foundatio…"
+    },
+    {
+      "id": "2609.17738",
+      "source": "arxiv",
+      "title": "Similarity Pairing with Energy Mover's Distance for Self-Supervised Pre-Training at the LHC",
+      "url": "https://arxiv.org/abs/2609.17738",
+      "author": "Ho Fung Tsoi, Dylan Rankin",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Many self-supervised methods for training foundation models at the Large Hadron Collider (LHC) rely on data augmentations to encourage the model to embed events into a representation space invariant t…"
+    },
+    {
+      "id": "2609.17726",
+      "source": "arxiv",
+      "title": "Self-Supervised Learning for Robust Resonance Mass Regression in Cascade Decays",
+      "url": "https://arxiv.org/abs/2609.17726",
+      "author": "Ho Fung Tsoi, Alex Yang, Luis Felipe Gutierrez Zagazeta +2",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Reconstructing the mass of a heavy resonance from its decay products with missing energy is one of the central tasks that directly determine the sensitivity in new physics searches at collider experim…"
+    },
+    {
+      "id": "2609.08070",
+      "source": "arxiv",
+      "title": "Local Spike Timing Enables Gradient-based Learning in Neural Microcircuits",
+      "url": "https://arxiv.org/abs/2609.08070",
+      "author": "Xiangnan Zhang, Jingxin Liu, Ranqi Lu +6",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "The brain uses discrete spikes for dynamic computation, yet in the fields of computational neuroscience and brain-inspired computing, how neural microcircuits (NMCs) solve temporal credit assignment u…"
+    },
+    {
+      "id": "2608.02612",
+      "source": "arxiv",
+      "title": "BBOWP-Bench: Evaluating LLMs on Black-Box Optimization Word Problems",
+      "url": "https://arxiv.org/abs/2608.02612",
+      "author": "Yutaro Yamada, Kei Hiroshima, Nozomu Yoshinari +2",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Formulating an optimization problem strongly affects final solution quality, yet good formulations usually require substantial expertise. Recent studies have explored automatically deriving optimizati…"
+    },
+    {
+      "id": "2607.01539",
+      "source": "arxiv",
+      "title": "MMAO-Cls: Metabolic Multi-Agent Optimization for Joint Feature Selection and Classifier Tuning",
+      "url": "https://arxiv.org/abs/2607.01539",
+      "author": "Jinliang Xu, Liping Ma",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "This paper studies whether the Metabolic Multi-Agent Optimizer (MMAO) can act as a credible outer-loop optimizer for classification model selection. We propose MMAO-Cls, a mixed-space realization in w…"
+    },
+    {
+      "id": "2605.29371",
+      "source": "arxiv",
+      "title": "Kernel-based potential mean-field games with unbiased random Fourier $U$-statistics",
+      "url": "https://arxiv.org/abs/2605.29371",
+      "author": "Yumiharu Nakano",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "We study the subclass of potential mean-field games in which the running interaction cost and the terminal target cost are both expressed through reproducing-kernel maximum mean discrepancy (MMD) pena…"
+    },
+    {
+      "id": "2605.24366",
+      "source": "arxiv",
+      "title": "SA-RAG: Structuring Noisy Conversations for Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2605.24366",
+      "author": "Kaiqiao Han, LuAn Tang, Renliang Sun +6",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Large Language Models (LLMs) have been widely adopted in conversational applications. However, their reliance on parametric knowledge limits reliability in real-world scenarios that require dynamic or…"
+    },
+    {
+      "id": "2604.18152",
+      "source": "arxiv",
+      "title": "mlr3torch: A Deep Learning Framework in R based on mlr3 and torch",
+      "url": "https://arxiv.org/abs/2604.18152",
+      "author": "Sebastian Fischer, Lukas Burk, Carson Zhang +2",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Deep learning (DL) has become a cornerstone of modern machine learning (ML) praxis. We introduce the R package mlr3torch, which is an extensible DL framework for the mlr3 ecosystem. It is built upon t…"
+    },
+    {
+      "id": "2603.21465",
+      "source": "arxiv",
+      "title": "DRTriton: Large-Scale Synthetic Data Driven Reinforcement Learning for Triton Kernel Generation",
+      "url": "https://arxiv.org/abs/2603.21465",
+      "author": "Siqi Guo, Ming Lin, Tianbao Yang",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Developing efficient CUDA kernels is a fundamental yet challenging task in the generative AI industry. Recent research leverages Large Language Models (LLMs) to automatically convert PyTorch reference…"
+    },
+    {
+      "id": "2603.20891",
+      "source": "arxiv",
+      "title": "Auto-differentiable data assimilation: Co-learning of states, dynamics, and filtering algorithms",
+      "url": "https://arxiv.org/abs/2603.20891",
+      "author": "Melissa Adrian, Daniel Sanz-Alonso, Rebecca Willett",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Data assimilation algorithms estimate the state of a dynamical system from partial observations, where the successful performance of these algorithms hinges on costly parameter tuning and on employing…"
+    },
+    {
+      "id": "2602.16265",
+      "source": "arxiv",
+      "title": "On sparsity, extremal structure, and monotonicity properties of Wasserstein and Gromov-Wasserstein optimal transport plans",
+      "url": "https://arxiv.org/abs/2602.16265",
+      "author": "Titouan Vayer (COMPACT)",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "This note gives a self-contained overview of some key properties of the Gromov-Wasserstein (GW) distance, compared with the standard linear optimal transport (OT) framework. More specifically, I explo…"
+    },
+    {
+      "id": "2602.11454",
+      "source": "arxiv",
+      "title": "Adaptive Power Iteration Method for Differentially Private PCA",
+      "url": "https://arxiv.org/abs/2602.11454",
+      "author": "Ta Duy Nguyen, Alina Ene, Huy Le Nguyen",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "We study $\\left(\\epsilon,\\delta\\right)$-differentially private algorithms for the problem of approximately computing the top singular vector of a matrix $A\\in\\mathbb{R}^{n\\times d}$ where each row of…"
+    },
+    {
+      "id": "2601.22585",
+      "source": "arxiv",
+      "title": "HetCCL: Efficient LLM Training on Heterogeneous Vendor GPUs",
+      "url": "https://arxiv.org/abs/2601.22585",
+      "author": "Heehoon Kim, Chris Jaehwan Lee, Taejeoung Kim +6",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "The rapid growth of large language models is driving organizations to expand their GPU clusters, often with GPUs from multiple vendors. However, current deep learning frameworks lack support for colle…"
+    },
+    {
+      "id": "2509.05894",
+      "source": "arxiv",
+      "title": "Toric geometry of ReLU neural networks",
+      "url": "https://arxiv.org/abs/2509.05894",
+      "author": "Yaoying Fu",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Given a continuous piecewise linear function $f:\\mathbb{R}^{n_0} \\to \\mathbb{R}$ and a fixed architecture of feedforward ReLU neural networks, the exact function realization problem asks when a networ…"
+    },
+    {
+      "id": "2508.18370",
+      "source": "arxiv",
+      "title": "Training Language Model Agents to Find Vulnerabilities with CTF-Dojo",
+      "url": "https://arxiv.org/abs/2508.18370",
+      "author": "Terry Yue Zhuo, Dingmin Wang, Hantian Ding +2",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Large language models (LLMs) have demonstrated exceptional capabilities when trained within executable runtime environments, notably excelling at software engineering tasks through verified feedback l…"
+    },
+    {
+      "id": "2508.00910",
+      "source": "arxiv",
+      "title": "Cyber-Zero: Training Cybersecurity Agents without Runtime",
+      "url": "https://arxiv.org/abs/2508.00910",
+      "author": "Terry Yue Zhuo, Dingmin Wang, Hantian Ding +2",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Large Language Models (LLMs) have achieved remarkable success in software engineering tasks when trained with executable runtime environments, particularly in resolving GitHub issues. However, such ru…"
+    },
+    {
+      "id": "2507.18520",
+      "source": "arxiv",
+      "title": "Recovering the Euclidean Geometry of High-Dimensional Data Under Heterogeneous Noise",
+      "url": "https://arxiv.org/abs/2507.18520",
+      "author": "Keyi Li, Yuval Kluger, Boris Landa",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Pairwise Euclidean distances provide a simple geometric representation of high-dimensional data and underlie many data analysis methods, including clustering, visualization, and manifold learning. How…"
+    },
+    {
+      "id": "2505.17965",
+      "source": "arxiv",
+      "title": "Bias-Optimal Bounds for Stochastic Gradient Descent",
+      "url": "https://arxiv.org/abs/2505.17965",
+      "author": "Daniel Cortild, Lucas Ketels, Juan Peypouquet +1",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "The non-asymptotic analysis of Stochastic Gradient Descent (SGD) typically yields bounds that decompose into a bias term and a variance term. In this work, we focus on the bias component and study the…"
+    },
+    {
+      "id": "2611.17143",
+      "source": "arxiv",
+      "title": "A Convex-Analytic Reformulation for Poisoning Attacks on Logistic Regression",
+      "url": "https://arxiv.org/abs/2611.17143",
+      "author": "Carina Moreira Costa, Maria Eduarda Pinheiro, Martin Schmidt",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "We study data poisoning attacks on logistic regression with $\\ell_2$-regularization, where an attacker chooses the features of a fixed number of injected observations with prescribed labels to maximiz…"
+    },
+    {
+      "id": "2611.17108",
+      "source": "arxiv",
+      "title": "LazyWeights: Decode-on-Demand Edge LLMs",
+      "url": "https://arxiv.org/abs/2611.17108",
+      "author": "Arnab Sanyal, Gourav Datta, Sandeep P. Chinchali",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "summary": "Memory decides which LLMs an edge device runs, and how fast: capacity on a 4 GB Jetson Nano, bandwidth on an 8 GB Jetson Orin Nano Super. Deployed formats (GPTQ, AWQ, llama.cpp's K- and I-quants) spen…"
+    }
+  ]
 }
