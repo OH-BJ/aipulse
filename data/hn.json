@@ -1,116 +1,56 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-16T21:29:20.026Z",
+  "fetchedAt": "2026-11-17T05:58:17.209Z",
   "items": [
     {
-      "id": "50520804",
+      "id": "50526584",
       "source": "hn",
-      "title": "OpenAI: Strengthening the fight against online child sexual abuse",
-      "url": "https://openai.com/index/strengthening-online-child-safety/",
-      "score": 67,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50520804",
-      "author": "rossant",
-      "publishedAt": "2026-11-16T18:12:48.000Z"
+      "title": "Tokendoctor – the same Claude Code for up to 38% less",
+      "url": "https://github.com/localixai/tokendoctor",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50526584",
+      "author": "rsaryev1997",
+      "publishedAt": "2026-11-17T02:19:50.000Z"
+    },
+    {
+      "id": "50526264",
+      "source": "hn",
+      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+      "score": 34,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50526264",
+      "author": "nsoonhui",
+      "publishedAt": "2026-11-17T01:35:16.000Z"
     },
     {
       "id": "50519153",
       "source": "hn",
       "title": "First phase of embedded assessments at OpenAI",
       "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
-      "score": 26,
+      "score": 46,
       "commentsUrl": "https://news.ycombinator.com/item?id=50519153",
       "author": "dvaplima",
       "publishedAt": "2026-11-16T16:07:20.000Z"
     },
     {
-      "id": "50523022",
+      "id": "50523037",
       "source": "hn",
-      "title": "Caltech professor no longer grades homework's because everyone uses AI",
-      "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50523022",
-      "author": "ishanz",
-      "publishedAt": "2026-11-16T20:47:53.000Z"
-    },
-    {
-      "id": "50520796",
-      "source": "hn",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "score": 32,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50520796",
-      "author": "novateg",
-      "publishedAt": "2026-11-16T18:12:21.000Z"
-    },
-    {
-      "id": "50521575",
-      "source": "hn",
-      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+      "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
+      "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
       "score": 19,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50521575",
-      "author": "jethronethro",
-      "publishedAt": "2026-11-16T19:09:05.000Z"
-    },
-    {
-      "id": "50463399",
-      "source": "hn",
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "score": 445,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50463399",
-      "author": "envoked",
-      "publishedAt": "2026-11-12T05:29:24.000Z"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50523037",
+      "author": "CrankyBear",
+      "publishedAt": "2026-11-16T20:48:53.000Z"
     },
     {
       "id": "50474883",
       "source": "hn",
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "score": 448,
+      "score": 450,
       "commentsUrl": "https://news.ycombinator.com/item?id=50474883",
       "author": "firloop",
       "publishedAt": "2026-11-12T21:56:11.000Z"
-    },
-    {
-      "id": "50489589",
-      "source": "hn",
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "url": "https://atg.science/careers",
-      "score": 1,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50489589",
-      "author": "dkobran",
-      "publishedAt": "2026-11-13T21:01:11.000Z"
-    },
-    {
-      "id": "50507303",
-      "source": "hn",
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "score": 1241,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50507303",
-      "author": "jcubic",
-      "publishedAt": "2026-11-15T14:46:58.000Z"
-    },
-    {
-      "id": "50523359",
-      "source": "hn",
-      "title": "California is suing OpenAI over its 'rogue' AI agent hack",
-      "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50523359",
-      "author": "cdrnsf",
-      "publishedAt": "2026-11-16T21:12:54.000Z"
-    },
-    {
-      "id": "50520228",
-      "source": "hn",
-      "title": "Poland can build the coolest AI data centre and get cheaper natural gas",
-      "url": "https://jacek.migdal.pl/2026/11/14/poland-coolest-ai-data-centre-cheaper-gas",
-      "score": 5,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50520228",
-      "author": "jakozaur",
-      "publishedAt": "2026-11-16T17:30:33.000Z"
     }
   ]
 }
