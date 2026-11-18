@@ -1,106 +1,106 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-17T20:18:35.829Z",
+  "fetchedAt": "2026-11-18T05:28:06.374Z",
   "items": [
+    {
+      "id": "50540178",
+      "source": "hn",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "score": 232,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50540178",
+      "author": "slashdev",
+      "publishedAt": "2026-11-18T00:17:58.000Z"
+    },
     {
       "id": "50535230",
       "source": "hn",
       "title": "GPT‑6.2 Astra and Sol",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "score": 705,
+      "score": 1180,
       "commentsUrl": "https://news.ycombinator.com/item?id=50535230",
       "author": "jasondavies",
       "publishedAt": "2026-11-17T17:46:43.000Z"
     },
     {
-      "id": "50529612",
+      "id": "50541790",
       "source": "hn",
-      "title": "How the Claude Code team thinks about verification",
-      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-      "score": 210,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50529612",
-      "author": "craigmart",
-      "publishedAt": "2026-11-17T10:20:40.000Z"
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50541790",
+      "author": "deenadz",
+      "publishedAt": "2026-11-18T04:14:04.000Z"
     },
     {
-      "id": "50533270",
+      "id": "50538303",
       "source": "hn",
-      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-      "url": "https://github.com/RunanywhereAI/trnrt",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50533270",
-      "author": "sanchitmonga22",
-      "publishedAt": "2026-11-17T16:01:04.000Z"
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "score": 117,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50538303",
+      "author": "judahmeek",
+      "publishedAt": "2026-11-17T21:16:12.000Z"
     },
     {
       "id": "50535740",
       "source": "hn",
       "title": "Not Everything Needs an LLM",
       "url": "https://newsletter.posthog.com/p/decision-models",
-      "score": 9,
+      "score": 127,
       "commentsUrl": "https://news.ycombinator.com/item?id=50535740",
       "author": "speckx",
       "publishedAt": "2026-11-17T18:16:18.000Z"
     },
     {
-      "id": "50536438",
+      "id": "50540836",
       "source": "hn",
-      "title": "GPT-6.2 Astra scores 100% on ARC-AGI-3",
-      "url": "https://twitter.com/arcprize/status/2122751233442156678",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50536438",
-      "author": "rzk",
-      "publishedAt": "2026-11-17T18:59:43.000Z"
+      "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+      "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+      "score": 46,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50540836",
+      "author": "ryeights",
+      "publishedAt": "2026-11-18T01:45:11.000Z"
+    },
+    {
+      "id": "50533270",
+      "source": "hn",
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "score": 47,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50533270",
+      "author": "sanchitmonga22",
+      "publishedAt": "2026-11-17T16:01:04.000Z"
+    },
+    {
+      "id": "50529612",
+      "source": "hn",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "score": 278,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50529612",
+      "author": "craigmart",
+      "publishedAt": "2026-11-17T10:20:40.000Z"
+    },
+    {
+      "id": "50541325",
+      "source": "hn",
+      "title": "AI borrowers pay more for debt as cash burn mounts, yields rise and tech falters",
+      "url": "https://greyswansignals.com",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50541325",
+      "author": "hairoglyphics",
+      "publishedAt": "2026-11-18T03:03:16.000Z"
     },
     {
       "id": "50536565",
       "source": "hn",
       "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
       "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
-      "score": 17,
+      "score": 84,
       "commentsUrl": "https://news.ycombinator.com/item?id=50536565",
       "author": "hauntingseaweed",
       "publishedAt": "2026-11-17T19:08:45.000Z"
-    },
-    {
-      "id": "50536410",
-      "source": "hn",
-      "title": "I hate GPT-6.2 Astra",
-      "url": "https://twitter.com/theo/status/2122760447103484410",
-      "score": 12,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50536410",
-      "author": "7777777phil",
-      "publishedAt": "2026-11-17T18:57:57.000Z"
-    },
-    {
-      "id": "50531751",
-      "source": "hn",
-      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-      "score": 176,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50531751",
-      "author": "larrysalibra",
-      "publishedAt": "2026-11-17T14:19:59.000Z"
-    },
-    {
-      "id": "50526584",
-      "source": "hn",
-      "title": "Tokendoctor – See what your Claude Code use overpays",
-      "url": "https://github.com/localixai/tokendoctor",
-      "score": 31,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50526584",
-      "author": "rsaryev1997",
-      "publishedAt": "2026-11-17T02:19:50.000Z"
-    },
-    {
-      "id": "50520076",
-      "source": "hn",
-      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-      "url": "https://news.ycombinator.com/item?id=50520076",
-      "score": 85,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50520076",
-      "author": "ex-aws-dude",
-      "publishedAt": "2026-11-16T17:20:28.000Z"
     }
   ]
 }
