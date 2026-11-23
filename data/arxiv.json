@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-11-22T18:54:13.360Z",
-  "items": []
+  "fetchedAt": "2026-11-23T05:05:21.784Z",
+  "items": [
+    {
+      "id": "2611.26584",
+      "source": "arxiv",
+      "title": "Represented but misread: Post-training changes how language models read out what they represent",
+      "url": "https://arxiv.org/abs/2611.26584",
+      "author": "Jochen Laubrock",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Does post-training change what a language model represents, or how this representation is read out into an answer? We compared linear probes with the models' own answers, analyzed with signal detectio…"
+    },
+    {
+      "id": "2611.19840",
+      "source": "arxiv",
+      "title": "Grounding Language Models in Speech Does Not Fix \"AI Flavor\": Calibrated LLM Judges, Goodhart Traps, and a Preference-Tuning Fix",
+      "url": "https://arxiv.org/abs/2611.19840",
+      "author": "Dongwu Qian",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Chinese outputs of large language models carry a perceptible \"AI flavor\": formulaic sentence frames, stacked written-register connectives, repetition loops, and layout leakage. A popular hypothesis bl…"
+    },
+    {
+      "id": "2611.18562",
+      "source": "arxiv",
+      "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "url": "https://arxiv.org/abs/2611.18562",
+      "author": "Jiaming Tang, Zhuoyang Zhang, Junxian Guo +8",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 As…"
+    },
+    {
+      "id": "2611.17625",
+      "source": "arxiv",
+      "title": "Finite speed Ornstein-Uhlenbeck-Kac processes and their applications in generative modeling",
+      "url": "https://arxiv.org/abs/2611.17625",
+      "author": "Richard Duong, Janis Auffenberg, Gabriele Steidl",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "We study the Ornstein-Uhlenbeck-Kac (OU-K) process, where instead of a Brownian motion, a finite-speed Kac process defines the driving process. The OU-K process can be analyzed through a rescaled, tim…"
+    },
+    {
+      "id": "2611.14573",
+      "source": "arxiv",
+      "title": "The Approximation Ratio of $k$-means++ Is $2\\ln k+O(1)$",
+      "url": "https://arxiv.org/abs/2611.14573",
+      "author": "Aravind Reddy",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Given a finite set of points in Euclidean space, $k$-means clustering seeks $k$ centers that minimize the sum of squared distances from each point to its nearest center. The $k$-means++ algorithm choo…"
+    },
+    {
+      "id": "2611.08156",
+      "source": "arxiv",
+      "title": "La-JEPA: Compact Robot Policies with Latent World Modeling",
+      "url": "https://arxiv.org/abs/2611.08156",
+      "author": "Mateo Cl\\'emente, George Z. Xue, Amin Abyaneh +5",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "World-action models adapt pretrained video generators, and vision-language-action models build on vision-language backbones, tying policy architecture and inference cost to large transformers designed…"
+    },
+    {
+      "id": "2610.40056",
+      "source": "arxiv",
+      "title": "Reinforcement Learning Under Runtime Confounding: Policy Learning and Off-Policy Evaluation",
+      "url": "https://arxiv.org/abs/2610.40056",
+      "author": "Raphael Kim, Michele Santacatterina, Ramin Zabih +1",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Reinforcement learning (RL) is increasingly used to train robust, adaptable systems across healthcare, e-commerce, and robotics. In these settings, legal, ethical, or logistical concerns may preclude…"
+    },
+    {
+      "id": "2610.30963",
+      "source": "arxiv",
+      "title": "ReDence: A Hybrid Agentic and System One Model Framework for Rapid, Evidence-Grounded Detection of Social Engineering Scams",
+      "url": "https://arxiv.org/abs/2610.30963",
+      "author": "Jaishnoor Kaur, Josef Hor\\'a\\v{c}ek, Ian Waskom +1",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Detecting online social engineering (SE) scams often requires examining website workflows, verifying claims against external sources, and connecting evidence across multiple pages. Existing detectors…"
+    },
+    {
+      "id": "2610.29378",
+      "source": "arxiv",
+      "title": "Right On Q: Recovering Reasoning under Quantization via Self-Generated Trajectories",
+      "url": "https://arxiv.org/abs/2610.29378",
+      "author": "Boyuan Zheng, Jing Xiong, Chenwei Wu +8",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Quantization-aware training (QAT) aims to recover reasoning capabilities in low-bit large language models (LLMs). Existing recipes typically supervise the quantized student with the original full-prec…"
+    },
+    {
+      "id": "2610.28587",
+      "source": "arxiv",
+      "title": "Two $\\operatorname{ReLU}$ Layers is All You Need",
+      "url": "https://arxiv.org/abs/2610.28587",
+      "author": "Florestan Brunck, Christoph Hertrich, Kilian Ruess +2",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "We prove that every $\\operatorname{ReLU}$ network can be exactly simulated by a $\\operatorname{ReLU}$ network with two hidden layers. We present two proofs: one that is based on fillings in homologica…"
+    },
+    {
+      "id": "2610.26825",
+      "source": "arxiv",
+      "title": "MemT-1.0: Towards Memory-Native Evolution",
+      "url": "https://arxiv.org/abs/2610.26825",
+      "author": "Zhiyu Li, Zeyu Zhang, Linyun Liu +71",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new…"
+    },
+    {
+      "id": "2610.24359",
+      "source": "arxiv",
+      "title": "Can Agents Keep Secrets They Were Never Told? Benchmarking Latent Privacy Risks Across Sessions with MemJoin",
+      "url": "https://arxiv.org/abs/2610.24359",
+      "author": "Qishun Yang, Shu Yang, Difei Xu +2",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "To support sustained interactions and personalized assistance, agents use long-term memory to retain and combine user information across sessions. Reusing such memories can lead an agent to state a se…"
+    },
+    {
+      "id": "2610.24246",
+      "source": "arxiv",
+      "title": "CoCoNet: Convex Conformal Network for Multi-Dimensional Uncertainty Regions",
+      "url": "https://arxiv.org/abs/2610.24246",
+      "author": "Alireza Moradi, Thomas Bruys, Pascal Van Hentenryck +1",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Conformal prediction (CP) provides distribution-free coverage guarantees under exchangeability, but the efficiency of its prediction regions depends critically on the choice of the conformity score. T…"
+    },
+    {
+      "id": "2610.12985",
+      "source": "arxiv",
+      "title": "NucleoNet: A Nuclear-Aware Determinant Ansatz for Multi-Geometry Neural Variational Monte Carlo",
+      "url": "https://arxiv.org/abs/2610.12985",
+      "author": "Qiao Gao, Yang Huang, Enze Hou +3",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Neural-network variational Monte Carlo provides an accurate route to solving the electronic Schr\\\"odinger equation, but many neural wavefunctions are optimized for a single nuclear geometry, requiring…"
+    },
+    {
+      "id": "2609.39367",
+      "source": "arxiv",
+      "title": "A Dynamical Theory of LoRA in Continual Learning",
+      "url": "https://arxiv.org/abs/2609.39367",
+      "author": "Th\\'eo Marchetta, Filippo Alessandroni, Alessandro Breccia +2",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Despite the widespread use of Low-Rank Adaptation (LoRA), little is known about its dynamics in continual learning and the mechanisms by which low-rank updates affect catastrophic forgetting. We provi…"
+    },
+    {
+      "id": "2609.32411",
+      "source": "arxiv",
+      "title": "AECSF: Adaptive Ensemble Conditional Score Filtering for High-Dimensional Nonlinear Data Assimilation",
+      "url": "https://arxiv.org/abs/2609.32411",
+      "author": "Yangwen Zhang, Shiwei Ni, Xiaoping Zhang +2",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "In high-dimensional filters, particle weights can concentrate on a few members, while Gaussian updates can miss non-Gaussian posterior structure. A diffusion filter updates a forecast ensemble by grad…"
+    },
+    {
+      "id": "2609.17738",
+      "source": "arxiv",
+      "title": "Similarity Pairing with Energy Mover's Distance for Self-Supervised Pre-Training at the LHC",
+      "url": "https://arxiv.org/abs/2609.17738",
+      "author": "Ho Fung Tsoi, Dylan Sheldon Rankin",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Many self-supervised methods for training foundation models at the Large Hadron Collider (LHC) rely on data augmentations to encourage the model to embed events into a representation space invariant t…"
+    },
+    {
+      "id": "2609.17726",
+      "source": "arxiv",
+      "title": "Self-Supervised Learning for Robust Resonance Mass Regression in Cascade Decays",
+      "url": "https://arxiv.org/abs/2609.17726",
+      "author": "Ho Fung Tsoi, Alex Yang, Luis Felipe Gutierrez Zagazeta +2",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Reconstructing the mass of a heavy resonance from its decay products with missing energy is one of the central tasks that directly determine the sensitivity in new physics searches at collider experim…"
+    },
+    {
+      "id": "2609.00475",
+      "source": "arxiv",
+      "title": "Fractal dimension predicts quantum kernel collapse in angle-encoded data",
+      "url": "https://arxiv.org/abs/2609.00475",
+      "author": "Ana Paula Appel",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Angle-encoded quantum kernels on tabular data collapse when the feature map is wider than the intrinsic dimension of the data. We propose the correlation fractal dimension D2 as an a priori qubit budg…"
+    },
+    {
+      "id": "2608.04196",
+      "source": "arxiv",
+      "title": "SiMDex: Mining Similar Egocentric Videos for Cross-Embodiment Dexterous Manipulation",
+      "url": "https://arxiv.org/abs/2608.04196",
+      "author": "Nie Lin, Takehiko Ohkawa, Sijin Chen +10",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Recent years have witnessed an explosive trend of scaling ego-centric human videos for robot manipulation, yet it remains unclear which data actually benefits dexterous manipulation. We present SiMDex…"
+    },
+    {
+      "id": "2608.00701",
+      "source": "arxiv",
+      "title": "Augmented Inverse Hybrid Weighting: Robust Inference under Deterministic and Random Distribution Shifts",
+      "url": "https://arxiv.org/abs/2608.00701",
+      "author": "Ying Jin, Dominik Rothenh\\\"ausler",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Reweighting source samples to match a target covariate distribution is a standard response to distribution shift when generalizing evidence across populations. It is well suited to deterministic, lear…"
+    },
+    {
+      "id": "2607.20943",
+      "source": "arxiv",
+      "title": "An Analytically Trained Variational Quantum Circuit using the Output Probability Distribution of Quantum Phase Estimation on NISQ Hardware",
+      "url": "https://arxiv.org/abs/2607.20943",
+      "author": "Mousumi Kundu, Ashish Kumar Patra, Anurag K. S. V. +4",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Quantum Phase Estimation (QPE) is the standard algorithm for molecular ground-state energy estimation and often serves as a subroutine in larger quantum algorithms, but its deep circuits make it impra…"
+    },
+    {
+      "id": "2607.15094",
+      "source": "arxiv",
+      "title": "AlphaWiSE: Adaptive Weight Interpolation for Continual Multimodal Representation Learning",
+      "url": "https://arxiv.org/abs/2607.15094",
+      "author": "Sarthak Jain, Qiran Hu, Zhen Zhu +1",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Multimodal retrieval models align audio, images, and text in a shared embedding space, but sequential adaptation can degrade cross-modal relationships learned in earlier phases. Existing continual-lea…"
+    },
+    {
+      "id": "2606.06765",
+      "source": "arxiv",
+      "title": "Reactivity-Informed Machine Learning for Performance Prediction and Design Space Exploration of Alkali-Activated Slag",
+      "url": "https://arxiv.org/abs/2606.06765",
+      "author": "Qiyao He, Zhanzhao Li, Kai Gong",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Establishing quantitative relationships among mix design, raw material properties, curing conditions, and performance remains a long-standing challenge in cementitious materials, particularly for alka…"
+    },
+    {
+      "id": "2605.25174",
+      "source": "arxiv",
+      "title": "Growing a Neural Network in Breadth, Depth, and Time",
+      "url": "https://arxiv.org/abs/2605.25174",
+      "author": "Eivinas Butkus, Kedar Garz\\'on Gupta, Nikolaus Kriegeskorte",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Brains and AI systems alike must achieve their goals with limited space, time, energy, and data. Here we focus on space and time, defining differentiable costs for breadth (channels), depth (layers),…"
+    },
+    {
+      "id": "2605.15196",
+      "source": "arxiv",
+      "title": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
+      "url": "https://arxiv.org/abs/2605.15196",
+      "author": "Xiang Fan, Yuheng Wang, Bohan Fang +2",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Video generation powers a vast array of downstream applications. However, while the de facto standard, i.e., latent diffusion models, typically employ heavily conditioned denoising networks, their dec…"
+    },
+    {
+      "id": "2605.10330",
+      "source": "arxiv",
+      "title": "Fast Training of Mixture-of-Experts for Time Series Forecasting via Expert Loss Integration",
+      "url": "https://arxiv.org/abs/2605.10330",
+      "author": "Btissame El Mahtout, Florian Ziel",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "We propose a novel Mixture-of-Experts framework, referred to as Expert Loss Integration MoE (EliMoE), for time series forecasting. EliMoE addresses the optimization problem arising from small gating w…"
+    },
+    {
+      "id": "2605.03634",
+      "source": "arxiv",
+      "title": "Free Decompression with Algebraic Spectral Curves",
+      "url": "https://arxiv.org/abs/2605.03634",
+      "author": "Siavash Ameli, Chris van der Heide, Liam Hodgkinson +1",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Tools from random matrix theory have become central to deep learning theory, using spectral information to provide mechanisms for modeling generalization, robustness, scaling, and failure modes. While…"
+    },
+    {
+      "id": "2604.13050",
+      "source": "arxiv",
+      "title": "Exploring Urban Land Use Patterns by Pattern Mining and Unsupervised Learning",
+      "url": "https://arxiv.org/abs/2604.13050",
+      "author": "Zdena Dobesova, Tai Dinh, Pavel Novak",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Comparative planning needs reproducible methods for identifying recurring land-use configurations across cities. Using Urban Atlas 2018 data for 100 European urban areas, we construct 290,396 focal-ne…"
+    },
+    {
+      "id": "2603.14578",
+      "source": "arxiv",
+      "title": "Power-Law Spectrum of the Random Feature Model",
+      "url": "https://arxiv.org/abs/2603.14578",
+      "author": "Elliot Paquette, Ke Liang Xiao, Yizhe Zhu",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "summary": "Scaling laws for neural networks, in which the loss decays as a power-law in the number of parameters, data, and compute, depend fundamentally on the spectral structure of the data covariance, with po…"
+    }
+  ]
 }

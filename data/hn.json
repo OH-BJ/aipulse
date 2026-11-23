@@ -1,156 +1,126 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-22T18:54:13.689Z",
+  "fetchedAt": "2026-11-23T05:05:21.898Z",
   "items": [
+    {
+      "id": "50603845",
+      "source": "hn",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "score": 349,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50603845",
+      "author": "Retell15",
+      "publishedAt": "2026-11-22T21:01:16.000Z"
+    },
     {
       "id": "50599762",
       "source": "hn",
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "url": "https://github.com/gulivan/worker755",
-      "score": 166,
+      "score": 291,
       "commentsUrl": "https://news.ycombinator.com/item?id=50599762",
       "author": "ivantgam",
       "publishedAt": "2026-11-22T13:56:58.000Z"
+    },
+    {
+      "id": "50605445",
+      "source": "hn",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "url": "https://0rwx.com/",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50605445",
+      "author": "misswaterfairy",
+      "publishedAt": "2026-11-22T23:53:00.000Z"
+    },
+    {
+      "id": "50602153",
+      "source": "hn",
+      "title": "Harvard CS 2881R AI Safety",
+      "url": "https://boazbk.github.io/mltheoryseminar/",
+      "score": 61,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50602153",
+      "author": "enjoyyourlife",
+      "publishedAt": "2026-11-22T18:01:54.000Z"
     },
     {
       "id": "50597612",
       "source": "hn",
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
       "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "score": 607,
+      "score": 929,
       "commentsUrl": "https://news.ycombinator.com/item?id=50597612",
       "author": "happosai",
       "publishedAt": "2026-11-22T08:57:34.000Z"
+    },
+    {
+      "id": "50603219",
+      "source": "hn",
+      "title": "What Happened in Fall 2026: AI and P vs. NP",
+      "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
+      "score": 20,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50603219",
+      "author": "abelanger",
+      "publishedAt": "2026-11-22T19:50:36.000Z"
     },
     {
       "id": "50597959",
       "source": "hn",
       "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
       "url": "https://simonwillison.net/2026/Nov/21/muru/",
-      "score": 54,
+      "score": 75,
       "commentsUrl": "https://news.ycombinator.com/item?id=50597959",
       "author": "joshcsimmons",
       "publishedAt": "2026-11-22T09:57:01.000Z"
     },
     {
-      "id": "50595537",
+      "id": "50606270",
       "source": "hn",
-      "title": "The Mythology of Conscious AI",
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "score": 137,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50595537",
-      "author": "Anon84",
-      "publishedAt": "2026-11-22T02:10:02.000Z"
-    },
-    {
-      "id": "50593481",
-      "source": "hn",
-      "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io",
-      "score": 133,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50593481",
-      "author": "vasie",
-      "publishedAt": "2026-11-21T20:47:41.000Z"
-    },
-    {
-      "id": "50598961",
-      "source": "hn",
-      "title": "AI is becoming a disaster for the climate",
-      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-      "score": 65,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50598961",
-      "author": "Brajeshwar",
-      "publishedAt": "2026-11-22T12:19:46.000Z"
+      "title": "LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility",
+      "url": "https://www.phoronix.com/news/LiberNT",
+      "score": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50606270",
+      "author": "v-yadli",
+      "publishedAt": "2026-11-23T01:23:15.000Z"
     },
     {
       "id": "50586292",
       "source": "hn",
       "title": "ClawDOS – An AI coding agent for DOS",
       "url": "http://ricapar.net/ClawDOS/",
-      "score": 169,
+      "score": 174,
       "commentsUrl": "https://news.ycombinator.com/item?id=50586292",
       "author": "Ricapar",
       "publishedAt": "2026-11-21T05:38:01.000Z"
+    },
+    {
+      "id": "50598961",
+      "source": "hn",
+      "title": "AI is becoming a disaster for the climate",
+      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "score": 111,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50598961",
+      "author": "Brajeshwar",
+      "publishedAt": "2026-11-22T12:19:46.000Z"
     },
     {
       "id": "50595940",
       "source": "hn",
       "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
       "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
-      "score": 22,
+      "score": 29,
       "commentsUrl": "https://news.ycombinator.com/item?id=50595940",
       "author": "DenisM",
       "publishedAt": "2026-11-22T03:28:48.000Z"
     },
     {
-      "id": "50595816",
+      "id": "50595537",
       "source": "hn",
-      "title": "Together.ai: Prompt Leakage for Requests",
-      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "score": 43,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50595816",
-      "author": "Fe2O3",
-      "publishedAt": "2026-11-22T03:07:27.000Z"
-    },
-    {
-      "id": "50597156",
-      "source": "hn",
-      "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
-      "url": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
-      "score": 18,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50597156",
-      "author": "reddmachine",
-      "publishedAt": "2026-11-22T07:31:41.000Z"
-    },
-    {
-      "id": "50563148",
-      "source": "hn",
-      "title": "Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "score": 574,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50563148",
-      "author": "cybermango",
-      "publishedAt": "2026-11-19T17:30:44.000Z"
-    },
-    {
-      "id": "50598277",
-      "source": "hn",
-      "title": "AI People Are Extremely Rich",
-      "url": "https://www.noahpinion.blog/p/ai-people-are-very-very-very-very",
-      "score": 21,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50598277",
-      "author": "A_D_E_P_T",
-      "publishedAt": "2026-11-22T10:35:49.000Z"
-    },
-    {
-      "id": "50572503",
-      "source": "hn",
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "score": 675,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50572503",
-      "author": "shioyama",
-      "publishedAt": "2026-11-20T10:01:41.000Z"
-    },
-    {
-      "id": "50574383",
-      "source": "hn",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "score": 523,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50574383",
-      "author": "cdrnsf",
-      "publishedAt": "2026-11-20T13:29:59.000Z"
-    },
-    {
-      "id": "50572348",
-      "source": "hn",
-      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "url": "https://signal.org/blog/protecting-your-privacy/",
-      "score": 577,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50572348",
-      "author": "dotcoma",
-      "publishedAt": "2026-11-20T09:42:16.000Z"
+      "title": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "score": 172,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50595537",
+      "author": "Anon84",
+      "publishedAt": "2026-11-22T02:10:02.000Z"
     }
   ]
 }
