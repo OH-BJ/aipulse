@@ -1,5 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-11-24T07:52:23.560Z",
-  "items": []
+  "fetchedAt": "2026-11-24T21:48:32.335Z",
+  "items": [
+    {
+      "id": "2611.26410",
+      "source": "arxiv",
+      "title": "Statistical Inference with Ill-Conditioned Random Weight Neural Network Sieves",
+      "url": "https://arxiv.org/abs/2611.26410",
+      "author": "Giovanni Ballarin, Lukas Gonon, Lyudmila Grigoryeva",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Random weight neural networks (RWNNs) are shallow networks whose hidden-layer parameters are randomly generated and then kept fixed, while only the output coefficients are estimated. Conditional on th…"
+    },
+    {
+      "id": "2611.24792",
+      "source": "arxiv",
+      "title": "Self-supervised behavior encoders rarely beat a training-free baseline",
+      "url": "https://arxiv.org/abs/2611.24792",
+      "author": "Ziwen Chen",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Self-supervised encoders of animal and human pose are compared with one another, and rarely with simple summaries of the poses they encode. We propose such a summary that needs no training and no know…"
+    },
+    {
+      "id": "2611.24602",
+      "source": "arxiv",
+      "title": "Diffusion Models are Provably Efficient Priors for Sparse Recovery",
+      "url": "https://arxiv.org/abs/2611.24602",
+      "author": "Ivan Lee, Xingyu Xu, Yuejie Chi",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Diffusion models have transformed generative modeling through their ability to capture and generate samples from complex data distributions. This success has spurred substantial interest in using pret…"
+    },
+    {
+      "id": "2611.21539",
+      "source": "arxiv",
+      "title": "Seen but Unsaid: Locating and Repairing Cross-Image Comparison in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.21539",
+      "author": "Zhaoning Zhang",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Vision-language models (VLMs) often fail to match a point or an object across two images, even when the match can be decoded from their hidden states. We trace where this information is lost in Qwen3-…"
+    },
+    {
+      "id": "2611.18145",
+      "source": "arxiv",
+      "title": "Obaleth: Build Your Own GPU Communication Stack",
+      "url": "https://arxiv.org/abs/2611.18145",
+      "author": "Javid Baydamirli, Ismayil Ismayilov, Kaan Oktay +1",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Machine learning systems specialize computation to the workload and hardware, but communication remains in generic libraries whose device code and transport decisions are not visible to high-level com…"
+    },
+    {
+      "id": "2611.16645",
+      "source": "arxiv",
+      "title": "Rethinking Actions: Continuity-Aware Priors for World-Model Planning",
+      "url": "https://arxiv.org/abs/2611.16645",
+      "author": "Shaobo Yang, Zichen Ai, Ziyang Ma +2",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Actions in expert demonstrations exhibit temporal structure. An ordered-versus-shuffled analysis across five environments confirms this dependence. We ask whether action proposals that better reflect…"
+    },
+    {
+      "id": "2611.16246",
+      "source": "arxiv",
+      "title": "What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation",
+      "url": "https://arxiv.org/abs/2611.16246",
+      "author": "Jinze Tao, Yuxiao Han, Kangkang Dong +4",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Vision-language-action (VLA) models drive the robot directly from camera views, yet a VLA alone shows three typical failures. It walks past the goal, stops before reaching it, and rarely recovers afte…"
+    },
+    {
+      "id": "2611.14717",
+      "source": "arxiv",
+      "title": "Robbing Peter to Pay Paul: Cross-Attribute Externalities of Fairness Interventions",
+      "url": "https://arxiv.org/abs/2611.14717",
+      "author": "Agathe Fernandes Machado, Charlotte Jamotton, Arthur Charpentier",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Fairness interventions often targets disparities associated with a single sensitive attribute in binary classification tasks. However, when multiple sensitive attributes are associated with a data sub…"
+    },
+    {
+      "id": "2611.14540",
+      "source": "arxiv",
+      "title": "Katz Kernel Based Stratification of Breast Cancer Patients",
+      "url": "https://arxiv.org/abs/2611.14540",
+      "author": "Francesco Cellitti, Lorenzo Di Rocco, Umberto Ferraro Petrillo",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "The integration of mechanistic signaling networks into clinical research has become a cornerstone of precision oncology. By capturing the complex biochemical interactions within a cell, these networks…"
+    },
+    {
+      "id": "2611.10297",
+      "source": "arxiv",
+      "title": "Uncertainty, Not Concealment: A Mechanistic Reappraisal of Sycophancy in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.10297",
+      "author": "Mohamed I. Eldagla, Zeyad H. ElShafei, Ahmed M. Anter",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Vision-language models (VLMs) in medical retrieval-augmented generation must be able to say when a retrieved report contradicts the X-ray, so understanding whether they can detect such conflicts is im…"
+    },
+    {
+      "id": "2611.07129",
+      "source": "arxiv",
+      "title": "Bayesian Tensor Train Kernel Machines with Automatic Model Complexity Inference",
+      "url": "https://arxiv.org/abs/2611.07129",
+      "author": "Afra Kilic, Kim Batselier",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Tensor network (TN) kernel machines speed up supervised learning by using low-rank TNs to reduce computation and memory. Most of these methods, however, are deterministic: they ignore parameter uncert…"
+    },
+    {
+      "id": "2610.26825",
+      "source": "arxiv",
+      "title": "MemT-1.0: Towards Memory-Native Evolution",
+      "url": "https://arxiv.org/abs/2610.26825",
+      "author": "Zhiyu Li, Zeyu Zhang, Linyun Liu +71",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new…"
+    },
+    {
+      "id": "2610.24715",
+      "source": "arxiv",
+      "title": "When Do Repetition Loops Lock? Truncation Sampling, Bounded Penalties, and a Blind Spot in DRY",
+      "url": "https://arxiv.org/abs/2610.24715",
+      "author": "Yichuan Chen, Xin Wang",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Language models sometimes repeat verbatim until the generation limit. We study the exit rather than the entrance: given that a span has already been repeated $n$ times, when is escape still possible?…"
+    },
+    {
+      "id": "2610.20392",
+      "source": "arxiv",
+      "title": "FOLD: Position-Free Far Memory with Local Order for Long-Context Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.20392",
+      "author": "Shuxuan Li, Jialiang Kang, Yanghao Zhou +3",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Speculative decoding accelerates LLM generation through lightweight drafting and parallel verification. It is particularly promising for long inputs, where KV-cache access costs can be amortized over…"
+    },
+    {
+      "id": "2610.17117",
+      "source": "arxiv",
+      "title": "Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations",
+      "url": "https://arxiv.org/abs/2610.17117",
+      "author": "Bryce Grant, Peng Wang",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Prior research into interpretability does not test whether a representation stays consistent under paraphrasing. Each pair of paraphrases can be thought of as a local witness that two activations shou…"
+    },
+    {
+      "id": "2610.09226",
+      "source": "arxiv",
+      "title": "FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints",
+      "url": "https://arxiv.org/abs/2610.09226",
+      "author": "Naresh Babu Kakarla, V. Mahendran",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Data collection using Unmanned Aerial Vehicles (UAVs) is challenging when LoRa IoT Devices (IoTDs) duty-cycle to conserve battery. Under energy constraints, a UAV must decide which IoTDs to visit, in…"
+    },
+    {
+      "id": "2610.08883",
+      "source": "arxiv",
+      "title": "A Wasserstein Trust-Region Method for Smooth Potential-Interaction Energies",
+      "url": "https://arxiv.org/abs/2610.08883",
+      "author": "You Wan, Ting Gao, Jinqiao Duan +1",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Finding low-energy particle configurations and approximating probability distributions both lead to minimizing potential-interaction energies in Wasserstein space. Second-order information can speed u…"
+    },
+    {
+      "id": "2610.07290",
+      "source": "arxiv",
+      "title": "A Single-Loop, Constant-Batch First-Order Penalty Method for Stochastic Bilevel Optimization",
+      "url": "https://arxiv.org/abs/2610.07290",
+      "author": "Xingyu Chen, Ming Yang, Quanqi Hu +1",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Recent advances in penalty-based methods for stochastic bilevel optimization (SBO) have eliminated the need for second-order derivative oracles. However, for stochastic nonconvex-strongly convex bilev…"
+    },
+    {
+      "id": "2609.31483",
+      "source": "arxiv",
+      "title": "Scaling Density Functional Theory with Gaussian Splatting",
+      "url": "https://arxiv.org/abs/2609.31483",
+      "author": "Andr\\'es Guzm\\'an-Cordero, Cindy Zhang, Majdi Hassan +3",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Density functional theory (DFT) strikes a practical balance between accuracy and computational cost in many problems of computational chemistry and materials science. However, many DFT calculations ar…"
+    },
+    {
+      "id": "2609.23385",
+      "source": "arxiv",
+      "title": "Leveraging Industrial Foundation Models at the Edge of Particle Physics Detectors via Distillation Learning and Hardware Co-design",
+      "url": "https://arxiv.org/abs/2609.23385",
+      "author": "Gia Ancone, Qibin Liu, Liangyu Wu +1",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Data acquisition (DAQ) systems at future particle physics experiments stand to benefit from the extremes of AI/ML development: large-scale foundation models can enhance the performance of feature extr…"
+    },
+    {
+      "id": "2609.22983",
+      "source": "arxiv",
+      "title": "Connectivity-Aware Exploration of Robotic Grasp Spaces",
+      "url": "https://arxiv.org/abs/2609.22983",
+      "author": "Maksim A Kazanskii",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Robotic grasping is typically formulated as the problem of identifying successful actions from a space of candidate grasp poses. However, the organization of successful actions within this space has r…"
+    },
+    {
+      "id": "2609.17973",
+      "source": "arxiv",
+      "title": "A Single-Loop Method with Optimal Leading-Order Oracle Complexity for Optimization and Game Stationarity in Nonconvex--Concave Minimax Optimization",
+      "url": "https://arxiv.org/abs/2609.17973",
+      "author": "Minghao Zhang, Zi Xu, Anthony Man-Cho So",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "We develop a single-loop first-order framework for smooth nonconvex--concave minimax optimization, with matching leading-order upper and lower bounds for optimization and game stationarity in a projec…"
+    },
+    {
+      "id": "2609.11071",
+      "source": "arxiv",
+      "title": "Coherent Floquet quantum reservoirs for molecular property prediction",
+      "url": "https://arxiv.org/abs/2609.11071",
+      "author": "Luofei Wang, Da Zhang, Congren Wang +5",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Quantum reservoir computing (QRC) uses observables of a driven quantum system to make predictions from a sequence of inputs. The robust subharmonic response of discrete time crystals (DTCs) has motiva…"
+    },
+    {
+      "id": "2609.10564",
+      "source": "arxiv",
+      "title": "A Station-Based Evaluation of Machine Learning-based Weather Forecasting Models in Northern Norway",
+      "url": "https://arxiv.org/abs/2609.10564",
+      "author": "Siyan Chen, Lars Uebbing, Eirik Mikal Samuelsen +5",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Recent machine learning weather prediction (MLWP) models have demonstrated remarkable forecasting skill on global reanalysis-based benchmarks. However, their performance remains unclear in challenging…"
+    },
+    {
+      "id": "2609.10264",
+      "source": "arxiv",
+      "title": "Maverick: Private and Verifiable LLM Inference Made Practical via Matrix-Vector Multiplication Delegation",
+      "url": "https://arxiv.org/abs/2609.10264",
+      "author": "Ben Merbaum, Mohammad Amin Raeisi, Wenhao Wang +3",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Open-source large language models (LLMs) are increasingly competitive with closed-source models while offering transparency and the ability to run inference without exposing user inputs to a service p…"
+    },
+    {
+      "id": "2609.01292",
+      "source": "arxiv",
+      "title": "Relational Task Generation Language: A Declarative Specification Framework for Relational Deep Learning",
+      "url": "https://arxiv.org/abs/2609.01292",
+      "author": "Oleksii Kolesnichenko, Jakub Pele\\v{s}ka, Gustav \\v{S}\\'{\\i}r",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Relational Deep Learning (RDL) has become a powerful paradigm for learning from multi-tabular data. However, manually defining RDL prediction tasks is a laborious process that frequently results in da…"
+    },
+    {
+      "id": "2609.00435",
+      "source": "arxiv",
+      "title": "Physiological Information Reliability: Contextual-Bandit Allocation of Coding Redundancy and Computation in Multimodal Cardiovascular Sensing",
+      "url": "https://arxiv.org/abs/2609.00435",
+      "author": "Navaneetha Krishnan Kamalakannan, Janakiraman Kamalakannan, Harinisri Velmurugan",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "A packet can arrive intact and still be nearly worthless. On a body-worn node the radio and processor share one small battery, yet ECG and photoplethysmography (PPG) windows differ widely in how much…"
+    },
+    {
+      "id": "2608.28685",
+      "source": "arxiv",
+      "title": "A Controlled, Internally Audited Negative Result: Training Recipe, H.264 Compression Levels and a Frequency-Stream Deepfake Detector",
+      "url": "https://arxiv.org/abs/2608.28685",
+      "author": "Abbas Aliyev, Samir Rustamov",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "We test CAFRL, which adds block-DCT and FFT-phase streams with compression-conditioned band attention, and an adversarial compression-invariance loss, to an EfficientNet-B0 face backbone for deepfake…"
+    },
+    {
+      "id": "2608.13506",
+      "source": "arxiv",
+      "title": "Equivariant learning of a transferable three-dimensional classical density functional",
+      "url": "https://arxiv.org/abs/2608.13506",
+      "author": "Bingqing Cheng",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "Liquids exhibit collective behavior that depends sensitively on thermodynamic conditions, interfaces and confinement, yet predicting each new state commonly requires a separate atomistic simulation. C…"
+    },
+    {
+      "id": "2608.12973",
+      "source": "arxiv",
+      "title": "Online Inference for Quantile Distributional Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.12973",
+      "author": "Zijie Cheng, Zhihua Zhang",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "summary": "In this work, we initiate a systematic study of online statistical inference for quantile-based distributional policy evaluation, which aims to characterize the distribution of discounted cumulative r…"
+    }
+  ]
 }
