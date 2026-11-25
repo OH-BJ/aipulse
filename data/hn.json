@@ -1,136 +1,146 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-25T06:25:37.796Z",
+  "fetchedAt": "2026-11-25T20:55:35.538Z",
   "items": [
     {
-      "id": "50638220",
+      "id": "50601280",
       "source": "hn",
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "score": 53,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50638220",
-      "author": "Curiositry",
-      "publishedAt": "2026-11-25T03:47:42.000Z"
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "score": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50601280",
+      "author": "bjin",
+      "publishedAt": "2026-11-22T16:44:48.000Z"
     },
     {
-      "id": "50638320",
+      "id": "50635055",
       "source": "hn",
-      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-      "score": 103,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50638320",
-      "author": "hoodied",
-      "publishedAt": "2026-11-25T04:03:33.000Z"
-    },
-    {
-      "id": "50638070",
-      "source": "hn",
-      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-      "score": 39,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50638070",
-      "author": "octember",
-      "publishedAt": "2026-11-25T03:28:06.000Z"
+      "title": "Show HN: Cerulion – Harness for Robotics, Gemini 3.8 Flash Matches GPT-6 Astra",
+      "url": "https://github.com/cerulion-inc/cerulion#harness-results",
+      "score": 4,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50635055",
+      "author": "lakshays",
+      "publishedAt": "2026-11-24T21:33:44.000Z"
     },
     {
       "id": "50634658",
       "source": "hn",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "score": 233,
+      "score": 345,
       "commentsUrl": "https://news.ycombinator.com/item?id=50634658",
       "author": "acossta",
       "publishedAt": "2026-11-24T21:02:22.000Z"
     },
     {
-      "id": "50637871",
+      "id": "50638220",
       "source": "hn",
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "url": "https://www.proofatlas.ai/open-problems/",
-      "score": 28,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50637871",
-      "author": "ijidak",
-      "publishedAt": "2026-11-25T03:01:36.000Z"
-    },
-    {
-      "id": "50631041",
-      "source": "hn",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/weave-os",
-      "score": 1,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50631041",
-      "author": "adchurch",
-      "publishedAt": "2026-11-24T17:00:55.000Z"
-    },
-    {
-      "id": "50627340",
-      "source": "hn",
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "score": 959,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50627340",
-      "author": "surprisetalk",
-      "publishedAt": "2026-11-24T12:40:15.000Z"
-    },
-    {
-      "id": "50627836",
-      "source": "hn",
-      "title": "Anthropic breaks below $83 IPO price",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "score": 376,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50627836",
-      "author": "Betelbuddy",
-      "publishedAt": "2026-11-24T13:23:47.000Z"
-    },
-    {
-      "id": "50637995",
-      "source": "hn",
-      "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
-      "url": "https://carry.md/",
-      "score": 8,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50637995",
-      "author": "iankit17",
-      "publishedAt": "2026-11-25T03:19:02.000Z"
-    },
-    {
-      "id": "50622854",
-      "source": "hn",
-      "title": "Declare is a UI language for you and your AI",
-      "url": "https://davidtemkin.github.io/declarelang/",
-      "score": 110,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50622854",
-      "author": "ilamont",
-      "publishedAt": "2026-11-24T02:36:56.000Z"
-    },
-    {
-      "id": "50634369",
-      "source": "hn",
-      "title": "Claude artifacts can now be installed as desktop apps on Mac and Windows",
-      "url": "https://claude.com/resources/articles/install-as-app",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50634369",
-      "author": "WillieCubed",
-      "publishedAt": "2026-11-24T20:39:15.000Z"
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "score": 210,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50638220",
+      "author": "Curiositry",
+      "publishedAt": "2026-11-25T03:47:42.000Z"
     },
     {
       "id": "50630809",
       "source": "hn",
       "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
       "url": "https://news.ycombinator.com/item?id=50630809",
-      "score": 239,
+      "score": 432,
       "commentsUrl": "https://news.ycombinator.com/item?id=50630809",
       "author": "weli",
       "publishedAt": "2026-11-24T16:45:44.000Z"
     },
     {
-      "id": "50608604",
+      "id": "50644909",
       "source": "hn",
-      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
-      "url": "https://www.kradle.ai?1",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50608604",
-      "author": "jamest",
-      "publishedAt": "2026-11-23T07:39:04.000Z"
+      "title": "New York bans AI toys, including those using internet to talk to children",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "score": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50644909",
+      "author": "nephihaha",
+      "publishedAt": "2026-11-25T17:27:05.000Z"
+    },
+    {
+      "id": "50637871",
+      "source": "hn",
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "url": "https://www.proofatlas.ai/open-problems/",
+      "score": 98,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50637871",
+      "author": "ijidak",
+      "publishedAt": "2026-11-25T03:01:36.000Z"
+    },
+    {
+      "id": "50638070",
+      "source": "hn",
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "score": 126,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50638070",
+      "author": "octember",
+      "publishedAt": "2026-11-25T03:28:06.000Z"
+    },
+    {
+      "id": "50631791",
+      "source": "hn",
+      "title": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
+      "url": "https://joonoo.art/create-comic",
+      "score": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50631791",
+      "author": "cyberviso",
+      "publishedAt": "2026-11-24T17:53:53.000Z"
+    },
+    {
+      "id": "50627340",
+      "source": "hn",
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "score": 997,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50627340",
+      "author": "surprisetalk",
+      "publishedAt": "2026-11-24T12:40:15.000Z"
+    },
+    {
+      "id": "50645868",
+      "source": "hn",
+      "title": "Parents of OpenAI whistleblower intensify dispute over suicide ruling",
+      "url": "https://abc7news.com/post/parents-openai-whistleblower-suchir-balaji-dispute-suicide-ruling-he-would-not-harm-himself/19170809/",
+      "score": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50645868",
+      "author": "eth0up",
+      "publishedAt": "2026-11-25T18:47:29.000Z"
+    },
+    {
+      "id": "50627836",
+      "source": "hn",
+      "title": "Anthropic breaks below $83 IPO price",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "score": 418,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50627836",
+      "author": "Betelbuddy",
+      "publishedAt": "2026-11-24T13:23:47.000Z"
+    },
+    {
+      "id": "50634734",
+      "source": "hn",
+      "title": "Working with AI",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "score": 85,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50634734",
+      "author": "kagaherk",
+      "publishedAt": "2026-11-24T21:07:38.000Z"
+    },
+    {
+      "id": "50638320",
+      "source": "hn",
+      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+      "score": 212,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50638320",
+      "author": "hoodied",
+      "publishedAt": "2026-11-25T04:03:33.000Z"
     }
   ]
 }
