@@ -1,13 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-26T06:18:13.368Z",
+  "fetchedAt": "2026-11-26T20:46:55.793Z",
   "items": [
+    {
+      "id": "50657265",
+      "source": "hn",
+      "title": "AMD Specific Patches for Llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "score": 180,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50657265",
+      "author": "julianlam",
+      "publishedAt": "2026-11-26T17:11:29.000Z"
+    },
+    {
+      "id": "50652527",
+      "source": "hn",
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "score": 80,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50652527",
+      "author": "seizethecheese",
+      "publishedAt": "2026-11-26T07:33:12.000Z"
+    },
+    {
+      "id": "50647673",
+      "source": "hn",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "score": 630,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50647673",
+      "author": "rmason",
+      "publishedAt": "2026-11-25T21:18:02.000Z"
+    },
+    {
+      "id": "50653477",
+      "source": "hn",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "score": 134,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50653477",
+      "author": "ritzaco",
+      "publishedAt": "2026-11-26T09:44:23.000Z"
+    },
     {
       "id": "50648050",
       "source": "hn",
       "title": "Much shorter version of GRH Lean verification from Anthropic",
       "url": "https://github.com/lsernau/grh-lean",
-      "score": 389,
+      "score": 536,
       "commentsUrl": "https://news.ycombinator.com/item?id=50648050",
       "author": "nb-t",
       "publishedAt": "2026-11-25T21:48:10.000Z"
@@ -17,100 +57,110 @@
       "source": "hn",
       "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
       "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "score": 332,
+      "score": 459,
       "commentsUrl": "https://news.ycombinator.com/item?id=50601280",
       "author": "bjin",
       "publishedAt": "2026-11-22T16:44:48.000Z"
-    },
-    {
-      "id": "50651117",
-      "source": "hn",
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "score": 112,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50651117",
-      "author": "Herrera",
-      "publishedAt": "2026-11-26T03:36:58.000Z"
     },
     {
       "id": "50648365",
       "source": "hn",
       "title": "Bare Metal Qwen",
       "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-      "score": 110,
+      "score": 225,
       "commentsUrl": "https://news.ycombinator.com/item?id=50648365",
       "author": "miohtama",
       "publishedAt": "2026-11-25T22:15:34.000Z"
     },
     {
-      "id": "50647673",
+      "id": "50655798",
       "source": "hn",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "score": 294,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50647673",
-      "author": "rmason",
-      "publishedAt": "2026-11-25T21:18:02.000Z"
+      "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
+      "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
+      "score": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50655798",
+      "author": "goatley",
+      "publishedAt": "2026-11-26T14:38:57.000Z"
     },
     {
-      "id": "50634658",
+      "id": "50659016",
       "source": "hn",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "score": 353,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50634658",
-      "author": "acossta",
-      "publishedAt": "2026-11-24T21:02:22.000Z"
+      "title": "A Warning About AI to My Loved Ones",
+      "url": "https://twitter.com/nikolaj2030/status/2125996744718565514",
+      "score": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50659016",
+      "author": "rossant",
+      "publishedAt": "2026-11-26T19:54:56.000Z"
     },
     {
-      "id": "50630809",
+      "id": "50651117",
       "source": "hn",
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "url": "https://news.ycombinator.com/item?id=50630809",
-      "score": 448,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50630809",
-      "author": "weli",
-      "publishedAt": "2026-11-24T16:45:44.000Z"
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "score": 443,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50651117",
+      "author": "Herrera",
+      "publishedAt": "2026-11-26T03:36:58.000Z"
     },
     {
-      "id": "50638220",
+      "id": "50657724",
       "source": "hn",
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "score": 219,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50638220",
-      "author": "Curiositry",
-      "publishedAt": "2026-11-25T03:47:42.000Z"
+      "title": "Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/",
+      "score": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50657724",
+      "author": "flessio",
+      "publishedAt": "2026-11-26T17:55:10.000Z"
     },
     {
-      "id": "50637871",
+      "id": "50657452",
       "source": "hn",
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "url": "https://www.proofatlas.ai/open-problems/",
-      "score": 103,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50637871",
-      "author": "ijidak",
-      "publishedAt": "2026-11-25T03:01:36.000Z"
+      "title": "'AI' might be the end of our careers",
+      "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
+      "score": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50657452",
+      "author": "tosbourn",
+      "publishedAt": "2026-11-26T17:29:28.000Z"
     },
     {
-      "id": "50638070",
+      "id": "50655243",
       "source": "hn",
-      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-      "score": 132,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50638070",
-      "author": "octember",
-      "publishedAt": "2026-11-25T03:28:06.000Z"
+      "title": "Back up your Claude Code sessions and use them on any machine",
+      "url": "https://session-vault.dev/",
+      "score": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50655243",
+      "author": "me2too",
+      "publishedAt": "2026-11-26T13:43:14.000Z"
+    },
+    {
+      "id": "50655639",
+      "source": "hn",
+      "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
+      "url": "https://github.com/batanus/lip-dictation",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50655639",
+      "author": "dima7711",
+      "publishedAt": "2026-11-26T14:25:08.000Z"
     },
     {
       "id": "50651552",
       "source": "hn",
       "title": "Claude tries to sabotage research work at every stage",
       "url": "https://twitter.com/skirano/status/2125371115979641188",
-      "score": 4,
+      "score": 33,
       "commentsUrl": "https://news.ycombinator.com/item?id=50651552",
       "author": "theanonymousone",
       "publishedAt": "2026-11-26T04:49:21.000Z"
+    },
+    {
+      "id": "50630809",
+      "source": "hn",
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "score": 461,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50630809",
+      "author": "weli",
+      "publishedAt": "2026-11-24T16:45:44.000Z"
     }
   ]
 }
