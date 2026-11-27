@@ -1,23 +1,53 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-27T06:07:32.659Z",
+  "fetchedAt": "2026-11-27T20:31:45.875Z",
   "items": [
+    {
+      "id": "50643158",
+      "source": "hn",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "score": 38,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50643158",
+      "author": "dr_red_dog",
+      "publishedAt": "2026-11-25T15:16:53.000Z"
+    },
+    {
+      "id": "50663595",
+      "source": "hn",
+      "title": "Group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "score": 629,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50663595",
+      "author": "utiiiD",
+      "publishedAt": "2026-11-27T06:44:34.000Z"
+    },
     {
       "id": "50660180",
       "source": "hn",
       "title": "AI made self-hosting fun again",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "score": 495,
+      "score": 1034,
       "commentsUrl": "https://news.ycombinator.com/item?id=50660180",
       "author": "jlelse",
       "publishedAt": "2026-11-26T21:47:45.000Z"
     },
     {
+      "id": "50664325",
+      "source": "hn",
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "score": 447,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50664325",
+      "author": "baobabKoodaa",
+      "publishedAt": "2026-11-27T08:28:08.000Z"
+    },
+    {
       "id": "50662933",
       "source": "hn",
-      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "title": "\"What's Claude's fursona?\" and other questions",
       "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-      "score": 49,
+      "score": 160,
       "commentsUrl": "https://news.ycombinator.com/item?id=50662933",
       "author": "Mond_",
       "publishedAt": "2026-11-27T04:56:18.000Z"
@@ -27,7 +57,7 @@
       "source": "hn",
       "title": "AMD-specific fork of llama.cpp",
       "url": "https://devnull.land/amd-specific-llama-cpp",
-      "score": 323,
+      "score": 429,
       "commentsUrl": "https://news.ycombinator.com/item?id=50657265",
       "author": "julianlam",
       "publishedAt": "2026-11-26T17:11:29.000Z"
@@ -37,37 +67,37 @@
       "source": "hn",
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "score": 303,
+      "score": 416,
       "commentsUrl": "https://news.ycombinator.com/item?id=50653477",
       "author": "ritzaco",
       "publishedAt": "2026-11-26T09:44:23.000Z"
     },
     {
-      "id": "50661218",
+      "id": "50669073",
       "source": "hn",
-      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "score": 47,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50661218",
-      "author": "geox",
-      "publishedAt": "2026-11-27T00:03:18.000Z"
+      "title": "Dungeons and Dragons maker will pass AI settlement money to authors",
+      "url": "https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/",
+      "score": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50669073",
+      "author": "doctorzook",
+      "publishedAt": "2026-11-27T17:05:45.000Z"
     },
     {
-      "id": "50652527",
+      "id": "50665488",
       "source": "hn",
-      "title": "OpenAI may be in cost control mode",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "score": 311,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50652527",
-      "author": "seizethecheese",
-      "publishedAt": "2026-11-26T07:33:12.000Z"
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "score": 109,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50665488",
+      "author": "conradqh",
+      "publishedAt": "2026-11-27T11:09:04.000Z"
     },
     {
       "id": "50647673",
       "source": "hn",
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "score": 661,
+      "score": 678,
       "commentsUrl": "https://news.ycombinator.com/item?id=50647673",
       "author": "rmason",
       "publishedAt": "2026-11-25T21:18:02.000Z"
@@ -77,100 +107,50 @@
       "source": "hn",
       "title": "Much shorter version of GRH Lean verification from Anthropic",
       "url": "https://github.com/lsernau/grh-lean",
-      "score": 553,
+      "score": 559,
       "commentsUrl": "https://news.ycombinator.com/item?id=50648050",
       "author": "nb-t",
       "publishedAt": "2026-11-25T21:48:10.000Z"
-    },
-    {
-      "id": "50658910",
-      "source": "hn",
-      "title": "Top-cited AI scientists at four US companies compared",
-      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-      "score": 39,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50658910",
-      "author": "kkk4seis",
-      "publishedAt": "2026-11-26T19:44:31.000Z"
     },
     {
       "id": "50651117",
       "source": "hn",
       "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
       "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "score": 476,
+      "score": 505,
       "commentsUrl": "https://news.ycombinator.com/item?id=50651117",
       "author": "Herrera",
       "publishedAt": "2026-11-26T03:36:58.000Z"
-    },
-    {
-      "id": "50655798",
-      "source": "hn",
-      "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
-      "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
-      "score": 37,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50655798",
-      "author": "goatley",
-      "publishedAt": "2026-11-26T14:38:57.000Z"
-    },
-    {
-      "id": "50651552",
-      "source": "hn",
-      "title": "Claude tries to sabotage research work at every stage",
-      "url": "https://twitter.com/skirano/status/2125371115979641188",
-      "score": 56,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50651552",
-      "author": "theanonymousone",
-      "publishedAt": "2026-11-26T04:49:21.000Z"
-    },
-    {
-      "id": "50601280",
-      "source": "hn",
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "score": 466,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50601280",
-      "author": "bjin",
-      "publishedAt": "2026-11-22T16:44:48.000Z"
-    },
-    {
-      "id": "50655243",
-      "source": "hn",
-      "title": "Back up your Claude Code sessions and use them on any machine",
-      "url": "https://session-vault.dev/",
-      "score": 22,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50655243",
-      "author": "me2too",
-      "publishedAt": "2026-11-26T13:43:14.000Z"
     },
     {
       "id": "50630809",
       "source": "hn",
       "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
       "url": "https://news.ycombinator.com/item?id=50630809",
-      "score": 466,
+      "score": 472,
       "commentsUrl": "https://news.ycombinator.com/item?id=50630809",
       "author": "weli",
       "publishedAt": "2026-11-24T16:45:44.000Z"
     },
     {
-      "id": "50648365",
+      "id": "50652527",
       "source": "hn",
-      "title": "Bare Metal Qwen",
-      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-      "score": 229,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50648365",
-      "author": "miohtama",
-      "publishedAt": "2026-11-25T22:15:34.000Z"
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "score": 354,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50652527",
+      "author": "seizethecheese",
+      "publishedAt": "2026-11-26T07:33:12.000Z"
     },
     {
-      "id": "50660004",
+      "id": "50651552",
       "source": "hn",
-      "title": "The US Government Is Under AI Cyberattack",
-      "url": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack",
-      "score": 22,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50660004",
-      "author": "madihaa",
-      "publishedAt": "2026-11-26T21:26:33.000Z"
+      "title": "Claude tries to sabotage research work at every stage",
+      "url": "https://twitter.com/skirano/status/2125371115979641188",
+      "score": 96,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50651552",
+      "author": "theanonymousone",
+      "publishedAt": "2026-11-26T04:49:21.000Z"
     }
   ]
 }
