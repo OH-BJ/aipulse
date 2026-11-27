@@ -1,276 +1,276 @@
 {
   "source": "arxiv",
-  "fetchedAt": "2026-11-26T20:46:55.587Z",
+  "fetchedAt": "2026-11-27T06:07:32.352Z",
   "items": [
     {
-      "id": "2611.32595",
+      "id": "2611.33158",
       "source": "arxiv",
-      "title": "Degree-bounded Satisfiability of Local MPNNs with Sum Aggregation is NEXPTIME-hard",
-      "url": "https://arxiv.org/abs/2611.32595",
-      "author": "Marco S\\\"alzer",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "We prove that the following problem is NEXPTIME-hard: given a message passing neural network (MPNN) $M$ with local sum aggregation and truncated ReLU activations, and a degree bound $d$ encoded in una…"
+      "title": "OmniAct: One Policy, One Million Embodiments",
+      "url": "https://arxiv.org/abs/2611.33158",
+      "author": "Xiang Fan, Yuheng Wang, Jiayuan Yan +7",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer…"
     },
     {
-      "id": "2611.29992",
+      "id": "2611.33004",
       "source": "arxiv",
-      "title": "Sampling with graph wavelet kernels: optimality and adaptivity to regularity and geometry",
-      "url": "https://arxiv.org/abs/2611.29992",
-      "author": "Pranav Gupta, Hoang-Son Tran, Subhroshekhar Ghosh",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "We construct wavelet-based determinantal samplers on manifolds and geometric graphs whose approximation rates adapt to the regularity of the observable. On a Riemannian manifold of dimension $m$, our…"
+      "title": "LEGOSpec: A Composable and Efficient Framework for Speculative Draft Design and Training",
+      "url": "https://arxiv.org/abs/2611.33004",
+      "author": "Hanzhen Wang, Jiaming Xu, Guohao Dai",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Speculative decoding accelerates large language model (LLM) generation using a lightweight draft. Existing methods evaluate complete recipes under different training configurations, leaving component…"
     },
     {
-      "id": "2611.29814",
+      "id": "2611.32780",
       "source": "arxiv",
-      "title": "Inferring Experimental Objectives in Microscopy Experiments from Decision Traces",
-      "url": "https://arxiv.org/abs/2611.29814",
-      "author": "Kamyar Barakati, Boris N. Slautin, Aditya Raghavan +9",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Modern microscopes can acquire, analyze and act on data far faster than human operators can decide what to measure next. Exploiting this speed in automated experiments requires the instrument to follo…"
+      "title": "C3H: Compression-to-Consensus Criteria Hijacking in Multimodal LLM Recommender Systems",
+      "url": "https://arxiv.org/abs/2611.32780",
+      "author": "Guowei Guan, Yurong Hao, Jiaming Zhang +2",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Multimodal large language models (MLLMs) are transforming recommender systems into content-aware decision systems. In these systems, multimodal compression and cross-modal fusion are often viewed as r…"
     },
     {
-      "id": "2611.28321",
+      "id": "2611.32316",
       "source": "arxiv",
-      "title": "Click and Count: Multimodal Prototype Adaptation for Class-Agnostic Object Counting",
-      "url": "https://arxiv.org/abs/2611.28321",
-      "author": "Amani Aifi, Wassim Bouachir, Ahmed Zgaren +1",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "We propose a multimodal, class-agnostic, density-based object counting framework that specifies the object of interest through visual exemplars, a text description, or both, within a single iterative…"
+      "title": "ASTERISM: Do Multimodal LLMs Actually Look at All the Images?",
+      "url": "https://arxiv.org/abs/2611.32316",
+      "author": "Chanseul Cho, Dongwoo Kim, Noori Bae +3",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Multi-image benchmarks aim to test whether a multimodal large language model (MLLM) combines evidence across images, but many of their items can be answered from a single image. Across about 33k items…"
     },
     {
-      "id": "2611.26730",
+      "id": "2611.32084",
       "source": "arxiv",
-      "title": "SparseHPS: A Unified Model for Human Pose and Shape Estimation across Depth Cameras and LiDARs",
-      "url": "https://arxiv.org/abs/2611.26730",
-      "author": "Ilya Zaychuk",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Recovering 3D human pose and shape from point clouds is central to motion capture, robotics and self-driving vehicles, because depth cameras and LiDARs sense a person directly in metric 3D and work un…"
+      "title": "The algorithmic behavioral sink: Modeling the transition to irreversible demographic collapse",
+      "url": "https://arxiv.org/abs/2611.32084",
+      "author": "Feng Yu",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "In 2025, the vast majority of major global economies reported a Total Fertility Rate below the replacement level of 2.1. This synchronized collapse has persisted despite extensive pro-natalist financi…"
     },
     {
-      "id": "2611.26652",
+      "id": "2611.31249",
       "source": "arxiv",
-      "title": "Distributional Deep Hedging",
-      "url": "https://arxiv.org/abs/2611.26652",
-      "author": "El-Amine Cherrat, Skander Kazdaghli, Iordanis Kerenidis",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Deep hedging learns a hedging strategy by optimising a risk preference over a neural-network policy. The preference is fixed before training, so each new preference requires a new policy and, in actor…"
+      "title": "Actionwave: A Systematic Benchmark for Waveform-Centric Clinical Prediction Across Care Scenarios",
+      "url": "https://arxiv.org/abs/2611.31249",
+      "author": "Jie Peng, Davis Hobley, Song Wang +2",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Continuous bedside waveforms record rapid physiological changes that can inform clinical decisions. Existing benchmarks examine selected prediction conditions, but it remains unclear how model advanta…"
     },
     {
-      "id": "2611.15533",
+      "id": "2611.30209",
       "source": "arxiv",
-      "title": "Whether untrained networks beat trained ones at V1 depends on a normalisation convention: evidence from two fMRI datasets",
-      "url": "https://arxiv.org/abs/2611.15533",
-      "author": "Nils Leutenegger",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Untrained convolutional networks have been reported to rival or beat trained networks as models of primary visual cortex (V1), and we had reported such an advantage in THINGS fMRI. Under a pre-specifi…"
+      "title": "RoboAda: Adapting Frozen Robot Policies at Test Time to Physics They Cannot See",
+      "url": "https://arxiv.org/abs/2611.30209",
+      "author": "Yunbei Zhang, Zijian Jin, Shuaicheng Niu +4",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Pretrained robot policies decide what to do from camera images, yet some of the physics that decides whether their plans succeed is not visible. An object may look light but be 100 times heavier, and…"
     },
     {
-      "id": "2611.11533",
+      "id": "2611.30111",
       "source": "arxiv",
-      "title": "Ostinato: Low-Latency CPU-GPU MoE Inference for Local Agents",
-      "url": "https://arxiv.org/abs/2611.11533",
-      "author": "Junning Zhu, Jianxiong Guo",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Language-model agents increasingly run on local workstations with consumer GPUs, where quantized mixture-of-experts (MoE) models split routed experts between GPU and host memory. Prefix-cached agent s…"
+      "title": "RoboThink: Let the Agent Think, Let the Policy Act",
+      "url": "https://arxiv.org/abs/2611.30111",
+      "author": "Yunbei Zhang, Zijian Jin, Janet Wang +4",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Robot policies act in real time but fail without knowing why, whereas a reasoning agent that watches the robot can often tell what went wrong. Existing systems either hand the agent control, which tak…"
     },
     {
-      "id": "2610.27022",
+      "id": "2611.29750",
       "source": "arxiv",
-      "title": "High-Order Gaussian Approximation of Besov Functions on Manifolds",
-      "url": "https://arxiv.org/abs/2610.27022",
-      "author": "Guanhang Lei, Lei Shi, Xiaoming Yuan",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "We study high-order Gaussian approximation for Besov functions $f\\in B^\\alpha_{2,\\infty}(X)$ with $\\alpha>0$ on a compact smooth embedded manifold $X$ without boundary. For $r<\\alpha$, a suitable sign…"
+      "title": "Refine, Don't Reinvent: RASA-Bench for Source-Grounded Hindi Prose Refinement",
+      "url": "https://arxiv.org/abs/2611.29750",
+      "author": "Abdur Rahman, Pratham Singla, Mohammad Saifullah +1",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "For a producer of Hindi creative prose, drafting is cheap and editing is not: a machine-written episode, story, or essay reads as under-written and flat, laced with translationese, and it sometimes qu…"
     },
     {
-      "id": "2610.25997",
+      "id": "2611.29162",
       "source": "arxiv",
-      "title": "Federated Community Detection in Bipartite Networks",
-      "url": "https://arxiv.org/abs/2610.25997",
-      "author": "Wanjie Wang",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "We study federated spectral estimation when a large matrix is horizontally partitioned across servers that cannot share raw data. We propose FLICKER, a target-specific gradient-based power iteration t…"
+      "title": "Fixed or Deleted? External Feedback Lets Cheaper AI Coding Agents Repair Rule Violations",
+      "url": "https://arxiv.org/abs/2611.29162",
+      "author": "Laura Wynter",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Many defects violate project rules that the code itself does not reveal, such as layering constraints or required tests. We study whether LLM coding agents repair such violations better when an extern…"
     },
     {
-      "id": "2610.21356",
+      "id": "2611.28732",
       "source": "arxiv",
-      "title": "L2GSSL: Label-Efficient Local-to-Global Self-Supervised Learning for Volumetric Healthcare Data",
-      "url": "https://arxiv.org/abs/2610.21356",
-      "author": "Po-Cheng Cheng, Hung-Hsuan Chen",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Healthcare institutions routinely accumulate high-dimensional computed tomography (CT) volumes, but only a fraction can be annotated by experts. We present L2GSSL, a local-to-global self-supervised le…"
+      "title": "Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts",
+      "url": "https://arxiv.org/abs/2611.28732",
+      "author": "Chendong Xiang, Chengwen Zhang, Ruowen Zhao +7",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "In-context learning (ICL) enables foundation models to perform unseen tasks from context without parameter updates. In robotic manipulation, a human video provides the context that specifies how a tas…"
     },
     {
-      "id": "2610.20007",
+      "id": "2611.28082",
       "source": "arxiv",
-      "title": "Minimax estimation of the pseudo-spectral gap of continuous Markov chains, with applications to empirical concentration bounds",
-      "url": "https://arxiv.org/abs/2610.20007",
-      "author": "Vahe Karagulyan, Miko{\\l}aj Kasprzak, Pierre Alquier",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "We study the minimax estimation of the pseudo-spectral gap $\\gamma_{ps}$ of a Markov chain from the observation of a single trajectory. Extending earlier works on finite-state space chains by Wolfer a…"
+      "title": "Frontier Open-Weight AI Risk Management Framework",
+      "url": "https://arxiv.org/abs/2611.28082",
+      "author": "Brian Tse, Oskar Galeev, Weibing Wang +5",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Open-weight models advance transparency, research, and innovation, and spread the benefits of AI more widely. They also carry distinct risks. A release cannot be undone, safeguards can be removed thro…"
     },
     {
-      "id": "2610.09984",
+      "id": "2611.26938",
       "source": "arxiv",
-      "title": "Extreme Binary Classification: Extreme Value Theory for Extreme Constraint on False Negative",
-      "url": "https://arxiv.org/abs/2610.09984",
-      "author": "Samuel Gruffaz, Muhammad Fawad, Jaakko Nevalainen",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "While binary classification is one of the most extensively studied problems in machine learning, the regime in which the goal is to learn a classifier with an almost zero false negative rate remains l…"
+      "title": "SN-EDA: Skew-Normal Estimation of Distribution Algorithms",
+      "url": "https://arxiv.org/abs/2611.26938",
+      "author": "Jun Zhang, Tong Qian, Hua Ding +2",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Gaussian estimation of distribution algorithms (EDAs) converge prematurely on slopes, because truncation selection removes most of the variance along the gradient. The usual remedies enlarge the varia…"
     },
     {
-      "id": "2609.38519",
+      "id": "2611.26809",
       "source": "arxiv",
-      "title": "GazeFlow: From Human Gaze Behavior to Generative Egocentric Gaze Prediction",
-      "url": "https://arxiv.org/abs/2609.38519",
-      "author": "Sheng Zhao, Weikai Lin, Yuhao Zhu",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Egocentric gaze prediction enables many downstream applications but remains challenging, as human gaze is inherently stochastic. This stochasticity is constrained by structured temporal dynamics alter…"
+      "title": "Search From the Start: Search-Native Pretraining for Language Models",
+      "url": "https://arxiv.org/abs/2611.26809",
+      "author": "Kaustubh Ponkshe, Gyung Hyun Je, Stefan Taga +2",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typic…"
     },
     {
-      "id": "2609.38270",
+      "id": "2611.26073",
       "source": "arxiv",
-      "title": "VirusCascade: Hijacking Collaborative Reflection in LLM-Powered Recommender Agents",
-      "url": "https://arxiv.org/abs/2609.38270",
-      "author": "Yurong Hao, Wen Zhou, Guowei Guan +3",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Advancing beyond traditional static scoring models, LLM-powered agentic recommender systems (LLM-ARS) instantiate users and items as autonomous agents, whose semantic states are dynamically refined th…"
+      "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+      "url": "https://arxiv.org/abs/2611.26073",
+      "author": "Nagham Omar, Rotem Dror, Almog Gueta +3",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Large language models (LLMs) are increasingly used as judges and graders to replace human annotators, raising the question of when such replacement is statistically justified. To support such decision…"
     },
     {
-      "id": "2609.36885",
+      "id": "2611.24059",
       "source": "arxiv",
-      "title": "RNA Design via Conditioned Flow Matching and Finite-Policy Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2609.36885",
-      "author": "Zefeng Lin, Xianyong Fang, Tianfan Fu +1",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "RNA design aims to identify sequences that fold into specified secondary structures. Existing methods formulate the task as target-specific search or conditional generation. However, natural RNA evolu…"
+      "title": "Replay, Don't Resample: Off-Policy Consolidation of Long-Horizon RL Experts",
+      "url": "https://arxiv.org/abs/2611.24059",
+      "author": "Zhenrui Yue, Gongxiaohui Chen, Huimin Zeng +4",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Frontier post-training follows a common recipe: train one expert per domain with reinforcement learning (RL), then consolidate the experts into one model via multi-teacher on-policy distillation (MOPD…"
     },
     {
-      "id": "2609.34887",
+      "id": "2611.22138",
       "source": "arxiv",
-      "title": "Conformal Prediction and Conditional Coverage for Tabular Foundation Models",
-      "url": "https://arxiv.org/abs/2609.34887",
-      "author": "Sungwoo Park, Sunghee Park, Won Chang",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Tabular foundation models (TFMs) provide predictive distributions for regression, but their prediction regions can exhibit undercoverage or overcoverage even when point predictions are accurate. We in…"
+      "title": "RoboTeam: Benchmarking Vision-Based Multi-Agent Control of Many Robot Arms in Real Time",
+      "url": "https://arxiv.org/abs/2611.22138",
+      "author": "Changxuan Fan, Zhongwei Xie, Boyi Zhang +18",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Multimodal agents can now control robot arms by calling tools and writing code. Existing benchmarks fall short in three ways: most test one or two arms on short tasks, many pause the world while the a…"
     },
     {
-      "id": "2609.29395",
+      "id": "2611.20071",
       "source": "arxiv",
-      "title": "Reducing Fixed-Batch Client Idleness in Many-Client Edge Split Learning",
-      "url": "https://arxiv.org/abs/2609.29395",
-      "author": "Mohammad Kohankhaki, Valentin Rentschler, Carsten Kamp +2",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Parallel Split Learning with Global Sampling (GPSL) trains a split model on a fixed-size batch drawn from the data of all clients. When the client population is much larger than the batch, most client…"
+      "title": "The Silent Cost of Conversation History in LLM Reasoning",
+      "url": "https://arxiv.org/abs/2611.20071",
+      "author": "Ali \\c{S}enol",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Large language models (LLMs) in multi-turn information systems accumulate their own earlier replies and a growing task state. We asked whether this conversation history lowers accuracy, and whether pr…"
     },
     {
-      "id": "2609.27373",
+      "id": "2611.20020",
       "source": "arxiv",
-      "title": "Attention Routing Stabilizes Early: Working-Set Inference for Recurrent Language Models",
-      "url": "https://arxiv.org/abs/2609.27373",
-      "author": "Ke Wan, Chen Chen",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Recurrent-depth language models, such as looped Transformers, repeatedly apply shared network blocks to refine latent representations, enabling additional test-time computation without generating expl…"
+      "title": "Improving fine-grained expressivity of graph neural networks",
+      "url": "https://arxiv.org/abs/2611.20020",
+      "author": "Yonatan Sverdlov",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "This thesis investigates the expressive power of neural networks for structured data, focusing on graph neural networks and symmetry-aware architectures. We present four main contributions. First, we…"
     },
     {
-      "id": "2607.21411",
+      "id": "2611.18359",
       "source": "arxiv",
-      "title": "QSTAR: Quantum Selective Transfer with Adaptive Routing",
-      "url": "https://arxiv.org/abs/2607.21411",
-      "author": "Saim Rehman, Nouhaila Innan, Muhammad Shafique",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Quantum transfer learning (QTL) is commonly evaluated by replacing a classical classifier with a fixed variational quantum head, leaving unclear when quantum inference provides measurable benefit. We…"
+      "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+      "url": "https://arxiv.org/abs/2611.18359",
+      "author": "Grid Robotics, :, Qingfeng Lan +11",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many…"
     },
     {
-      "id": "2607.15832",
+      "id": "2611.18307",
       "source": "arxiv",
-      "title": "A zero-one law for one-shot system identification",
-      "url": "https://arxiv.org/abs/2607.15832",
-      "author": "Nicolas Boull\\'e, Diana Halikias, Samuel E. Otto +1",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Can a model be identified from one experiment? We study analytic systems that are linearly parameterized by a combination of prescribed dictionary terms, such as partial differential operators and dyn…"
+      "title": "AI for Parameter Selection in Sample-based Quantum Diagonalization",
+      "url": "https://arxiv.org/abs/2611.18307",
+      "author": "Doriela Grabocka, Dimitrios Christofidellis, Federico Zipoli +5",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Sample-based Quantum Diagonalization (SQD) methods provide a way to compute molecular ground-state energies, but their accuracy and runtime depend sensitively on configuration choices such as the subs…"
     },
     {
-      "id": "2607.14747",
+      "id": "2611.17658",
       "source": "arxiv",
-      "title": "Toward Energy-Efficient and Low-Power Arrhythmia Detection for Wearable Devices",
-      "url": "https://arxiv.org/abs/2607.14747",
-      "author": "Floriaan Bulten, Yawar Rasheed, Arlene John +2",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Cardiovascular diseases are the leading cause of death worldwide, and conditions such as arrhythmia often require long-term monitoring for effective detection and diagnosis. However, current wearable…"
+      "title": "Imitation Policies Learn a Proprioceptive Anchor: A Predictive Law for Perception Noise and Its Closed-Loop Cost",
+      "url": "https://arxiv.org/abs/2611.17658",
+      "author": "Christopher Malili",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Imitation policies for robot manipulation are often trained on noisy object positions, and they learn to discount the noisy reading. We show how much they discount it, and why. Because demonstrators s…"
     },
     {
-      "id": "2607.11921",
+      "id": "2611.16368",
       "source": "arxiv",
-      "title": "Near-Optimal Learning of Gaussian Sobolev Operators",
-      "url": "https://arxiv.org/abs/2607.11921",
-      "author": "Ben Adcock, Michael Griebel, Gregor Maier",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "A key question in operator learning is how to design surrogate operators with provable approximation guarantees in reasonable computational time. Whereas holomorphic operators can be approximated effi…"
+      "title": "ReliaGuard: Reconstruction-Aware Watermarking for Source Attribution and Blind Edit Localization",
+      "url": "https://arxiv.org/abs/2611.16368",
+      "author": "Hailong Wang, Wuzheng Tan, Zixin Zhang +2",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Generative image editing can reconstruct the background outside the requested edit, weakening spatial watermark evidence even when the source identifier remains recoverable. This creates an ambiguity…"
     },
     {
-      "id": "2607.05316",
+      "id": "2611.15968",
       "source": "arxiv",
-      "title": "How Much is Left? LLMs Linearly Encode Their Remaining Output Length",
-      "url": "https://arxiv.org/abs/2607.05316",
-      "author": "Mohamed Amine Merzouk, Dmitri Carpov, Mirko Bronzi +2",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Large Language models generate tokens, without explicitly keeping track of the length of the generated text. This paper asks the question: can we estimate the number of tokens remaining in a generated…"
+      "title": "DuoJEPA: Cross-Modal Translation Between Unaligned Self-Supervised Embedding Spaces",
+      "url": "https://arxiv.org/abs/2611.15968",
+      "author": "Mahmut S. Gokmen, Mitchell A. Klusty, Evan W. Damron +3",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Learning from paired modalities is commonly equated with aligning them: two encoders are trained until the embeddings of a pair coincide in a shared space. We study whether cross-modal retrieval and c…"
     },
     {
-      "id": "2607.04882",
+      "id": "2611.15735",
       "source": "arxiv",
-      "title": "Unsupervised Detection of Underground Tunnels in Ground-Penetrating Radar Using Depth-Restricted Reconstruction Scoring",
-      "url": "https://arxiv.org/abs/2607.04882",
-      "author": "Muhammad Junaid, Shoab A. Khan, Nisar Ahmed",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Hand-dug tunnels that reach buried pipelines from below are hard to find before they are used, and too rare to train a supervised detector. The engineering application of this work is detecting such t…"
+      "title": "Where Is Uncertainty Observed? A Mechanistic Understanding of Uncertainty Quantification in LLMs",
+      "url": "https://arxiv.org/abs/2611.15735",
+      "author": "Xiaoyu Liang, Virginia Ceccatelli, Aliai Eusebi +4",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Knowing when a large language model's (LLM's) response can be trusted is critical for its safe use. Uncertainty quantification (UQ) can help LLMs recognize if their responses may be unreliable. Existi…"
     },
     {
-      "id": "2606.11390",
+      "id": "2611.15004",
       "source": "arxiv",
-      "title": "Large-Scale Gaussian Splatting with a Multi-GPU PyTorch Backend",
-      "url": "https://arxiv.org/abs/2606.11390",
-      "author": "Matthew Cong, Francis Williams, Jonathan Swartz +3",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Gaussian splatting methods have become increasingly popular for neural reconstruction of the real world. However, they are often limited in scale and resolution due to compute and memory constraints.…"
+      "title": "A Cardiorespiratory Foundation Model Pretrained on Ten Physiological Signals for Perioperative and Critical Care",
+      "url": "https://arxiv.org/abs/2611.15004",
+      "author": "Cheol-Hui Lee, Wookyung Kim, Hyeonhoon Lee +3",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Arterial, venous, pulmonary artery, and intracranial pressures and ventilator waveforms guide decisions in operating rooms and intensive care units, yet foundation models for physiological waveforms r…"
     },
     {
-      "id": "2606.05474",
+      "id": "2611.12603",
       "source": "arxiv",
-      "title": "AlloGen: Conformation-Selective Binder Generation with Differential State Scoring",
-      "url": "https://arxiv.org/abs/2606.05474",
-      "author": "Hanqun Cao, Aastha Pal, Sumi Kimura +4",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Protein binder design commonly optimizes compatibility with a single receptor conformation, leaving preference over alternative functional states unresolved. To address this gap, we introduce AlloGen,…"
+      "title": "Direct Conditioning of Audio Diffusion Transformers on fMRI Reveals Cortical Contributions to Sound Reconstruction",
+      "url": "https://arxiv.org/abs/2611.12603",
+      "author": "Matteo Ciferri, Tonio Weidler, Matteo Ferrante +2",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Reconstructing audio from brain activity remains challenging. Existing brain-to-audio pipelines typically map neural responses to predefined stimulus representations before synthesis. While recent wor…"
     },
     {
-      "id": "2606.04511",
+      "id": "2611.08657",
       "source": "arxiv",
-      "title": "SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference",
-      "url": "https://arxiv.org/abs/2606.04511",
-      "author": "Yaosheng Fu, Guangxuan Xiao, Xin Dong +2",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Sparse attention reduces compute and memory bandwidth for long-context LLM inference. However, two key challenges remain: (1) KV cache capacity still grows with sequence length, and offloading to CPU…"
+      "title": "JEPAhead: From Inpainting to Causal Forecasting for Urban Driving",
+      "url": "https://arxiv.org/abs/2611.08657",
+      "author": "Daniel G. P. Petrini, Davi Pincinato, Fabio Grassiotto +4",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "We fine-tune a pre-trained V-JEPA1 predictor from bidirectional latent inpainting to action-free causal forecasting while keeping the encoder frozen. Using contiguous past observations, horizon-aligne…"
     },
     {
-      "id": "2605.28551",
+      "id": "2611.08469",
       "source": "arxiv",
-      "title": "Resolution-free neural surrogates for geometric parameterization and mapping with spatially varying fields",
-      "url": "https://arxiv.org/abs/2605.28551",
-      "author": "Yanwen Huang, Lok Ming Lui, Gary P. T. Choi",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "Many imaging problems require computing spatial transformations induced by spatially varying intensity, feature, or density fields. Canonical examples include distortion correction, deformable image r…"
+      "title": "Same behavior, different mechanism: what finite experiments can certify about how a network computes",
+      "url": "https://arxiv.org/abs/2611.08469",
+      "author": "Diaoxuan He, Linqian Wu, Chang Kong +1",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Interpretability research, AI audits and assessments of machine consciousness make claims about how a system computes, not what it outputs. We give such claims a measurement theory. A claim is certifi…"
     },
     {
-      "id": "2605.18959",
+      "id": "2610.29172",
       "source": "arxiv",
-      "title": "Hyrax: An Extensible Framework for Rapid ML Experimentation and Unsupervised Discovery in the Era of Rubin, Roman, and Euclid",
-      "url": "https://arxiv.org/abs/2605.18959",
-      "author": "Aritra Ghosh, Drew Oldag, Michael Tauraso +31",
-      "publishedAt": "2026-11-26T05:00:00.000Z",
-      "summary": "The NSF-DOE Vera C. Rubin Observatory, Roman Space Telescope, Euclid, and other next-generation surveys will deliver imaging, spectroscopic, and time-domain data at scales that increasingly shift the…"
+      "title": "Conditional Flow Models Convert Epistemic Uncertainty into Apparent Aleatoric Variance",
+      "url": "https://arxiv.org/abs/2610.29172",
+      "author": "Navodita Sharma, Abhishek Shetty, Max Simchowitz +1",
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "summary": "Conditional Flow Models (CFMs) are increasingly being used in place of deterministic predictors across machine learning, including for tasks that were classically formulated as regression. Given their…"
     }
   ]
 }
