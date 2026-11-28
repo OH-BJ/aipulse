@@ -1,43 +1,43 @@
 {
   "source": "hn",
-  "fetchedAt": "2026-11-27T20:31:45.875Z",
+  "fetchedAt": "2026-11-28T05:48:20.357Z",
   "items": [
     {
       "id": "50643158",
       "source": "hn",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "score": 38,
+      "score": 386,
       "commentsUrl": "https://news.ycombinator.com/item?id=50643158",
       "author": "dr_red_dog",
       "publishedAt": "2026-11-25T15:16:53.000Z"
     },
     {
-      "id": "50663595",
+      "id": "50671275",
       "source": "hn",
-      "title": "Group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "score": 629,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50663595",
-      "author": "utiiiD",
-      "publishedAt": "2026-11-27T06:44:34.000Z"
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "score": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50671275",
+      "author": "ingve",
+      "publishedAt": "2026-11-27T20:23:14.000Z"
     },
     {
-      "id": "50660180",
+      "id": "50673521",
       "source": "hn",
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "score": 1034,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50660180",
-      "author": "jlelse",
-      "publishedAt": "2026-11-26T21:47:45.000Z"
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "score": 134,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50673521",
+      "author": "Tiwariparth6165",
+      "publishedAt": "2026-11-28T01:32:56.000Z"
     },
     {
       "id": "50664325",
       "source": "hn",
       "title": "Claude sabotaging ML research tasks?",
       "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "score": 447,
+      "score": 653,
       "commentsUrl": "https://news.ycombinator.com/item?id=50664325",
       "author": "baobabKoodaa",
       "publishedAt": "2026-11-27T08:28:08.000Z"
@@ -47,110 +47,80 @@
       "source": "hn",
       "title": "\"What's Claude's fursona?\" and other questions",
       "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-      "score": 160,
+      "score": 192,
       "commentsUrl": "https://news.ycombinator.com/item?id=50662933",
       "author": "Mond_",
       "publishedAt": "2026-11-27T04:56:18.000Z"
+    },
+    {
+      "id": "50663595",
+      "source": "hn",
+      "title": "Group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "score": 696,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50663595",
+      "author": "utiiiD",
+      "publishedAt": "2026-11-27T06:44:34.000Z"
+    },
+    {
+      "id": "50660180",
+      "source": "hn",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "score": 1109,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50660180",
+      "author": "jlelse",
+      "publishedAt": "2026-11-26T21:47:45.000Z"
     },
     {
       "id": "50657265",
       "source": "hn",
       "title": "AMD-specific fork of llama.cpp",
       "url": "https://devnull.land/amd-specific-llama-cpp",
-      "score": 429,
+      "score": 441,
       "commentsUrl": "https://news.ycombinator.com/item?id=50657265",
       "author": "julianlam",
       "publishedAt": "2026-11-26T17:11:29.000Z"
     },
     {
-      "id": "50653477",
+      "id": "50670184",
       "source": "hn",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "score": 416,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50653477",
-      "author": "ritzaco",
-      "publishedAt": "2026-11-26T09:44:23.000Z"
+      "title": "Claude Code Skills Now Sharable Across Teams",
+      "url": "https://emergent.sh/news/claude-code-skills-now-sharable-across-teams",
+      "score": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50670184",
+      "author": "jatin_builds",
+      "publishedAt": "2026-11-27T18:36:20.000Z"
     },
     {
-      "id": "50669073",
+      "id": "50671559",
       "source": "hn",
-      "title": "Dungeons and Dragons maker will pass AI settlement money to authors",
-      "url": "https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/",
-      "score": 15,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50669073",
-      "author": "doctorzook",
-      "publishedAt": "2026-11-27T17:05:45.000Z"
-    },
-    {
-      "id": "50665488",
-      "source": "hn",
-      "title": "AI on brink of making online security useless, mathematicians fear",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "score": 109,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50665488",
-      "author": "conradqh",
-      "publishedAt": "2026-11-27T11:09:04.000Z"
+      "title": "Banks look to dump AI debt",
+      "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
+      "score": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50671559",
+      "author": "Fricken",
+      "publishedAt": "2026-11-27T20:56:17.000Z"
     },
     {
       "id": "50647673",
       "source": "hn",
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "score": 678,
+      "score": 681,
       "commentsUrl": "https://news.ycombinator.com/item?id=50647673",
       "author": "rmason",
       "publishedAt": "2026-11-25T21:18:02.000Z"
     },
     {
-      "id": "50648050",
+      "id": "50653477",
       "source": "hn",
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "score": 559,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50648050",
-      "author": "nb-t",
-      "publishedAt": "2026-11-25T21:48:10.000Z"
-    },
-    {
-      "id": "50651117",
-      "source": "hn",
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "score": 505,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50651117",
-      "author": "Herrera",
-      "publishedAt": "2026-11-26T03:36:58.000Z"
-    },
-    {
-      "id": "50630809",
-      "source": "hn",
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "url": "https://news.ycombinator.com/item?id=50630809",
-      "score": 472,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50630809",
-      "author": "weli",
-      "publishedAt": "2026-11-24T16:45:44.000Z"
-    },
-    {
-      "id": "50652527",
-      "source": "hn",
-      "title": "OpenAI may be in cost control mode",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "score": 354,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50652527",
-      "author": "seizethecheese",
-      "publishedAt": "2026-11-26T07:33:12.000Z"
-    },
-    {
-      "id": "50651552",
-      "source": "hn",
-      "title": "Claude tries to sabotage research work at every stage",
-      "url": "https://twitter.com/skirano/status/2125371115979641188",
-      "score": 96,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50651552",
-      "author": "theanonymousone",
-      "publishedAt": "2026-11-26T04:49:21.000Z"
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "score": 420,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50653477",
+      "author": "ritzaco",
+      "publishedAt": "2026-11-26T09:44:23.000Z"
     }
   ]
 }
